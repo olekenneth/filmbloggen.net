@@ -104,7 +104,7 @@ content:
     <strong>Kategori:</strong> Komedie
     <strong>Regissør:</strong> Paul Weitz og Chris Weitz
     <strong>Med:</strong> Jason Biggs, Chris Klein, Thomas Nicholas, Alyson Hannigan, Shannon Elizabeth, Tara Reid, Eddie Thomas, Seann William Scott
-    <a href="//filmbloggen.net/?attachment_id=1624" rel="attachment wp-att-1624"><img class="alignnone size-large wp-image-1624" src="//filmbloggen.net/wp-content/uploads//2011/10/american-pie-2-620x419.jpg" alt="" width="620" height="419" /></a>
+    <a href="//filmbloggen.net/?attachment_id=1624" rel="attachment wp-att-1624"><img class="alignnone size-large wp-image-1624" src="/wp-content/uploads//2011/10/american-pie-2-620x419.jpg" alt="" width="620" height="419" /></a>
     56 millioner norske kroner. Så lavt var budsjettet for filmen American Pie. For å sammenligne, så hadde den norske filmen Max Manus et budsjett på kun en million kroner mindre. Selvfølgelig trengs det mer penger når en krigsfilm skal produseres. Likevel, Universal svidde av denne lille summen for å produsere filmen, og fikk over en milliard norske kroner i retur. Da er det grunn til å være fornøyd.
 
     Det er tre uker igjen til High School er over, for en guttegjeng på skolen East Great Falls. Ingen av guttene har mistet jomfrudommen, og presset øker når avslutningsballet nærmer seg. De velger derfor å inngå en pakt som innebærer at alle skal ha hoppet i høyet før sommerferien er i gang. Jim lager en profil på en nettbasert dating-tjeneste, Kevin leser seg opp på oralsex, Oz blir med i skolens kor, mens Finch velger å spille minigolf.
@@ -178,7 +178,7 @@ post_content:
     <strong>Kategori:</strong> Komedie
     <strong>Regissør:</strong> Paul Weitz og Chris Weitz
     <strong>Med:</strong> Jason Biggs, Chris Klein, Thomas Nicholas, Alyson Hannigan, Shannon Elizabeth, Tara Reid, Eddie Thomas, Seann William Scott
-    <a href="//filmbloggen.net/?attachment_id=1624" rel="attachment wp-att-1624"><img class="alignnone size-large wp-image-1624" src="//filmbloggen.net/wp-content/uploads//2011/10/american-pie-2-620x419.jpg" alt="" width="620" height="419" /></a>
+    <a href="//filmbloggen.net/?attachment_id=1624" rel="attachment wp-att-1624"><img class="alignnone size-large wp-image-1624" src="/wp-content/uploads//2011/10/american-pie-2-620x419.jpg" alt="" width="620" height="419" /></a>
     56 millioner norske kroner. Så lavt var budsjettet for filmen American Pie. For å sammenligne, så hadde den norske filmen Max Manus et budsjett på kun en million kroner mindre. Selvfølgelig trengs det mer penger når en krigsfilm skal produseres. Likevel, Universal svidde av denne lille summen for å produsere filmen, og fikk over en milliard norske kroner i retur. Da er det grunn til å være fornøyd.
 
     Det er tre uker igjen til High School er over, for en guttegjeng på skolen East Great Falls. Ingen av guttene har mistet jomfrudommen, og presset øker når avslutningsballet nærmer seg. De velger derfor å inngå en pakt som innebærer at alle skal ha hoppet i høyet før sommerferien er i gang. Jim lager en profil på en nettbasert dating-tjeneste, Kevin leser seg opp på oralsex, Oz blir med i skolens kor, mens Finch velger å spille minigolf.
@@ -204,7 +204,7 @@ meta:
     <strong>Kategori:</strong> Komedie
     <strong>Regissør:</strong> Paul Weitz og Chris Weitz
     <strong>Med:</strong> Jason Biggs, Chris Klein, Thomas Nicholas, Alyson Hannigan, Shannon Elizabeth, Tara Reid, Eddie Thomas, Seann William Scott
-    <a href="//filmbloggen.net/?attachment_id=1624" rel="attachment wp-att-1624"><img class="alignnone size-large wp-image-1624" title="ampieb3" src="//filmbloggen.net/wp-content/uploads//2011/10/american-pie-2-620x419.jpg" alt="" width="620" height="419" /></a>
+    <a href="//filmbloggen.net/?attachment_id=1624" rel="attachment wp-att-1624"><img class="alignnone size-large wp-image-1624" title="ampieb3" src="/wp-content/uploads//2011/10/american-pie-2-620x419.jpg" alt="" width="620" height="419" /></a>
     56 millioner norske kroner. Så lavt var budsjettet for filmen American Pie. For å sammenligne, så hadde den norske filmen Max Manus et budsjett på kun en million kroner mindre. Selvfølgelig trengs det mer penger når en krigsfilm skal produseres. Likevel, Universal svidde av denne lille summen for å produsere filmen, og fikk over en milliard norske kroner i retur. Da er det grunn til å være fornøyd.
 
     Det er tre uker igjen til High School er over, for en guttegjeng på skolen East Great Falls. Ingen av guttene har mistet jomfrudommen, og presset øker når avslutningsballet nærmer seg. De velger derfor å inngå en pakt som innebærer at alle skal ha hoppet i høyet før sommerferien er i gang. Jim lager en profil på en nettbasert dating-tjeneste, Kevin leser seg opp på oralsex, Oz blir med i skolens kor, mens Finch velger å spille minigolf.
@@ -223,7 +223,7 @@ meta:
     <strong>Kategori:</strong> Komedie
     <strong>Regissør:</strong> Paul Weitz og Chris Weitz
     <strong>Med:</strong> Jason Biggs, Chris Klein, Thomas Nicholas, Alyson Hannigan, Shannon Elizabeth, Tara Reid, Eddie Thomas, Seann William Scott
-    <a href="//filmbloggen.net/?attachment_id=1624" rel="attachment wp-att-1624"><img class="alignnone size-large wp-image-1624" title="ampieb3" src="//filmbloggen.net/wp-content/uploads//2011/10/american-pie-2-620x419.jpg" alt="" width="620" height="419" /></a>
+    <a href="//filmbloggen.net/?attachment_id=1624" rel="attachment wp-att-1624"><img class="alignnone size-large wp-image-1624" title="ampieb3" src="/wp-content/uploads//2011/10/american-pie-2-620x419.jpg" alt="" width="620" height="419" /></a>
     56 millioner norske kroner. Så lavt var budsjettet for filmen American Pie. For å sammenligne, så hadde den norske filmen Max Manus et budsjett på kun en million kroner mindre. Selvfølgelig trengs det mer penger når en krigsfilm skal produseres. Likevel, Universal svidde av denne lille summen for å produsere filmen, og fikk over en milliard norske kroner i retur. Da er det grunn til å være fornøyd.
 
     Det er tre uker igjen til High School er over, for en guttegjeng på skolen East Great Falls. Ingen av guttene har mistet jomfrudommen, og presset øker når avslutningsballet nærmer seg. De velger derfor å inngå en pakt som innebærer at alle skal ha hoppet i høyet før sommerferien er i gang. Jim lager en profil på en nettbasert dating-tjeneste, Kevin leser seg opp på oralsex, Oz blir med i skolens kor, mens Finch velger å spille minigolf.
@@ -263,7 +263,7 @@ Originaltittel:** American Pie
 **Kategori:** Komedie
 **Regissør:** Paul Weitz og Chris Weitz
 **Med:** Jason Biggs, Chris Klein, Thomas Nicholas, Alyson Hannigan, Shannon Elizabeth, Tara Reid, Eddie Thomas, Seann William Scott
-<a href="//filmbloggen.net/2011/10/24/gammel-klassiker-sjarmerer-fortsatt/ampieb3/" rel="attachment wp-att-1624"><img class="alignnone size-large wp-image-1624" src="//filmbloggen.net/wp-content/uploads//2011/10/american-pie-2-620x419.jpg" alt="" width="620" height="419" /></a>
+<a href="//filmbloggen.net/2011/10/24/gammel-klassiker-sjarmerer-fortsatt/ampieb3/" rel="attachment wp-att-1624"><img class="alignnone size-large wp-image-1624" src="/wp-content/uploads//2011/10/american-pie-2-620x419.jpg" alt="" width="620" height="419" /></a>
 56 millioner norske kroner. Så lavt var budsjettet for filmen American Pie. For å sammenligne, så hadde den norske filmen Max Manus et budsjett på kun en million kroner mindre. Selvfølgelig trengs det mer penger når en krigsfilm skal produseres. Likevel, Universal svidde av denne lille summen for å produsere filmen, og fikk over en milliard norske kroner i retur. Da er det grunn til å være fornøyd.
 
 Det er tre uker igjen til High School er over, for en guttegjeng på skolen East Great Falls. Ingen av guttene har mistet jomfrudommen, og presset øker når avslutningsballet nærmer seg. De velger derfor å inngå en pakt som innebærer at alle skal ha hoppet i høyet før sommerferien er i gang. Jim lager en profil på en nettbasert dating-tjeneste, Kevin leser seg opp på oralsex, Oz blir med i skolens kor, mens Finch velger å spille minigolf.

@@ -106,7 +106,7 @@ content:
     Spilletid:</strong> </strong>1 time og 49 minutter<strong><strong>
     Regissør:</strong> </strong>Phil Lord og Chris Miller<strong><strong>
     Med:</strong> </strong>Jonah Hill, Channing Tatum, Ice Cube, Dave Franco, Brie Larson og Rob Riggle
-    <img class="alignnone size-large wp-image-3664" src="//filmbloggen.net/wp-content/uploads//2012/05/ualuycu4-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-3664" src="/wp-content/uploads//2012/05/ualuycu4-620x413.jpg" alt="" width="620" height="413" />
     <em><strong>Foto: The Walt Disney Company Nordic</strong></em>
 
     21 Jump Street er ikke tiårets komedie, men morsom nok til å anbefales. Jeg lo godt flere ganger og jeg elsker jo som regel det Jonah Hill har å by på. Men overraskende nok så lo jeg faktisk av Channing Tatum også. Disse to gutta fungere sammen, og det var viktig for at dette skulle funke.
@@ -180,7 +180,7 @@ post_content:
     Spilletid:</strong> </strong>1 time og 49 minutter<strong><strong>
     Regissør:</strong> </strong>Phil Lord og Chris Miller<strong><strong>
     Med:</strong> </strong>Jonah Hill, Channing Tatum, Ice Cube, Dave Franco, Brie Larson og Rob Riggle
-    <img class="alignnone size-large wp-image-3664" src="//filmbloggen.net/wp-content/uploads//2012/05/ualuycu4-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-3664" src="/wp-content/uploads//2012/05/ualuycu4-620x413.jpg" alt="" width="620" height="413" />
     <em><strong>Foto: The Walt Disney Company Nordic</strong></em>
 
     21 Jump Street er ikke tiårets komedie, men morsom nok til å anbefales. Jeg lo godt flere ganger og jeg elsker jo som regel det Jonah Hill har å by på. Men overraskende nok så lo jeg faktisk av Channing Tatum også. Disse to gutta fungere sammen, og det var viktig for at dette skulle funke.
@@ -204,7 +204,7 @@ meta:
     Spilletid:</strong> </strong>1 time og 49 minutter<strong><strong>
     Regissør:</strong> </strong>Phil Lord og Chris Miller<strong><strong>
     Med:</strong> </strong>Jonah Hill, Channing Tatum, Ice Cube, Dave Franco, Brie Larson og Rob Riggle
-    <a href="//filmbloggen.net/?attachment_id=3664" rel="attachment wp-att-3664"><img class="alignnone size-large wp-image-3664" src="//filmbloggen.net/wp-content/uploads//2012/05/ualuycu4-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/?attachment_id=3664" rel="attachment wp-att-3664"><img class="alignnone size-large wp-image-3664" src="/wp-content/uploads//2012/05/ualuycu4-620x413.jpg" alt="" width="620" height="413" />
 
     </a>";}i:20437;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:20439;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"13";}i:20435;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"05";}i:20433;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"06";}i:20441;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"32";}i:20464;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:20453;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:20429;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"13";}i:20436;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:20438;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"13";}i:20434;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"05";}i:20432;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"06";}i:20440;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"32";}i:20422;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:20420;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:20423;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:20481;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"3663";}i:20426;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"05";}i:20416;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"0c1118e62f";}i:20456;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:20455;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:20457;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:20427;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"06";}i:20430;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"32";}i:20444;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:20445;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:20407;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:20410;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:20442;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:20461;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:20408;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:20463;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:20482;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:822:"<strong>Jeg var redd for at fordi Jonah Hill hadde gått ned så mange kilo i 21 Jump Street at han kom til å forandre seg. Men rollen til Hill var akkurat som vi er vant til.</strong><!--more-->
     <strong>Originaltittel:</strong> 21 Jump Street<strong>
@@ -212,7 +212,7 @@ meta:
     Spilletid:</strong> </strong>1 time og 49 minutter<strong><strong>
     Regissør:</strong> </strong>Phil Lord og Chris Miller<strong><strong>
     Med:</strong> </strong>Jonah Hill, Channing Tatum, Ice Cube, Dave Franco, Brie Larson og Rob Riggle
-    <a href="//filmbloggen.net/?attachment_id=3664" rel="attachment wp-att-3664"><img class="alignnone size-large wp-image-3664" src="//filmbloggen.net/wp-content/uploads//2012/05/ualuycu4-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/?attachment_id=3664" rel="attachment wp-att-3664"><img class="alignnone size-large wp-image-3664" src="/wp-content/uploads//2012/05/ualuycu4-620x413.jpg" alt="" width="620" height="413" />
 
     </a>";}i:20483;a:2:{s:3:"key";s:12:"post_excerpt";s:5:"value";s:0:"";}i:20447;a:2:{s:3:"key";s:11:"post_format";s:5:"value";s:1:"0";}i:20414;a:2:{s:3:"key";s:7:"post_ID";s:5:"value";s:4:"3663";}i:20480;a:2:{s:3:"key";s:14:"post_mime_type";s:5:"value";s:0:"";}i:20462;a:2:{s:3:"key";s:9:"post_name";s:5:"value";s:0:"";}i:20425;a:2:{s:3:"key";s:13:"post_password";s:5:"value";s:0:"";}i:20421;a:2:{s:3:"key";s:11:"post_status";s:5:"value";s:5:"draft";}i:20450;a:2:{s:3:"key";s:10:"post_title";s:5:"value";s:39:"En tynn Jonah Hill med samme penishumor";}i:20409;a:2:{s:3:"key";s:9:"post_type";s:5:"value";s:4:"post";}i:20470;a:2:{s:3:"key";s:14:"pyre_critera_1";s:5:"value";s:9:"Skuespill";}i:20471;a:2:{s:3:"key";s:20:"pyre_critera_1_score";s:5:"value";s:3:"3.5";}i:20472;a:2:{s:3:"key";s:14:"pyre_critera_2";s:5:"value";s:8:"Effekter";}i:20473;a:2:{s:3:"key";s:20:"pyre_critera_2_score";s:5:"value";s:1:"4";}i:20474;a:2:{s:3:"key";s:14:"pyre_critera_3";s:5:"value";s:14:"Manus/Historie";}i:20475;a:2:{s:3:"key";s:20:"pyre_critera_3_score";s:5:"value";s:1:"3";}i:20476;a:2:{s:3:"key";s:14:"pyre_critera_4";s:5:"value";s:0:"";}i:20477;a:2:{s:3:"key";s:20:"pyre_critera_4_score";s:5:"value";s:1:"0";}i:20478;a:2:{s:3:"key";s:14:"pyre_critera_5";s:5:"value";s:0:"";}i:20479;a:2:{s:3:"key";s:20:"pyre_critera_5_score";s:5:"value";s:1:"0";}i:20466;a:2:{s:3:"key";s:19:"pyre_featured_image";s:5:"value";s:2:"no";}i:20467;a:2:{s:3:"key";s:16:"pyre_movie_title";s:5:"value";s:14:"21 Jump Street";}i:20468;a:2:{s:3:"key";s:22:"pyre_movie_title_norsk";s:5:"value";s:14:"21 Jump Street";}i:20469;a:2:{s:3:"key";s:18:"pyre_overall_score";s:5:"value";s:3:"3.5";}i:20411;a:2:{s:3:"key";s:10:"referredby";s:5:"value";s:73:"//filmbloggen.net/wp-admin/edit.php?post_status=draft&post_type=post";}i:20451;a:2:{s:3:"key";s:20:"samplepermalinknonce";s:5:"value";s:10:"ecbe679c5c";}i:20418;a:2:{s:3:"key";s:4:"save";s:5:"value";s:11:"Lagre kladd";}i:20465;a:2:{s:3:"key";s:21:"sharing_status_hidden";s:5:"value";s:1:"1";}i:20431;a:2:{s:3:"key";s:2:"ss";s:5:"value";s:2:"10";}i:20484;a:2:{s:3:"key";s:7:"to_ping";s:5:"value";s:0:"";}i:20454;a:2:{s:3:"key";s:13:"trackback_url";s:5:"value";s:0:"";}i:20405;a:2:{s:3:"key";s:7:"user_ID";s:5:"value";s:1:"3";}i:20424;a:2:{s:3:"key";s:10:"visibility";s:5:"value";s:6:"public";}i:20419;a:2:{s:3:"key";s:10:"wp-preview";s:5:"value";s:0:"";}}
 publish:
@@ -247,7 +247,7 @@ tags:
 Spilletid:** **1 time og 49 minutter****
 Regissør:** **Phil Lord og Chris Miller****
 Med:** **Jonah Hill, Channing Tatum, Ice Cube, Dave Franco, Brie Larson og Rob Riggle
-<img class="alignnone size-large wp-image-3664" src="//filmbloggen.net/wp-content/uploads//2012/05/ualuycu4-620x413.jpg" alt="" width="620" height="413" />
+<img class="alignnone size-large wp-image-3664" src="/wp-content/uploads//2012/05/ualuycu4-620x413.jpg" alt="" width="620" height="413" />
 _**Foto: The Walt Disney Company Nordic**_
 
 21 Jump Street er ikke tiårets komedie, men morsom nok til å anbefales. Jeg lo godt flere ganger og jeg elsker jo som regel det Jonah Hill har å by på. Men overraskende nok så lo jeg faktisk av Channing Tatum også. Disse to gutta fungere sammen, og det var viktig for at dette skulle funke.

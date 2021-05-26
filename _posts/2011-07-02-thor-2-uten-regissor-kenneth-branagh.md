@@ -104,7 +104,7 @@ content:
 
 
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/07/thor1.jpg"><img class="alignnone size-large wp-image-665" title="Thor 1" src="//filmbloggen.net/wp-content/uploads//2011/07/thor1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="/wp-content/uploads//2011/07/thor1.jpg"><img class="alignnone size-large wp-image-665" title="Thor 1" src="/wp-content/uploads//2011/07/thor1-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Lanseringsdatoen for Marvel-filmen er satt til 26. juli 2013 altså om litt over to år. For Marvelfansen så blir dette nok en etterlengtet film, men det er masse kvalitet som kommer ut før den tid. Den nærmeste er Captain America: The First Avenger som kommer allerede nå i sommer. Heldigvis så kommer Chris Hemsworth til å komme tilbake i hovedrollen som Thor og det kommer til å bli et kort glimt av Iron Man Robert Downey jr. Rundt resten av rollene er ingenting kommet ut noe mer offisielt fra studioet. Det kommer uansett til å bli et tap for oppfølgeren at Branagh ikke kommer til å regissere. Thor har tjent inn 437 millioner dollar og har enda ikke blitt lansert et par steder i verden. Det er en høyt respektabel sum og det er mange som stiller seg i kø og vil regissere oppfølgeren. Ifølge IMDb så kommer Branagh til å være med i en eller annen rolle.
 
@@ -182,7 +182,7 @@ post_content:
 
 
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/07/thor1.jpg"><img class="alignnone size-large wp-image-665" title="Thor 1" src="//filmbloggen.net/wp-content/uploads//2011/07/thor1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="/wp-content/uploads//2011/07/thor1.jpg"><img class="alignnone size-large wp-image-665" title="Thor 1" src="/wp-content/uploads//2011/07/thor1-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Lanseringsdatoen for Marvel-filmen er satt til 26. juli 2013 altså om litt over to år. For Marvelfansen så blir dette nok en etterlengtet film, men det er masse kvalitet som kommer ut før den tid. Den nærmeste er Captain America: The First Avenger som kommer allerede nå i sommer. Heldigvis så kommer Chris Hemsworth til å komme tilbake i hovedrollen som Thor og det kommer til å bli et kort glimt av Iron Man Robert Downey jr. Rundt resten av rollene er ingenting kommet ut noe mer offisielt fra studioet. Det kommer uansett til å bli et tap for oppfølgeren at Branagh ikke kommer til å regissere. Thor har tjent inn 437 millioner dollar og har enda ikke blitt lansert et par steder i verden. Det er en høyt respektabel sum og det er mange som stiller seg i kø og vil regissere oppfølgeren. Ifølge IMDb så kommer Branagh til å være med i en eller annen rolle.
 
@@ -205,7 +205,7 @@ categories:
 
 
 
-[<img class="alignnone size-large wp-image-665" title="Thor 1" src="//filmbloggen.net/wp-content/uploads//2011/07/thor1-620x413.jpg" alt="" width="620" height="413" />](//filmbloggen.net/wp-content/uploads//2011/07/thor1.jpg)
+[<img class="alignnone size-large wp-image-665" title="Thor 1" src="/wp-content/uploads//2011/07/thor1-620x413.jpg" alt="" width="620" height="413" />](/wp-content/uploads//2011/07/thor1.jpg)
 
 Lanseringsdatoen for Marvel-filmen er satt til 26. juli 2013 altså om litt over to år. For Marvelfansen så blir dette nok en etterlengtet film, men det er masse kvalitet som kommer ut før den tid. Den nærmeste er Captain America: The First Avenger som kommer allerede nå i sommer. Heldigvis så kommer Chris Hemsworth til å komme tilbake i hovedrollen som Thor og det kommer til å bli et kort glimt av Iron Man Robert Downey jr. Rundt resten av rollene er ingenting kommet ut noe mer offisielt fra studioet. Det kommer uansett til å bli et tap for oppfølgeren at Branagh ikke kommer til å regissere. Thor har tjent inn 437 millioner dollar og har enda ikke blitt lansert et par steder i verden. Det er en høyt respektabel sum og det er mange som stiller seg i kø og vil regissere oppfølgeren. Ifølge IMDb så kommer Branagh til å være med i en eller annen rolle.
 

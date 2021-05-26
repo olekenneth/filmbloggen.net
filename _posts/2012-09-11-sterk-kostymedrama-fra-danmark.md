@@ -106,7 +106,7 @@ content:
     <strong>Manus:</strong> Nicolaj Arcel og Rasmus Heisterberg
     <strong>Skuespillere:</strong> Mads Mikkelsen, Alicia Vikander, Mikkel Boe Følsgaard, Trine Dyrholm, Thomas W. Gabrielson.
 
-    <a href="//filmbloggen.net/2012/09/11/sterk-kostymedrama-fra-danmark/glntwpf10/" rel="attachment wp-att-6870"><img class="alignnone size-large wp-image-6870" src="//filmbloggen.net/wp-content/uploads//2012/09/glntwpf10-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/09/11/sterk-kostymedrama-fra-danmark/glntwpf10/" rel="attachment wp-att-6870"><img class="alignnone size-large wp-image-6870" src="/wp-content/uploads//2012/09/glntwpf10-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: Jiri Hanzn</em>
 
     <strong><em>En kongelig affære</em> er et intenst kostymedrama som byr på kongelige intriger, nydelig fotoarbeid og ikke minst herlige kostymer.</strong> Vi befinner oss i det Danske kongehuset på 1770-tallet, hvor den gale kongen, Christian VII er gift med Caroline fra England. Hoffet hyrer inn den tyskfødte legen Struensee, som skal fungere som kongens livlege. Spillet blir da veldig farlig når Struensee og Caroline utvikler sterke følelser for hverandre og går bak kongens rygg.
@@ -186,7 +186,7 @@ post_content:
     <strong>Manus:</strong> Nicolaj Arcel og Rasmus Heisterberg
     <strong>Skuespillere:</strong> Mads Mikkelsen, Alicia Vikander, Mikkel Boe Følsgaard, Trine Dyrholm, Thomas W. Gabrielson.
 
-    <a href="//filmbloggen.net/2012/09/11/sterk-kostymedrama-fra-danmark/glntwpf10/" rel="attachment wp-att-6870"><img class="alignnone size-large wp-image-6870" src="//filmbloggen.net/wp-content/uploads//2012/09/glntwpf10-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/09/11/sterk-kostymedrama-fra-danmark/glntwpf10/" rel="attachment wp-att-6870"><img class="alignnone size-large wp-image-6870" src="/wp-content/uploads//2012/09/glntwpf10-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: Jiri Hanzn</em>
 
     <strong><em>En kongelig affære</em> er et intenst kostymedrama som byr på kongelige intriger, nydelig fotoarbeid og ikke minst herlige kostymer.</strong> Vi befinner oss i det Danske kongehuset på 1770-tallet, hvor den gale kongen, Christian VII er gift med Caroline fra England. Hoffet hyrer inn den tyskfødte legen Struensee, som skal fungere som kongens livlege. Spillet blir da veldig farlig når Struensee og Caroline utvikler sterke følelser for hverandre og går bak kongens rygg.
@@ -216,7 +216,7 @@ meta:
     <strong>Manus:</strong> Nicolaj Arcel og Rasmus Heisterberg
     <strong>Skuespillere:</strong> Mads Mikkelsen, Alicia Vikander, Mikkel Boe Følsgaard, Trine Dyrholm, Thomas W. Gabrielson.
 
-    <a href="//filmbloggen.net/?attachment_id=6870" rel="attachment wp-att-6870"><img class="alignnone size-large wp-image-6870" src="//filmbloggen.net/wp-content/uploads//2012/09/glntwpf10-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=6870" rel="attachment wp-att-6870"><img class="alignnone size-large wp-image-6870" src="/wp-content/uploads//2012/09/glntwpf10-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: Jiri Hanzn</em>
 
     <strong><em>En kongelig affære</em> er et intenst kostymedrama som byr på kongelige intriger, nydelig fotoarbeid og ikke minst herlige kostymer.</strong> Vi befinner oss i det Danske kongehuset på 1770-tallet, hvor den gale kongen, Christian VII er gift med Caroline fra England. Hoffet hyrer inn den tyskfødte legen Struensee, som skal fungere som kongens livlege. Spillet blir da veldig farlig når Struensee og Caroline utvikler sterke følelser for hverandre og går bak kongens rygg.
@@ -239,7 +239,7 @@ meta:
     <strong>Manus:</strong> Nicolaj Arcel og Rasmus Heisterberg
     <strong>Skuespillere:</strong> Mads Mikkelsen, Alicia Vikander, Mikkel Boe Følsgaard, Trine Dyrholm, Thomas W. Gabrielson.
 
-    <a href="//filmbloggen.net/?attachment_id=6870" rel="attachment wp-att-6870"><img class="alignnone size-large wp-image-6870" src="//filmbloggen.net/wp-content/uploads//2012/09/glntwpf10-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=6870" rel="attachment wp-att-6870"><img class="alignnone size-large wp-image-6870" src="/wp-content/uploads//2012/09/glntwpf10-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: Jiri Hanzn</em>
 
     <strong><em>En kongelig affære</em> er et intenst kostymedrama som byr på kongelige intriger, nydelig fotoarbeid og ikke minst herlige kostymer.</strong> Vi befinner oss i det Danske kongehuset på 1770-tallet, hvor den gale kongen, Christian VII er gift med Caroline fra England. Hoffet hyrer inn den tyskfødte legen Struensee, som skal fungere som kongens livlege. Spillet blir da veldig farlig når Struensee og Caroline utvikler sterke følelser for hverandre og går bak kongens rygg.
@@ -287,7 +287,7 @@ tags:
 **Manus:** Nicolaj Arcel og Rasmus Heisterberg
 **Skuespillere:** Mads Mikkelsen, Alicia Vikander, Mikkel Boe Følsgaard, Trine Dyrholm, Thomas W. Gabrielson.
 
-<a href="//filmbloggen.net/2012/09/11/sterk-kostymedrama-fra-danmark/glntwpf10/" rel="attachment wp-att-6870"><img class="alignnone size-large wp-image-6870" src="//filmbloggen.net/wp-content/uploads//2012/09/glntwpf10-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2012/09/11/sterk-kostymedrama-fra-danmark/glntwpf10/" rel="attachment wp-att-6870"><img class="alignnone size-large wp-image-6870" src="/wp-content/uploads//2012/09/glntwpf10-620x348.jpg" alt="" width="620" height="348" /></a>
 _Foto: Jiri Hanzn_
 
 **_En kongelig affære_ er et intenst kostymedrama som byr på kongelige intriger, nydelig fotoarbeid og ikke minst herlige kostymer.** Vi befinner oss i det Danske kongehuset på 1770-tallet, hvor den gale kongen, Christian VII er gift med Caroline fra England. Hoffet hyrer inn den tyskfødte legen Struensee, som skal fungere som kongens livlege. Spillet blir da veldig farlig når Struensee og Caroline utvikler sterke følelser for hverandre og går bak kongens rygg.

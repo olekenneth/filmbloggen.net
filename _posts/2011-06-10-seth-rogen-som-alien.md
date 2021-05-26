@@ -235,7 +235,7 @@ tags:
 ---
 **Jeg vet at de aller fleste har sett på Seth Rogen som et Alien i mange år allerede. Han er jo tross alt såpass hårete at han umulig kan være fra jorda. Men i denne filmen har han bare stemmen til «Paul» som prøver å rømme tilbake til sin verden etter over 50 år i fangenskap på jorda.**
 
-[<img class="alignnone size-large wp-image-396" title="Film Title: PAUL" src="//filmbloggen.net/wp-content/uploads//2011/06/paul-1024x576.jpg" alt="" width="620" height="348" />](//filmbloggen.net/wp-content/uploads//2011/06/paul.jpg)
+[<img class="alignnone size-large wp-image-396" title="Film Title: PAUL" src="/wp-content/uploads//2011/06/paul-1024x576.jpg" alt="" width="620" height="348" />](/wp-content/uploads//2011/06/paul.jpg)
 ****Originaltittel:**** Paul****
 Kategori:**** Komedie/Sci-fi**
 **Spilletid:**** 1 time og 47 minutter**

@@ -107,7 +107,7 @@ content:
     <strong>Regi:</strong> Boaz Yakin
     <strong>Skuespillere:</strong> Jason Statham, James Hong, Catherine Chan, Robert John Burke, Reggie Lee, Anson Mount, Chris Sarandon
     <strong>Spilletid:</strong> 1 time og 34 minutter
-    <a href="//filmbloggen.net/2012/06/29/uoriginalt-men-med-slassing-i-verdensklasse/img_0362-cr2/" rel="attachment wp-att-4569"><img class="alignnone size-large wp-image-4569" src="//filmbloggen.net/wp-content/uploads//2012/06/tydleqo24-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/06/29/uoriginalt-men-med-slassing-i-verdensklasse/img_0362-cr2/" rel="attachment wp-att-4569"><img class="alignnone size-large wp-image-4569" src="/wp-content/uploads//2012/06/tydleqo24-620x413.jpg" alt="" width="620" height="413" /></a>
     <em><strong>Anmeldelsen er skrevet av Stian Øvrebø Johannessen for <a href="//filmsnakk.com">filmsnakk.com</a> (gjengitt med tillatelse) </strong></em>
     <em><strong>Foto: Nordisk Film Distribusjon AS</strong></em>
 
@@ -185,7 +185,7 @@ post_content:
     <strong>Regi:</strong> Boaz Yakin
     <strong>Skuespillere:</strong> Jason Statham, James Hong, Catherine Chan, Robert John Burke, Reggie Lee, Anson Mount, Chris Sarandon
     <strong>Spilletid:</strong> 1 time og 34 minutter
-    <a href="//filmbloggen.net/2012/06/29/uoriginalt-men-med-slassing-i-verdensklasse/img_0362-cr2/" rel="attachment wp-att-4569"><img class="alignnone size-large wp-image-4569" src="//filmbloggen.net/wp-content/uploads//2012/06/tydleqo24-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/06/29/uoriginalt-men-med-slassing-i-verdensklasse/img_0362-cr2/" rel="attachment wp-att-4569"><img class="alignnone size-large wp-image-4569" src="/wp-content/uploads//2012/06/tydleqo24-620x413.jpg" alt="" width="620" height="413" /></a>
     <em><strong>Anmeldelsen er skrevet av Stian Øvrebø Johannessen for <a href="//filmsnakk.com">filmsnakk.com</a> (gjengitt med tillatelse) </strong></em>
     <em><strong>Foto: Nordisk Film Distribusjon AS</strong></em>
 
@@ -214,7 +214,7 @@ meta:
     <strong>Regi:</strong> Boaz Yakin
     <strong>Skuespillere:</strong> Jason Statham, James Hong, Catherine Chan, Robert John Burke, Reggie Lee, Anson Mount, Chris Sarandon
     <strong>Spilletid:</strong> 1 time og 34 minutter
-    <a href="//filmbloggen.net/2012/06/30/uoriginalt-men-med-slassing-i-verdensklasse/img_0362-cr2/" rel="attachment wp-att-4569"><img class="alignnone size-large wp-image-4569" src="//filmbloggen.net/wp-content/uploads//2012/06/tydleqo24-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/06/30/uoriginalt-men-med-slassing-i-verdensklasse/img_0362-cr2/" rel="attachment wp-att-4569"><img class="alignnone size-large wp-image-4569" src="/wp-content/uploads//2012/06/tydleqo24-620x413.jpg" alt="" width="620" height="413" /></a>
     <em><strong>Anmeldelsen er skrevet av Stian Øvrebø Johannessen for <a href="//filmsnakk.com">filmsnakk.com</a> (gjengitt med tillatelse) </strong></em>
     <em><strong>Foto: Nordisk Film Distribusjon AS</strong></em>
 
@@ -234,7 +234,7 @@ meta:
     <strong>Regi:</strong> Boaz Yakin
     <strong>Skuespillere:</strong> Jason Statham, James Hong, Catherine Chan, Robert John Burke, Reggie Lee, Anson Mount, Chris Sarandon
     <strong>Spilletid:</strong> 1 time og 34 minutter
-    <a href="//filmbloggen.net/2012/06/30/uoriginalt-men-med-slassing-i-verdensklasse/img_0362-cr2/" rel="attachment wp-att-4569"><img class="alignnone size-large wp-image-4569" src="//filmbloggen.net/wp-content/uploads//2012/06/tydleqo24-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/06/30/uoriginalt-men-med-slassing-i-verdensklasse/img_0362-cr2/" rel="attachment wp-att-4569"><img class="alignnone size-large wp-image-4569" src="/wp-content/uploads//2012/06/tydleqo24-620x413.jpg" alt="" width="620" height="413" /></a>
     <em><strong>Anmeldelsen er skrevet av Stian Øvrebø Johannessen for <a href="//filmsnakk.com">filmsnakk.com</a> (gjengitt med tillatelse) </strong></em>
     <em><strong>Foto: Nordisk Film Distribusjon AS</strong></em>
 
@@ -281,7 +281,7 @@ Originaltittel:</strong> Safe
 **Regi:** Boaz Yakin
 **Skuespillere:** Jason Statham, James Hong, Catherine Chan, Robert John Burke, Reggie Lee, Anson Mount, Chris Sarandon
 **Spilletid:** 1 time og 34 minutter
-<a href="//filmbloggen.net/2012/06/29/uoriginalt-men-med-slassing-i-verdensklasse/img_0362-cr2/" rel="attachment wp-att-4569"><img class="alignnone size-large wp-image-4569" src="//filmbloggen.net/wp-content/uploads//2012/06/tydleqo24-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/06/29/uoriginalt-men-med-slassing-i-verdensklasse/img_0362-cr2/" rel="attachment wp-att-4569"><img class="alignnone size-large wp-image-4569" src="/wp-content/uploads//2012/06/tydleqo24-620x413.jpg" alt="" width="620" height="413" /></a>
 _**Anmeldelsen er skrevet av Stian Øvrebø Johannessen for [filmsnakk.com](//filmsnakk.com) (gjengitt med tillatelse) **_
 _**Foto: Nordisk Film Distribusjon AS**_
 

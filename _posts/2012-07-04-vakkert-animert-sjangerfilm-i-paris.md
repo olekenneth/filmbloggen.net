@@ -108,7 +108,7 @@ content:
     <strong>Skuespillere: </strong>Line Verndal, Per Christian Ellefsen og Kåre Conradi (norsk)<strong> </strong>eller Dominique Blanc, Bruno Salomone og Jean Benguigui (fransk)
     <strong>Spilletid:</strong> 1 time, 5 min.
 
-    <a href="//filmbloggen.net/2012/07/04/vakkert-animert-sjangerfilm-i-paris/6-1/" rel="attachment wp-att-4690"><img class="alignnone size-large wp-image-4690" src="//filmbloggen.net/wp-content/uploads//2012/07/6-1-620x348.jpg" alt="" width="620" height="348" /></a><em></em>
+    <a href="//filmbloggen.net/2012/07/04/vakkert-animert-sjangerfilm-i-paris/6-1/" rel="attachment wp-att-4690"><img class="alignnone size-large wp-image-4690" src="/wp-content/uploads//2012/07/6-1-620x348.jpg" alt="" width="620" height="348" /></a><em></em>
     <em>Bilde: Arthaus</em>
 
     <strong>Zöe er en liten jente som ble stum etter at faren hennes ble drept av gangsteren Victor Costa.</strong> Moren til Zöe er Jeanne, politisjefen i Paris, som stadig jakter på Costa— som for sin del er ute etter en verdifull statue. En natt stikker Zöe av fra barnevakten, følger etter katten sin Dino ut vinduet og oppdager at den tilbringer nettene som følgesvennen til mestertyven Nico. På denne utflukten snubler Zöe også over et hemmelig møte mellom Costa, gangsterne hans og hennes egen barnevakt, og må reddes av Nico, som i likhet med Costa har Jeanne og politiet i helene. Dette blir starten på en vill "skurk og politi"-jakt gjennom Paris.<strong></strong>
@@ -190,7 +190,7 @@ post_content:
     <strong>Skuespillere: </strong>Line Verndal, Per Christian Ellefsen og Kåre Conradi (norsk)<strong> </strong>eller Dominique Blanc, Bruno Salomone og Jean Benguigui (fransk)
     <strong>Spilletid:</strong> 1 time, 5 min.
 
-    <a href="//filmbloggen.net/2012/07/04/vakkert-animert-sjangerfilm-i-paris/6-1/" rel="attachment wp-att-4690"><img class="alignnone size-large wp-image-4690" src="//filmbloggen.net/wp-content/uploads//2012/07/6-1-620x348.jpg" alt="" width="620" height="348" /></a><em></em>
+    <a href="//filmbloggen.net/2012/07/04/vakkert-animert-sjangerfilm-i-paris/6-1/" rel="attachment wp-att-4690"><img class="alignnone size-large wp-image-4690" src="/wp-content/uploads//2012/07/6-1-620x348.jpg" alt="" width="620" height="348" /></a><em></em>
     <em>Bilde: Arthaus</em>
 
     <strong>Zöe er en liten jente som ble stum etter at faren hennes ble drept av gangsteren Victor Costa.</strong> Moren til Zöe er Jeanne, politisjefen i Paris, som stadig jakter på Costa— som for sin del er ute etter en verdifull statue. En natt stikker Zöe av fra barnevakten, følger etter katten sin Dino ut vinduet og oppdager at den tilbringer nettene som følgesvennen til mestertyven Nico. På denne utflukten snubler Zöe også over et hemmelig møte mellom Costa, gangsterne hans og hennes egen barnevakt, og må reddes av Nico, som i likhet med Costa har Jeanne og politiet i helene. Dette blir starten på en vill "skurk og politi"-jakt gjennom Paris.<strong></strong>
@@ -222,7 +222,7 @@ meta:
     <strong>Skuespillere: </strong>Line Verndal, Per Christian Ellefsen og Kåre Conradi (norsk)<strong> </strong>eller Dominique Blanc, Bruno Salomone og Jean Benguigui (fransk)
     <strong>Spilletid:</strong> 1 time, 5 min.
 
-    <a href="//filmbloggen.net/2012/07/04/vakkert-animert-sjangerfilm-i-paris/6-1/" rel="attachment wp-att-4690"><img class="alignnone size-large wp-image-4690" src="//filmbloggen.net/wp-content/uploads//2012/07/6-1-620x348.jpg" alt="" width="620" height="348" /></a><em></em>
+    <a href="//filmbloggen.net/2012/07/04/vakkert-animert-sjangerfilm-i-paris/6-1/" rel="attachment wp-att-4690"><img class="alignnone size-large wp-image-4690" src="/wp-content/uploads//2012/07/6-1-620x348.jpg" alt="" width="620" height="348" /></a><em></em>
     <em>Bilde: Arthaus</em>
 
     <strong>Zöe er en liten jente som ble stum etter at faren hennes ble drept av gangsteren Victor Costa.</strong> Moren til Zöe er Jeanne, politisjefen i Paris, som stadig jakter på Costa— som for sin del er ute etter en verdifull statue. En natt stikker Zöe av fra barnevakten, følger etter katten sin Dino ut vinduet og oppdager at den tilbringer nettene som følgesvennen til mestertyven Nico. På denne utflukten snubler Zöe også over et hemmelig møte mellom Costa, gangsterne hans og hennes egen barnevakt, og må reddes av Nico, som i likhet med Costa har Jeanne og politiet i helene. Dette blir starten på en vill "skurk og politi"-jakt gjennom Paris.<strong></strong>
@@ -247,7 +247,7 @@ meta:
     <strong>Skuespillere: </strong>Line Verndal, Per Christian Ellefsen og Kåre Conradi (norsk)<strong> </strong>eller Dominique Blanc, Bruno Salomone og Jean Benguigui (fransk)
     <strong>Spilletid:</strong> 1 time, 5 min.
 
-    <a href="//filmbloggen.net/2012/07/04/vakkert-animert-sjangerfilm-i-paris/6-1/" rel="attachment wp-att-4690"><img class="alignnone size-large wp-image-4690" src="//filmbloggen.net/wp-content/uploads//2012/07/6-1-620x348.jpg" alt="" width="620" height="348" /></a><em></em>
+    <a href="//filmbloggen.net/2012/07/04/vakkert-animert-sjangerfilm-i-paris/6-1/" rel="attachment wp-att-4690"><img class="alignnone size-large wp-image-4690" src="/wp-content/uploads//2012/07/6-1-620x348.jpg" alt="" width="620" height="348" /></a><em></em>
     <em>Bilde: Arthaus</em>
 
     <strong>Zöe er en liten jente som ble stum etter at faren hennes ble drept av gangsteren Victor Costa.</strong> Moren til Zöe er Jeanne, politisjefen i Paris, som stadig jakter på Costa— som for sin del er ute etter en verdifull statue. En natt stikker Zöe av fra barnevakten, følger etter katten sin Dino ut vinduet og oppdager at den tilbringer nettene som følgesvennen til mestertyven Nico. På denne utflukten snubler Zöe også over et hemmelig møte mellom Costa, gangsterne hans og hennes egen barnevakt, og må reddes av Nico, som i likhet med Costa har Jeanne og politiet i helene. Dette blir starten på en vill "skurk og politi"-jakt gjennom Paris.<strong></strong>
@@ -291,7 +291,7 @@ tags:
 **Skuespillere:** Line Verndal, Per Christian Ellefsen og Kåre Conradi (norsk) ****eller Dominique Blanc, Bruno Salomone og Jean Benguigui (fransk)
 **Spilletid:** 1 time, 5 min.
 
-<a href="//filmbloggen.net/2012/07/04/vakkert-animert-sjangerfilm-i-paris/6-1/" rel="attachment wp-att-4690"><img class="alignnone size-large wp-image-4690" src="//filmbloggen.net/wp-content/uploads//2012/07/6-1-620x348.jpg" alt="" width="620" height="348" /></a>__
+<a href="//filmbloggen.net/2012/07/04/vakkert-animert-sjangerfilm-i-paris/6-1/" rel="attachment wp-att-4690"><img class="alignnone size-large wp-image-4690" src="/wp-content/uploads//2012/07/6-1-620x348.jpg" alt="" width="620" height="348" /></a>__
 _Bilde: Arthaus_
 
 **Zöe er en liten jente som ble stum etter at faren hennes ble drept av gangsteren Victor Costa.** Moren til Zöe er Jeanne, politisjefen i Paris, som stadig jakter på Costa— som for sin del er ute etter en verdifull statue. En natt stikker Zöe av fra barnevakten, følger etter katten sin Dino ut vinduet og oppdager at den tilbringer nettene som følgesvennen til mestertyven Nico. På denne utflukten snubler Zöe også over et hemmelig møte mellom Costa, gangsterne hans og hennes egen barnevakt, og må reddes av Nico, som i likhet med Costa har Jeanne og politiet i helene. Dette blir starten på en vill «skurk og politi»-jakt gjennom Paris.****

@@ -17,12 +17,12 @@ content:
     <strong>10. Nicholas Cage i Ghost rider: Spirit of Vengeance
     </strong>
 
-    <img class="alignnone size-large wp-image-4562" src="//filmbloggen.net/wp-content/uploads//2012/06/2011_ghost_rider_spirit_of_vengeance_001-620x409.jpg" alt="" width="620" height="409" />
+    <img class="alignnone size-large wp-image-4562" src="/wp-content/uploads//2012/06/2011_ghost_rider_spirit_of_vengeance_001-620x409.jpg" alt="" width="620" height="409" />
     Mannen er jo kjent for vanvittig rævva skuespill. I Ghost Rider: Spirit of Vengeance setter han ny rekord. Det er så usannsynlig rævva tvers igjennom at det er smertefullt å se på. Filmen er oppfølgeren til Ghost Rider og handler om en mann som gjorde en avtale med djevelen om å fjerne kreften til faren. Eneren kan man til en viss grad klare å se uten å spy, men toeren er det ikke mulig. Det er dårlig skuespill, roller og manus.
 
     <strong>9. Arnold Schwarzenegger i The Sixth Day</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/sixthday/" rel="attachment wp-att-4315"><img class="alignnone size-large wp-image-4315" src="//filmbloggen.net/wp-content/uploads//2012/06/sixthday-620x381.jpg" alt="" width="620" height="381" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/sixthday/" rel="attachment wp-att-4315"><img class="alignnone size-large wp-image-4315" src="/wp-content/uploads//2012/06/sixthday-620x381.jpg" alt="" width="620" height="381" /></a>
 
     Arnold Schwarzenegger er jeg en fan av, men sant skal sies - han er vel ikke akkurat den beste skuespilleren som finnes. Innsatsen hans i <em>Junior</em> var forferdelig; men det er bare småtteri i forhold til hans prestasjon i The sixth day. Hele konseptet med filmen er at mennesker blir klonet ved hjelp av ny teknologi, og som et resultat av for ivrig trykking på knapper ble det to kloner av karakteren til Arnold Schwarzenegger - akkurat som om det ikke var nok med bare en.
 
@@ -30,25 +30,25 @@ content:
 
     <strong>8. Mark Wahlberg i The Happening</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/0ee3a29ab2/" rel="attachment wp-att-4317"><img class="alignnone size-large wp-image-4317" src="//filmbloggen.net/wp-content/uploads//2012/06/0EE3A29AB2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/0ee3a29ab2/" rel="attachment wp-att-4317"><img class="alignnone size-large wp-image-4317" src="/wp-content/uploads//2012/06/0EE3A29AB2-620x413.jpg" alt="" width="620" height="413" /></a>
 
     The Happening er kanskje den dummeste filmen jeg har sett: den har et fullstendig absurd plott og skuespillerne måper i hver anledning - fordi de ikke vet hvordan de skal reagere. Det er kanskje ikke så rart ettersom M. Night Shyamalans filmvisjoner er forskrudde, og for skuespillerne uforståelige. Skuespillerprestasjonene er falmende, spesielt med tanke på Mark Wahlbergs rolle. Han passer fint som actionhelt - jeg likte hans rolle i Shooter, det som ikke funker for ham er rollen som tilbyder av sikkerhet under verdens undergang. "Dette går til helvete" er vel tanken som ville streifet meg dersom jeg var en del av en gruppe overlevende etter en global katastrofe. Han er andpusten så å si hele filmen - det og det faktum at han begynner å synge for å virke stabil og "nonchalant" - gjør at han havner på denne listen.
 
     <strong>7. John Travolta i Battlefield Earth</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/terre-champ-de-bataille-07-g/" rel="attachment wp-att-4318"><img class="alignnone size-large wp-image-4318" src="//filmbloggen.net/wp-content/uploads//2012/06/terre-champ-de-bataille-07-g-620x422.jpg" alt="" width="620" height="422" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/terre-champ-de-bataille-07-g/" rel="attachment wp-att-4318"><img class="alignnone size-large wp-image-4318" src="/wp-content/uploads//2012/06/terre-champ-de-bataille-07-g-620x422.jpg" alt="" width="620" height="422" /></a>
 
     John Travolta hadde en nedtur med Battlefield Earth, men returnerte raskt igjen med Swordfish (2001) og Basic (2003). Filmen handler i korte trekk om at menneskene undertrykkes av en utenomjordisk rase, der John Travolta spiller en av de motbydelige romvesnene. Battlefield Earth går fra å være lite sannsynlig til ren idioti - menneskene kan bare nesten fyre opp et bål, men senere i filmen forstår de seg på atombomber og datateknologi - dårlig planlagt. Dette er en film iverksatt kun pga av Travoltas fascinasjon for L. Ron Hubbards (sannsynligvis) idiotiske bøker. Og John Travolta overspiller rollen sin så det holder, men han skal ikke sitte med all skyld for at denne filmen ble en fiasko. Regissør Roger Christian gjorde en reell skivebom han også. Filmen anbefales ikke.
 
     <strong>6. Rob Schneider i Deuce Bigalow: Male gigolo</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/qh90hpo9ygv0gu4jk4ho4uqwlby/" rel="attachment wp-att-4322"><img class="alignnone size-large wp-image-4322" src="//filmbloggen.net/wp-content/uploads//2012/06/qh90HPo9YGV0gU4jK4HO4UQwLBY-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/qh90hpo9ygv0gu4jk4ho4uqwlby/" rel="attachment wp-att-4322"><img class="alignnone size-large wp-image-4322" src="/wp-content/uploads//2012/06/qh90HPo9YGV0gU4jK4HO4UQwLBY-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Rob Schneider i Deuce Bigalow: Male gigolo var bare rett og slett elendig. Alle situasjonene er hentet ut fra en dårlig vitsebok, der det å være en gigolo angivelig skal være morsomt og utfordrende. Replikkene er ikke bare tåpelige; de er også vanvittig lite morsomme. Rob Schneider passer nok bedre til små roller i tørrvittige Adam Sandler filmer.
 
     <strong>5. Rosie Huntington-Whiteley i Transformers: Dark of the moon</strong>
 
-    <strong><a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/tf3_6/" rel="attachment wp-att-4459"><img class="alignnone size-large wp-image-4459" src="//filmbloggen.net/wp-content/uploads//2012/06/tf3_6-620x387.jpg" alt="" width="620" height="387" /></a>
+    <strong><a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/tf3_6/" rel="attachment wp-att-4459"><img class="alignnone size-large wp-image-4459" src="/wp-content/uploads//2012/06/tf3_6-620x387.jpg" alt="" width="620" height="387" /></a>
     </strong>
 
     Transformers-filmene har jeg delte meninger om; det er bra underholdning i form av strålende effekter, men at det alene skal være solid nok grunn til å gi den ros - det klarer jeg ikke å forstå. Utvikling av en sammenhengende historie burde være topp-prioritet - det er det ikke i Transformers 1, 2 og 3. De hiver så mange "twists" inn i filmen - akkurat som om det gjør den noe bedre - til slutt bryr man seg ikke om historien, man fokuserer heller på de imponerende effektene.
@@ -57,7 +57,7 @@ content:
 
     <strong>4. Adam Sandler i Jack & Jill</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jack_and_jill/" rel="attachment wp-att-4342"><img class="alignnone size-large wp-image-4342" src="//filmbloggen.net/wp-content/uploads//2012/06/jack_and_jill-620x341.jpg" alt="" width="620" height="341" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jack_and_jill/" rel="attachment wp-att-4342"><img class="alignnone size-large wp-image-4342" src="/wp-content/uploads//2012/06/jack_and_jill-620x341.jpg" alt="" width="620" height="341" /></a>
 
     Adam Sandlers filmer (Waterboy, Big daddy og Happy Gilmore) var populære da de kom ut på slutten av 90-tallet - de var oppfinnsomme og vittige. Han ble stjernen av "corky" komedier, men ettersom årene har gått har også forventningen om å bli underholdt blitt større. Man ønsker nye vrier og bedre humor. Adam Sandler leverer dessverre kun det samme produktet hver gang - dvs barnslig prompehumor og hyppig og uoriginal bruk av Hollywood-modellen. Jack & Jill er godt eksempel: den har den samme umodne humoren og den sjokkerer ikke med nye påfunn - den bruker gamle triks og lykkes ikke med det. Skuespillet er imidlertid veldig dårlig.
 
@@ -65,7 +65,7 @@ content:
 
     <strong>3. Jean-Claude Van Damme i Hard Target</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jean-claude-van-damme/" rel="attachment wp-att-4325"><img class="alignnone size-large wp-image-4325" src="//filmbloggen.net/wp-content/uploads//2012/06/jean-claude-van-damme-503x620.jpg" alt="" width="503" height="620" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jean-claude-van-damme/" rel="attachment wp-att-4325"><img class="alignnone size-large wp-image-4325" src="/wp-content/uploads//2012/06/jean-claude-van-damme-503x620.jpg" alt="" width="503" height="620" /></a>
 
     Jean-Claude Van Damme er kjent for sine actionfilmer, der han sparker og slår alt som måtte komme i veien for ham. Det er kanskje litt av problemet hans, han stopper aldri opp for å ta en prat med fienden, han sier vanligvis bare "Die" eller "Your game is over". Etter å ha sett en del av filmene hans blir det en lei rutine å gå igjennom. I Hard Target spiller han Chance Boudreaux, en kar med evnen til å sparke folk, fortrinnsvis i ansiktet. Rollen er (i likhet med alle rollene til Jean-Claude) usannsynlig forutsigbar. Man vet nøyaktig hva han skal si før det ramler ut av munnen hans. Rollen hans er i utgangspunktet ikke ute etter trøbbel, men han har en uvane av å treffe på de riktige bøllene.
 
@@ -73,7 +73,7 @@ content:
 
     <strong>2. George Hardy i Trolls 2</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/troll2blu_shot8l/" rel="attachment wp-att-4326"><img class="alignnone size-large wp-image-4326" src="//filmbloggen.net/wp-content/uploads//2012/06/troll2blu_shot8l-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/troll2blu_shot8l/" rel="attachment wp-att-4326"><img class="alignnone size-large wp-image-4326" src="/wp-content/uploads//2012/06/troll2blu_shot8l-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Troll 2 er blitt kåret av mange til verdens dårligste film: rollebesetningen er horribel, crewet består av en gjeng rådville italienere og regissøren hadde muligens et klart syn på hva han ville lage, men det endte i fiasko. Den satset alt på horror-sjangeren, dog komedie ble resultatet. George Hardy spiller en streng familiefar som drar sammen med familien sin til en forlatt bygd, der alle visstnok er troll forkledd som mennesker, og trollene vil spise dem. Utsagn som: "You can't piss on hospitality!" og "They're eating her, and then they're going to eat me... Oh my gooooood!" er noe av det som gjør Troll 2 til noe annet enn bare en fadese.
 
@@ -81,7 +81,7 @@ content:
 
     <strong>1. Taylor Lautner i Abduction</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/_dsc9649-nef/" rel="attachment wp-att-4327"><img class="alignnone size-large wp-image-4327" src="//filmbloggen.net/wp-content/uploads//2012/06/2011_abduction_001-620x412.jpg" alt="" width="620" height="412" />
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/_dsc9649-nef/" rel="attachment wp-att-4327"><img class="alignnone size-large wp-image-4327" src="/wp-content/uploads//2012/06/2011_abduction_001-620x412.jpg" alt="" width="620" height="412" />
     </a>Abduction har bare ikke et horribelt manus, skuespillere og en dialog man får vondt i hodet av. Det er ikke en gang gode effekter i actionscenene. Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
 
     I Abduction spiller Taylor Lautner en ung mann som ved et uhell snubler over ett bilde av seg selv på en nettside over savnede personer. Etter å ha oppdaget at hans foreldre ikke er hans biologiske og med viten om at livet hans er en løgn og i tillegg er nøye planlagt for å skjule mystiske hemmeligheter. Hans falske foreldre blir drept, og så starter jakten på å finne sannheten. Døden over foreldrene som har vært der for han hele livet kommer han over rimelig raskt og han har tre følelser i filmen: sinna, lei seg og glad.
@@ -114,12 +114,12 @@ post_content:
     <strong>10. Nicholas Cage i Ghost rider: Spirit of Vengeance
     </strong>
 
-    <img class="alignnone size-large wp-image-4562" src="//filmbloggen.net/wp-content/uploads//2012/06/2011_ghost_rider_spirit_of_vengeance_001-620x409.jpg" alt="" width="620" height="409" />
+    <img class="alignnone size-large wp-image-4562" src="/wp-content/uploads//2012/06/2011_ghost_rider_spirit_of_vengeance_001-620x409.jpg" alt="" width="620" height="409" />
     Mannen er jo kjent for vanvittig rævva skuespill. I Ghost Rider: Spirit of Vengeance setter han ny rekord. Det er så usannsynlig rævva tvers igjennom at det er smertefullt å se på. Filmen er oppfølgeren til Ghost Rider og handler om en mann som gjorde en avtale med djevelen om å fjerne kreften til faren. Eneren kan man til en viss grad klare å se uten å spy, men toeren er det ikke mulig. Det er dårlig skuespill, roller og manus.
 
     <strong>9. Arnold Schwarzenegger i The Sixth Day</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/sixthday/" rel="attachment wp-att-4315"><img class="alignnone size-large wp-image-4315" src="//filmbloggen.net/wp-content/uploads//2012/06/sixthday-620x381.jpg" alt="" width="620" height="381" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/sixthday/" rel="attachment wp-att-4315"><img class="alignnone size-large wp-image-4315" src="/wp-content/uploads//2012/06/sixthday-620x381.jpg" alt="" width="620" height="381" /></a>
 
     Arnold Schwarzenegger er jeg en fan av, men sant skal sies - han er vel ikke akkurat den beste skuespilleren som finnes. Innsatsen hans i <em>Junior</em> var forferdelig; men det er bare småtteri i forhold til hans prestasjon i The sixth day. Hele konseptet med filmen er at mennesker blir klonet ved hjelp av ny teknologi, og som et resultat av for ivrig trykking på knapper ble det to kloner av karakteren til Arnold Schwarzenegger - akkurat som om det ikke var nok med bare en.
 
@@ -127,25 +127,25 @@ post_content:
 
     <strong>8. Mark Wahlberg i The Happening</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/0ee3a29ab2/" rel="attachment wp-att-4317"><img class="alignnone size-large wp-image-4317" src="//filmbloggen.net/wp-content/uploads//2012/06/0EE3A29AB2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/0ee3a29ab2/" rel="attachment wp-att-4317"><img class="alignnone size-large wp-image-4317" src="/wp-content/uploads//2012/06/0EE3A29AB2-620x413.jpg" alt="" width="620" height="413" /></a>
 
     The Happening er kanskje den dummeste filmen jeg har sett: den har et fullstendig absurd plott og skuespillerne måper i hver anledning - fordi de ikke vet hvordan de skal reagere. Det er kanskje ikke så rart ettersom M. Night Shyamalans filmvisjoner er forskrudde, og for skuespillerne uforståelige. Skuespillerprestasjonene er falmende, spesielt med tanke på Mark Wahlbergs rolle. Han passer fint som actionhelt - jeg likte hans rolle i Shooter, det som ikke funker for ham er rollen som tilbyder av sikkerhet under verdens undergang. "Dette går til helvete" er vel tanken som ville streifet meg dersom jeg var en del av en gruppe overlevende etter en global katastrofe. Han er andpusten så å si hele filmen - det og det faktum at han begynner å synge for å virke stabil og "nonchalant" - gjør at han havner på denne listen.
 
     <strong>7. John Travolta i Battlefield Earth</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/terre-champ-de-bataille-07-g/" rel="attachment wp-att-4318"><img class="alignnone size-large wp-image-4318" src="//filmbloggen.net/wp-content/uploads//2012/06/terre-champ-de-bataille-07-g-620x422.jpg" alt="" width="620" height="422" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/terre-champ-de-bataille-07-g/" rel="attachment wp-att-4318"><img class="alignnone size-large wp-image-4318" src="/wp-content/uploads//2012/06/terre-champ-de-bataille-07-g-620x422.jpg" alt="" width="620" height="422" /></a>
 
     John Travolta hadde en nedtur med Battlefield Earth, men returnerte raskt igjen med Swordfish (2001) og Basic (2003). Filmen handler i korte trekk om at menneskene undertrykkes av en utenomjordisk rase, der John Travolta spiller en av de motbydelige romvesnene. Battlefield Earth går fra å være lite sannsynlig til ren idioti - menneskene kan bare nesten fyre opp et bål, men senere i filmen forstår de seg på atombomber og datateknologi - dårlig planlagt. Dette er en film iverksatt kun pga av Travoltas fascinasjon for L. Ron Hubbards (sannsynligvis) idiotiske bøker. Og John Travolta overspiller rollen sin så det holder, men han skal ikke sitte med all skyld for at denne filmen ble en fiasko. Regissør Roger Christian gjorde en reell skivebom han også. Filmen anbefales ikke.
 
     <strong>6. Rob Schneider i Deuce Bigalow: Male gigolo</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/qh90hpo9ygv0gu4jk4ho4uqwlby/" rel="attachment wp-att-4322"><img class="alignnone size-large wp-image-4322" src="//filmbloggen.net/wp-content/uploads//2012/06/qh90HPo9YGV0gU4jK4HO4UQwLBY-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/qh90hpo9ygv0gu4jk4ho4uqwlby/" rel="attachment wp-att-4322"><img class="alignnone size-large wp-image-4322" src="/wp-content/uploads//2012/06/qh90HPo9YGV0gU4jK4HO4UQwLBY-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Rob Schneider i Deuce Bigalow: Male gigolo var bare rett og slett elendig. Alle situasjonene er hentet ut fra en dårlig vitsebok, der det å være en gigolo angivelig skal være morsomt og utfordrende. Replikkene er ikke bare tåpelige; de er også vanvittig lite morsomme. Rob Schneider passer nok bedre til små roller i tørrvittige Adam Sandler filmer.
 
     <strong>5. Rosie Huntington-Whiteley i Transformers: Dark of the moon</strong>
 
-    <strong><a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/tf3_6/" rel="attachment wp-att-4459"><img class="alignnone size-large wp-image-4459" src="//filmbloggen.net/wp-content/uploads//2012/06/tf3_6-620x387.jpg" alt="" width="620" height="387" /></a>
+    <strong><a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/tf3_6/" rel="attachment wp-att-4459"><img class="alignnone size-large wp-image-4459" src="/wp-content/uploads//2012/06/tf3_6-620x387.jpg" alt="" width="620" height="387" /></a>
     </strong>
 
     Transformers-filmene har jeg delte meninger om; det er bra underholdning i form av strålende effekter, men at det alene skal være solid nok grunn til å gi den ros - det klarer jeg ikke å forstå. Utvikling av en sammenhengende historie burde være topp-prioritet - det er det ikke i Transformers 1, 2 og 3. De hiver så mange "twists" inn i filmen - akkurat som om det gjør den noe bedre - til slutt bryr man seg ikke om historien, man fokuserer heller på de imponerende effektene.
@@ -154,7 +154,7 @@ post_content:
 
     <strong>4. Adam Sandler i Jack & Jill</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jack_and_jill/" rel="attachment wp-att-4342"><img class="alignnone size-large wp-image-4342" src="//filmbloggen.net/wp-content/uploads//2012/06/jack_and_jill-620x341.jpg" alt="" width="620" height="341" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jack_and_jill/" rel="attachment wp-att-4342"><img class="alignnone size-large wp-image-4342" src="/wp-content/uploads//2012/06/jack_and_jill-620x341.jpg" alt="" width="620" height="341" /></a>
 
     Adam Sandlers filmer (Waterboy, Big daddy og Happy Gilmore) var populære da de kom ut på slutten av 90-tallet - de var oppfinnsomme og vittige. Han ble stjernen av "corky" komedier, men ettersom årene har gått har også forventningen om å bli underholdt blitt større. Man ønsker nye vrier og bedre humor. Adam Sandler leverer dessverre kun det samme produktet hver gang - dvs barnslig prompehumor og hyppig og uoriginal bruk av Hollywood-modellen. Jack & Jill er godt eksempel: den har den samme umodne humoren og den sjokkerer ikke med nye påfunn - den bruker gamle triks og lykkes ikke med det. Skuespillet er imidlertid veldig dårlig.
 
@@ -162,7 +162,7 @@ post_content:
 
     <strong>3. Jean-Claude Van Damme i Hard Target</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jean-claude-van-damme/" rel="attachment wp-att-4325"><img class="alignnone size-large wp-image-4325" src="//filmbloggen.net/wp-content/uploads//2012/06/jean-claude-van-damme-503x620.jpg" alt="" width="503" height="620" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jean-claude-van-damme/" rel="attachment wp-att-4325"><img class="alignnone size-large wp-image-4325" src="/wp-content/uploads//2012/06/jean-claude-van-damme-503x620.jpg" alt="" width="503" height="620" /></a>
 
     Jean-Claude Van Damme er kjent for sine actionfilmer, der han sparker og slår alt som måtte komme i veien for ham. Det er kanskje litt av problemet hans, han stopper aldri opp for å ta en prat med fienden, han sier vanligvis bare "Die" eller "Your game is over". Etter å ha sett en del av filmene hans blir det en lei rutine å gå igjennom. I Hard Target spiller han Chance Boudreaux, en kar med evnen til å sparke folk, fortrinnsvis i ansiktet. Rollen er (i likhet med alle rollene til Jean-Claude) usannsynlig forutsigbar. Man vet nøyaktig hva han skal si før det ramler ut av munnen hans. Rollen hans er i utgangspunktet ikke ute etter trøbbel, men han har en uvane av å treffe på de riktige bøllene.
 
@@ -170,7 +170,7 @@ post_content:
 
     <strong>2. George Hardy i Trolls 2</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/troll2blu_shot8l/" rel="attachment wp-att-4326"><img class="alignnone size-large wp-image-4326" src="//filmbloggen.net/wp-content/uploads//2012/06/troll2blu_shot8l-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/troll2blu_shot8l/" rel="attachment wp-att-4326"><img class="alignnone size-large wp-image-4326" src="/wp-content/uploads//2012/06/troll2blu_shot8l-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Troll 2 er blitt kåret av mange til verdens dårligste film: rollebesetningen er horribel, crewet består av en gjeng rådville italienere og regissøren hadde muligens et klart syn på hva han ville lage, men det endte i fiasko. Den satset alt på horror-sjangeren, dog komedie ble resultatet. George Hardy spiller en streng familiefar som drar sammen med familien sin til en forlatt bygd, der alle visstnok er troll forkledd som mennesker, og trollene vil spise dem. Utsagn som: "You can't piss on hospitality!" og "They're eating her, and then they're going to eat me... Oh my gooooood!" er noe av det som gjør Troll 2 til noe annet enn bare en fadese.
 
@@ -178,7 +178,7 @@ post_content:
 
     <strong>1. Taylor Lautner i Abduction</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/_dsc9649-nef/" rel="attachment wp-att-4327"><img class="alignnone size-large wp-image-4327" src="//filmbloggen.net/wp-content/uploads//2012/06/2011_abduction_001-620x412.jpg" alt="" width="620" height="412" />
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/_dsc9649-nef/" rel="attachment wp-att-4327"><img class="alignnone size-large wp-image-4327" src="/wp-content/uploads//2012/06/2011_abduction_001-620x412.jpg" alt="" width="620" height="412" />
     </a>Abduction har bare ikke et horribelt manus, skuespillere og en dialog man får vondt i hodet av. Det er ikke en gang gode effekter i actionscenene. Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
 
     I Abduction spiller Taylor Lautner en ung mann som ved et uhell snubler over ett bilde av seg selv på en nettside over savnede personer. Etter å ha oppdaget at hans foreldre ikke er hans biologiske og med viten om at livet hans er en løgn og i tillegg er nøye planlagt for å skjule mystiske hemmeligheter. Hans falske foreldre blir drept, og så starter jakten på å finne sannheten. Døden over foreldrene som har vært der for han hele livet kommer han over rimelig raskt og han har tre følelser i filmen: sinna, lei seg og glad.
@@ -273,12 +273,12 @@ meta:
     <strong>10. Nicholas Cage i Ghost rider: Spirit of Vengeance
     </strong>
 
-    <img class="alignnone size-large wp-image-4562" src="//filmbloggen.net/wp-content/uploads//2012/06/2011_ghost_rider_spirit_of_vengeance_001-620x409.jpg" alt="" width="620" height="409" />
+    <img class="alignnone size-large wp-image-4562" src="/wp-content/uploads//2012/06/2011_ghost_rider_spirit_of_vengeance_001-620x409.jpg" alt="" width="620" height="409" />
     Mannen er jo kjent for vanvittig rævva skuespill. I Ghost Rider: Spirit of Vengeance setter han ny rekord. Det er så usannsynlig rævva tvers igjennom at det er smertefullt å se på. Filmen er oppfølgeren til Ghost Rider og handler om en mann som gjorde en avtale med djevelen om å fjerne kreften til faren. Eneren kan man til en viss grad klare å se uten å spy, men toeren er det ikke mulig. Det er dårlig skuespill, roller og manus.
 
     <strong>9. Arnold Schwarzenegger i The Sixth Day</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/sixthday/" rel="attachment wp-att-4315"><img class="alignnone size-large wp-image-4315" src="//filmbloggen.net/wp-content/uploads//2012/06/sixthday-620x381.jpg" alt="" width="620" height="381" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/sixthday/" rel="attachment wp-att-4315"><img class="alignnone size-large wp-image-4315" src="/wp-content/uploads//2012/06/sixthday-620x381.jpg" alt="" width="620" height="381" /></a>
 
     Arnold Schwarzenegger er jeg en fan av, men sant skal sies - han er vel ikke akkurat den beste skuespilleren som finnes. Innsatsen hans i <em>Junior</em> var forferdelig; men det er bare småtteri i forhold til hans prestasjon i The sixth day. Hele konseptet med filmen er at mennesker blir klonet ved hjelp av ny teknologi, og som et resultat av for ivrig trykking på knapper ble det to kloner av karakteren til Arnold Schwarzenegger - akkurat som om det ikke var nok med bare en.
 
@@ -286,25 +286,25 @@ meta:
 
     <strong>8. Mark Wahlberg i The Happening</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/0ee3a29ab2/" rel="attachment wp-att-4317"><img class="alignnone size-large wp-image-4317" src="//filmbloggen.net/wp-content/uploads//2012/06/0EE3A29AB2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/0ee3a29ab2/" rel="attachment wp-att-4317"><img class="alignnone size-large wp-image-4317" src="/wp-content/uploads//2012/06/0EE3A29AB2-620x413.jpg" alt="" width="620" height="413" /></a>
 
     The Happening er kanskje den dummeste filmen jeg har sett: den har et fullstendig absurd plott og skuespillerne måper i hver anledning - fordi de ikke vet hvordan de skal reagere. Det er kanskje ikke så rart ettersom M. Night Shyamalans filmvisjoner er forskrudde, og for skuespillerne uforståelige. Skuespillerprestasjonene er falmende, spesielt med tanke på Mark Wahlbergs rolle. Han passer fint som actionhelt - jeg likte hans rolle i Shooter, det som ikke funker for ham er rollen som tilbyder av sikkerhet under verdens undergang. "Dette går til helvete" er vel tanken som ville streifet meg dersom jeg var en del av en gruppe overlevende etter en global katastrofe. Han er andpusten så å si hele filmen - det og det faktum at han begynner å synge for å virke stabil og "nonchalant" - gjør at han havner på denne listen.
 
     <strong>7. John Travolta i Battlefield Earth</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/terre-champ-de-bataille-07-g/" rel="attachment wp-att-4318"><img class="alignnone size-large wp-image-4318" src="//filmbloggen.net/wp-content/uploads//2012/06/terre-champ-de-bataille-07-g-620x422.jpg" alt="" width="620" height="422" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/terre-champ-de-bataille-07-g/" rel="attachment wp-att-4318"><img class="alignnone size-large wp-image-4318" src="/wp-content/uploads//2012/06/terre-champ-de-bataille-07-g-620x422.jpg" alt="" width="620" height="422" /></a>
 
     John Travolta hadde en nedtur med Battlefield Earth, men returnerte raskt igjen med Swordfish (2001) og Basic (2003). Filmen handler i korte trekk om at menneskene undertrykkes av en utenomjordisk rase, der John Travolta spiller en av de motbydelige romvesnene. Battlefield Earth går fra å være lite sannsynlig til ren idioti - menneskene kan bare nesten fyre opp et bål, men senere i filmen forstår de seg på atombomber og datateknologi - dårlig planlagt. Dette er en film iverksatt kun pga av Travoltas fascinasjon for L. Ron Hubbards (sannsynligvis) idiotiske bøker. Og John Travolta overspiller rollen sin så det holder, men han skal ikke sitte med all skyld for at denne filmen ble en fiasko. Regissør Roger Christian gjorde en reell skivebom han også. Filmen anbefales ikke.
 
     <strong>6. Rob Schneider i Deuce Bigalow: Male gigolo</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/qh90hpo9ygv0gu4jk4ho4uqwlby/" rel="attachment wp-att-4322"><img class="alignnone size-large wp-image-4322" src="//filmbloggen.net/wp-content/uploads//2012/06/qh90HPo9YGV0gU4jK4HO4UQwLBY-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/qh90hpo9ygv0gu4jk4ho4uqwlby/" rel="attachment wp-att-4322"><img class="alignnone size-large wp-image-4322" src="/wp-content/uploads//2012/06/qh90HPo9YGV0gU4jK4HO4UQwLBY-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Rob Schneider i Deuce Bigalow: Male gigolo var bare rett og slett elendig. Alle situasjonene er hentet ut fra en dårlig vitsebok, der det å være en gigolo angivelig skal være morsomt og utfordrende. Replikkene er ikke bare tåpelige; de er også vanvittig lite morsomme. Rob Schneider passer nok bedre til små roller i tørrvittige Adam Sandler filmer.
 
     <strong>5. Rosie Huntington-Whiteley i Transformers: Dark of the moon</strong>
 
-    <strong><a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/tf3_6/" rel="attachment wp-att-4459"><img class="alignnone size-large wp-image-4459" src="//filmbloggen.net/wp-content/uploads//2012/06/tf3_6-620x387.jpg" alt="" width="620" height="387" /></a>
+    <strong><a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/tf3_6/" rel="attachment wp-att-4459"><img class="alignnone size-large wp-image-4459" src="/wp-content/uploads//2012/06/tf3_6-620x387.jpg" alt="" width="620" height="387" /></a>
     </strong>
 
     Transformers-filmene har jeg delte meninger om; det er bra underholdning i form av strålende effekter, men at det alene skal være solid nok grunn til å gi den ros - det klarer jeg ikke å forstå. Utvikling av en sammenhengende historie burde være topp-prioritet - det er det ikke i Transformers 1, 2 og 3. De hiver så mange "twists" inn i filmen - akkurat som om det gjør den noe bedre - til slutt bryr man seg ikke om historien, man fokuserer heller på de imponerende effektene.
@@ -313,7 +313,7 @@ meta:
 
     <strong>4. Adam Sandler i Jack & Jill</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jack_and_jill/" rel="attachment wp-att-4342"><img class="alignnone size-large wp-image-4342" src="//filmbloggen.net/wp-content/uploads//2012/06/jack_and_jill-620x341.jpg" alt="" width="620" height="341" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jack_and_jill/" rel="attachment wp-att-4342"><img class="alignnone size-large wp-image-4342" src="/wp-content/uploads//2012/06/jack_and_jill-620x341.jpg" alt="" width="620" height="341" /></a>
 
     Adam Sandlers filmer (Waterboy, Big daddy og Happy Gilmore) var populære da de kom ut på slutten av 90-tallet - de var oppfinnsomme og vittige. Han ble stjernen av "corky" komedier, men ettersom årene har gått har også forventningen om å bli underholdt blitt større. Man ønsker nye vrier og bedre humor. Adam Sandler leverer dessverre kun det samme produktet hver gang - dvs barnslig prompehumor og hyppig og uoriginal bruk av Hollywood-modellen. Jack & Jill er godt eksempel: den har den samme umodne humoren og den sjokkerer ikke med nye påfunn - den bruker gamle triks og lykkes ikke med det. Skuespillet er imidlertid veldig dårlig.
 
@@ -321,7 +321,7 @@ meta:
 
     <strong>3. Jean-Claude Van Damme i Hard Target</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jean-claude-van-damme/" rel="attachment wp-att-4325"><img class="alignnone size-large wp-image-4325" src="//filmbloggen.net/wp-content/uploads//2012/06/jean-claude-van-damme-503x620.jpg" alt="" width="503" height="620" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jean-claude-van-damme/" rel="attachment wp-att-4325"><img class="alignnone size-large wp-image-4325" src="/wp-content/uploads//2012/06/jean-claude-van-damme-503x620.jpg" alt="" width="503" height="620" /></a>
 
     Jean-Claude Van Damme er kjent for sine actionfilmer, der han sparker og slår alt som måtte komme i veien for ham. Det er kanskje litt av problemet hans, han stopper aldri opp for å ta en prat med fienden, han sier vanligvis bare "Die" eller "Your game is over". Etter å ha sett en del av filmene hans blir det en lei rutine å gå igjennom. I Hard Target spiller han Chance Boudreaux, en kar med evnen til å sparke folk, fortrinnsvis i ansiktet. Rollen er (i likhet med alle rollene til Jean-Claude) usannsynlig forutsigbar. Man vet nøyaktig hva han skal si før det ramler ut av munnen hans. Rollen hans er i utgangspunktet ikke ute etter trøbbel, men han har en uvane av å treffe på de riktige bøllene.
 
@@ -329,7 +329,7 @@ meta:
 
     <strong>2. George Hardy i Trolls 2</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/troll2blu_shot8l/" rel="attachment wp-att-4326"><img class="alignnone size-large wp-image-4326" src="//filmbloggen.net/wp-content/uploads//2012/06/troll2blu_shot8l-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/troll2blu_shot8l/" rel="attachment wp-att-4326"><img class="alignnone size-large wp-image-4326" src="/wp-content/uploads//2012/06/troll2blu_shot8l-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Troll 2 er blitt kåret av mange til verdens dårligste film: rollebesetningen er horribel, crewet består av en gjeng rådville italienere og regissøren hadde muligens et klart syn på hva han ville lage, men det endte i fiasko. Den satset alt på horror-sjangeren, dog komedie ble resultatet. George Hardy spiller en streng familiefar som drar sammen med familien sin til en forlatt bygd, der alle visstnok er troll forkledd som mennesker, og trollene vil spise dem. Utsagn som: "You can't piss on hospitality!" og "They're eating her, and then they're going to eat me... Oh my gooooood!" er noe av det som gjør Troll 2 til noe annet enn bare en fadese.
 
@@ -337,7 +337,7 @@ meta:
 
     <strong>1. Taylor Lautner i Abduction</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/_dsc9649-nef/" rel="attachment wp-att-4327"><img class="alignnone size-large wp-image-4327" src="//filmbloggen.net/wp-content/uploads//2012/06/2011_abduction_001-620x412.jpg" alt="" width="620" height="412" />
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/_dsc9649-nef/" rel="attachment wp-att-4327"><img class="alignnone size-large wp-image-4327" src="/wp-content/uploads//2012/06/2011_abduction_001-620x412.jpg" alt="" width="620" height="412" />
     </a>Abduction har bare ikke et horribelt manus, skuespillere og en dialog man får vondt i hodet av. Det er ikke en gang gode effekter i actionscenene. Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
 
     I Abduction spiller Taylor Lautner en ung mann som ved et uhell snubler over ett bilde av seg selv på en nettside over savnede personer. Etter å ha oppdaget at hans foreldre ikke er hans biologiske og med viten om at livet hans er en løgn og i tillegg er nøye planlagt for å skjule mystiske hemmeligheter. Hans falske foreldre blir drept, og så starter jakten på å finne sannheten. Døden over foreldrene som har vært der for han hele livet kommer han over rimelig raskt og han har tre følelser i filmen: sinna, lei seg og glad.
@@ -349,12 +349,12 @@ meta:
     <strong>10. Nicholas Cage i Ghost rider: Spirit of Vengeance
     </strong>
 
-    <img class="alignnone size-large wp-image-4562" src="//filmbloggen.net/wp-content/uploads//2012/06/2011_ghost_rider_spirit_of_vengeance_001-620x409.jpg" alt="" width="620" height="409" />
+    <img class="alignnone size-large wp-image-4562" src="/wp-content/uploads//2012/06/2011_ghost_rider_spirit_of_vengeance_001-620x409.jpg" alt="" width="620" height="409" />
     Mannen er jo kjent for vanvittig rævva skuespill. I Ghost Rider: Spirit of Vengeance setter han ny rekord. Det er så usannsynlig rævva tvers igjennom at det er smertefullt å se på. Filmen er oppfølgeren til Ghost Rider og handler om en mann som gjorde en avtale med djevelen om å fjerne kreften til faren. Eneren kan man til en viss grad klare å se uten å spy, men toeren er det ikke mulig. Det er dårlig skuespill, roller og manus.
 
     <strong>9. Arnold Schwarzenegger i The Sixth Day</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/sixthday/" rel="attachment wp-att-4315"><img class="alignnone size-large wp-image-4315" src="//filmbloggen.net/wp-content/uploads//2012/06/sixthday-620x381.jpg" alt="" width="620" height="381" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/sixthday/" rel="attachment wp-att-4315"><img class="alignnone size-large wp-image-4315" src="/wp-content/uploads//2012/06/sixthday-620x381.jpg" alt="" width="620" height="381" /></a>
 
     Arnold Schwarzenegger er jeg en fan av, men sant skal sies - han er vel ikke akkurat den beste skuespilleren som finnes. Innsatsen hans i <em>Junior</em> var forferdelig; men det er bare småtteri i forhold til hans prestasjon i The sixth day. Hele konseptet med filmen er at mennesker blir klonet ved hjelp av ny teknologi, og som et resultat av for ivrig trykking på knapper ble det to kloner av karakteren til Arnold Schwarzenegger - akkurat som om det ikke var nok med bare en.
 
@@ -362,25 +362,25 @@ meta:
 
     <strong>8. Mark Wahlberg i The Happening</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/0ee3a29ab2/" rel="attachment wp-att-4317"><img class="alignnone size-large wp-image-4317" src="//filmbloggen.net/wp-content/uploads//2012/06/0EE3A29AB2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/0ee3a29ab2/" rel="attachment wp-att-4317"><img class="alignnone size-large wp-image-4317" src="/wp-content/uploads//2012/06/0EE3A29AB2-620x413.jpg" alt="" width="620" height="413" /></a>
 
     The Happening er kanskje den dummeste filmen jeg har sett: den har et fullstendig absurd plott og skuespillerne måper i hver anledning - fordi de ikke vet hvordan de skal reagere. Det er kanskje ikke så rart ettersom M. Night Shyamalans filmvisjoner er forskrudde, og for skuespillerne uforståelige. Skuespillerprestasjonene er falmende, spesielt med tanke på Mark Wahlbergs rolle. Han passer fint som actionhelt - jeg likte hans rolle i Shooter, det som ikke funker for ham er rollen som tilbyder av sikkerhet under verdens undergang. "Dette går til helvete" er vel tanken som ville streifet meg dersom jeg var en del av en gruppe overlevende etter en global katastrofe. Han er andpusten så å si hele filmen - det og det faktum at han begynner å synge for å virke stabil og "nonchalant" - gjør at han havner på denne listen.
 
     <strong>7. John Travolta i Battlefield Earth</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/terre-champ-de-bataille-07-g/" rel="attachment wp-att-4318"><img class="alignnone size-large wp-image-4318" src="//filmbloggen.net/wp-content/uploads//2012/06/terre-champ-de-bataille-07-g-620x422.jpg" alt="" width="620" height="422" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/terre-champ-de-bataille-07-g/" rel="attachment wp-att-4318"><img class="alignnone size-large wp-image-4318" src="/wp-content/uploads//2012/06/terre-champ-de-bataille-07-g-620x422.jpg" alt="" width="620" height="422" /></a>
 
     John Travolta hadde en nedtur med Battlefield Earth, men returnerte raskt igjen med Swordfish (2001) og Basic (2003). Filmen handler i korte trekk om at menneskene undertrykkes av en utenomjordisk rase, der John Travolta spiller en av de motbydelige romvesnene. Battlefield Earth går fra å være lite sannsynlig til ren idioti - menneskene kan bare nesten fyre opp et bål, men senere i filmen forstår de seg på atombomber og datateknologi - dårlig planlagt. Dette er en film iverksatt kun pga av Travoltas fascinasjon for L. Ron Hubbards (sannsynligvis) idiotiske bøker. Og John Travolta overspiller rollen sin så det holder, men han skal ikke sitte med all skyld for at denne filmen ble en fiasko. Regissør Roger Christian gjorde en reell skivebom han også. Filmen anbefales ikke.
 
     <strong>6. Rob Schneider i Deuce Bigalow: Male gigolo</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/qh90hpo9ygv0gu4jk4ho4uqwlby/" rel="attachment wp-att-4322"><img class="alignnone size-large wp-image-4322" src="//filmbloggen.net/wp-content/uploads//2012/06/qh90HPo9YGV0gU4jK4HO4UQwLBY-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/qh90hpo9ygv0gu4jk4ho4uqwlby/" rel="attachment wp-att-4322"><img class="alignnone size-large wp-image-4322" src="/wp-content/uploads//2012/06/qh90HPo9YGV0gU4jK4HO4UQwLBY-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Rob Schneider i Deuce Bigalow: Male gigolo var bare rett og slett elendig. Alle situasjonene er hentet ut fra en dårlig vitsebok, der det å være en gigolo angivelig skal være morsomt og utfordrende. Replikkene er ikke bare tåpelige; de er også vanvittig lite morsomme. Rob Schneider passer nok bedre til små roller i tørrvittige Adam Sandler filmer.
 
     <strong>5. Rosie Huntington-Whiteley i Transformers: Dark of the moon</strong>
 
-    <strong><a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/tf3_6/" rel="attachment wp-att-4459"><img class="alignnone size-large wp-image-4459" src="//filmbloggen.net/wp-content/uploads//2012/06/tf3_6-620x387.jpg" alt="" width="620" height="387" /></a>
+    <strong><a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/tf3_6/" rel="attachment wp-att-4459"><img class="alignnone size-large wp-image-4459" src="/wp-content/uploads//2012/06/tf3_6-620x387.jpg" alt="" width="620" height="387" /></a>
     </strong>
 
     Transformers-filmene har jeg delte meninger om; det er bra underholdning i form av strålende effekter, men at det alene skal være solid nok grunn til å gi den ros - det klarer jeg ikke å forstå. Utvikling av en sammenhengende historie burde være topp-prioritet - det er det ikke i Transformers 1, 2 og 3. De hiver så mange "twists" inn i filmen - akkurat som om det gjør den noe bedre - til slutt bryr man seg ikke om historien, man fokuserer heller på de imponerende effektene.
@@ -389,7 +389,7 @@ meta:
 
     <strong>4. Adam Sandler i Jack & Jill</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jack_and_jill/" rel="attachment wp-att-4342"><img class="alignnone size-large wp-image-4342" src="//filmbloggen.net/wp-content/uploads//2012/06/jack_and_jill-620x341.jpg" alt="" width="620" height="341" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jack_and_jill/" rel="attachment wp-att-4342"><img class="alignnone size-large wp-image-4342" src="/wp-content/uploads//2012/06/jack_and_jill-620x341.jpg" alt="" width="620" height="341" /></a>
 
     Adam Sandlers filmer (Waterboy, Big daddy og Happy Gilmore) var populære da de kom ut på slutten av 90-tallet - de var oppfinnsomme og vittige. Han ble stjernen av "corky" komedier, men ettersom årene har gått har også forventningen om å bli underholdt blitt større. Man ønsker nye vrier og bedre humor. Adam Sandler leverer dessverre kun det samme produktet hver gang - dvs barnslig prompehumor og hyppig og uoriginal bruk av Hollywood-modellen. Jack & Jill er godt eksempel: den har den samme umodne humoren og den sjokkerer ikke med nye påfunn - den bruker gamle triks og lykkes ikke med det. Skuespillet er imidlertid veldig dårlig.
 
@@ -397,7 +397,7 @@ meta:
 
     <strong>3. Jean-Claude Van Damme i Hard Target</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jean-claude-van-damme/" rel="attachment wp-att-4325"><img class="alignnone size-large wp-image-4325" src="//filmbloggen.net/wp-content/uploads//2012/06/jean-claude-van-damme-503x620.jpg" alt="" width="503" height="620" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jean-claude-van-damme/" rel="attachment wp-att-4325"><img class="alignnone size-large wp-image-4325" src="/wp-content/uploads//2012/06/jean-claude-van-damme-503x620.jpg" alt="" width="503" height="620" /></a>
 
     Jean-Claude Van Damme er kjent for sine actionfilmer, der han sparker og slår alt som måtte komme i veien for ham. Det er kanskje litt av problemet hans, han stopper aldri opp for å ta en prat med fienden, han sier vanligvis bare "Die" eller "Your game is over". Etter å ha sett en del av filmene hans blir det en lei rutine å gå igjennom. I Hard Target spiller han Chance Boudreaux, en kar med evnen til å sparke folk, fortrinnsvis i ansiktet. Rollen er (i likhet med alle rollene til Jean-Claude) usannsynlig forutsigbar. Man vet nøyaktig hva han skal si før det ramler ut av munnen hans. Rollen hans er i utgangspunktet ikke ute etter trøbbel, men han har en uvane av å treffe på de riktige bøllene.
 
@@ -405,7 +405,7 @@ meta:
 
     <strong>2. George Hardy i Trolls 2</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/troll2blu_shot8l/" rel="attachment wp-att-4326"><img class="alignnone size-large wp-image-4326" src="//filmbloggen.net/wp-content/uploads//2012/06/troll2blu_shot8l-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/troll2blu_shot8l/" rel="attachment wp-att-4326"><img class="alignnone size-large wp-image-4326" src="/wp-content/uploads//2012/06/troll2blu_shot8l-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Troll 2 er blitt kåret av mange til verdens dårligste film: rollebesetningen er horribel, crewet består av en gjeng rådville italienere og regissøren hadde muligens et klart syn på hva han ville lage, men det endte i fiasko. Den satset alt på horror-sjangeren, dog komedie ble resultatet. George Hardy spiller en streng familiefar som drar sammen med familien sin til en forlatt bygd, der alle visstnok er troll forkledd som mennesker, og trollene vil spise dem. Utsagn som: "You can't piss on hospitality!" og "They're eating her, and then they're going to eat me... Oh my gooooood!" er noe av det som gjør Troll 2 til noe annet enn bare en fadese.
 
@@ -413,7 +413,7 @@ meta:
 
     <strong>1. Taylor Lautner i Abduction</strong>
 
-    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/_dsc9649-nef/" rel="attachment wp-att-4327"><img class="alignnone size-large wp-image-4327" src="//filmbloggen.net/wp-content/uploads//2012/06/2011_abduction_001-620x412.jpg" alt="" width="620" height="412" />
+    <a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/_dsc9649-nef/" rel="attachment wp-att-4327"><img class="alignnone size-large wp-image-4327" src="/wp-content/uploads//2012/06/2011_abduction_001-620x412.jpg" alt="" width="620" height="412" />
     </a>Abduction har bare ikke et horribelt manus, skuespillere og en dialog man får vondt i hodet av. Det er ikke en gang gode effekter i actionscenene. Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
 
     I Abduction spiller Taylor Lautner en ung mann som ved et uhell snubler over ett bilde av seg selv på en nettside over savnede personer. Etter å ha oppdaget at hans foreldre ikke er hans biologiske og med viten om at livet hans er en løgn og i tillegg er nøye planlagt for å skjule mystiske hemmeligheter. Hans falske foreldre blir drept, og så starter jakten på å finne sannheten. Døden over foreldrene som har vært der for han hele livet kommer han over rimelig raskt og han har tre følelser i filmen: sinna, lei seg og glad.
@@ -494,12 +494,12 @@ categories:
 **10. Nicholas Cage i Ghost rider: Spirit of Vengeance
 **
 
-<img class="alignnone size-large wp-image-4562" src="//filmbloggen.net/wp-content/uploads//2012/06/2011_ghost_rider_spirit_of_vengeance_001-620x409.jpg" alt="" width="620" height="409" />
+<img class="alignnone size-large wp-image-4562" src="/wp-content/uploads//2012/06/2011_ghost_rider_spirit_of_vengeance_001-620x409.jpg" alt="" width="620" height="409" />
 Mannen er jo kjent for vanvittig rævva skuespill. I Ghost Rider: Spirit of Vengeance setter han ny rekord. Det er så usannsynlig rævva tvers igjennom at det er smertefullt å se på. Filmen er oppfølgeren til Ghost Rider og handler om en mann som gjorde en avtale med djevelen om å fjerne kreften til faren. Eneren kan man til en viss grad klare å se uten å spy, men toeren er det ikke mulig. Det er dårlig skuespill, roller og manus.
 
 **9. Arnold Schwarzenegger i The Sixth Day**
 
-<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/sixthday/" rel="attachment wp-att-4315"><img class="alignnone size-large wp-image-4315" src="//filmbloggen.net/wp-content/uploads//2012/06/sixthday-620x381.jpg" alt="" width="620" height="381" /></a>
+<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/sixthday/" rel="attachment wp-att-4315"><img class="alignnone size-large wp-image-4315" src="/wp-content/uploads//2012/06/sixthday-620x381.jpg" alt="" width="620" height="381" /></a>
 
 Arnold Schwarzenegger er jeg en fan av, men sant skal sies – han er vel ikke akkurat den beste skuespilleren som finnes. Innsatsen hans i _Junior_ var forferdelig; men det er bare småtteri i forhold til hans prestasjon i The sixth day. Hele konseptet med filmen er at mennesker blir klonet ved hjelp av ny teknologi, og som et resultat av for ivrig trykking på knapper ble det to kloner av karakteren til Arnold Schwarzenegger – akkurat som om det ikke var nok med bare en.
 
@@ -507,25 +507,25 @@ Filmen er ikke bare et eksempel på hvor snodig science-fiction kan bli, men ogs
 
 **8. Mark Wahlberg i The Happening**
 
-<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/0ee3a29ab2/" rel="attachment wp-att-4317"><img class="alignnone size-large wp-image-4317" src="//filmbloggen.net/wp-content/uploads//2012/06/0EE3A29AB2-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/0ee3a29ab2/" rel="attachment wp-att-4317"><img class="alignnone size-large wp-image-4317" src="/wp-content/uploads//2012/06/0EE3A29AB2-620x413.jpg" alt="" width="620" height="413" /></a>
 
 The Happening er kanskje den dummeste filmen jeg har sett: den har et fullstendig absurd plott og skuespillerne måper i hver anledning – fordi de ikke vet hvordan de skal reagere. Det er kanskje ikke så rart ettersom M. Night Shyamalans filmvisjoner er forskrudde, og for skuespillerne uforståelige. Skuespillerprestasjonene er falmende, spesielt med tanke på Mark Wahlbergs rolle. Han passer fint som actionhelt – jeg likte hans rolle i Shooter, det som ikke funker for ham er rollen som tilbyder av sikkerhet under verdens undergang. «Dette går til helvete» er vel tanken som ville streifet meg dersom jeg var en del av en gruppe overlevende etter en global katastrofe. Han er andpusten så å si hele filmen – det og det faktum at han begynner å synge for å virke stabil og «nonchalant» – gjør at han havner på denne listen.
 
 **7. John Travolta i Battlefield Earth**
 
-<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/terre-champ-de-bataille-07-g/" rel="attachment wp-att-4318"><img class="alignnone size-large wp-image-4318" src="//filmbloggen.net/wp-content/uploads//2012/06/terre-champ-de-bataille-07-g-620x422.jpg" alt="" width="620" height="422" /></a>
+<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/terre-champ-de-bataille-07-g/" rel="attachment wp-att-4318"><img class="alignnone size-large wp-image-4318" src="/wp-content/uploads//2012/06/terre-champ-de-bataille-07-g-620x422.jpg" alt="" width="620" height="422" /></a>
 
 John Travolta hadde en nedtur med Battlefield Earth, men returnerte raskt igjen med Swordfish (2001) og Basic (2003). Filmen handler i korte trekk om at menneskene undertrykkes av en utenomjordisk rase, der John Travolta spiller en av de motbydelige romvesnene. Battlefield Earth går fra å være lite sannsynlig til ren idioti – menneskene kan bare nesten fyre opp et bål, men senere i filmen forstår de seg på atombomber og datateknologi – dårlig planlagt. Dette er en film iverksatt kun pga av Travoltas fascinasjon for L. Ron Hubbards (sannsynligvis) idiotiske bøker. Og John Travolta overspiller rollen sin så det holder, men han skal ikke sitte med all skyld for at denne filmen ble en fiasko. Regissør Roger Christian gjorde en reell skivebom han også. Filmen anbefales ikke.
 
 **6. Rob Schneider i Deuce Bigalow: Male gigolo**
 
-<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/qh90hpo9ygv0gu4jk4ho4uqwlby/" rel="attachment wp-att-4322"><img class="alignnone size-large wp-image-4322" src="//filmbloggen.net/wp-content/uploads//2012/06/qh90HPo9YGV0gU4jK4HO4UQwLBY-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/qh90hpo9ygv0gu4jk4ho4uqwlby/" rel="attachment wp-att-4322"><img class="alignnone size-large wp-image-4322" src="/wp-content/uploads//2012/06/qh90HPo9YGV0gU4jK4HO4UQwLBY-620x348.jpg" alt="" width="620" height="348" /></a>
 
 Rob Schneider i Deuce Bigalow: Male gigolo var bare rett og slett elendig. Alle situasjonene er hentet ut fra en dårlig vitsebok, der det å være en gigolo angivelig skal være morsomt og utfordrende. Replikkene er ikke bare tåpelige; de er også vanvittig lite morsomme. Rob Schneider passer nok bedre til små roller i tørrvittige Adam Sandler filmer.
 
 **5. Rosie Huntington-Whiteley i Transformers: Dark of the moon**
 
-**<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/tf3_6/" rel="attachment wp-att-4459"><img class="alignnone size-large wp-image-4459" src="//filmbloggen.net/wp-content/uploads//2012/06/tf3_6-620x387.jpg" alt="" width="620" height="387" /></a>
+**<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/tf3_6/" rel="attachment wp-att-4459"><img class="alignnone size-large wp-image-4459" src="/wp-content/uploads//2012/06/tf3_6-620x387.jpg" alt="" width="620" height="387" /></a>
 **
 
 Transformers-filmene har jeg delte meninger om; det er bra underholdning i form av strålende effekter, men at det alene skal være solid nok grunn til å gi den ros – det klarer jeg ikke å forstå. Utvikling av en sammenhengende historie burde være topp-prioritet – det er det ikke i Transformers 1, 2 og 3. De hiver så mange «twists» inn i filmen – akkurat som om det gjør den noe bedre – til slutt bryr man seg ikke om historien, man fokuserer heller på de imponerende effektene.
@@ -534,7 +534,7 @@ Rosie Huntington-Whiteley spiller den nye kjæresten til Sam Witwicky (Shia LaBe
 
 **4. Adam Sandler i Jack & Jill**
 
-<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jack_and_jill/" rel="attachment wp-att-4342"><img class="alignnone size-large wp-image-4342" src="//filmbloggen.net/wp-content/uploads//2012/06/jack_and_jill-620x341.jpg" alt="" width="620" height="341" /></a>
+<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jack_and_jill/" rel="attachment wp-att-4342"><img class="alignnone size-large wp-image-4342" src="/wp-content/uploads//2012/06/jack_and_jill-620x341.jpg" alt="" width="620" height="341" /></a>
 
 Adam Sandlers filmer (Waterboy, Big daddy og Happy Gilmore) var populære da de kom ut på slutten av 90-tallet – de var oppfinnsomme og vittige. Han ble stjernen av «corky» komedier, men ettersom årene har gått har også forventningen om å bli underholdt blitt større. Man ønsker nye vrier og bedre humor. Adam Sandler leverer dessverre kun det samme produktet hver gang – dvs barnslig prompehumor og hyppig og uoriginal bruk av Hollywood-modellen. Jack & Jill er godt eksempel: den har den samme umodne humoren og den sjokkerer ikke med nye påfunn – den bruker gamle triks og lykkes ikke med det. Skuespillet er imidlertid veldig dårlig.
 
@@ -542,7 +542,7 @@ Adam Sandler spiller både den kvinnelige og mannlige hovedrollen, siden de er t
 
 **3. Jean-Claude Van Damme i Hard Target**
 
-<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jean-claude-van-damme/" rel="attachment wp-att-4325"><img class="alignnone size-large wp-image-4325" src="//filmbloggen.net/wp-content/uploads//2012/06/jean-claude-van-damme-503x620.jpg" alt="" width="503" height="620" /></a>
+<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/jean-claude-van-damme/" rel="attachment wp-att-4325"><img class="alignnone size-large wp-image-4325" src="/wp-content/uploads//2012/06/jean-claude-van-damme-503x620.jpg" alt="" width="503" height="620" /></a>
 
 Jean-Claude Van Damme er kjent for sine actionfilmer, der han sparker og slår alt som måtte komme i veien for ham. Det er kanskje litt av problemet hans, han stopper aldri opp for å ta en prat med fienden, han sier vanligvis bare «Die» eller «Your game is over». Etter å ha sett en del av filmene hans blir det en lei rutine å gå igjennom. I Hard Target spiller han Chance Boudreaux, en kar med evnen til å sparke folk, fortrinnsvis i ansiktet. Rollen er (i likhet med alle rollene til Jean-Claude) usannsynlig forutsigbar. Man vet nøyaktig hva han skal si før det ramler ut av munnen hans. Rollen hans er i utgangspunktet ikke ute etter trøbbel, men han har en uvane av å treffe på de riktige bøllene.
 
@@ -550,7 +550,7 @@ I de siste scenene slåss han mot ca 50 skurker, der han uten stress meier ned a
 
 **2. George Hardy i Trolls 2**
 
-<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/troll2blu_shot8l/" rel="attachment wp-att-4326"><img class="alignnone size-large wp-image-4326" src="//filmbloggen.net/wp-content/uploads//2012/06/troll2blu_shot8l-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/troll2blu_shot8l/" rel="attachment wp-att-4326"><img class="alignnone size-large wp-image-4326" src="/wp-content/uploads//2012/06/troll2blu_shot8l-620x348.jpg" alt="" width="620" height="348" /></a>
 
 Troll 2 er blitt kåret av mange til verdens dårligste film: rollebesetningen er horribel, crewet består av en gjeng rådville italienere og regissøren hadde muligens et klart syn på hva han ville lage, men det endte i fiasko. Den satset alt på horror-sjangeren, dog komedie ble resultatet. George Hardy spiller en streng familiefar som drar sammen med familien sin til en forlatt bygd, der alle visstnok er troll forkledd som mennesker, og trollene vil spise dem. Utsagn som: «You can’t piss on hospitality!» og «They’re eating her, and then they’re going to eat me… Oh my gooooood!» er noe av det som gjør Troll 2 til noe annet enn bare en fadese.
 
@@ -558,7 +558,7 @@ Den har dannet et stor fanskare i USA kun fordi den er så ubeskrivelig dårlig.
 
 **1. Taylor Lautner i Abduction**
 
-<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/_dsc9649-nef/" rel="attachment wp-att-4327"><img class="alignnone size-large wp-image-4327" src="//filmbloggen.net/wp-content/uploads//2012/06/2011_abduction_001-620x412.jpg" alt="" width="620" height="412" /><br /> </a>Abduction har bare ikke et horribelt manus, skuespillere og en dialog man får vondt i hodet av. Det er ikke en gang gode effekter i actionscenene. Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
+<a href="//filmbloggen.net/2012/07/02/topp-10-darlig-skuespill/_dsc9649-nef/" rel="attachment wp-att-4327"><img class="alignnone size-large wp-image-4327" src="/wp-content/uploads//2012/06/2011_abduction_001-620x412.jpg" alt="" width="620" height="412" /><br /> </a>Abduction har bare ikke et horribelt manus, skuespillere og en dialog man får vondt i hodet av. Det er ikke en gang gode effekter i actionscenene. Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
 
 I Abduction spiller Taylor Lautner en ung mann som ved et uhell snubler over ett bilde av seg selv på en nettside over savnede personer. Etter å ha oppdaget at hans foreldre ikke er hans biologiske og med viten om at livet hans er en løgn og i tillegg er nøye planlagt for å skjule mystiske hemmeligheter. Hans falske foreldre blir drept, og så starter jakten på å finne sannheten. Døden over foreldrene som har vært der for han hele livet kommer han over rimelig raskt og han har tre følelser i filmen: sinna, lei seg og glad.
 

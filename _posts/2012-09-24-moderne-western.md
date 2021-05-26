@@ -100,7 +100,7 @@ samplepermalinknonce:
   - 7c22778fe9
 content:
   - |
-    <strong>Vi har tatt en liten titt på den amerikanske dramaserien Justified.</strong><!--more--><a href="//filmbloggen.net/2012/09/24/moderne-western/justified-wallpaper-justified-13027063-900-563/" rel="attachment wp-att-7166"><img class="alignnone size-large wp-image-7166" src="//filmbloggen.net/wp-content/uploads//2012/09/Justified-Wallpaper-justified-13027063-900-563-620x387.jpg" alt="" width="620" height="387" /></a>
+    <strong>Vi har tatt en liten titt på den amerikanske dramaserien Justified.</strong><!--more--><a href="//filmbloggen.net/2012/09/24/moderne-western/justified-wallpaper-justified-13027063-900-563/" rel="attachment wp-att-7166"><img class="alignnone size-large wp-image-7166" src="/wp-content/uploads//2012/09/Justified-Wallpaper-justified-13027063-900-563-620x387.jpg" alt="" width="620" height="387" /></a>
     Justified er en amerikansk dramaserie som er laget av Graham Yost. Den er basert på tre noveller av Elmore Leonard. Serien omhandler en US Marshall ved navn Raylan Givens, spilt av Timothy Olyphant. Olyphant hadde sitt store gjennombrudd i Deadwood, men er kanskje best kjent fra filmer som Hitman og Live Free or Die Hard. Politimannen Givens blir forflyttet fra Miami til stedet han vokste opp. Nemlig Lexington, Kentucky. Han er en tøffing som gjerne manipulerer loven til det som passer han best og han har ikke noe i mot og implementere sin egen form for rettferdighet.
 
     En gammel venn av Raylon skal raskt vise seg å bli hans erkefiende: Boyd Crowder (spilt av Walton Goggins fra «The Shield») er et lokalt bøllefrø med høye tanker om den hvite rase som mistenkes for litt av hvert. Men Raylon vet at Boyd er for smart til å være troende rasist og at han bruker ideologien til å rydde konkurrerende gangstere av banen.
@@ -164,7 +164,7 @@ ID:
   - "7165"
 post_content:
   - |
-    <strong>Vi har tatt en liten titt på den amerikanske dramaserien Justified.</strong><!--more--><a href="//filmbloggen.net/2012/09/24/moderne-western/justified-wallpaper-justified-13027063-900-563/" rel="attachment wp-att-7166"><img class="alignnone size-large wp-image-7166" src="//filmbloggen.net/wp-content/uploads//2012/09/Justified-Wallpaper-justified-13027063-900-563-620x387.jpg" alt="" width="620" height="387" /></a>
+    <strong>Vi har tatt en liten titt på den amerikanske dramaserien Justified.</strong><!--more--><a href="//filmbloggen.net/2012/09/24/moderne-western/justified-wallpaper-justified-13027063-900-563/" rel="attachment wp-att-7166"><img class="alignnone size-large wp-image-7166" src="/wp-content/uploads//2012/09/Justified-Wallpaper-justified-13027063-900-563-620x387.jpg" alt="" width="620" height="387" /></a>
     Justified er en amerikansk dramaserie som er laget av Graham Yost. Den er basert på tre noveller av Elmore Leonard. Serien omhandler en US Marshall ved navn Raylan Givens, spilt av Timothy Olyphant. Olyphant hadde sitt store gjennombrudd i Deadwood, men er kanskje best kjent fra filmer som Hitman og Live Free or Die Hard. Politimannen Givens blir forflyttet fra Miami til stedet han vokste opp. Nemlig Lexington, Kentucky. Han er en tøffing som gjerne manipulerer loven til det som passer han best og han har ikke noe i mot og implementere sin egen form for rettferdighet.
 
     En gammel venn av Raylon skal raskt vise seg å bli hans erkefiende: Boyd Crowder (spilt av Walton Goggins fra «The Shield») er et lokalt bøllefrø med høye tanker om den hvite rase som mistenkes for litt av hvert. Men Raylon vet at Boyd er for smart til å være troende rasist og at han bruker ideologien til å rydde konkurrerende gangstere av banen.
@@ -194,7 +194,7 @@ categories:
 ---
 **Vi har tatt en liten titt på den amerikanske dramaserien Justified.**<!--more-->
 
-<a href="//filmbloggen.net/2012/09/24/moderne-western/justified-wallpaper-justified-13027063-900-563/" rel="attachment wp-att-7166"><img class="alignnone size-large wp-image-7166" src="//filmbloggen.net/wp-content/uploads//2012/09/Justified-Wallpaper-justified-13027063-900-563-620x387.jpg" alt="" width="620" height="387" /></a>
+<a href="//filmbloggen.net/2012/09/24/moderne-western/justified-wallpaper-justified-13027063-900-563/" rel="attachment wp-att-7166"><img class="alignnone size-large wp-image-7166" src="/wp-content/uploads//2012/09/Justified-Wallpaper-justified-13027063-900-563-620x387.jpg" alt="" width="620" height="387" /></a>
 Justified er en amerikansk dramaserie som er laget av Graham Yost. Den er basert på tre noveller av Elmore Leonard. Serien omhandler en US Marshall ved navn Raylan Givens, spilt av Timothy Olyphant. Olyphant hadde sitt store gjennombrudd i Deadwood, men er kanskje best kjent fra filmer som Hitman og Live Free or Die Hard. Politimannen Givens blir forflyttet fra Miami til stedet han vokste opp. Nemlig Lexington, Kentucky. Han er en tøffing som gjerne manipulerer loven til det som passer han best og han har ikke noe i mot og implementere sin egen form for rettferdighet.
 
 En gammel venn av Raylon skal raskt vise seg å bli hans erkefiende: Boyd Crowder (spilt av Walton Goggins fra «The Shield») er et lokalt bøllefrø med høye tanker om den hvite rase som mistenkes for litt av hvert. Men Raylon vet at Boyd er for smart til å være troende rasist og at han bruker ideologien til å rydde konkurrerende gangstere av banen.

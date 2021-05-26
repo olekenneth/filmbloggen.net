@@ -14,7 +14,7 @@ content:
   - |
     <strong>September er den store TV-serie måneden og her er en full oversikt over premierene på de mest populære TV-seriene denne høsten. <!--more--></strong>
 
-    <a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/lesley-knope/" rel="attachment wp-att-7178"><img class="alignnone size-large wp-image-7178" src="//filmbloggen.net/wp-content/uploads//2012/09/lesley-knope-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/lesley-knope/" rel="attachment wp-att-7178"><img class="alignnone size-large wp-image-7178" src="/wp-content/uploads//2012/09/lesley-knope-620x465.jpg" alt="" width="620" height="465" /></a>
 
     Nå kan livene til oss tv-serie nerder starte igjen. September er den store tv-serie måneden og her er den fulle oversikten over tv-serie høsten. I alfabetisk rekkefølge:
     <strong><strong>
@@ -68,7 +68,7 @@ content:
 
     <em>Datoene er basert på amerikanske premierer</em>
 
-    <a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/boardwalk-empire-season-3-premier/" rel="attachment wp-att-7172"><img class="alignnone size-large wp-image-7172" src="//filmbloggen.net/wp-content/uploads//2012/09/boardwalk-empire-season-3-premier-620x452.jpg" alt="" width="620" height="452" /></a>
+    <a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/boardwalk-empire-season-3-premier/" rel="attachment wp-att-7172"><img class="alignnone size-large wp-image-7172" src="/wp-content/uploads//2012/09/boardwalk-empire-season-3-premier-620x452.jpg" alt="" width="620" height="452" /></a>
 tags_input:
   - ""
 action:
@@ -91,7 +91,7 @@ post_content:
   - |
     <strong>September er den store TV-serie måneden og her er en full oversikt over premierene på de mest populære TV-seriene denne høsten. <!--more--></strong>
 
-    <a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/lesley-knope/" rel="attachment wp-att-7178"><img class="alignnone size-large wp-image-7178" src="//filmbloggen.net/wp-content/uploads//2012/09/lesley-knope-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/lesley-knope/" rel="attachment wp-att-7178"><img class="alignnone size-large wp-image-7178" src="/wp-content/uploads//2012/09/lesley-knope-620x465.jpg" alt="" width="620" height="465" /></a>
 
     Nå kan livene til oss tv-serie nerder starte igjen. September er den store tv-serie måneden og her er den fulle oversikten over tv-serie høsten. I alfabetisk rekkefølge:
     <strong><strong>
@@ -145,7 +145,7 @@ post_content:
 
     <em>Datoene er basert på amerikanske premierer</em>
 
-    <a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/boardwalk-empire-season-3-premier/" rel="attachment wp-att-7172"><img class="alignnone size-large wp-image-7172" src="//filmbloggen.net/wp-content/uploads//2012/09/boardwalk-empire-season-3-premier-620x452.jpg" alt="" width="620" height="452" /></a>
+    <a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/boardwalk-empire-season-3-premier/" rel="attachment wp-att-7172"><img class="alignnone size-large wp-image-7172" src="/wp-content/uploads//2012/09/boardwalk-empire-season-3-premier-620x452.jpg" alt="" width="620" height="452" /></a>
 user_ID:
   - "3"
 post_author:
@@ -233,7 +233,7 @@ trackback_url:
 meta:
   - |
     a:76:{i:32871;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:32560;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:32903;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:32860;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"9c4762c2aa";}i:32862;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"b345cde03e";}i:32565;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:32558;a:2:{s:3:"key";s:7:"content";s:5:"value";s:2635:"<p><strong>September er den store TV-serie måneden og her er en full oversikt over premierene på de mest populære TV-seriene. <!--more--></strong></p>
-    <p><a href="//filmbloggen.net/?attachment_id=7178" rel="attachment wp-att-7178"><img class="alignnone size-large wp-image-7178" src="//filmbloggen.net/wp-content/uploads//2012/09/lesley-knope-620x465.jpg" alt="" width="620" height="465" /></a></p>
+    <p><a href="//filmbloggen.net/?attachment_id=7178" rel="attachment wp-att-7178"><img class="alignnone size-large wp-image-7178" src="/wp-content/uploads//2012/09/lesley-knope-620x465.jpg" alt="" width="620" height="465" /></a></p>
     <p><strong>The Office:</strong> Sesong 9 hadde premiere 20. September og går for øyeblikket på torsdager.</p>
     <p><strong>Parks & Recreation:</strong> Sesong 5 hadde også premiere 20. September og går på tv-kanalen NBC på torsdager.</p>
     <p><strong>How I Met Your Mother:</strong> Sesong 8 hadde premiere mandag 24. September.</p>
@@ -255,9 +255,9 @@ meta:
     <p><strong>Homeland:</strong> Sesong 2 har premiere søndag 30. Sebtember.</p>
     <p><strong>American Dad:</strong> Sesong 8 har premiere søndag 30. September.</p>
     <p><strong>Suits:</strong> Har premiere Januar 2013.</p>
-    <p><a href="//filmbloggen.net/?attachment_id=7172" rel="attachment wp-att-7172"><img class="alignnone size-large wp-image-7172" src="//filmbloggen.net/wp-content/uploads//2012/09/boardwalk-empire-season-3-premier-620x452.jpg" alt="" width="620" height="452" /></a></p>
+    <p><a href="//filmbloggen.net/?attachment_id=7172" rel="attachment wp-att-7172"><img class="alignnone size-large wp-image-7172" src="/wp-content/uploads//2012/09/boardwalk-empire-season-3-premier-620x452.jpg" alt="" width="620" height="452" /></a></p>
     ";}i:32880;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:32882;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"14";}i:32878;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"25";}i:32876;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"09";}i:32884;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"37";}i:32906;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:32895;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:32872;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"13";}i:32879;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:32881;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"13";}i:32877;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"25";}i:32875;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"09";}i:32883;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"35";}i:32865;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:32864;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:32866;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:32569;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"7142";}i:32869;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"25";}i:32861;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"e000a8926d";}i:32900;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:32899;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:32901;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:32870;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"09";}i:32873;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"35";}i:32888;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:32889;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:32856;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:32857;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:32885;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:32566;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:32572;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:2:"11";}i:32905;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:2:"11";}i:32570;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:2635:"<p><strong>September er den store TV-serie måneden og her er en full oversikt over premierene på de mest populære TV-seriene. <!--more--></strong></p>
-    <p><a href="//filmbloggen.net/?attachment_id=7178" rel="attachment wp-att-7178"><img class="alignnone size-large wp-image-7178" src="//filmbloggen.net/wp-content/uploads//2012/09/lesley-knope-620x465.jpg" alt="" width="620" height="465" /></a></p>
+    <p><a href="//filmbloggen.net/?attachment_id=7178" rel="attachment wp-att-7178"><img class="alignnone size-large wp-image-7178" src="/wp-content/uploads//2012/09/lesley-knope-620x465.jpg" alt="" width="620" height="465" /></a></p>
     <p><strong>The Office:</strong> Sesong 9 hadde premiere 20. September og går for øyeblikket på torsdager.</p>
     <p><strong>Parks & Recreation:</strong> Sesong 5 hadde også premiere 20. September og går på tv-kanalen NBC på torsdager.</p>
     <p><strong>How I Met Your Mother:</strong> Sesong 8 hadde premiere mandag 24. September.</p>
@@ -279,7 +279,7 @@ meta:
     <p><strong>Homeland:</strong> Sesong 2 har premiere søndag 30. Sebtember.</p>
     <p><strong>American Dad:</strong> Sesong 8 har premiere søndag 30. September.</p>
     <p><strong>Suits:</strong> Har premiere Januar 2013.</p>
-    <p><a href="//filmbloggen.net/?attachment_id=7172" rel="attachment wp-att-7172"><img class="alignnone size-large wp-image-7172" src="//filmbloggen.net/wp-content/uploads//2012/09/boardwalk-empire-season-3-premier-620x452.jpg" alt="" width="620" height="452" /></a></p>
+    <p><a href="//filmbloggen.net/?attachment_id=7172" rel="attachment wp-att-7172"><img class="alignnone size-large wp-image-7172" src="/wp-content/uploads//2012/09/boardwalk-empire-season-3-premier-620x452.jpg" alt="" width="620" height="452" /></a></p>
     ";}i:32922;a:2:{s:3:"key";s:12:"post_excerpt";s:5:"value";s:0:"";}i:32891;a:2:{s:3:"key";s:11:"post_format";s:5:"value";s:1:"0";}i:32567;a:2:{s:3:"key";s:7:"post_ID";s:5:"value";s:4:"7142";}i:32568;a:2:{s:3:"key";s:14:"post_mime_type";s:5:"value";s:0:"";}i:32904;a:2:{s:3:"key";s:9:"post_name";s:5:"value";s:19:"tv-serienes-anmarsj";}i:32868;a:2:{s:3:"key";s:13:"post_password";s:5:"value";s:0:"";}i:32573;a:2:{s:3:"key";s:11:"post_status";s:5:"value";s:5:"draft";}i:32557;a:2:{s:3:"key";s:10:"post_title";s:5:"value";s:20:"TV-serienes anmarsj ";}i:32562;a:2:{s:3:"key";s:9:"post_type";s:5:"value";s:4:"post";}i:32834;a:2:{s:3:"key";s:7:"publish";s:5:"value";s:7:"publish";}i:32912;a:2:{s:3:"key";s:14:"pyre_critera_1";s:5:"value";s:0:"";}i:32913;a:2:{s:3:"key";s:20:"pyre_critera_1_score";s:5:"value";s:1:"0";}i:32914;a:2:{s:3:"key";s:14:"pyre_critera_2";s:5:"value";s:0:"";}i:32915;a:2:{s:3:"key";s:20:"pyre_critera_2_score";s:5:"value";s:1:"0";}i:32916;a:2:{s:3:"key";s:14:"pyre_critera_3";s:5:"value";s:0:"";}i:32917;a:2:{s:3:"key";s:20:"pyre_critera_3_score";s:5:"value";s:1:"0";}i:32918;a:2:{s:3:"key";s:14:"pyre_critera_4";s:5:"value";s:0:"";}i:32919;a:2:{s:3:"key";s:20:"pyre_critera_4_score";s:5:"value";s:1:"0";}i:32920;a:2:{s:3:"key";s:14:"pyre_critera_5";s:5:"value";s:0:"";}i:32921;a:2:{s:3:"key";s:20:"pyre_critera_5_score";s:5:"value";s:1:"0";}i:32908;a:2:{s:3:"key";s:19:"pyre_featured_image";s:5:"value";s:2:"no";}i:32909;a:2:{s:3:"key";s:16:"pyre_movie_title";s:5:"value";s:0:"";}i:32910;a:2:{s:3:"key";s:22:"pyre_movie_title_norsk";s:5:"value";s:0:"";}i:32911;a:2:{s:3:"key";s:18:"pyre_overall_score";s:5:"value";s:1:"0";}i:32561;a:2:{s:3:"key";s:18:"quickpress_post_ID";s:5:"value";s:4:"7142";}i:32858;a:2:{s:3:"key";s:10:"referredby";s:5:"value";s:73:"//filmbloggen.net/wp-admin/post.php?post=7142&action=edit&message=10";}i:32894;a:2:{s:3:"key";s:20:"samplepermalinknonce";s:5:"value";s:10:"48319f7efd";}i:32886;a:2:{s:3:"key";s:4:"save";s:5:"value";s:11:"Lagre kladd";}i:32907;a:2:{s:3:"key";s:21:"sharing_status_hidden";s:5:"value";s:1:"1";}i:32874;a:2:{s:3:"key";s:2:"ss";s:5:"value";s:2:"11";}i:32559;a:2:{s:3:"key";s:10:"tags_input";s:5:"value";s:0:"";}i:32923;a:2:{s:3:"key";s:7:"to_ping";s:5:"value";s:0:"";}i:32896;a:2:{s:3:"key";s:13:"trackback_url";s:5:"value";s:0:"";}i:32571;a:2:{s:3:"key";s:7:"user_ID";s:5:"value";s:2:"11";}i:32867;a:2:{s:3:"key";s:10:"visibility";s:5:"value";s:6:"public";}i:32863;a:2:{s:3:"key";s:10:"wp-preview";s:5:"value";s:9:"dopreview";}}
 metakeyselect:
   - '#NONE#'
@@ -347,7 +347,7 @@ categories:
 ---
 **September er den store TV-serie måneden og her er en full oversikt over premierene på de mest populære TV-seriene denne høsten. <!--more-->**
 
-<a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/lesley-knope/" rel="attachment wp-att-7178"><img class="alignnone size-large wp-image-7178" src="//filmbloggen.net/wp-content/uploads//2012/09/lesley-knope-620x465.jpg" alt="" width="620" height="465" /></a>
+<a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/lesley-knope/" rel="attachment wp-att-7178"><img class="alignnone size-large wp-image-7178" src="/wp-content/uploads//2012/09/lesley-knope-620x465.jpg" alt="" width="620" height="465" /></a>
 
 Nå kan livene til oss tv-serie nerder starte igjen. September er den store tv-serie måneden og her er den fulle oversikten over tv-serie høsten. I alfabetisk rekkefølge:
 ****
@@ -401,4 +401,4 @@ Nå kan livene til oss tv-serie nerder starte igjen. September er den store tv-s
 
 _Datoene er basert på amerikanske premierer_
 
-<a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/boardwalk-empire-season-3-premier/" rel="attachment wp-att-7172"><img class="alignnone size-large wp-image-7172" src="//filmbloggen.net/wp-content/uploads//2012/09/boardwalk-empire-season-3-premier-620x452.jpg" alt="" width="620" height="452" /></a>
+<a href="//filmbloggen.net/2012/09/25/tv-serienes-anmarsj/boardwalk-empire-season-3-premier/" rel="attachment wp-att-7172"><img class="alignnone size-large wp-image-7172" src="/wp-content/uploads//2012/09/boardwalk-empire-season-3-premier-620x452.jpg" alt="" width="620" height="452" /></a>

@@ -19,7 +19,7 @@ tags:
   - Thomas Carter
 ---
 **I min andre artikkelserie kommer jeg til å velge ut en ny idrettsfilm hver onsdag som jeg anmelder. Den første jeg valgte er Coach Carter.****
-<img class="alignnone size-medium wp-image-208" src="//filmbloggen.net/wp-content/uploads//2011/04/coach-carter.jpg?w=300" alt="" width="566" height="424" />**
+<img class="alignnone size-medium wp-image-208" src="/wp-content/uploads//2011/04/coach-carter.jpg?w=300" alt="" width="566" height="424" />**
 
 **Originaltittel:** Coach Carter****
 Kategori:**** Drama/Sport**
@@ -30,7 +30,7 @@ Med:** Samuel L. Jackson, Rick Gonzalez and Robert Ri’chard
 Coach Carter er den sanne historien om Ken Carter. Carter tar over et basketballag i ghettoen i Richmond, California. Han starter med en gang et hardt regime med vanvittig hard trening og mener at respekt for medmennesker er blant det viktigste i livet. Miljøet i nabolaget ertøft med dop, damer og mye vold. Han mener også at laget er et lag sammen uansett. Klarer ikke en spiller å opprettholde sine karakterer, så spiller ingen.
 
 Basketscenene i denne filmen er blant de beste som er lagd og det er lagt mye energi i at spillerne skal se ut som basketspillere og at det skal være troverdig det som skjer ute på banen. Men det som er enda viktigere enn det igjen er at denne filmen utspiller seg kanskje rundt basketspillere men handler om så vanvittig mye mer.
-[<img class="alignright size-medium wp-image-207" src="//filmbloggen.net/wp-content/uploads//2011/04/coach-carter2.jpg?w=300" alt="" width="300" height="200" />](//filmbloggen.net/wp-content/uploads//2011/04/coach-carter2.jpg)
+[<img class="alignright size-medium wp-image-207" src="/wp-content/uploads//2011/04/coach-carter2.jpg?w=300" alt="" width="300" height="200" />](/wp-content/uploads//2011/04/coach-carter2.jpg)
 Denne historien ble verdenskjent tilbake i 1999 når Ken Carter nektet sine spillere å spille basket på grunn av for dårlige karakterer. «The boys are student athletes. Student comes first». I en vanskelig oppvekst bruker guttene basketballen for at alt ikke skal være like alvorlig hele tiden og når treneren tar basketballen vekk fra de møter treneren massive protester fra hele nabolaget.
 
 Minuset med filmen er at den er full av klisjèer og den er «typisk» amerikansk. Heldigvis skiller den seg ut av mengden ved hjelp av store skuespillerprestasjoner av Samuel L. Jackson og Rick Gonzalez. Dette er en film som skal inspirere oss og at man aldri kan gi opp, selv om utgangspunktet er ghettoen i USA.

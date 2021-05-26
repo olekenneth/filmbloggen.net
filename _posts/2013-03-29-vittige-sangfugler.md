@@ -108,7 +108,7 @@ content:
     <strong>Sjanger:</strong> Komedie, romantikk, musikk
     <strong>Skuespillere:</strong> Anna Kendrick, Brittany Snow, Rebel Wilson, Christopher Mintz-Plasse, Anna Camp, Adam DeVine, Alexis Knapp, Freddie Stroma, Skylar Astin, Brittney Alger, Jacob Wysocki
 
-    <strong><a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/3-5/" rel="attachment wp-att-10203"><img class="alignnone size-large wp-image-10203" src="//filmbloggen.net/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
+    <strong><a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/3-5/" rel="attachment wp-att-10203"><img class="alignnone size-large wp-image-10203" src="/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
     </a>Foto: UIP</strong>
 
     <strong>Beca (spilt av Anna Kendrick) er en tenåring som skal begynne på universitet,</strong> selv om hennes egentlige planer er å flytte til Los Angeles for å produsere musikk. Etter streng beskjed fra hennes far, skal Beca prøve å engasjere seg i universitetslivet for å få venner og nye opplevelser. Hun blir etter hvert medlem i et kvinnelig a cappella kor kalt The Barden Bellas, ledet av perfeksjonisten Aubrey (Anna Camp).
@@ -119,7 +119,7 @@ content:
 
     <strong>Karakterene i filmen er noe bisarre, men hovedpersonene spiller ut rollene sine godt. </strong>Anna Kendrick er veldig selvsikker og lever ut rollen uten problem. Dialogen er det heller ikke noe å utsette på. Manusforfatter Kay Cannon (skribent for 30 rock og New Girl) har porsjonert ut nok ironi og humoristiske utsagn til alle, men ingen får det til like bra som Fat Amy (Rebel Wilson). Wilson som tidligere er kjent fra ”Bridesmaids” leverer så det suser i denne filmen. Med kommentarer som ”You are gonna get pitch slapped so hard that your man boobs are gonna go concave.”, “Sometimes I have the feeling that I can do crystal meth but then I think, mmm, better not.” og “Release the Kraken!”, leverer hun minneverdige sitater som ikke kommer til å gå i glemmeboken med det første.
     <a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/6-1-2/" rel="attachment wp-att-10192">
-    <img class="alignnone size-large wp-image-10192" src="//filmbloggen.net/wp-content/uploads//2013/03/6-1-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
+    <img class="alignnone size-large wp-image-10192" src="/wp-content/uploads//2013/03/6-1-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
     </a><strong>Foto: UIP</strong>
 
     <strong>Sett bort i fra fengende musikk og humoristiske kommentarer,</strong> er ikke filmen noe annet enn 112 minutter med tenåringsdrama og en jentes søken etter å kunne åpne seg for andre. Det er lite spenning, til og med når jentene skal delta på konkurranse, og avslutningen kommer så fort at jeg satt igjen og lurte på hva som egentlig hadde skjedd. Det er umulig å ikke sammenligne Pitch Perfect med Bill Dukes Sister Act 2 fra 1993. Begge har en frontfigur som er litt utenom det vanlige, begge har flotte innslag av musikk og begge har en humoristisk dialog. Selv om Pitch Perfect ikke er i nærheten av å bli en ny Sister Act 2, syns jeg Moore har levert en grei film.
@@ -191,7 +191,7 @@ post_content:
     <strong>Sjanger:</strong> Komedie, romantikk, musikk
     <strong>Skuespillere:</strong> Anna Kendrick, Brittany Snow, Rebel Wilson, Christopher Mintz-Plasse, Anna Camp, Adam DeVine, Alexis Knapp, Freddie Stroma, Skylar Astin, Brittney Alger, Jacob Wysocki
 
-    <strong><a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/3-5/" rel="attachment wp-att-10203"><img class="alignnone size-large wp-image-10203" src="//filmbloggen.net/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
+    <strong><a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/3-5/" rel="attachment wp-att-10203"><img class="alignnone size-large wp-image-10203" src="/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
     </a>Foto: UIP</strong>
 
     <strong>Beca (spilt av Anna Kendrick) er en tenåring som skal begynne på universitet,</strong> selv om hennes egentlige planer er å flytte til Los Angeles for å produsere musikk. Etter streng beskjed fra hennes far, skal Beca prøve å engasjere seg i universitetslivet for å få venner og nye opplevelser. Hun blir etter hvert medlem i et kvinnelig a cappella kor kalt The Barden Bellas, ledet av perfeksjonisten Aubrey (Anna Camp).
@@ -202,7 +202,7 @@ post_content:
 
     <strong>Karakterene i filmen er noe bisarre, men hovedpersonene spiller ut rollene sine godt. </strong>Anna Kendrick er veldig selvsikker og lever ut rollen uten problem. Dialogen er det heller ikke noe å utsette på. Manusforfatter Kay Cannon (skribent for 30 rock og New Girl) har porsjonert ut nok ironi og humoristiske utsagn til alle, men ingen får det til like bra som Fat Amy (Rebel Wilson). Wilson som tidligere er kjent fra ”Bridesmaids” leverer så det suser i denne filmen. Med kommentarer som ”You are gonna get pitch slapped so hard that your man boobs are gonna go concave.”, “Sometimes I have the feeling that I can do crystal meth but then I think, mmm, better not.” og “Release the Kraken!”, leverer hun minneverdige sitater som ikke kommer til å gå i glemmeboken med det første.
     <a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/6-1-2/" rel="attachment wp-att-10192">
-    <img class="alignnone size-large wp-image-10192" src="//filmbloggen.net/wp-content/uploads//2013/03/6-1-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
+    <img class="alignnone size-large wp-image-10192" src="/wp-content/uploads//2013/03/6-1-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
     </a><strong>Foto: UIP</strong>
 
     <strong>Sett bort i fra fengende musikk og humoristiske kommentarer,</strong> er ikke filmen noe annet enn 112 minutter med tenåringsdrama og en jentes søken etter å kunne åpne seg for andre. Det er lite spenning, til og med når jentene skal delta på konkurranse, og avslutningen kommer så fort at jeg satt igjen og lurte på hva som egentlig hadde skjedd. Det er umulig å ikke sammenligne Pitch Perfect med Bill Dukes Sister Act 2 fra 1993. Begge har en frontfigur som er litt utenom det vanlige, begge har flotte innslag av musikk og begge har en humoristisk dialog. Selv om Pitch Perfect ikke er i nærheten av å bli en ny Sister Act 2, syns jeg Moore har levert en grei film.
@@ -226,7 +226,7 @@ meta:
     <strong>Sjanger:</strong> Komedie, romantikk, musikk
     <strong>Skuespillere:</strong> Anna Kendrick, Brittany Snow, Rebel Wilson, Christopher Mintz-Plasse, Anna Camp, Adam DeVine, Alexis Knapp, Freddie Stroma, Skylar Astin, Brittney Alger, Jacob Wysocki
 
-    <strong><a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/3-5/" rel="attachment wp-att-10203"><img class="alignnone size-large wp-image-10203" src="//filmbloggen.net/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
+    <strong><a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/3-5/" rel="attachment wp-att-10203"><img class="alignnone size-large wp-image-10203" src="/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
     </a>Foto: UIP</strong>
 
     <strong>Beca (spilt av Anna Kendrick) er en tenåring som skal begynne på universitet,</strong> selv om hennes egentlige planer er å flytte til Los Angeles for å produsere musikk. Etter streng beskjed fra hennes far, skal Beca prøve å engasjere seg i universitetslivet for å få venner og nye opplevelser. Hun blir etter hvert medlem i et kvinnelig a cappella kor kalt The Barden Bellas, ledet av perfeksjonisten Aubrey (Anna Camp).
@@ -237,7 +237,7 @@ meta:
 
     <strong>Karakterene i filmen er noe bisarre, men hovedpersonene spiller ut rollene sine godt. </strong>Anna Kendrick er veldig selvsikker og lever ut rollen uten problem. Dialogen er det heller ikke noe å utsette på. Manusforfatter Kay Cannon (skribent for 30 rock og New Girl) har porsjonert ut nok ironi og humoristiske utsagn til alle, men ingen får det til like bra som Fat Amy (Rebel Wilson). Wilson som tidligere er kjent fra ”Bridesmaids” leverer så det suser i denne filmen. Med kommentarer som ”You are gonna get pitch slapped so hard that your man boobs are gonna go concave.”, “Sometimes I have the feeling that I can do crystal meth but then I think, mmm, better not.” og “Release the Kraken!”, leverer hun minneverdige sitater som ikke kommer til å gå i glemmeboken med det første.
     <a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/6-1-2/" rel="attachment wp-att-10192">
-    <img class="alignnone size-large wp-image-10192" src="//filmbloggen.net/wp-content/uploads//2013/03/6-1-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
+    <img class="alignnone size-large wp-image-10192" src="/wp-content/uploads//2013/03/6-1-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
     </a><strong>Foto: UIP</strong>
 
     <strong>Sett bort i fra fengende musikk og humoristiske kommentarer,</strong> er ikke filmen noe annet enn 112 minutter med tenåringsdrama og en jentes søken etter å kunne åpne seg for andre. Det er lite spenning, til og med når jentene skal delta på konkurranse, og avslutningen kommer så fort at jeg satt igjen og lurte på hva som egentlig hadde skjedd. Det er umulig å ikke sammenligne Pitch Perfect med Bill Dukes Sister Act 2 fra 1993. Begge har en frontfigur som er litt utenom det vanlige, begge har flotte innslag av musikk og begge har en humoristisk dialog. Selv om Pitch Perfect ikke er i nærheten av å bli en ny Sister Act 2, syns jeg Moore har levert en grei film.
@@ -252,7 +252,7 @@ meta:
     <strong>Sjanger:</strong> Komedie, romantikk, musikk
     <strong>Skuespillere:</strong> Anna Kendrick, Brittany Snow, Rebel Wilson, Christopher Mintz-Plasse, Anna Camp, Adam DeVine, Alexis Knapp, Freddie Stroma, Skylar Astin, Brittney Alger, Jacob Wysocki
 
-    <strong><a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/3-5/" rel="attachment wp-att-10203"><img class="alignnone size-large wp-image-10203" src="//filmbloggen.net/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
+    <strong><a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/3-5/" rel="attachment wp-att-10203"><img class="alignnone size-large wp-image-10203" src="/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
     </a>Foto: UIP</strong>
 
     <strong>Beca (spilt av Anna Kendrick) er en tenåring som skal begynne på universitet,</strong> selv om hennes egentlige planer er å flytte til Los Angeles for å produsere musikk. Etter streng beskjed fra hennes far, skal Beca prøve å engasjere seg i universitetslivet for å få venner og nye opplevelser. Hun blir etter hvert medlem i et kvinnelig a cappella kor kalt The Barden Bellas, ledet av perfeksjonisten Aubrey (Anna Camp).
@@ -263,7 +263,7 @@ meta:
 
     <strong>Karakterene i filmen er noe bisarre, men hovedpersonene spiller ut rollene sine godt. </strong>Anna Kendrick er veldig selvsikker og lever ut rollen uten problem. Dialogen er det heller ikke noe å utsette på. Manusforfatter Kay Cannon (skribent for 30 rock og New Girl) har porsjonert ut nok ironi og humoristiske utsagn til alle, men ingen får det til like bra som Fat Amy (Rebel Wilson). Wilson som tidligere er kjent fra ”Bridesmaids” leverer så det suser i denne filmen. Med kommentarer som ”You are gonna get pitch slapped so hard that your man boobs are gonna go concave.”, “Sometimes I have the feeling that I can do crystal meth but then I think, mmm, better not.” og “Release the Kraken!”, leverer hun minneverdige sitater som ikke kommer til å gå i glemmeboken med det første.
     <a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/6-1-2/" rel="attachment wp-att-10192">
-    <img class="alignnone size-large wp-image-10192" src="//filmbloggen.net/wp-content/uploads//2013/03/6-1-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
+    <img class="alignnone size-large wp-image-10192" src="/wp-content/uploads//2013/03/6-1-620x310.jpg" alt="Foto: UIP" width="620" height="310" />
     </a><strong>Foto: UIP</strong>
 
     <strong>Sett bort i fra fengende musikk og humoristiske kommentarer,</strong> er ikke filmen noe annet enn 112 minutter med tenåringsdrama og en jentes søken etter å kunne åpne seg for andre. Det er lite spenning, til og med når jentene skal delta på konkurranse, og avslutningen kommer så fort at jeg satt igjen og lurte på hva som egentlig hadde skjedd. Det er umulig å ikke sammenligne Pitch Perfect med Bill Dukes Sister Act 2 fra 1993. Begge har en frontfigur som er litt utenom det vanlige, begge har flotte innslag av musikk og begge har en humoristisk dialog. Selv om Pitch Perfect ikke er i nærheten av å bli en ny Sister Act 2, syns jeg Moore har levert en grei film.
@@ -299,7 +299,7 @@ tags:
 **Sjanger:** Komedie, romantikk, musikk
 **Skuespillere:** Anna Kendrick, Brittany Snow, Rebel Wilson, Christopher Mintz-Plasse, Anna Camp, Adam DeVine, Alexis Knapp, Freddie Stroma, Skylar Astin, Brittney Alger, Jacob Wysocki
 
-**<a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/3-5/" rel="attachment wp-att-10203"><img class="alignnone size-large wp-image-10203" src="//filmbloggen.net/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" /><br /> </a>Foto: UIP**
+**<a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/3-5/" rel="attachment wp-att-10203"><img class="alignnone size-large wp-image-10203" src="/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" /><br /> </a>Foto: UIP**
 
 **Beca (spilt av Anna Kendrick) er en tenåring som skal begynne på universitet,** selv om hennes egentlige planer er å flytte til Los Angeles for å produsere musikk. Etter streng beskjed fra hennes far, skal Beca prøve å engasjere seg i universitetslivet for å få venner og nye opplevelser. Hun blir etter hvert medlem i et kvinnelig a cappella kor kalt The Barden Bellas, ledet av perfeksjonisten Aubrey (Anna Camp).
 
@@ -308,7 +308,7 @@ tags:
 **Filmen er regissørdebuten til Jason Moore,** som med tidligere erfaring fra Broadway sørger for at den musikalske delen går knirkefritt. Det meste av syngingen er faktisk så bra at noen deler av filmen, blant annet ”riff-off” scenen, godt kunne vart litt lenger. A ca-scuse me? Du hørte riktig. Selv om jeg ikke er en fan av Glee, syns jeg innslagene av musikk gir et friskt pust til det ellers noe monotone og forutsigbare hendelsesforløpet.
 
 **Karakterene i filmen er noe bisarre, men hovedpersonene spiller ut rollene sine godt.** Anna Kendrick er veldig selvsikker og lever ut rollen uten problem. Dialogen er det heller ikke noe å utsette på. Manusforfatter Kay Cannon (skribent for 30 rock og New Girl) har porsjonert ut nok ironi og humoristiske utsagn til alle, men ingen får det til like bra som Fat Amy (Rebel Wilson). Wilson som tidligere er kjent fra ”Bridesmaids” leverer så det suser i denne filmen. Med kommentarer som ”You are gonna get pitch slapped so hard that your man boobs are gonna go concave.”, “Sometimes I have the feeling that I can do crystal meth but then I think, mmm, better not.” og “Release the Kraken!”, leverer hun minneverdige sitater som ikke kommer til å gå i glemmeboken med det første.
-<a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/6-1-2/" rel="attachment wp-att-10192"><br /> <img class="alignnone size-large wp-image-10192" src="//filmbloggen.net/wp-content/uploads//2013/03/6-1-620x310.jpg" alt="Foto: UIP" width="620" height="310" /><br /> </a>**Foto: UIP**
+<a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/6-1-2/" rel="attachment wp-att-10192"><br /> <img class="alignnone size-large wp-image-10192" src="/wp-content/uploads//2013/03/6-1-620x310.jpg" alt="Foto: UIP" width="620" height="310" /><br /> </a>**Foto: UIP**
 
 **Sett bort i fra fengende musikk og humoristiske kommentarer,** er ikke filmen noe annet enn 112 minutter med tenåringsdrama og en jentes søken etter å kunne åpne seg for andre. Det er lite spenning, til og med når jentene skal delta på konkurranse, og avslutningen kommer så fort at jeg satt igjen og lurte på hva som egentlig hadde skjedd. Det er umulig å ikke sammenligne Pitch Perfect med Bill Dukes Sister Act 2 fra 1993. Begge har en frontfigur som er litt utenom det vanlige, begge har flotte innslag av musikk og begge har en humoristisk dialog. Selv om Pitch Perfect ikke er i nærheten av å bli en ny Sister Act 2, syns jeg Moore har levert en grei film.
 

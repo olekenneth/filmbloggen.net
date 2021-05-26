@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> Jason Biggs, Alyson Hannigan, Chris Klein, Thomas Ian Nicholas, Tara Reid, Seann William Scott, Mena Suvari, Eddie Kaye Thomas, Eugene Levy, Jennifer Coolidge, Dania Ramirez, John Cho.
     <strong>Spilletid:</strong> 1 time og 43 minutter
 
-    <a href="//filmbloggen.net/2012/07/04/unodvendig-gjensyn-i-american-reunion/american-reunion-pic/" rel="attachment wp-att-4683"><img class="alignnone size-large wp-image-4683" src="//filmbloggen.net/wp-content/uploads//2012/07/american-reunion-pic-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/04/unodvendig-gjensyn-i-american-reunion/american-reunion-pic/" rel="attachment wp-att-4683"><img class="alignnone size-large wp-image-4683" src="/wp-content/uploads//2012/07/american-reunion-pic-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Årene har gått siden gjengen så hverandre sist, de har jobber og sine egne livserfaringer å dele - noen av dem er spennende, andre er dølle. Det blir som sagt en del mimring om High-School og ville fester. Stifler ønsker helst å leve livet sitt etter normer og regler fra den elleville ungdomstiden; de andre derimot har vokst opp, noen av dem har til og med familie. Alle møtes med dilemmaer i sammenknytning med hva de opplevde den gang og spørsmålet blir da: Hvordan skal de håndtere det nå?
 
@@ -61,7 +61,7 @@ post_content:
     <strong>Skuespillere:</strong> Jason Biggs, Alyson Hannigan, Chris Klein, Thomas Ian Nicholas, Tara Reid, Seann William Scott, Mena Suvari, Eddie Kaye Thomas, Eugene Levy, Jennifer Coolidge, Dania Ramirez, John Cho.
     <strong>Spilletid:</strong> 1 time og 43 minutter
 
-    <a href="//filmbloggen.net/2012/07/04/unodvendig-gjensyn-i-american-reunion/american-reunion-pic/" rel="attachment wp-att-4683"><img class="alignnone size-large wp-image-4683" src="//filmbloggen.net/wp-content/uploads//2012/07/american-reunion-pic-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/04/unodvendig-gjensyn-i-american-reunion/american-reunion-pic/" rel="attachment wp-att-4683"><img class="alignnone size-large wp-image-4683" src="/wp-content/uploads//2012/07/american-reunion-pic-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Årene har gått siden gjengen så hverandre sist, de har jobber og sine egne livserfaringer å dele - noen av dem er spennende, andre er dølle. Det blir som sagt en del mimring om High-School og ville fester. Stifler ønsker helst å leve livet sitt etter normer og regler fra den elleville ungdomstiden; de andre derimot har vokst opp, noen av dem har til og med familie. Alle møtes med dilemmaer i sammenknytning med hva de opplevde den gang og spørsmålet blir da: Hvordan skal de håndtere det nå?
 
@@ -164,7 +164,7 @@ meta:
     <strong>Skuespillere:</strong> Jason Biggs, Alyson Hannigan, Chris Klein, Thomas Ian Nicholas, Tara Reid, Seann William Scott, Mena Suvari, Eddie Kaye Thomas, Eugene Levy, Jennifer Coolidge, Dania Ramirez, John Cho.
     <strong>Spilletid:</strong> 1 time og 43 minutter
 
-    <a href="//filmbloggen.net/2012/07/04/unodvendig-gjensyn-i-american-reunion/american-reunion-pic/" rel="attachment wp-att-4683"><img class="alignnone size-large wp-image-4683" src="//filmbloggen.net/wp-content/uploads//2012/07/american-reunion-pic-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/04/unodvendig-gjensyn-i-american-reunion/american-reunion-pic/" rel="attachment wp-att-4683"><img class="alignnone size-large wp-image-4683" src="/wp-content/uploads//2012/07/american-reunion-pic-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Årene har gått siden gjengen så hverandre sist, de har jobber og sine egne livserfaringer å dele - noen av dem er spennende, andre er dølle. Det blir som sagt en del mimring om High-School og ville fester. Stifler ønsker helst å leve livet sitt etter normer og regler fra den elleville ungdomstiden; de andre derimot har vokst opp, noen av dem har til og med familie. Alle møtes med dilemmaer i sammenknytning med hva de opplevde den gang og spørsmålet blir da: Hvordan skal de håndtere det nå?
 
@@ -184,7 +184,7 @@ meta:
     <strong>Skuespillere:</strong> Jason Biggs, Alyson Hannigan, Chris Klein, Thomas Ian Nicholas, Tara Reid, Seann William Scott, Mena Suvari, Eddie Kaye Thomas, Eugene Levy, Jennifer Coolidge, Dania Ramirez, John Cho.
     <strong>Spilletid:</strong> 1 time og 43 minutter
 
-    <a href="//filmbloggen.net/2012/07/04/unodvendig-gjensyn-i-american-reunion/american-reunion-pic/" rel="attachment wp-att-4683"><img class="alignnone size-large wp-image-4683" src="//filmbloggen.net/wp-content/uploads//2012/07/american-reunion-pic-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/04/unodvendig-gjensyn-i-american-reunion/american-reunion-pic/" rel="attachment wp-att-4683"><img class="alignnone size-large wp-image-4683" src="/wp-content/uploads//2012/07/american-reunion-pic-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Årene har gått siden gjengen så hverandre sist, de har jobber og sine egne livserfaringer å dele - noen av dem er spennende, andre er dølle. Det blir som sagt en del mimring om High-School og ville fester. Stifler ønsker helst å leve livet sitt etter normer og regler fra den elleville ungdomstiden; de andre derimot har vokst opp, noen av dem har til og med familie. Alle møtes med dilemmaer i sammenknytning med hva de opplevde den gang og spørsmålet blir da: Hvordan skal de håndtere det nå?
 
@@ -286,7 +286,7 @@ tags:
 **Skuespillere:** Jason Biggs, Alyson Hannigan, Chris Klein, Thomas Ian Nicholas, Tara Reid, Seann William Scott, Mena Suvari, Eddie Kaye Thomas, Eugene Levy, Jennifer Coolidge, Dania Ramirez, John Cho.
 **Spilletid:** 1 time og 43 minutter
 
-<a href="//filmbloggen.net/2012/07/04/unodvendig-gjensyn-i-american-reunion/american-reunion-pic/" rel="attachment wp-att-4683"><img class="alignnone size-large wp-image-4683" src="//filmbloggen.net/wp-content/uploads//2012/07/american-reunion-pic-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/07/04/unodvendig-gjensyn-i-american-reunion/american-reunion-pic/" rel="attachment wp-att-4683"><img class="alignnone size-large wp-image-4683" src="/wp-content/uploads//2012/07/american-reunion-pic-620x413.jpg" alt="" width="620" height="413" /></a>
 
 Årene har gått siden gjengen så hverandre sist, de har jobber og sine egne livserfaringer å dele – noen av dem er spennende, andre er dølle. Det blir som sagt en del mimring om High-School og ville fester. Stifler ønsker helst å leve livet sitt etter normer og regler fra den elleville ungdomstiden; de andre derimot har vokst opp, noen av dem har til og med familie. Alle møtes med dilemmaer i sammenknytning med hva de opplevde den gang og spørsmålet blir da: Hvordan skal de håndtere det nå?
 

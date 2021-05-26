@@ -106,7 +106,7 @@ content:
     <strong>Spilletid:</strong> </strong>1 time og 36 minutter<strong>
     <strong>Regissør: </strong></strong>Robert Luketic
     <strong>Med: </strong>Katherine Heigl, Ashton Kutcher, Catherine O'Hara, Tom Selleck, Martin Hull, Usher Raymond, Alex Borstein, Kevin Sussman, Lisa Ann Walter, Katheryn Winnick, Rob Riggle, Casey Wilson, Letoya Luckett
-    <img class="alignnone size-large wp-image-2859" src="//filmbloggen.net/wp-content/uploads//2012/03/killers-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-2859" src="/wp-content/uploads//2012/03/killers-620x413.jpg" alt="" width="620" height="413" />
     Jeg kan rett og slett ikke se for meg andre enn par som er ekstremt nyforelsket i hverandre like denne filmen. Killers har et usannsynlig kjedelig manus, dølle actionscener og dårlig humor. Cathrine Heigl er i hovedrollen sammen med Ashton Kutcher. Heigl har jo gjort sin karriere på Greys Anatomy og har siden det kun spilt romantisk komedier. Hun funker greit i filmen på grunn av hennes utseende og gjør det kurrant. Kutcher på sin side er "bånn i bøtta", som vi sier i Drammen. For meg så virker det som om han bare spilte i dette fordi han trengte pengene.
 
     Filmen ble lansert sommeren 2010 og selv om man tar med at en sommerfilm gjerne kan være enkel og lett så holder ikke det her. Jeg vil gjerne slenge med sitatet til Jon Selås, som er VGs filmanmelder, om Killers:
@@ -176,7 +176,7 @@ post_content:
     <strong>Spilletid:</strong> </strong>1 time og 36 minutter<strong>
     <strong>Regissør: </strong></strong>Robert Luketic
     <strong>Med: </strong>Katherine Heigl, Ashton Kutcher, Catherine O'Hara, Tom Selleck, Martin Hull, Usher Raymond, Alex Borstein, Kevin Sussman, Lisa Ann Walter, Katheryn Winnick, Rob Riggle, Casey Wilson, Letoya Luckett
-    <img class="alignnone size-large wp-image-2859" src="//filmbloggen.net/wp-content/uploads//2012/03/killers-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-2859" src="/wp-content/uploads//2012/03/killers-620x413.jpg" alt="" width="620" height="413" />
     Jeg kan rett og slett ikke se for meg andre enn par som er ekstremt nyforelsket i hverandre like denne filmen. Killers har et usannsynlig kjedelig manus, dølle actionscener og dårlig humor. Cathrine Heigl er i hovedrollen sammen med Ashton Kutcher. Heigl har jo gjort sin karriere på Greys Anatomy og har siden det kun spilt romantisk komedier. Hun funker greit i filmen på grunn av hennes utseende og gjør det kurrant. Kutcher på sin side er "bånn i bøtta", som vi sier i Drammen. For meg så virker det som om han bare spilte i dette fordi han trengte pengene.
 
     Filmen ble lansert sommeren 2010 og selv om man tar med at en sommerfilm gjerne kan være enkel og lett så holder ikke det her. Jeg vil gjerne slenge med sitatet til Jon Selås, som er VGs filmanmelder, om Killers:
@@ -198,7 +198,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 36 minutter<strong>
     <strong>Regissør: </strong></strong>Robert Luketic
     <strong>Med: </strong>Katherine Heigl, Ashton Kutcher, Catherine O'Hara, Tom Selleck, Martin Hull, Usher Raymond, Alex Borstein, Kevin Sussman, Lisa Ann Walter, Katheryn Winnick, Rob Riggle, Casey Wilson, Letoya Luckett
-    <img class="alignnone size-large wp-image-2859" src="//filmbloggen.net/wp-content/uploads//2012/03/killers-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-2859" src="/wp-content/uploads//2012/03/killers-620x413.jpg" alt="" width="620" height="413" />
     Jeg kan rett og slett ikke se for meg andre enn par som er ekstremt nyforelsket i hverandre like denne filmen. Killers har et usannsynlig kjedelig manus, dølle actionscener og dårlig humor. Cathrine Heigl er i hovedrollen sammen med Ashton Kutcher. Heigl har jo gjort sin karriere på Greys Anatomy og har siden det kun spilt romantisk komedier. Hun funker greit i filmen på grunn av hennes utseende og gjør det kurrant. Kutcher på sin side er "bånn i bøtta", som vi sier i Drammen. For meg så virker det som om han bare spilte i dette fordi han trengte pengene.
 
     Filmen ble lansert sommeren 2010 og selv om man tar med at en sommerfilm gjerne kan være enkel og lett så holder ikke det her. Jeg vil gjerne slenge med sitatet til Jon Selås, som er VGs filmanmelder, om Killers:
@@ -211,7 +211,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 36 minutter<strong>
     <strong>Regissør: </strong></strong>Robert Luketic
     <strong>Med: </strong>Katherine Heigl, Ashton Kutcher, Catherine O'Hara, Tom Selleck, Martin Hull, Usher Raymond, Alex Borstein, Kevin Sussman, Lisa Ann Walter, Katheryn Winnick, Rob Riggle, Casey Wilson, Letoya Luckett
-    <img class="alignnone size-large wp-image-2859" src="//filmbloggen.net/wp-content/uploads//2012/03/killers-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-2859" src="/wp-content/uploads//2012/03/killers-620x413.jpg" alt="" width="620" height="413" />
     Jeg kan rett og slett ikke se for meg andre enn par som er ekstremt nyforelsket i hverandre like denne filmen. Killers har et usannsynlig kjedelig manus, dølle actionscener og dårlig humor. Cathrine Heigl er i hovedrollen sammen med Ashton Kutcher. Heigl har jo gjort sin karriere på Greys Anatomy og har siden det kun spilt romantisk komedier. Hun funker greit i filmen på grunn av hennes utseende og gjør det kurrant. Kutcher på sin side er "bånn i bøtta", som vi sier i Drammen. For meg så virker det som om han bare spilte i dette fordi han trengte pengene.
 
     Filmen ble lansert sommeren 2010 og selv om man tar med at en sommerfilm gjerne kan være enkel og lett så holder ikke det her. Jeg vil gjerne slenge med sitatet til Jon Selås, som er VGs filmanmelder, om Killers:
@@ -255,7 +255,7 @@ tags:
 **Spilletid:** **1 time og 36 minutter**
 **Regissør: ****Robert Luketic
 **Med: **Katherine Heigl, Ashton Kutcher, Catherine O’Hara, Tom Selleck, Martin Hull, Usher Raymond, Alex Borstein, Kevin Sussman, Lisa Ann Walter, Katheryn Winnick, Rob Riggle, Casey Wilson, Letoya Luckett
-<img class="alignnone size-large wp-image-2859" src="//filmbloggen.net/wp-content/uploads//2012/03/killers-620x413.jpg" alt="" width="620" height="413" />
+<img class="alignnone size-large wp-image-2859" src="/wp-content/uploads//2012/03/killers-620x413.jpg" alt="" width="620" height="413" />
 Jeg kan rett og slett ikke se for meg andre enn par som er ekstremt nyforelsket i hverandre like denne filmen. Killers har et usannsynlig kjedelig manus, dølle actionscener og dårlig humor. Cathrine Heigl er i hovedrollen sammen med Ashton Kutcher. Heigl har jo gjort sin karriere på Greys Anatomy og har siden det kun spilt romantisk komedier. Hun funker greit i filmen på grunn av hennes utseende og gjør det kurrant. Kutcher på sin side er «bånn i bøtta», som vi sier i Drammen. For meg så virker det som om han bare spilte i dette fordi han trengte pengene.
 
 Filmen ble lansert sommeren 2010 og selv om man tar med at en sommerfilm gjerne kan være enkel og lett så holder ikke det her. Jeg vil gjerne slenge med sitatet til Jon Selås, som er VGs filmanmelder, om Killers:

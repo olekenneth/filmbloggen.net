@@ -98,7 +98,7 @@ content:
   - |
     <strong>Arme Riddere er basert på historien til Norges største krimforfatter, Jo Nesbø, og har premiere 2. desember i år.  Historien handler om fire karer som sammen fikk tolv rette i tipping og 1.739.361 kr i fanget. Pengene skulle vise seg å være vanskelig å dele på fire. </strong>
 
-    <img class="alignnone size-large wp-image-1217" title="ArmeRiddere" src="//filmbloggen.net/wp-content/uploads//2011/09/ArmeRiddere-620x387.jpg" alt="" width="620" height="387" />
+    <img class="alignnone size-large wp-image-1217" title="ArmeRiddere" src="/wp-content/uploads//2011/09/ArmeRiddere-620x387.jpg" alt="" width="620" height="387" />
 
     Orginaltittel: Arme Riddere
     Regi: Magnus Martens
@@ -169,7 +169,7 @@ post_content:
   - |
     <strong>Arme Riddere er basert på historien til Norges største krimforfatter, Jo Nesbø, og har premiere 2. desember i år.  Historien handler om fire karer som sammen fikk tolv rette i tipping og 1.739.361 kr i fanget. Pengene skulle vise seg å være vanskelig å dele på fire. </strong>
 
-    <img class="alignnone size-large wp-image-1217" title="ArmeRiddere" src="//filmbloggen.net/wp-content/uploads//2011/09/ArmeRiddere-620x387.jpg" alt="" width="620" height="387" />
+    <img class="alignnone size-large wp-image-1217" title="ArmeRiddere" src="/wp-content/uploads//2011/09/ArmeRiddere-620x387.jpg" alt="" width="620" height="387" />
 
     Orginaltittel: Arme Riddere
     Regi: Magnus Martens
@@ -198,7 +198,7 @@ meta:
   - |
     a:71:{i:9059;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:9038;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:9088;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:9047;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"06fd16ea70";}i:9045;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:9049;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"98fca0db38";}i:9089;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:9081;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1877:"<strong>Arme Riddere er basert på historien til Norges største krimforfatter, Jo Nesbø, og har premiere 2. desember i år.  Historien handler om fire karer som sammen fikk tolv rette i tipping og 1.739.361 kr i fanget. Pengene skulle vise seg å være vanskelig å dele på fire. </strong>
 
-    <a href="//filmbloggen.net/?attachment_id=1214" rel="attachment wp-att-1214"><img class="alignleft size-medium wp-image-1214" title="arme riddere" src="//filmbloggen.net/wp-content/uploads//2011/09/arme-riddere-300x123.jpg" alt="" width="300" height="123" /></a>
+    <a href="//filmbloggen.net/?attachment_id=1214" rel="attachment wp-att-1214"><img class="alignleft size-medium wp-image-1214" title="arme riddere" src="/wp-content/uploads//2011/09/arme-riddere-300x123.jpg" alt="" width="300" height="123" /></a>
 
 
 
@@ -222,7 +222,7 @@ meta:
 
     Denne filmen er basert på en historie av Jo Nesbø du ikke har lest.";}i:9068;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:9070;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"19";}i:9066;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"29";}i:9064;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"09";}i:9072;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"04";}i:9092;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:9082;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:9060;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"19";}i:9067;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:9069;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"19";}i:9065;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"29";}i:9063;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"09";}i:9071;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"04";}i:9053;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:9051;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:9054;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:9109;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"1213";}i:9057;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"29";}i:9048;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"cb993e69b1";}i:9085;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:9084;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:9086;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:9058;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"09";}i:9061;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"04";}i:9039;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:9042;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:10:"auto-draft";}i:9073;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:9090;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:9040;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"4";}i:9110;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1877:"<strong>Arme Riddere er basert på historien til Norges største krimforfatter, Jo Nesbø, og har premiere 2. desember i år.  Historien handler om fire karer som sammen fikk tolv rette i tipping og 1.739.361 kr i fanget. Pengene skulle vise seg å være vanskelig å dele på fire. </strong>
 
-    <a href="//filmbloggen.net/?attachment_id=1214" rel="attachment wp-att-1214"><img class="alignleft size-medium wp-image-1214" title="arme riddere" src="//filmbloggen.net/wp-content/uploads//2011/09/arme-riddere-300x123.jpg" alt="" width="300" height="123" /></a>
+    <a href="//filmbloggen.net/?attachment_id=1214" rel="attachment wp-att-1214"><img class="alignleft size-medium wp-image-1214" title="arme riddere" src="/wp-content/uploads//2011/09/arme-riddere-300x123.jpg" alt="" width="300" height="123" /></a>
 
 
 
@@ -263,7 +263,7 @@ tags:
 ---
 **Arme Riddere er basert på historien til Norges største krimforfatter, Jo Nesbø, og har premiere 2. desember i år.  Historien handler om fire karer som sammen fikk tolv rette i tipping og 1.739.361 kr i fanget. Pengene skulle vise seg å være vanskelig å dele på fire. **
 
-<img class="alignnone size-large wp-image-1217" title="ArmeRiddere" src="//filmbloggen.net/wp-content/uploads//2011/09/ArmeRiddere-620x387.jpg" alt="" width="620" height="387" />
+<img class="alignnone size-large wp-image-1217" title="ArmeRiddere" src="/wp-content/uploads//2011/09/ArmeRiddere-620x387.jpg" alt="" width="620" height="387" />
 
 Orginaltittel: Arme Riddere
 Regi: Magnus Martens

@@ -109,7 +109,7 @@ content:
     <strong>Manus:</strong> Christopher Nolan / Jonathan Nolan
     <strong>Skuespillere:</strong> Christian Bale, Michael Caine, Gary Oldman, Tom Hardy, Anne Hathaway, Joseph Gordon-Levitt, Marion Cotillard, Morgan Freeman
 
-    <img class="alignnone size-large wp-image-5339" src="//filmbloggen.net/wp-content/uploads//2012/07/16-620x310.jpg" alt="" width="620" height="310" />
+    <img class="alignnone size-large wp-image-5339" src="/wp-content/uploads//2012/07/16-620x310.jpg" alt="" width="620" height="310" />
     <em>Foto: Sony Pictures</em>
 
     The Dark Knight Rises tar plass 8 år etter The Dark Knight, hvor Batman tok på seg skylden for Harvey Dents kriminelle handlinger, så hans visjon kunne leve videre og holde organisert kriminalitet unna Gothams gater. Byen har da klart seg uten den maskerte mannen i så mange år, men når den psykotiske Bane kommer på besøk må Bruce og Batman møte livet på nytt.
@@ -191,7 +191,7 @@ post_content:
     <strong>Manus:</strong> Christopher Nolan / Jonathan Nolan
     <strong>Skuespillere:</strong> Christian Bale, Michael Caine, Gary Oldman, Tom Hardy, Anne Hathaway, Joseph Gordon-Levitt, Marion Cotillard, Morgan Freeman
 
-    <img class="alignnone size-large wp-image-5339" src="//filmbloggen.net/wp-content/uploads//2012/07/16-620x310.jpg" alt="" width="620" height="310" />
+    <img class="alignnone size-large wp-image-5339" src="/wp-content/uploads//2012/07/16-620x310.jpg" alt="" width="620" height="310" />
     <em>Foto: Sony Pictures</em>
 
     The Dark Knight Rises tar plass 8 år etter The Dark Knight, hvor Batman tok på seg skylden for Harvey Dents kriminelle handlinger, så hans visjon kunne leve videre og holde organisert kriminalitet unna Gothams gater. Byen har da klart seg uten den maskerte mannen i så mange år, men når den psykotiske Bane kommer på besøk må Bruce og Batman møte livet på nytt.
@@ -223,7 +223,7 @@ meta:
     <strong>Manus:</strong> Christopher Nolan / Jonathan Nolan
     <strong>Skuespillere:</strong> Christian Bale, Michael Caine, Gary Oldman, Tom Hardy, Anne Hathaway, Joseph Gordon-Levitt, Marion Cotillard, Morgan Freeman
 
-    <a href="//filmbloggen.net/2012/07/24/blockbuster-kunst-i-the-dark-knight-rises/dark-knight-rises-2/" rel="attachment wp-att-5339"><img class="alignnone size-large wp-image-5339" src="//filmbloggen.net/wp-content/uploads//2012/07/16-620x310.jpg" alt="" width="620" height="310" /></a>
+    <a href="//filmbloggen.net/2012/07/24/blockbuster-kunst-i-the-dark-knight-rises/dark-knight-rises-2/" rel="attachment wp-att-5339"><img class="alignnone size-large wp-image-5339" src="/wp-content/uploads//2012/07/16-620x310.jpg" alt="" width="620" height="310" /></a>
 
     The Dark Knight Rises tar plass 8 år etter The Dark Knight, hvor Batman tok på seg skylden for Harvey Dents kriminelle handlinger, så hans visjon kunne leve videre og holde organisert kriminalitet unna Gothams gater. Byen har da klart seg uten den maskerte mannen i så mange år, men når den psykotiske Bane kommer på besøk må Bruce og Batman møte livet på nytt.
 
@@ -247,7 +247,7 @@ meta:
     <strong>Manus:</strong> Christopher Nolan / Jonathan Nolan
     <strong>Skuespillere:</strong> Christian Bale, Michael Caine, Gary Oldman, Tom Hardy, Anne Hathaway, Joseph Gordon-Levitt, Marion Cotillard, Morgan Freeman
 
-    <a href="//filmbloggen.net/2012/07/24/blockbuster-kunst-i-the-dark-knight-rises/dark-knight-rises-2/" rel="attachment wp-att-5339"><img class="alignnone size-large wp-image-5339" src="//filmbloggen.net/wp-content/uploads//2012/07/16-620x310.jpg" alt="" width="620" height="310" /></a>
+    <a href="//filmbloggen.net/2012/07/24/blockbuster-kunst-i-the-dark-knight-rises/dark-knight-rises-2/" rel="attachment wp-att-5339"><img class="alignnone size-large wp-image-5339" src="/wp-content/uploads//2012/07/16-620x310.jpg" alt="" width="620" height="310" /></a>
 
     The Dark Knight Rises tar plass 8 år etter The Dark Knight, hvor Batman tok på seg skylden for Harvey Dents kriminelle handlinger, så hans visjon kunne leve videre og holde organisert kriminalitet unna Gothams gater. Byen har da klart seg uten den maskerte mannen i så mange år, men når den psykotiske Bane kommer på besøk må Bruce og Batman møte livet på nytt.
 
@@ -306,7 +306,7 @@ tags:
 **Manus:** Christopher Nolan / Jonathan Nolan
 **Skuespillere:** Christian Bale, Michael Caine, Gary Oldman, Tom Hardy, Anne Hathaway, Joseph Gordon-Levitt, Marion Cotillard, Morgan Freeman
 
-<img class="alignnone size-large wp-image-5339" src="//filmbloggen.net/wp-content/uploads//2012/07/16-620x310.jpg" alt="" width="620" height="310" />
+<img class="alignnone size-large wp-image-5339" src="/wp-content/uploads//2012/07/16-620x310.jpg" alt="" width="620" height="310" />
 _Foto: Sony Pictures_
 
 The Dark Knight Rises tar plass 8 år etter The Dark Knight, hvor Batman tok på seg skylden for Harvey Dents kriminelle handlinger, så hans visjon kunne leve videre og holde organisert kriminalitet unna Gothams gater. Byen har da klart seg uten den maskerte mannen i så mange år, men når den psykotiske Bane kommer på besøk må Bruce og Batman møte livet på nytt.

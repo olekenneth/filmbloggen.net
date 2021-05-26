@@ -106,7 +106,7 @@ content:
     <strong>Spilletid:</strong> 1 time og 46 minutter
     <strong>Kategori:</strong> Animasjon / Komedie
     <strong>Regissør:</strong> John Lasseter, Brad Lewis
-    <strong>Med (originale stemmer):</strong> Owen Wilson, Michael Caine, Emily Mortimer, Michael Keaton, Jason Isaacs, Bruce Campbell<a href="//filmbloggen.net/2011/10/12/kjorer-over-forventningene/cars-2/" rel="attachment wp-att-1408"><img class="alignnone size-large wp-image-1408" src="//filmbloggen.net/wp-content/uploads//2011/10/jbhdyxr11-620x299.jpg" alt="" width="620" height="299" /></a>
+    <strong>Med (originale stemmer):</strong> Owen Wilson, Michael Caine, Emily Mortimer, Michael Keaton, Jason Isaacs, Bruce Campbell<a href="//filmbloggen.net/2011/10/12/kjorer-over-forventningene/cars-2/" rel="attachment wp-att-1408"><img class="alignnone size-large wp-image-1408" src="/wp-content/uploads//2011/10/jbhdyxr11-620x299.jpg" alt="" width="620" height="299" /></a>
 
     Film nummer en i Cars-serien hadde premiere i 2006, og spilte inn nærmere en halv milliard dollar på kino. Filmen har siden den gang blitt oversatt til alt fra russisk til kinesisk, og først i år valgte Disney å smelle til med en oppfølger. Biler 2 begynner på samme sted som originalen, i den lille byen Radiator Springs. Mennesker eksisterer ikke i dette universet. Biler prater, klemmer, jobber og lekker olje når de gjør sitt fornødende.
 
@@ -185,7 +185,7 @@ post_content:
     <strong>Spilletid:</strong> 1 time og 46 minutter
     <strong>Kategori:</strong> Animasjon / Komedie
     <strong>Regissør:</strong> John Lasseter, Brad Lewis
-    <strong>Med (originale stemmer):</strong> Owen Wilson, Michael Caine, Emily Mortimer, Michael Keaton, Jason Isaacs, Bruce Campbell<a href="//filmbloggen.net/2011/10/12/kjorer-over-forventningene/cars-2/" rel="attachment wp-att-1408"><img class="alignnone size-large wp-image-1408" src="//filmbloggen.net/wp-content/uploads//2011/10/jbhdyxr11-620x299.jpg" alt="" width="620" height="299" /></a>
+    <strong>Med (originale stemmer):</strong> Owen Wilson, Michael Caine, Emily Mortimer, Michael Keaton, Jason Isaacs, Bruce Campbell<a href="//filmbloggen.net/2011/10/12/kjorer-over-forventningene/cars-2/" rel="attachment wp-att-1408"><img class="alignnone size-large wp-image-1408" src="/wp-content/uploads//2011/10/jbhdyxr11-620x299.jpg" alt="" width="620" height="299" /></a>
 
     Film nummer en i Cars-serien hadde premiere i 2006, og spilte inn nærmere en halv milliard dollar på kino. Filmen har siden den gang blitt oversatt til alt fra russisk til kinesisk, og først i år valgte Disney å smelle til med en oppfølger. Biler 2 begynner på samme sted som originalen, i den lille byen Radiator Springs. Mennesker eksisterer ikke i dette universet. Biler prater, klemmer, jobber og lekker olje når de gjør sitt fornødende.
 
@@ -222,7 +222,7 @@ meta:
     <strong>Spilletid:</strong> 1 time og 46 minutter
     <strong>Kategori:</strong> Animasjon / Komedie
     <strong>Regissør:</strong> John Lasseter, Brad Lewis
-    <strong>Med (originale stemmer):</strong> Owen Wilson, Michael Caine, Emily Mortimer, Michael Keaton, Jason Isaacs, Bruce Campbell<a href="//filmbloggen.net/2011/10/12/kjorer-over-forventningene/cars-2/" rel="attachment wp-att-1408"><img class="alignnone size-large wp-image-1408" src="//filmbloggen.net/wp-content/uploads//2011/10/jbhdyxr11-620x299.jpg" alt="" width="620" height="299" /></a>
+    <strong>Med (originale stemmer):</strong> Owen Wilson, Michael Caine, Emily Mortimer, Michael Keaton, Jason Isaacs, Bruce Campbell<a href="//filmbloggen.net/2011/10/12/kjorer-over-forventningene/cars-2/" rel="attachment wp-att-1408"><img class="alignnone size-large wp-image-1408" src="/wp-content/uploads//2011/10/jbhdyxr11-620x299.jpg" alt="" width="620" height="299" /></a>
 
     Film nummer en i Cars-serien hadde premiere i 2006, og spilte inn nærmere en halv milliard dollar på kino. Filmen har siden den gang blitt oversatt til alt fra russisk til kinesisk, og først i år valgte Disney å smelle til med en oppfølger. Biler 2 begynner på samme sted som originalen, i den lille byen Radiator Springs. Mennesker eksisterer ikke i dette universet. Biler prater, klemmer, jobber og lekker olje når de gjør sitt fornødende.
 
@@ -246,7 +246,7 @@ meta:
     <strong>Spilletid:</strong> 1 time og 46 minutter
     <strong>Kategori:</strong> Animasjon / Komedie
     <strong>Regissør:</strong> John Lasseter, Brad Lewis
-    <strong>Med (originale stemmer):</strong> Owen Wilson, Michael Caine, Emily Mortimer, Michael Keaton, Jason Isaacs, Bruce Campbell<a href="//filmbloggen.net/2011/10/12/kjorer-over-forventningene/cars-2/" rel="attachment wp-att-1408"><img class="alignnone size-large wp-image-1408" src="//filmbloggen.net/wp-content/uploads//2011/10/jbhdyxr11-620x299.jpg" alt="" width="620" height="299" /></a>
+    <strong>Med (originale stemmer):</strong> Owen Wilson, Michael Caine, Emily Mortimer, Michael Keaton, Jason Isaacs, Bruce Campbell<a href="//filmbloggen.net/2011/10/12/kjorer-over-forventningene/cars-2/" rel="attachment wp-att-1408"><img class="alignnone size-large wp-image-1408" src="/wp-content/uploads//2011/10/jbhdyxr11-620x299.jpg" alt="" width="620" height="299" /></a>
 
     Film nummer en i Cars-serien hadde premiere i 2006, og spilte inn nærmere en halv milliard dollar på kino. Filmen har siden den gang blitt oversatt til alt fra russisk til kinesisk, og først i år valgte Disney å smelle til med en oppfølger. Biler 2 begynner på samme sted som originalen, i den lille byen Radiator Springs. Mennesker eksisterer ikke i dette universet. Biler prater, klemmer, jobber og lekker olje når de gjør sitt fornødende.
 
@@ -299,7 +299,7 @@ tags:
   </p>
 
   <p>
-    <strong>Originaltittel:</strong> Cars 2<br /> <strong>Spilletid:</strong> 1 time og 46 minutter<br /> <strong>Kategori:</strong> Animasjon / Komedie<br /> <strong>Regissør:</strong> John Lasseter, Brad Lewis<br /> <strong>Med (originale stemmer):</strong> Owen Wilson, Michael Caine, Emily Mortimer, Michael Keaton, Jason Isaacs, Bruce Campbell<a href="//filmbloggen.net/2011/10/12/kjorer-over-forventningene/cars-2/" rel="attachment wp-att-1408"><img class="alignnone size-large wp-image-1408" src="//filmbloggen.net/wp-content/uploads//2011/10/jbhdyxr11-620x299.jpg" alt="" width="620" height="299" /></a>
+    <strong>Originaltittel:</strong> Cars 2<br /> <strong>Spilletid:</strong> 1 time og 46 minutter<br /> <strong>Kategori:</strong> Animasjon / Komedie<br /> <strong>Regissør:</strong> John Lasseter, Brad Lewis<br /> <strong>Med (originale stemmer):</strong> Owen Wilson, Michael Caine, Emily Mortimer, Michael Keaton, Jason Isaacs, Bruce Campbell<a href="//filmbloggen.net/2011/10/12/kjorer-over-forventningene/cars-2/" rel="attachment wp-att-1408"><img class="alignnone size-large wp-image-1408" src="/wp-content/uploads//2011/10/jbhdyxr11-620x299.jpg" alt="" width="620" height="299" /></a>
   </p>
 
   <p>

@@ -108,7 +108,7 @@ content:
     Manus: </strong>Woody Allen<strong>
     Skuespillere: </strong>Woody Allen, Alec Baldwin, Ellen Page, Jesse Eisenberg, Greta Gerwig, Roberto Benigni, Penélope Cruz, Alison Pill...
 
-    <a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/dlfcpbm4/" rel="attachment wp-att-4577"><img class="alignnone size-full wp-image-4577" src="//filmbloggen.net/wp-content/uploads//2012/06/dlfcpbm4.jpg" alt="" width="640" height="427" /></a>
+    <a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/dlfcpbm4/" rel="attachment wp-att-4577"><img class="alignnone size-full wp-image-4577" src="/wp-content/uploads//2012/06/dlfcpbm4.jpg" alt="" width="640" height="427" /></a>
 
     <em>Foto: Scanbox</em>
 
@@ -188,7 +188,7 @@ post_content:
     Manus: </strong>Woody Allen<strong>
     Skuespillere: </strong>Woody Allen, Alec Baldwin, Ellen Page, Jesse Eisenberg, Greta Gerwig, Roberto Benigni, Penélope Cruz, Alison Pill...
 
-    <a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/dlfcpbm4/" rel="attachment wp-att-4577"><img class="alignnone size-full wp-image-4577" src="//filmbloggen.net/wp-content/uploads//2012/06/dlfcpbm4.jpg" alt="" width="640" height="427" /></a>
+    <a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/dlfcpbm4/" rel="attachment wp-att-4577"><img class="alignnone size-full wp-image-4577" src="/wp-content/uploads//2012/06/dlfcpbm4.jpg" alt="" width="640" height="427" /></a>
 
     <em>Foto: Scanbox</em>
 
@@ -218,7 +218,7 @@ meta:
     Manus: </strong>Woody Allen<strong>
     Skuespillere: </strong>Woody Allen, Alec Baldwin, Ellen Page, Jesse Eisenberg, Greta Gerwig, Roberto Benigni, Penélope Cruz, Alison Pill...
 
-    <a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/dlfcpbm4/" rel="attachment wp-att-4577"><img class="alignnone size-full wp-image-4577" src="//filmbloggen.net/wp-content/uploads//2012/06/dlfcpbm4.jpg" alt="" width="640" height="427" /></a>
+    <a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/dlfcpbm4/" rel="attachment wp-att-4577"><img class="alignnone size-full wp-image-4577" src="/wp-content/uploads//2012/06/dlfcpbm4.jpg" alt="" width="640" height="427" /></a>
 
     <em>Foto: Scanbox</em>
 
@@ -265,7 +265,7 @@ meta:
     Manus: </strong>Woody Allen<strong>
     Skuespillere: </strong>Woody Allen, Alec Baldwin, Ellen Page, Jesse Eisenberg, Greta Gerwig, Roberto Benigni, Penélope Cruz, Alison Pill...
 
-    <a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/dlfcpbm4/" rel="attachment wp-att-4577"><img class="alignnone size-full wp-image-4577" src="//filmbloggen.net/wp-content/uploads//2012/06/dlfcpbm4.jpg" alt="" width="640" height="427" /></a>
+    <a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/dlfcpbm4/" rel="attachment wp-att-4577"><img class="alignnone size-full wp-image-4577" src="/wp-content/uploads//2012/06/dlfcpbm4.jpg" alt="" width="640" height="427" /></a>
 
     <em>Foto: Scanbox</em>
 
@@ -339,7 +339,7 @@ Regi:** Woody Allen**
 Manus:** Woody Allen**
 Skuespillere:** Woody Allen, Alec Baldwin, Ellen Page, Jesse Eisenberg, Greta Gerwig, Roberto Benigni, Penélope Cruz, Alison Pill…
 
-<a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/dlfcpbm4/" rel="attachment wp-att-4577"><img class="alignnone size-full wp-image-4577" src="//filmbloggen.net/wp-content/uploads//2012/06/dlfcpbm4.jpg" alt="" width="640" height="427" /></a>
+<a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/dlfcpbm4/" rel="attachment wp-att-4577"><img class="alignnone size-full wp-image-4577" src="/wp-content/uploads//2012/06/dlfcpbm4.jpg" alt="" width="640" height="427" /></a>
 
 _Foto: Scanbox_
 

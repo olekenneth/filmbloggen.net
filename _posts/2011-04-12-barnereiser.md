@@ -105,7 +105,7 @@ content:
     </strong>(Anmeldelse av Gulliver's Travels)<strong>
     </strong>
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/gulliver2.jpg"><img class="alignnone size-large wp-image-116" title="gulliver2" src="//filmbloggen.net/wp-content/uploads//2011/04/gulliver2-1024x576.jpg" alt="" width="620" height="348" /></a>
+    <a href="/wp-content/uploads//2011/04/gulliver2.jpg"><img class="alignnone size-large wp-image-116" title="gulliver2" src="/wp-content/uploads//2011/04/gulliver2-1024x576.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Originaltittel: </strong>Gulliver's Travels<strong>
     Kategori:</strong> Komedie
@@ -118,7 +118,7 @@ content:
 
     Jack Black spiller Lemuel Gulliver som jobber på postkontoret i en avis. En jobb han har hatt i 10 år. Han bruker dagene sine til å spille Guitar Hero og det er om å gjøre å være mest mulig usynlig (høres det kjent ut!?). Når han lurer til seg et oppdrag om å undersøke Bermuda-triangelet, ender han på mystisk vis opp i Lilleputtland.
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/gulliver.jpg"><img class="alignleft size-medium wp-image-117" title="Gulliver's Travels" src="//filmbloggen.net/wp-content/uploads//2011/04/gulliver-300x200.jpg" alt="" width="300" height="200" /></a>I Lilleputtland blir han plutselig en stor helt som er den mest kjente personen i landsbyen. Derfra og ut prøver Gulliver å finne på noe å gjøre i Lilleputtland. Og det han finner på er stort sett å være Jack Black: Det vil si å mumle halvmorsomme replikker (jeg lo og smilte noen ganger) og spontant å fremføre en sang eller to. Og jada, det kan være underholdende det så lenge du har noe annet som fenger interessen din, altså et godt manus eller andre skuespillere som gjøre noe ekstraordinært. Det har ikke denne filmen dessverre.
+    <a href="/wp-content/uploads//2011/04/gulliver.jpg"><img class="alignleft size-medium wp-image-117" title="Gulliver's Travels" src="/wp-content/uploads//2011/04/gulliver-300x200.jpg" alt="" width="300" height="200" /></a>I Lilleputtland blir han plutselig en stor helt som er den mest kjente personen i landsbyen. Derfra og ut prøver Gulliver å finne på noe å gjøre i Lilleputtland. Og det han finner på er stort sett å være Jack Black: Det vil si å mumle halvmorsomme replikker (jeg lo og smilte noen ganger) og spontant å fremføre en sang eller to. Og jada, det kan være underholdende det så lenge du har noe annet som fenger interessen din, altså et godt manus eller andre skuespillere som gjøre noe ekstraordinært. Det har ikke denne filmen dessverre.
 
     Så over til Jason Segel som er en av mine absolutt favorittskuespillere i komedier. Mye på grunn av at han er så konge i How i Met Your Mother. Han spiller konge både i I love you, man (forøvrig en av de morsomste filmene som er laget) og Forgetting Sarah Marshall. I denne filmen har han knapt en morsom replikk og han dør ut sammen med resten av filmen, dessverre.
 
@@ -185,7 +185,7 @@ post_content:
     </strong>(Anmeldelse av Gulliver's Travels)<strong>
     </strong>
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/gulliver2.jpg"><img class="alignnone size-large wp-image-116" title="gulliver2" src="//filmbloggen.net/wp-content/uploads//2011/04/gulliver2-1024x576.jpg" alt="" width="620" height="348" /></a>
+    <a href="/wp-content/uploads//2011/04/gulliver2.jpg"><img class="alignnone size-large wp-image-116" title="gulliver2" src="/wp-content/uploads//2011/04/gulliver2-1024x576.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Originaltittel: </strong>Gulliver's Travels<strong>
     Kategori:</strong> Komedie
@@ -198,7 +198,7 @@ post_content:
 
     Jack Black spiller Lemuel Gulliver som jobber på postkontoret i en avis. En jobb han har hatt i 10 år. Han bruker dagene sine til å spille Guitar Hero og det er om å gjøre å være mest mulig usynlig (høres det kjent ut!?). Når han lurer til seg et oppdrag om å undersøke Bermuda-triangelet, ender han på mystisk vis opp i Lilleputtland.
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/gulliver.jpg"><img class="alignleft size-medium wp-image-117" title="Gulliver's Travels" src="//filmbloggen.net/wp-content/uploads//2011/04/gulliver-300x200.jpg" alt="" width="300" height="200" /></a>I Lilleputtland blir han plutselig en stor helt som er den mest kjente personen i landsbyen. Derfra og ut prøver Gulliver å finne på noe å gjøre i Lilleputtland. Og det han finner på er stort sett å være Jack Black: Det vil si å mumle halvmorsomme replikker (jeg lo og smilte noen ganger) og spontant å fremføre en sang eller to. Og jada, det kan være underholdende det så lenge du har noe annet som fenger interessen din, altså et godt manus eller andre skuespillere som gjøre noe ekstraordinært. Det har ikke denne filmen dessverre.
+    <a href="/wp-content/uploads//2011/04/gulliver.jpg"><img class="alignleft size-medium wp-image-117" title="Gulliver's Travels" src="/wp-content/uploads//2011/04/gulliver-300x200.jpg" alt="" width="300" height="200" /></a>I Lilleputtland blir han plutselig en stor helt som er den mest kjente personen i landsbyen. Derfra og ut prøver Gulliver å finne på noe å gjøre i Lilleputtland. Og det han finner på er stort sett å være Jack Black: Det vil si å mumle halvmorsomme replikker (jeg lo og smilte noen ganger) og spontant å fremføre en sang eller to. Og jada, det kan være underholdende det så lenge du har noe annet som fenger interessen din, altså et godt manus eller andre skuespillere som gjøre noe ekstraordinært. Det har ikke denne filmen dessverre.
 
     Så over til Jason Segel som er en av mine absolutt favorittskuespillere i komedier. Mye på grunn av at han er så konge i How i Met Your Mother. Han spiller konge både i I love you, man (forøvrig en av de morsomste filmene som er laget) og Forgetting Sarah Marshall. I denne filmen har han knapt en morsom replikk og han dør ut sammen med resten av filmen, dessverre.
 
@@ -230,7 +230,7 @@ tags:
 ** (Anmeldelse av Gulliver’s Travels)**
 **
 
-[<img class="alignnone size-large wp-image-116" title="gulliver2" src="//filmbloggen.net/wp-content/uploads//2011/04/gulliver2-1024x576.jpg" alt="" width="620" height="348" />](//filmbloggen.net/wp-content/uploads//2011/04/gulliver2.jpg)
+[<img class="alignnone size-large wp-image-116" title="gulliver2" src="/wp-content/uploads//2011/04/gulliver2-1024x576.jpg" alt="" width="620" height="348" />](/wp-content/uploads//2011/04/gulliver2.jpg)
 
 **Originaltittel:** Gulliver’s Travels**
 Kategori:** Komedie
@@ -243,7 +243,7 @@ Jeg synes egentlig Ingvill Dybfest Dahl i VG sa det veldig bra i sin anmeldelse 
 
 Jack Black spiller Lemuel Gulliver som jobber på postkontoret i en avis. En jobb han har hatt i 10 år. Han bruker dagene sine til å spille Guitar Hero og det er om å gjøre å være mest mulig usynlig (høres det kjent ut!?). Når han lurer til seg et oppdrag om å undersøke Bermuda-triangelet, ender han på mystisk vis opp i Lilleputtland.
 
-[<img class="alignleft size-medium wp-image-117" title="Gulliver's Travels" src="//filmbloggen.net/wp-content/uploads//2011/04/gulliver-300x200.jpg" alt="" width="300" height="200" />](//filmbloggen.net/wp-content/uploads//2011/04/gulliver.jpg)I Lilleputtland blir han plutselig en stor helt som er den mest kjente personen i landsbyen. Derfra og ut prøver Gulliver å finne på noe å gjøre i Lilleputtland. Og det han finner på er stort sett å være Jack Black: Det vil si å mumle halvmorsomme replikker (jeg lo og smilte noen ganger) og spontant å fremføre en sang eller to. Og jada, det kan være underholdende det så lenge du har noe annet som fenger interessen din, altså et godt manus eller andre skuespillere som gjøre noe ekstraordinært. Det har ikke denne filmen dessverre.
+[<img class="alignleft size-medium wp-image-117" title="Gulliver's Travels" src="/wp-content/uploads//2011/04/gulliver-300x200.jpg" alt="" width="300" height="200" />](/wp-content/uploads//2011/04/gulliver.jpg)I Lilleputtland blir han plutselig en stor helt som er den mest kjente personen i landsbyen. Derfra og ut prøver Gulliver å finne på noe å gjøre i Lilleputtland. Og det han finner på er stort sett å være Jack Black: Det vil si å mumle halvmorsomme replikker (jeg lo og smilte noen ganger) og spontant å fremføre en sang eller to. Og jada, det kan være underholdende det så lenge du har noe annet som fenger interessen din, altså et godt manus eller andre skuespillere som gjøre noe ekstraordinært. Det har ikke denne filmen dessverre.
 
 Så over til Jason Segel som er en av mine absolutt favorittskuespillere i komedier. Mye på grunn av at han er så konge i How i Met Your Mother. Han spiller konge både i I love you, man (forøvrig en av de morsomste filmene som er laget) og Forgetting Sarah Marshall. I denne filmen har han knapt en morsom replikk og han dør ut sammen med resten av filmen, dessverre.
 

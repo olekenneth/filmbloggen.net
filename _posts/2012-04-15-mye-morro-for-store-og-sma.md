@@ -19,7 +19,7 @@ content:
     <strong>Regi:</strong> Steven Spielberg
     <strong>Med:</strong> Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost, Simon Pegg, Daniel Mays, Gad Elmaleh, Toby Jones.
     <strong>Spiletid:</strong> 1 time og 47 minutter
-    <a href="//filmbloggen.net/2012/04/15/mye-morro-for-store-og-sma/the-adventures-of-tintin-movie-4/" rel="attachment wp-att-3045"><img class="alignnone size-large wp-image-3045" src="//filmbloggen.net/wp-content/uploads//2012/04/the-adventures-of-tintin-movie-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/04/15/mye-morro-for-store-og-sma/the-adventures-of-tintin-movie-4/" rel="attachment wp-att-3045"><img class="alignnone size-large wp-image-3045" src="/wp-content/uploads//2012/04/the-adventures-of-tintin-movie-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Eventyret starter med at Tintin gjør et gunstig kjøp av et fabelaktig modellskip med uante verdier. Han blir advart sekunder etter kjøpet om at han er i stor fare og at han burde kvitte seg med modellskipet før det er for sent. Mysteriet rundt skipet utvikler seg til et ellevilt eventyr som setter Tintins liv i fare. På eventyret møter Tintin Kaptein Haddock, en fyllik med nære relasjoner til piraten som en gang seilte de syv hav med et skip fylt til randen med skatter og juveler. De reiser sammen for å komme til bunns i det skjulte mysteriet. Imens det skjer jobber også de klossete detektivene Thomson og Thompson med å finne en mestertyv som har lommebøker som sin spesialitet. Daniel Craig har stemmen til filmens skurk, Sakharine, en slu fyr som gjør alt i sin makt for å stanse Tintin.
 
@@ -59,7 +59,7 @@ post_content:
     <strong>Regi:</strong> Steven Spielberg
     <strong>Med:</strong> Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost, Simon Pegg, Daniel Mays, Gad Elmaleh, Toby Jones.
     <strong>Spiletid:</strong> 1 time og 47 minutter
-    <a href="//filmbloggen.net/2012/04/15/mye-morro-for-store-og-sma/the-adventures-of-tintin-movie-4/" rel="attachment wp-att-3045"><img class="alignnone size-large wp-image-3045" src="//filmbloggen.net/wp-content/uploads//2012/04/the-adventures-of-tintin-movie-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/04/15/mye-morro-for-store-og-sma/the-adventures-of-tintin-movie-4/" rel="attachment wp-att-3045"><img class="alignnone size-large wp-image-3045" src="/wp-content/uploads//2012/04/the-adventures-of-tintin-movie-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Eventyret starter med at Tintin gjør et gunstig kjøp av et fabelaktig modellskip med uante verdier. Han blir advart sekunder etter kjøpet om at han er i stor fare og at han burde kvitte seg med modellskipet før det er for sent. Mysteriet rundt skipet utvikler seg til et ellevilt eventyr som setter Tintins liv i fare. På eventyret møter Tintin Kaptein Haddock, en fyllik med nære relasjoner til piraten som en gang seilte de syv hav med et skip fylt til randen med skatter og juveler. De reiser sammen for å komme til bunns i det skjulte mysteriet. Imens det skjer jobber også de klossete detektivene Thomson og Thompson med å finne en mestertyv som har lommebøker som sin spesialitet. Daniel Craig har stemmen til filmens skurk, Sakharine, en slu fyr som gjør alt i sin makt for å stanse Tintin.
 
@@ -163,7 +163,7 @@ meta:
     <strong>Regi:</strong> Steven Spielberg
     <strong>Med:</strong> Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost, Simon Pegg, Daniel Mays, Gad Elmaleh, Toby Jones.
     <strong>Spiletid:</strong> 1 time og 47 minutter
-    <a href="//filmbloggen.net/2012/04/15/mye-morro-for-store-og-sma/the-adventures-of-tintin-movie-4/" rel="attachment wp-att-3045"><img class="alignnone size-large wp-image-3045" src="//filmbloggen.net/wp-content/uploads//2012/04/the-adventures-of-tintin-movie-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/04/15/mye-morro-for-store-og-sma/the-adventures-of-tintin-movie-4/" rel="attachment wp-att-3045"><img class="alignnone size-large wp-image-3045" src="/wp-content/uploads//2012/04/the-adventures-of-tintin-movie-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Eventyret starter med at Tintin gjør et gunstig kjøp av et fabelaktig modellskip med uante verdier. Han blir advart sekunder etter kjøpet om at han er i stor fare og at han burde kvitte seg med modellskipet før det er for sent. Mysteriet rundt skipet utvikler seg til et ellevilt eventyr som setter Tintins liv i fare. På eventyret møter Tintin Kaptein Haddock, en fyllik med nære relasjoner til piraten som en gang seilte de syv hav med et skip fylt til randen med skatter og juveler. De reiser sammen for å komme til bunns i det skjulte mysteriet. Imens det skjer jobber også de klossete detektivene Thomson og Thompson med å finne en mestertyv som har lommebøker som sin spesialitet. Daniel Craig har stemmen til filmens skurk, Sakharine, en slu fyr som gjør alt i sin makt for å stanse Tintin.
 
@@ -182,7 +182,7 @@ meta:
     <strong>Regi:</strong> Steven Spielberg
     <strong>Med:</strong> Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost, Simon Pegg, Daniel Mays, Gad Elmaleh, Toby Jones.
     <strong>Spiletid:</strong> 1 time og 47 minutter
-    <a href="//filmbloggen.net/2012/04/15/mye-morro-for-store-og-sma/the-adventures-of-tintin-movie-4/" rel="attachment wp-att-3045"><img class="alignnone size-large wp-image-3045" src="//filmbloggen.net/wp-content/uploads//2012/04/the-adventures-of-tintin-movie-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/04/15/mye-morro-for-store-og-sma/the-adventures-of-tintin-movie-4/" rel="attachment wp-att-3045"><img class="alignnone size-large wp-image-3045" src="/wp-content/uploads//2012/04/the-adventures-of-tintin-movie-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Eventyret starter med at Tintin gjør et gunstig kjøp av et fabelaktig modellskip med uante verdier. Han blir advart sekunder etter kjøpet om at han er i stor fare og at han burde kvitte seg med modellskipet før det er for sent. Mysteriet rundt skipet utvikler seg til et ellevilt eventyr som setter Tintins liv i fare. På eventyret møter Tintin Kaptein Haddock, en fyllik med nære relasjoner til piraten som en gang seilte de syv hav med et skip fylt til randen med skatter og juveler. De reiser sammen for å komme til bunns i det skjulte mysteriet. Imens det skjer jobber også de klossete detektivene Thomson og Thompson med å finne en mestertyv som har lommebøker som sin spesialitet. Daniel Craig har stemmen til filmens skurk, Sakharine, en slu fyr som gjør alt i sin makt for å stanse Tintin.
 
@@ -276,7 +276,7 @@ tags:
 **Regi:** Steven Spielberg
 **Med:** Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost, Simon Pegg, Daniel Mays, Gad Elmaleh, Toby Jones.
 **Spiletid:** 1 time og 47 minutter
-<a href="//filmbloggen.net/2012/04/15/mye-morro-for-store-og-sma/the-adventures-of-tintin-movie-4/" rel="attachment wp-att-3045"><img class="alignnone size-large wp-image-3045" src="//filmbloggen.net/wp-content/uploads//2012/04/the-adventures-of-tintin-movie-4-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2012/04/15/mye-morro-for-store-og-sma/the-adventures-of-tintin-movie-4/" rel="attachment wp-att-3045"><img class="alignnone size-large wp-image-3045" src="/wp-content/uploads//2012/04/the-adventures-of-tintin-movie-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
 Eventyret starter med at Tintin gjør et gunstig kjøp av et fabelaktig modellskip med uante verdier. Han blir advart sekunder etter kjøpet om at han er i stor fare og at han burde kvitte seg med modellskipet før det er for sent. Mysteriet rundt skipet utvikler seg til et ellevilt eventyr som setter Tintins liv i fare. På eventyret møter Tintin Kaptein Haddock, en fyllik med nære relasjoner til piraten som en gang seilte de syv hav med et skip fylt til randen med skatter og juveler. De reiser sammen for å komme til bunns i det skjulte mysteriet. Imens det skjer jobber også de klossete detektivene Thomson og Thompson med å finne en mestertyv som har lommebøker som sin spesialitet. Daniel Craig har stemmen til filmens skurk, Sakharine, en slu fyr som gjør alt i sin makt for å stanse Tintin.
 

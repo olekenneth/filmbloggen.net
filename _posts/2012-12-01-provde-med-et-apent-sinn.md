@@ -105,7 +105,7 @@ content:
     <strong>Regi:</strong> </strong>Bill Condon
     <strong><strong>Spilletid:</strong> </strong>1 time og 55 minutter<strong>
     <strong>Skuespillere: </strong></strong>Kristen Stewart, Robert Pattinson, Taylor Lautner, Kellan Lutz, Ashley Greene, Anna Kendrick, Nikki Reed, Jackson Rathbone, Peter Facinelli, Mackenzie Foy, Billy Burke, Elizabeth Reaser, BooBoo Stewart, Alex Meraz, Julia Jones,Chaske Spencer<strong><strong>
-    </strong></strong><a href="//filmbloggen.net/2012/12/01/provde-med-et-apent-sinn/the-twilight-saga-breaking-dawn-part-2-2/" rel="attachment wp-att-8289"><img class="alignnone size-large wp-image-8289" src="//filmbloggen.net/wp-content/uploads//2012/12/pntyeee23-620x413.jpg" alt="" width="620" height="413" /></a>
+    </strong></strong><a href="//filmbloggen.net/2012/12/01/provde-med-et-apent-sinn/the-twilight-saga-breaking-dawn-part-2-2/" rel="attachment wp-att-8289"><img class="alignnone size-large wp-image-8289" src="/wp-content/uploads//2012/12/pntyeee23-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Av:</strong> Benjamin Brekken
     <strong>Foto:</strong> Nordisk Film
 
@@ -176,7 +176,7 @@ post_content:
     <strong>Regi:</strong> </strong>Bill Condon
     <strong><strong>Spilletid:</strong> </strong>1 time og 55 minutter<strong>
     <strong>Skuespillere: </strong></strong>Kristen Stewart, Robert Pattinson, Taylor Lautner, Kellan Lutz, Ashley Greene, Anna Kendrick, Nikki Reed, Jackson Rathbone, Peter Facinelli, Mackenzie Foy, Billy Burke, Elizabeth Reaser, BooBoo Stewart, Alex Meraz, Julia Jones,Chaske Spencer<strong><strong>
-    </strong></strong><a href="//filmbloggen.net/2012/12/01/provde-med-et-apent-sinn/the-twilight-saga-breaking-dawn-part-2-2/" rel="attachment wp-att-8289"><img class="alignnone size-large wp-image-8289" src="//filmbloggen.net/wp-content/uploads//2012/12/pntyeee23-620x413.jpg" alt="" width="620" height="413" /></a>
+    </strong></strong><a href="//filmbloggen.net/2012/12/01/provde-med-et-apent-sinn/the-twilight-saga-breaking-dawn-part-2-2/" rel="attachment wp-att-8289"><img class="alignnone size-large wp-image-8289" src="/wp-content/uploads//2012/12/pntyeee23-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Av:</strong> Benjamin Brekken
     <strong>Foto:</strong> Nordisk Film
 
@@ -201,7 +201,7 @@ meta:
     <strong>Regi:</strong> </strong>Bill Condon
     <strong><strong>Spilletid:</strong> </strong>1 time og 55 minutter<strong>
     <strong>Skuespillere: </strong></strong>Kristen Stewart, Robert Pattinson, Taylor Lautner, Kellan Lutz, Ashley Greene, Anna Kendrick, Nikki Reed, Jackson Rathbone, Peter Facinelli, Mackenzie Foy, Billy Burke, Elizabeth Reaser, BooBoo Stewart, Alex Meraz, Julia Jones,Chaske Spencer<strong><strong>
-    </strong></strong><a href="//filmbloggen.net/2012/12/01/provde-med-et-apent-sinn/the-twilight-saga-breaking-dawn-part-2-2/" rel="attachment wp-att-8289"><img class="alignnone size-large wp-image-8289" src="//filmbloggen.net/wp-content/uploads//2012/12/pntyeee23-620x413.jpg" alt="" width="620" height="413" /></a>
+    </strong></strong><a href="//filmbloggen.net/2012/12/01/provde-med-et-apent-sinn/the-twilight-saga-breaking-dawn-part-2-2/" rel="attachment wp-att-8289"><img class="alignnone size-large wp-image-8289" src="/wp-content/uploads//2012/12/pntyeee23-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Av:</strong> Benjamin Brekken
     <strong>Foto:</strong> Nordisk Film
 
@@ -215,7 +215,7 @@ meta:
     <strong>Regi:</strong> </strong>Bill Condon
     <strong><strong>Spilletid:</strong> </strong>1 time og 55 minutter<strong>
     <strong>Skuespillere: </strong></strong>Kristen Stewart, Robert Pattinson, Taylor Lautner, Kellan Lutz, Ashley Greene, Anna Kendrick, Nikki Reed, Jackson Rathbone, Peter Facinelli, Mackenzie Foy, Billy Burke, Elizabeth Reaser, BooBoo Stewart, Alex Meraz, Julia Jones,Chaske Spencer<strong><strong>
-    </strong></strong><a href="//filmbloggen.net/2012/12/01/provde-med-et-apent-sinn/the-twilight-saga-breaking-dawn-part-2-2/" rel="attachment wp-att-8289"><img class="alignnone size-large wp-image-8289" src="//filmbloggen.net/wp-content/uploads//2012/12/pntyeee23-620x413.jpg" alt="" width="620" height="413" /></a>
+    </strong></strong><a href="//filmbloggen.net/2012/12/01/provde-med-et-apent-sinn/the-twilight-saga-breaking-dawn-part-2-2/" rel="attachment wp-att-8289"><img class="alignnone size-large wp-image-8289" src="/wp-content/uploads//2012/12/pntyeee23-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Av:</strong> Benjamin Brekken
     <strong>Foto:</strong> Nordisk Film
 
@@ -266,7 +266,7 @@ format: audio
 **Regi:** **Bill Condon
 ****Spilletid:** **1 time og 55 minutter**
 **Skuespillere: ****Kristen Stewart, Robert Pattinson, Taylor Lautner, Kellan Lutz, Ashley Greene, Anna Kendrick, Nikki Reed, Jackson Rathbone, Peter Facinelli, Mackenzie Foy, Billy Burke, Elizabeth Reaser, BooBoo Stewart, Alex Meraz, Julia Jones,Chaske Spencer****
-**** <a href="//filmbloggen.net/2012/12/01/provde-med-et-apent-sinn/the-twilight-saga-breaking-dawn-part-2-2/" rel="attachment wp-att-8289"><img class="alignnone size-large wp-image-8289" src="//filmbloggen.net/wp-content/uploads//2012/12/pntyeee23-620x413.jpg" alt="" width="620" height="413" /></a>
+**** <a href="//filmbloggen.net/2012/12/01/provde-med-et-apent-sinn/the-twilight-saga-breaking-dawn-part-2-2/" rel="attachment wp-att-8289"><img class="alignnone size-large wp-image-8289" src="/wp-content/uploads//2012/12/pntyeee23-620x413.jpg" alt="" width="620" height="413" /></a>
 **Av:** Benjamin Brekken
 **Foto:** Nordisk Film
 

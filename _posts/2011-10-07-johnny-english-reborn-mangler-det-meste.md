@@ -107,7 +107,7 @@ content:
     <strong>Regissør:</strong> Oliver Parker
     <strong>Med:</strong> Rowan Atkinson, Rosamund Pike, Gillian Anderson, Tim McInnerny, Dominic West
 
-    <a href="//filmbloggen.net/2011/10/07/johnny-english-reborn-mangler-det-meste/johnny/" rel="attachment wp-att-1327"><img class="alignnone size-large wp-image-1327" src="//filmbloggen.net/wp-content/uploads//2011/10/johnny-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2011/10/07/johnny-english-reborn-mangler-det-meste/johnny/" rel="attachment wp-att-1327"><img class="alignnone size-large wp-image-1327" src="/wp-content/uploads//2011/10/johnny-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong></strong>Universal Studios prioriterte å vente med en oppfølger, etter at Johnny English spilte inn over 160 millioner dollar i 2003. De ville vente til de hadde en ny historie og et nytt manus som kunne være fornøyde med. Rowan Atkinson har uttalt til VG at han trengte disse årene for å virkelig skape en troverdig Johnny English. Respekten for at de prioriterer kvalitet framfor penger faller fort bort etter å ha sett selve filmen. Johnny English Reborn kunne ikke vært mye dårligere selv om de hadde laget den rett etter film nummer en.
 
     Rowan Atkinson portretterer en Johnny English som har trukket seg tilbake. Etter et mislykket oppdrag i Mosambik har han flyttet til Tibet for å leve som munk. English prøver å finne seg selv, men blir plutselig kontaktet av MI7 som trenger hans hjelp. Kinas statsoverhode er i fare, og kineserne vil kun prate med English. Dermed er plottet, som for øvrig er like tynt som kvaliteten på klippingen, humoren og soundtracket, satt.
@@ -184,7 +184,7 @@ post_content:
     <strong>Regissør:</strong> Oliver Parker
     <strong>Med:</strong> Rowan Atkinson, Rosamund Pike, Gillian Anderson, Tim McInnerny, Dominic West
 
-    <a href="//filmbloggen.net/2011/10/07/johnny-english-reborn-mangler-det-meste/johnny/" rel="attachment wp-att-1327"><img class="alignnone size-large wp-image-1327" src="//filmbloggen.net/wp-content/uploads//2011/10/johnny-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2011/10/07/johnny-english-reborn-mangler-det-meste/johnny/" rel="attachment wp-att-1327"><img class="alignnone size-large wp-image-1327" src="/wp-content/uploads//2011/10/johnny-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong></strong>Universal Studios prioriterte å vente med en oppfølger, etter at Johnny English spilte inn over 160 millioner dollar i 2003. De ville vente til de hadde en ny historie og et nytt manus som kunne være fornøyde med. Rowan Atkinson har uttalt til VG at han trengte disse årene for å virkelig skape en troverdig Johnny English. Respekten for at de prioriterer kvalitet framfor penger faller fort bort etter å ha sett selve filmen. Johnny English Reborn kunne ikke vært mye dårligere selv om de hadde laget den rett etter film nummer en.
 
     Rowan Atkinson portretterer en Johnny English som har trukket seg tilbake. Etter et mislykket oppdrag i Mosambik har han flyttet til Tibet for å leve som munk. English prøver å finne seg selv, men blir plutselig kontaktet av MI7 som trenger hans hjelp. Kinas statsoverhode er i fare, og kineserne vil kun prate med English. Dermed er plottet, som for øvrig er like tynt som kvaliteten på klippingen, humoren og soundtracket, satt.
@@ -213,7 +213,7 @@ meta:
     <strong>Regissør:</strong> Oliver Parker
     <strong>Med:</strong> Rowan Atkinson, Rosamund Pike, Gillian Anderson, Tim McInnerny, Dominic West
 
-    <a href="//filmbloggen.net/2011/10/07/johnny-english-reborn-mangler-det-meste/johnny/" rel="attachment wp-att-1327"><img class="alignnone size-large wp-image-1327" src="//filmbloggen.net/wp-content/uploads//2011/10/johnny-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2011/10/07/johnny-english-reborn-mangler-det-meste/johnny/" rel="attachment wp-att-1327"><img class="alignnone size-large wp-image-1327" src="/wp-content/uploads//2011/10/johnny-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong></strong>Universal Studios prioriterte å vente med en oppfølger, etter at Johnny English spilte inn over 160 millioner dollar i 2003. De ville vente til de hadde en ny historie og et nytt manus som kunne være fornøyde med. Rowan Atkinson har uttalt til VG at han trengte disse årene for å virkelig skape en troverdig Johnny English. Respekten for at de prioriterer kvalitet framfor penger faller fort bort etter å ha sett selve filmen. Johnny English Reborn kunne ikke vært mye dårligere selv om de hadde laget den rett etter film nummer en.
 
     Rowan Atkinson portretterer en Johnny English som har trukket seg tilbake. Etter et mislykket oppdrag i Mosambik har han flyttet til Tibet for å leve som munk. English prøver å finne seg selv, men blir plutselig kontaktet av MI7 som trenger hans hjelp. Kinas statsoverhode er i fare, og kineserne vil kun prate med English. Dermed er plottet, som for øvrig er like tynt som kvaliteten på klippingen, humoren og soundtracket, satt.
@@ -235,7 +235,7 @@ meta:
     <strong>Regissør:</strong> Oliver Parker
     <strong>Med:</strong> Rowan Atkinson, Rosamund Pike, Gillian Anderson, Tim McInnerny, Dominic West
 
-    <a href="//filmbloggen.net/2011/10/07/johnny-english-reborn-mangler-det-meste/johnny/" rel="attachment wp-att-1327"><img class="alignnone size-large wp-image-1327" src="//filmbloggen.net/wp-content/uploads//2011/10/johnny-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2011/10/07/johnny-english-reborn-mangler-det-meste/johnny/" rel="attachment wp-att-1327"><img class="alignnone size-large wp-image-1327" src="/wp-content/uploads//2011/10/johnny-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong></strong>Universal Studios prioriterte å vente med en oppfølger, etter at Johnny English spilte inn over 160 millioner dollar i 2003. De ville vente til de hadde en ny historie og et nytt manus som kunne være fornøyde med. Rowan Atkinson har uttalt til VG at han trengte disse årene for å virkelig skape en troverdig Johnny English. Respekten for at de prioriterer kvalitet framfor penger faller fort bort etter å ha sett selve filmen. Johnny English Reborn kunne ikke vært mye dårligere selv om de hadde laget den rett etter film nummer en.
 
     Rowan Atkinson portretterer en Johnny English som har trukket seg tilbake. Etter et mislykket oppdrag i Mosambik har han flyttet til Tibet for å leve som munk. English prøver å finne seg selv, men blir plutselig kontaktet av MI7 som trenger hans hjelp. Kinas statsoverhode er i fare, og kineserne vil kun prate med English. Dermed er plottet, som for øvrig er like tynt som kvaliteten på klippingen, humoren og soundtracket, satt.
@@ -275,7 +275,7 @@ tags:
 **Regissør:** Oliver Parker
 **Med:** Rowan Atkinson, Rosamund Pike, Gillian Anderson, Tim McInnerny, Dominic West
 
-<a href="//filmbloggen.net/2011/10/07/johnny-english-reborn-mangler-det-meste/johnny/" rel="attachment wp-att-1327"><img class="alignnone size-large wp-image-1327" src="//filmbloggen.net/wp-content/uploads//2011/10/johnny-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2011/10/07/johnny-english-reborn-mangler-det-meste/johnny/" rel="attachment wp-att-1327"><img class="alignnone size-large wp-image-1327" src="/wp-content/uploads//2011/10/johnny-620x413.jpg" alt="" width="620" height="413" /></a>
 ****Universal Studios prioriterte å vente med en oppfølger, etter at Johnny English spilte inn over 160 millioner dollar i 2003. De ville vente til de hadde en ny historie og et nytt manus som kunne være fornøyde med. Rowan Atkinson har uttalt til VG at han trengte disse årene for å virkelig skape en troverdig Johnny English. Respekten for at de prioriterer kvalitet framfor penger faller fort bort etter å ha sett selve filmen. Johnny English Reborn kunne ikke vært mye dårligere selv om de hadde laget den rett etter film nummer en.
 
 Rowan Atkinson portretterer en Johnny English som har trukket seg tilbake. Etter et mislykket oppdrag i Mosambik har han flyttet til Tibet for å leve som munk. English prøver å finne seg selv, men blir plutselig kontaktet av MI7 som trenger hans hjelp. Kinas statsoverhode er i fare, og kineserne vil kun prate med English. Dermed er plottet, som for øvrig er like tynt som kvaliteten på klippingen, humoren og soundtracket, satt.

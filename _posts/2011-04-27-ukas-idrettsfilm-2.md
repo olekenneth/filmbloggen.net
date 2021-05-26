@@ -103,7 +103,7 @@ content:
     <strong>Denne uka hadde jeg ikke noe annet valg, jeg måtte velge en av mine favorittfilmer gjennom tidene, Remember the Titans!</strong><strong>
     </strong>
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/remember-the-titans.jpg"><img class="alignnone size-large wp-image-249" title="remember the titans" src="//filmbloggen.net/wp-content/uploads//2011/04/remember-the-titans-1024x511.jpg" alt="" width="620" height="309" /></a>
+    <a href="/wp-content/uploads//2011/04/remember-the-titans.jpg"><img class="alignnone size-large wp-image-249" title="remember the titans" src="/wp-content/uploads//2011/04/remember-the-titans-1024x511.jpg" alt="" width="620" height="309" /></a>
 
     <strong>Originaltittel: </strong>Remember the Titans<strong>
     Kategori:</strong> Drama/Sport
@@ -182,7 +182,7 @@ post_content:
     <strong>Denne uka hadde jeg ikke noe annet valg, jeg måtte velge en av mine favorittfilmer gjennom tidene, Remember the Titans!</strong><strong>
     </strong>
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/remember-the-titans.jpg"><img class="alignnone size-large wp-image-249" title="remember the titans" src="//filmbloggen.net/wp-content/uploads//2011/04/remember-the-titans-1024x511.jpg" alt="" width="620" height="309" /></a>
+    <a href="/wp-content/uploads//2011/04/remember-the-titans.jpg"><img class="alignnone size-large wp-image-249" title="remember the titans" src="/wp-content/uploads//2011/04/remember-the-titans-1024x511.jpg" alt="" width="620" height="309" /></a>
 
     <strong>Originaltittel: </strong>Remember the Titans<strong>
     Kategori:</strong> Drama/Sport
@@ -216,7 +216,7 @@ tags:
 **Denne uka hadde jeg ikke noe annet valg, jeg måtte velge en av mine favorittfilmer gjennom tidene, Remember the Titans!****
 **
 
-[<img class="alignnone size-large wp-image-249" title="remember the titans" src="//filmbloggen.net/wp-content/uploads//2011/04/remember-the-titans-1024x511.jpg" alt="" width="620" height="309" />](//filmbloggen.net/wp-content/uploads//2011/04/remember-the-titans.jpg)
+[<img class="alignnone size-large wp-image-249" title="remember the titans" src="/wp-content/uploads//2011/04/remember-the-titans-1024x511.jpg" alt="" width="620" height="309" />](/wp-content/uploads//2011/04/remember-the-titans.jpg)
 
 **Originaltittel:** Remember the Titans**
 Kategori:** Drama/Sport

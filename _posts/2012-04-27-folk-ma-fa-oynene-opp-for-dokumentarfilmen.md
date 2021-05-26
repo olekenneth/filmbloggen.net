@@ -100,7 +100,7 @@ content:
   - |
     <strong>Dokfilmfestivalen 2012 ble åpnet i Volda onsdag. Leder Synnøve Horvei har lyst til å skape noe både for den vanlige mannen i gata og en god arena for folk i bransjen.</strong><!--more-->
 
-    <img class="alignnone size-large wp-image-3141" src="//filmbloggen.net/wp-content/uploads//2012/04/dokfilm20122-620x412.jpg" alt="" width="620" height="412" />
+    <img class="alignnone size-large wp-image-3141" src="/wp-content/uploads//2012/04/dokfilm20122-620x412.jpg" alt="" width="620" height="412" />
     - Det er ingen rene dokumentarfilmfestivaler i Norge i dag og det er viktig at vi har et sted der folk kan vise seg fram. I utenlandske festivaler så drukner gjerne norske filmer i mengden, sier Horvei.
 
     <strong>Festivalen blir arrangert fra 25.-29. april hvert år og er den 16. i rekken. Den drar årlig folk fra hele Norge. Elever fra Høgskulen i Volda arrangerer Dokfilm og er drivkraften bak. Horvei studerer Fjernsynsreportasje og dokumentarfilm på Høgskulen og det er dette hun har lyst til å drive med.</strong>
@@ -120,7 +120,7 @@ content:
     - Jeg har egentlig ikke noe forhold til dokumentarfilmer. Utenom de få jeg ser på Brennpunkt, sier Ane Rygh Marbak.
 
     <strong>Jentene har akkurat kommet ut av åpningsfilmen "Fandens Virkelighet" og førsteinntrykket er det ingenting å si på. Filmen handler om bandet "Vestlandsfanden" som har turnert norske veier i 30 år.
-    <a href="//filmbloggen.net/2012/04/27/folk-ma-fa-oynene-opp-for-dokumentarfilmen/sony-dsc/" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" src="//filmbloggen.net/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
+    <a href="//filmbloggen.net/2012/04/27/folk-ma-fa-oynene-opp-for-dokumentarfilmen/sony-dsc/" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
 
     <strong>- I hvert fall ikke på "Brennpunkt", skyter Ane inn med.</strong>
 
@@ -190,7 +190,7 @@ post_content:
   - |
     <strong>Dokfilmfestivalen 2012 ble åpnet i Volda onsdag. Leder Synnøve Horvei har lyst til å skape noe både for den vanlige mannen i gata og en god arena for folk i bransjen.</strong><!--more-->
 
-    <img class="alignnone size-large wp-image-3141" src="//filmbloggen.net/wp-content/uploads//2012/04/dokfilm20122-620x412.jpg" alt="" width="620" height="412" />
+    <img class="alignnone size-large wp-image-3141" src="/wp-content/uploads//2012/04/dokfilm20122-620x412.jpg" alt="" width="620" height="412" />
     - Det er ingen rene dokumentarfilmfestivaler i Norge i dag og det er viktig at vi har et sted der folk kan vise seg fram. I utenlandske festivaler så drukner gjerne norske filmer i mengden, sier Horvei.
 
     <strong>Festivalen blir arrangert fra 25.-29. april hvert år og er den 16. i rekken. Den drar årlig folk fra hele Norge. Elever fra Høgskulen i Volda arrangerer Dokfilm og er drivkraften bak. Horvei studerer Fjernsynsreportasje og dokumentarfilm på Høgskulen og det er dette hun har lyst til å drive med.</strong>
@@ -210,7 +210,7 @@ post_content:
     - Jeg har egentlig ikke noe forhold til dokumentarfilmer. Utenom de få jeg ser på Brennpunkt, sier Ane Rygh Marbak.
 
     <strong>Jentene har akkurat kommet ut av åpningsfilmen "Fandens Virkelighet" og førsteinntrykket er det ingenting å si på. Filmen handler om bandet "Vestlandsfanden" som har turnert norske veier i 30 år.
-    <a href="//filmbloggen.net/2012/04/27/folk-ma-fa-oynene-opp-for-dokumentarfilmen/sony-dsc/" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" src="//filmbloggen.net/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
+    <a href="//filmbloggen.net/2012/04/27/folk-ma-fa-oynene-opp-for-dokumentarfilmen/sony-dsc/" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
 
     <strong>- I hvert fall ikke på "Brennpunkt", skyter Ane inn med.</strong>
 
@@ -232,7 +232,7 @@ meta:
   - |
     a:75:{i:18060;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:18039;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:18091;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:18048;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"0e6a10821f";}i:18046;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:18050;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"1731f51c81";}i:18092;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:18084;a:2:{s:3:"key";s:7:"content";s:5:"value";s:3514:"<strong>Dokfilmfestivalen 2012 ble åpnet i Volda onsdag. Leder Synnøve Horvei har lyst til å skape noe både for den vanlige mannen i gata og en god arena for folk i bransjen.</strong><!--more-->
 
-    <img class="alignnone size-large wp-image-3141" title="SONY DSC" src="//filmbloggen.net/wp-content/uploads//2012/04/dokfilm20122-620x412.jpg" alt="" width="620" height="412" />
+    <img class="alignnone size-large wp-image-3141" title="SONY DSC" src="/wp-content/uploads//2012/04/dokfilm20122-620x412.jpg" alt="" width="620" height="412" />
     - Det er ingen rene dokumentarfilmfestivaler i Norge i dag og det er viktig at vi har et sted der folk kan vise seg fram. I utenlandske festivaler så drukner gjerne norske filmer i mengden, sier Horvei.
 
     <strong>Festivalen blir arrangert fra 25.-29. april hvert år og er den 16. i rekken. Den drar årlig folk fra hele Norge. Elever fra Høgskulen i Volda arrangerer Dokfilm og er drivkraften bak. Horvei studerer Fjernsynsreportasje og dokumentarfilm på Høgskulen og det er dette hun har lyst til å drive med.</strong>
@@ -252,7 +252,7 @@ meta:
     - Jeg har egentlig ikke noe forhold til dokumentarfilmer. Utenom de få jeg ser på Brennpunkt, sier Ane Rygh Marbak.
 
     <strong>Jentene har akkurat kommet ut av åpningsfilmen "Fandens Virkelighet" og førsteinntrykket er det ingenting å si på. Filmen handler om bandet "Vestlandsfanden" som har turnert norske veier i 30 år.
-    <a href="//filmbloggen.net/?attachment_id=3140" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" title="SONY DSC" src="//filmbloggen.net/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
+    <a href="//filmbloggen.net/?attachment_id=3140" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" title="SONY DSC" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
 
     <strong>- I hvert fall ikke på "Brennpunkt", skyter Ane inn med.</strong>
 
@@ -265,7 +265,7 @@ meta:
 
     - Jeg håper alle får gode opplevelser, klarer å bygge nettverk og får masse, masse inspirasjon, avslutter lederen.";}i:18069;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:18071;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"17";}i:18067;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"27";}i:18065;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"04";}i:18073;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"41";}i:18096;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:18085;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:18061;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"17";}i:18068;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:18070;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"17";}i:18066;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"27";}i:18064;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"04";}i:18072;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"41";}i:18054;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:18052;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:18055;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:18112;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"3131";}i:18058;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"27";}i:18049;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"23b5c9febb";}i:18088;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:18087;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:18089;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:18059;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"04";}i:18062;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"41";}i:18076;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:18077;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:18040;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:18043;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:18074;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:18093;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:18041;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:18095;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:18114;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:3514:"<strong>Dokfilmfestivalen 2012 ble åpnet i Volda onsdag. Leder Synnøve Horvei har lyst til å skape noe både for den vanlige mannen i gata og en god arena for folk i bransjen.</strong><!--more-->
 
-    <img class="alignnone size-large wp-image-3141" title="SONY DSC" src="//filmbloggen.net/wp-content/uploads//2012/04/dokfilm20122-620x412.jpg" alt="" width="620" height="412" />
+    <img class="alignnone size-large wp-image-3141" title="SONY DSC" src="/wp-content/uploads//2012/04/dokfilm20122-620x412.jpg" alt="" width="620" height="412" />
     - Det er ingen rene dokumentarfilmfestivaler i Norge i dag og det er viktig at vi har et sted der folk kan vise seg fram. I utenlandske festivaler så drukner gjerne norske filmer i mengden, sier Horvei.
 
     <strong>Festivalen blir arrangert fra 25.-29. april hvert år og er den 16. i rekken. Den drar årlig folk fra hele Norge. Elever fra Høgskulen i Volda arrangerer Dokfilm og er drivkraften bak. Horvei studerer Fjernsynsreportasje og dokumentarfilm på Høgskulen og det er dette hun har lyst til å drive med.</strong>
@@ -285,7 +285,7 @@ meta:
     - Jeg har egentlig ikke noe forhold til dokumentarfilmer. Utenom de få jeg ser på Brennpunkt, sier Ane Rygh Marbak.
 
     <strong>Jentene har akkurat kommet ut av åpningsfilmen "Fandens Virkelighet" og førsteinntrykket er det ingenting å si på. Filmen handler om bandet "Vestlandsfanden" som har turnert norske veier i 30 år.
-    <a href="//filmbloggen.net/?attachment_id=3140" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" title="SONY DSC" src="//filmbloggen.net/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
+    <a href="//filmbloggen.net/?attachment_id=3140" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" title="SONY DSC" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
 
     <strong>- I hvert fall ikke på "Brennpunkt", skyter Ane inn med.</strong>
 
@@ -315,7 +315,7 @@ categories:
 ---
 **Dokfilmfestivalen 2012 ble åpnet i Volda onsdag. Leder Synnøve Horvei har lyst til å skape noe både for den vanlige mannen i gata og en god arena for folk i bransjen.**<!--more-->
 
-<img class="alignnone size-large wp-image-3141" src="//filmbloggen.net/wp-content/uploads//2012/04/dokfilm20122-620x412.jpg" alt="" width="620" height="412" />
+<img class="alignnone size-large wp-image-3141" src="/wp-content/uploads//2012/04/dokfilm20122-620x412.jpg" alt="" width="620" height="412" />
 – Det er ingen rene dokumentarfilmfestivaler i Norge i dag og det er viktig at vi har et sted der folk kan vise seg fram. I utenlandske festivaler så drukner gjerne norske filmer i mengden, sier Horvei.
 
 **Festivalen blir arrangert fra 25.-29. april hvert år og er den 16. i rekken. Den drar årlig folk fra hele Norge. Elever fra Høgskulen i Volda arrangerer Dokfilm og er drivkraften bak. Horvei studerer Fjernsynsreportasje og dokumentarfilm på Høgskulen og det er dette hun har lyst til å drive med.**
@@ -335,7 +335,7 @@ Ane Rygh Marbak, Kaja Johnsen Viki og Trine Lise Sviggum Helgerud koser seg ett
 – Jeg har egentlig ikke noe forhold til dokumentarfilmer. Utenom de få jeg ser på Brennpunkt, sier Ane Rygh Marbak.
 
 **Jentene har akkurat kommet ut av åpningsfilmen «Fandens Virkelighet» og førsteinntrykket er det ingenting å si på. Filmen handler om bandet «Vestlandsfanden» som har turnert norske veier i 30 år.
-<a href="//filmbloggen.net/2012/04/27/folk-ma-fa-oynene-opp-for-dokumentarfilmen/sony-dsc/" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" src="//filmbloggen.net/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> **– Den var veldig underholdene og et godt portrett av et litt «harry band». Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
+<a href="//filmbloggen.net/2012/04/27/folk-ma-fa-oynene-opp-for-dokumentarfilmen/sony-dsc/" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> **– Den var veldig underholdene og et godt portrett av et litt «harry band». Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
 
 **– I hvert fall ikke på «Brennpunkt», skyter Ane inn med.**
 

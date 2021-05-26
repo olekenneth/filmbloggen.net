@@ -108,7 +108,7 @@ content:
     Manus:</strong> Richard Wenk, Sylvester Stallone<strong>
     </strong><strong>Skuespillere:  </strong>Sylvester Stallone, Jason Statham, Dolph Lundgren, Terry Crews, Bruce Willis, Arnold Schwarzenegger og Chuck Norris
 
-    <a href="//filmbloggen.net/2012/08/17/enda-en-actionbom-med-the-expendables-2/expendables-2/" rel="attachment wp-att-6281"><img class="alignnone size-large wp-image-6281" src="//filmbloggen.net/wp-content/uploads//2012/08/11-003-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/2012/08/17/enda-en-actionbom-med-the-expendables-2/expendables-2/" rel="attachment wp-att-6281"><img class="alignnone size-large wp-image-6281" src="/wp-content/uploads//2012/08/11-003-620x413.jpg" alt="" width="620" height="413" />
     </a><em>F</em><em>oto: Norsk Filmdistribusjon</em>
 
     Den første <strong>The Expendables</strong>-filmen kom og gikk som solen gjør i Bergen. Potensialet var på topp og alle og enhver så frem til en ordentlig 80-talls actionfilm med heftige maskingeværkamper og eksplosjoner. Det vi fikk var en fullstendig tankeløs og urovekkende dårlig sammensatt film som verken imponerte med sine eksplosjoner eller slåsscener. For la oss være ærlig, det er akkurat det vi forventer av denne type film. Vi vil slå av hjernefunksjonensom analyserer filmer og personlige problemer i den virkelige verden og bare la overvokste actionfigurer underholde oss.
@@ -192,7 +192,7 @@ post_content:
     Manus:</strong> Richard Wenk, Sylvester Stallone<strong>
     </strong><strong>Skuespillere:  </strong>Sylvester Stallone, Jason Statham, Dolph Lundgren, Terry Crews, Bruce Willis, Arnold Schwarzenegger og Chuck Norris
 
-    <a href="//filmbloggen.net/2012/08/17/enda-en-actionbom-med-the-expendables-2/expendables-2/" rel="attachment wp-att-6281"><img class="alignnone size-large wp-image-6281" src="//filmbloggen.net/wp-content/uploads//2012/08/11-003-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/2012/08/17/enda-en-actionbom-med-the-expendables-2/expendables-2/" rel="attachment wp-att-6281"><img class="alignnone size-large wp-image-6281" src="/wp-content/uploads//2012/08/11-003-620x413.jpg" alt="" width="620" height="413" />
     </a><em>F</em><em>oto: Norsk Filmdistribusjon</em>
 
     Den første <strong>The Expendables</strong>-filmen kom og gikk som solen gjør i Bergen. Potensialet var på topp og alle og enhver så frem til en ordentlig 80-talls actionfilm med heftige maskingeværkamper og eksplosjoner. Det vi fikk var en fullstendig tankeløs og urovekkende dårlig sammensatt film som verken imponerte med sine eksplosjoner eller slåsscener. For la oss være ærlig, det er akkurat det vi forventer av denne type film. Vi vil slå av hjernefunksjonensom analyserer filmer og personlige problemer i den virkelige verden og bare la overvokste actionfigurer underholde oss.
@@ -226,7 +226,7 @@ meta:
     Manus:</strong> Richard Wenk, Sylvester Stallone<strong>
     </strong><strong>Skuespillere:  </strong>Sylvester Stallone, Jason Statham, Dolph Lundgren, Terry Crews, Bruce Willis, Arnold Schwarzenegger og Chuck Norris
 
-    <a href="//filmbloggen.net/2012/08/17/enda-en-actionbom-med-the-expendables-2/expendables-2/" rel="attachment wp-att-6281"><img class="alignnone size-large wp-image-6281" src="//filmbloggen.net/wp-content/uploads//2012/08/11-003-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/2012/08/17/enda-en-actionbom-med-the-expendables-2/expendables-2/" rel="attachment wp-att-6281"><img class="alignnone size-large wp-image-6281" src="/wp-content/uploads//2012/08/11-003-620x413.jpg" alt="" width="620" height="413" />
     </a><em>F</em><em>oto: Norsk Filmdistribusjon</em>
 
     Den første <strong>The Expendables</strong>-filmen kom og gikk som solen gjør i Bergen. Potensialet var på topp og alle og enhver så frem til en ordentlig 80-talls actionfilm med heftige maskingeværkamper og eksplosjoner. Det vi fikk var en fullstendig tankeløs og urovekkende dårlig sammensatt film som verken imponerte med sine eksplosjoner eller slåsscener. For la oss være ærlig, det er akkurat det vi forventer av denne type film. Vi vil slå av hjernefunksjonensom analyserer filmer og personlige problemer i den virkelige verden og bare la overvokste actionfigurer underholde oss.
@@ -253,7 +253,7 @@ meta:
     Manus:</strong> Richard Wenk, Sylvester Stallone<strong>
     </strong><strong>Skuespillere:  </strong>Sylvester Stallone, Jason Statham, Dolph Lundgren, Terry Crews, Bruce Willis, Arnold Schwarzenegger og Chuck Norris
 
-    <a href="//filmbloggen.net/2012/08/17/enda-en-actionbom-med-the-expendables-2/expendables-2/" rel="attachment wp-att-6281"><img class="alignnone size-large wp-image-6281" src="//filmbloggen.net/wp-content/uploads//2012/08/11-003-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/2012/08/17/enda-en-actionbom-med-the-expendables-2/expendables-2/" rel="attachment wp-att-6281"><img class="alignnone size-large wp-image-6281" src="/wp-content/uploads//2012/08/11-003-620x413.jpg" alt="" width="620" height="413" />
     </a><em>F</em><em>oto: Norsk Filmdistribusjon</em>
 
     Den første <strong>The Expendables</strong>-filmen kom og gikk som solen gjør i Bergen. Potensialet var på topp og alle og enhver så frem til en ordentlig 80-talls actionfilm med heftige maskingeværkamper og eksplosjoner. Det vi fikk var en fullstendig tankeløs og urovekkende dårlig sammensatt film som verken imponerte med sine eksplosjoner eller slåsscener. For la oss være ærlig, det er akkurat det vi forventer av denne type film. Vi vil slå av hjernefunksjonensom analyserer filmer og personlige problemer i den virkelige verden og bare la overvokste actionfigurer underholde oss.
@@ -308,7 +308,7 @@ Regi:** Simon West**
 Manus:** Richard Wenk, Sylvester Stallone**
 ** **Skuespillere:  **Sylvester Stallone, Jason Statham, Dolph Lundgren, Terry Crews, Bruce Willis, Arnold Schwarzenegger og Chuck Norris
 
-<a href="//filmbloggen.net/2012/08/17/enda-en-actionbom-med-the-expendables-2/expendables-2/" rel="attachment wp-att-6281"><img class="alignnone size-large wp-image-6281" src="//filmbloggen.net/wp-content/uploads//2012/08/11-003-620x413.jpg" alt="" width="620" height="413" /><br /> </a>_F__oto: Norsk Filmdistribusjon_
+<a href="//filmbloggen.net/2012/08/17/enda-en-actionbom-med-the-expendables-2/expendables-2/" rel="attachment wp-att-6281"><img class="alignnone size-large wp-image-6281" src="/wp-content/uploads//2012/08/11-003-620x413.jpg" alt="" width="620" height="413" /><br /> </a>_F__oto: Norsk Filmdistribusjon_
 
 Den første **The Expendables**-filmen kom og gikk som solen gjør i Bergen. Potensialet var på topp og alle og enhver så frem til en ordentlig 80-talls actionfilm med heftige maskingeværkamper og eksplosjoner. Det vi fikk var en fullstendig tankeløs og urovekkende dårlig sammensatt film som verken imponerte med sine eksplosjoner eller slåsscener. For la oss være ærlig, det er akkurat det vi forventer av denne type film. Vi vil slå av hjernefunksjonensom analyserer filmer og personlige problemer i den virkelige verden og bare la overvokste actionfigurer underholde oss.
 

@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Tom Cruise, Julianne Hough, Diego Boneta, Russel Brand, Alec Baldwin, Bryan Cranston, Cathrine Zeta-Jones, Paul Giamatti, Malin Akerman.
     <strong>Spilletid:</strong> 2 timer og 3 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=8765" rel="attachment wp-att-8765"><img class="alignnone size-large wp-image-8765" src="//filmbloggen.net/wp-content/uploads//2012/12/Rock-of-Ages_3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=8765" rel="attachment wp-att-8765"><img class="alignnone size-large wp-image-8765" src="/wp-content/uploads//2012/12/Rock-of-Ages_3-620x413.jpg" alt="" width="620" height="413" /></a>
 
     <strong>Adam Shankman er regissøren bak Hairspray, The Wedding Planner og en rekke Glee-episoder.</strong> Han er også kjent som dommer i programmet So You Think You Can Dance. Hans spesialitet er filmer om romantikk, musikk og livsglede. Slik som jeg ser det er dette en regissør med store ambisjoner om å lage feelgood/musikaler, men han mangler litt innovative ideer for å skape et originalt plott. Mesteparten av filmene hans er ikke overraskende proppet full av filmatiske klisjeer - måten karakterene, miljøet eller verden fremstår på. Rock Of Ages er beviset på at filmene til Shankman trenger et snev av original tenkning.
 
@@ -65,7 +65,7 @@ post_content:
     <strong>Skuespillere:</strong> Tom Cruise, Julianne Hough, Diego Boneta, Russel Brand, Alec Baldwin, Bryan Cranston, Cathrine Zeta-Jones, Paul Giamatti, Malin Akerman.
     <strong>Spilletid:</strong> 2 timer og 3 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=8765" rel="attachment wp-att-8765"><img class="alignnone size-large wp-image-8765" src="//filmbloggen.net/wp-content/uploads//2012/12/Rock-of-Ages_3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=8765" rel="attachment wp-att-8765"><img class="alignnone size-large wp-image-8765" src="/wp-content/uploads//2012/12/Rock-of-Ages_3-620x413.jpg" alt="" width="620" height="413" /></a>
 
     <strong>Adam Shankman er regissøren bak Hairspray, The Wedding Planner og en rekke Glee-episoder.</strong> Han er også kjent som dommer i programmet So You Think You Can Dance. Hans spesialitet er filmer om romantikk, musikk og livsglede. Slik som jeg ser det er dette en regissør med store ambisjoner om å lage feelgood/musikaler, men han mangler litt innovative ideer for å skape et originalt plott. Mesteparten av filmene hans er ikke overraskende proppet full av filmatiske klisjeer - måten karakterene, miljøet eller verden fremstår på. Rock Of Ages er beviset på at filmene til Shankman trenger et snev av original tenkning.
 
@@ -173,7 +173,7 @@ meta:
     <strong>Skuespillere:</strong> Tom Cruise, Julianne Hough, Diego Boneta, Russel Brand, Alec Baldwin, Bryan Cranston, Cathrine Zeta-Jones, Paul Giamatti, Malin Akerman.
     <strong>Spilletid:</strong> 2 timer og 3 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=8765" rel="attachment wp-att-8765"><img class="alignnone size-large wp-image-8765" src="//filmbloggen.net/wp-content/uploads//2012/12/Rock-of-Ages_3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=8765" rel="attachment wp-att-8765"><img class="alignnone size-large wp-image-8765" src="/wp-content/uploads//2012/12/Rock-of-Ages_3-620x413.jpg" alt="" width="620" height="413" /></a>
 
     <strong>Adam Shankman er regissøren bak Hairspray, The Wedding Planner og en rekke Glee-episoder.</strong> Han er også kjent som dommer i programmet So You Think You Can Dance. Hans spesialitet er filmer om romantikk, musikk og livsglede. Slik som jeg ser det er dette en regissør med store ambisjoner om å lage feelgood/musikaler, men han mangler litt innovative ideer for å skape et originalt plott. Mesteparten av filmene hans er ikke overraskende proppet full av filmatiske klisjeer - måten karakterene, miljøet eller verden fremstår på. Rock Of Ages er beviset på at filmene til Shankman trenger et snev av original tenkning.
 
@@ -196,7 +196,7 @@ meta:
     <strong>Skuespillere:</strong> Tom Cruise, Julianne Hough, Diego Boneta, Russel Brand, Alec Baldwin, Bryan Cranston, Cathrine Zeta-Jones, Paul Giamatti, Malin Akerman.
     <strong>Spilletid:</strong> 2 timer og 3 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=8765" rel="attachment wp-att-8765"><img class="alignnone size-large wp-image-8765" src="//filmbloggen.net/wp-content/uploads//2012/12/Rock-of-Ages_3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=8765" rel="attachment wp-att-8765"><img class="alignnone size-large wp-image-8765" src="/wp-content/uploads//2012/12/Rock-of-Ages_3-620x413.jpg" alt="" width="620" height="413" /></a>
 
     <strong>Adam Shankman er regissøren bak Hairspray, The Wedding Planner og en rekke Glee-episoder.</strong> Han er også kjent som dommer i programmet So You Think You Can Dance. Hans spesialitet er filmer om romantikk, musikk og livsglede. Slik som jeg ser det er dette en regissør med store ambisjoner om å lage feelgood/musikaler, men han mangler litt innovative ideer for å skape et originalt plott. Mesteparten av filmene hans er ikke overraskende proppet full av filmatiske klisjeer - måten karakterene, miljøet eller verden fremstår på. Rock Of Ages er beviset på at filmene til Shankman trenger et snev av original tenkning.
 
@@ -295,7 +295,7 @@ tags:
 **Skuespillere:** Tom Cruise, Julianne Hough, Diego Boneta, Russel Brand, Alec Baldwin, Bryan Cranston, Cathrine Zeta-Jones, Paul Giamatti, Malin Akerman.
 **Spilletid:** 2 timer og 3 minutter
 
-<a href="//filmbloggen.net/2012/12/09/rock-pa-glee-vis/rock-of-ages_3/" rel="attachment wp-att-8765"><img class="alignnone size-large wp-image-8765" src="//filmbloggen.net/wp-content/uploads//2012/12/Rock-of-Ages_3-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/12/09/rock-pa-glee-vis/rock-of-ages_3/" rel="attachment wp-att-8765"><img class="alignnone size-large wp-image-8765" src="/wp-content/uploads//2012/12/Rock-of-Ages_3-620x413.jpg" alt="" width="620" height="413" /></a>
 
 **Adam Shankman er regissøren bak Hairspray, The Wedding Planner og en rekke Glee-episoder.** Han er også kjent som dommer i programmet So You Think You Can Dance. Hans spesialitet er filmer om romantikk, musikk og livsglede. Slik som jeg ser det er dette en regissør med store ambisjoner om å lage feelgood/musikaler, men han mangler litt innovative ideer for å skape et originalt plott. Mesteparten av filmene hans er ikke overraskende proppet full av filmatiske klisjeer – måten karakterene, miljøet eller verden fremstår på. Rock Of Ages er beviset på at filmene til Shankman trenger et snev av original tenkning.
 

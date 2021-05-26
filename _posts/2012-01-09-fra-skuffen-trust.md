@@ -107,7 +107,7 @@ content:
     <strong>Spilletid:</strong> </strong>1 time og 47 minutter<strong>
     <strong>Regissør: </strong></strong>David Schwimmer<strong>
     <strong>Med:</strong> </strong>Clive Owen, Catherine Keener, Noah Emmerich, Viola Davis, Liana Liberato, Jason Clarke, Gordon Michaels, Brandon Molale, Chris Henry Coffey, Noah Crawford og Nicole Forester
-    <img class="alignnone size-large wp-image-1767" src="//filmbloggen.net/wp-content/uploads//2012/01/Trust-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-1767" src="/wp-content/uploads//2012/01/Trust-620x413.jpg" alt="" width="620" height="413" />
     David Schwimmers første store test som regissør fikk han i 2010 med Trust. Og for en fantastisk jobb han har gjort. Trust handler om en vanlig mellomklassefamilie som får livet snudd opp ned etter at deres fjortenårige datter Annie starter kontakt med en gutt ved navn "Charlie" på nettet. Gutten viser seg å være en mann i 40-årene som lurer seg til seksuell omgang med Annie. Eller for å si det på en annen måte: mer eller mindre voldtar.
 
     Hvordan skal man takle noe sånt? Den reaksjonen som jeg best kan relatere meg med selv er reaksjonen til faren til Annie får. Will blir spilt perfekt av Clive Owen. Han starter en vill jakt for å finne overgriperen og sørge for at han aldri får gjort noe sånt som det her igjen. Annie selv er overbevist om at "Charlie" er forelsket i hu og hun gjør alt for å beskytte han. Hun nekter å gi informasjon til FBI og til sine foreldre og dytter både sine venninner og sin familie vekk fra seg.
@@ -178,7 +178,7 @@ post_content:
     <strong>Spilletid:</strong> </strong>1 time og 47 minutter<strong>
     <strong>Regissør: </strong></strong>David Schwimmer<strong>
     <strong>Med:</strong> </strong>Clive Owen, Catherine Keener, Noah Emmerich, Viola Davis, Liana Liberato, Jason Clarke, Gordon Michaels, Brandon Molale, Chris Henry Coffey, Noah Crawford og Nicole Forester
-    <img class="alignnone size-large wp-image-1767" src="//filmbloggen.net/wp-content/uploads//2012/01/Trust-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-1767" src="/wp-content/uploads//2012/01/Trust-620x413.jpg" alt="" width="620" height="413" />
     David Schwimmers første store test som regissør fikk han i 2010 med Trust. Og for en fantastisk jobb han har gjort. Trust handler om en vanlig mellomklassefamilie som får livet snudd opp ned etter at deres fjortenårige datter Annie starter kontakt med en gutt ved navn "Charlie" på nettet. Gutten viser seg å være en mann i 40-årene som lurer seg til seksuell omgang med Annie. Eller for å si det på en annen måte: mer eller mindre voldtar.
 
     Hvordan skal man takle noe sånt? Den reaksjonen som jeg best kan relatere meg med selv er reaksjonen til faren til Annie får. Will blir spilt perfekt av Clive Owen. Han starter en vill jakt for å finne overgriperen og sørge for at han aldri får gjort noe sånt som det her igjen. Annie selv er overbevist om at "Charlie" er forelsket i hu og hun gjør alt for å beskytte han. Hun nekter å gi informasjon til FBI og til sine foreldre og dytter både sine venninner og sin familie vekk fra seg.
@@ -200,7 +200,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 47 minutter<strong>
     <strong>Regissør: </strong></strong>David Schwimmer<strong>
     <strong>Med:</strong> </strong>Clive Owen, Catherine Keener, Noah Emmerich, Viola Davis, Liana Liberato, Jason Clarke, Gordon Michaels, Brandon Molale, Chris Henry Coffey, Noah Crawford og Nicole Forester
-    <img class="alignnone size-large wp-image-1767" src="//filmbloggen.net/wp-content/uploads//2012/01/Trust-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-1767" src="/wp-content/uploads//2012/01/Trust-620x413.jpg" alt="" width="620" height="413" />
     David Schwimmers første store test som regissør fikk han i 2010 med Trust. Og for en fantastisk jobb han har gjort. Trust handler om en vanlig mellomklassefamilie som får livet snudd opp ned etter at deres fjortenårige datter Annie starter kontakt med en gutt ved navn "Charlie" på nettet. Gutten viser seg å være en mann i 40-årene som lurer seg til seksuell omgang med Annie. Eller for å si det på en annen måte: mer eller mindre voldtar.
 
     Hvordan skal man takle noe sånt? Den reaksjonen som jeg best kan relatere meg med selv er reaksjonen til faren til Annie får. Will blir spilt perfekt av Clive Owen. Han starter en vill jakt for å finne overgriperen og sørge for at han aldri får gjort noe sånt som det her igjen. Annie selv er overbevist om at "Charlie" er forelsket i hu og hun gjør alt for å beskytte han. Hun nekter å gi informasjon til FBI og til sine foreldre og dytter både sine venninner og sin familie vekk fra seg.
@@ -213,7 +213,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 47 minutter<strong>
     <strong>Regissør: </strong></strong>David Schwimmer<strong>
     <strong>Med:</strong> </strong>Clive Owen, Catherine Keener, Noah Emmerich, Viola Davis, Liana Liberato, Jason Clarke, Gordon Michaels, Brandon Molale, Chris Henry Coffey, Noah Crawford og Nicole Forester
-    <img class="alignnone size-large wp-image-1767" src="//filmbloggen.net/wp-content/uploads//2012/01/Trust-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-1767" src="/wp-content/uploads//2012/01/Trust-620x413.jpg" alt="" width="620" height="413" />
     David Schwimmers første store test som regissør fikk han i 2010 med Trust. Og for en fantastisk jobb han har gjort. Trust handler om en vanlig mellomklassefamilie som får livet snudd opp ned etter at deres fjortenårige datter Annie starter kontakt med en gutt ved navn "Charlie" på nettet. Gutten viser seg å være en mann i 40-årene som lurer seg til seksuell omgang med Annie. Eller for å si det på en annen måte: mer eller mindre voldtar.
 
     Hvordan skal man takle noe sånt? Den reaksjonen som jeg best kan relatere meg med selv er reaksjonen til faren til Annie får. Will blir spilt perfekt av Clive Owen. Han starter en vill jakt for å finne overgriperen og sørge for at han aldri får gjort noe sånt som det her igjen. Annie selv er overbevist om at "Charlie" er forelsket i hu og hun gjør alt for å beskytte han. Hun nekter å gi informasjon til FBI og til sine foreldre og dytter både sine venninner og sin familie vekk fra seg.
@@ -244,7 +244,7 @@ Etter en lang periode med eksamener og juleferie skal vi nå starte opp her på 
 **Spilletid:** **1 time og 47 minutter**
 **Regissør: ****David Schwimmer**
 **Med:** **Clive Owen, Catherine Keener, Noah Emmerich, Viola Davis, Liana Liberato, Jason Clarke, Gordon Michaels, Brandon Molale, Chris Henry Coffey, Noah Crawford og Nicole Forester
-<img class="alignnone size-large wp-image-1767" src="//filmbloggen.net/wp-content/uploads//2012/01/Trust-620x413.jpg" alt="" width="620" height="413" />
+<img class="alignnone size-large wp-image-1767" src="/wp-content/uploads//2012/01/Trust-620x413.jpg" alt="" width="620" height="413" />
 David Schwimmers første store test som regissør fikk han i 2010 med Trust. Og for en fantastisk jobb han har gjort. Trust handler om en vanlig mellomklassefamilie som får livet snudd opp ned etter at deres fjortenårige datter Annie starter kontakt med en gutt ved navn «Charlie» på nettet. Gutten viser seg å være en mann i 40-årene som lurer seg til seksuell omgang med Annie. Eller for å si det på en annen måte: mer eller mindre voldtar.
 
 Hvordan skal man takle noe sånt? Den reaksjonen som jeg best kan relatere meg med selv er reaksjonen til faren til Annie får. Will blir spilt perfekt av Clive Owen. Han starter en vill jakt for å finne overgriperen og sørge for at han aldri får gjort noe sånt som det her igjen. Annie selv er overbevist om at «Charlie» er forelsket i hu og hun gjør alt for å beskytte han. Hun nekter å gi informasjon til FBI og til sine foreldre og dytter både sine venninner og sin familie vekk fra seg.

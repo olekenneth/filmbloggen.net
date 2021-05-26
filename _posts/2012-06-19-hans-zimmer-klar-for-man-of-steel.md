@@ -100,7 +100,7 @@ samplepermalinknonce:
   - 56a6a0df5f
 content:
   - |
-    <strong>Den talentfulle Zimmer har laget musikken for Batman-trilogien og Inception som alle fire er filmer av Christopher Nolan. Nå skal de jobbe sammen igjen.</strong><!--more--><a href="//filmbloggen.net/2012/06/19/hans-zimmer-klar-for-man-of-steel/christopher-nolan/" rel="attachment wp-att-4271"><img class="alignnone size-large wp-image-4271" src="//filmbloggen.net/wp-content/uploads//2012/06/CHRISTOPHER-NOLAN-620x511.jpg" alt="" width="620" height="511" /></a>
+    <strong>Den talentfulle Zimmer har laget musikken for Batman-trilogien og Inception som alle fire er filmer av Christopher Nolan. Nå skal de jobbe sammen igjen.</strong><!--more--><a href="//filmbloggen.net/2012/06/19/hans-zimmer-klar-for-man-of-steel/christopher-nolan/" rel="attachment wp-att-4271"><img class="alignnone size-large wp-image-4271" src="/wp-content/uploads//2012/06/CHRISTOPHER-NOLAN-620x511.jpg" alt="" width="620" height="511" /></a>
     Man of Steel har en vanvittig rolleliste med blant annet Henry Cavill som Supermann, Amy Adams som Lois Lane, Russel Crowe som Jor-El, Laurence Fishburne som Perry White, Kevin Costner som Jonathan Kent og Diane Lane som hans kone. Dette er bare for å nevne noen. Så langt så elsker jeg Amy Adams som Lois Lane og har ståltro på at hun kan gjøre en kjemperolle.
 
     Når du setter rollelista over sammen med manus av David Goyer og Jonathan Nolan, produsentene Christopher Nolan og Emma Thomas og regissør Zack Snyder kan vi få en heidundranes film.
@@ -190,7 +190,7 @@ ID:
   - "4270"
 post_content:
   - |
-    <strong>Den talentfulle Zimmer har laget musikken for Batman-trilogien og Inception som alle fire er filmer av Christopher Nolan. Nå skal de jobbe sammen igjen.</strong><!--more--><a href="//filmbloggen.net/2012/06/19/hans-zimmer-klar-for-man-of-steel/christopher-nolan/" rel="attachment wp-att-4271"><img class="alignnone size-large wp-image-4271" src="//filmbloggen.net/wp-content/uploads//2012/06/CHRISTOPHER-NOLAN-620x511.jpg" alt="" width="620" height="511" /></a>
+    <strong>Den talentfulle Zimmer har laget musikken for Batman-trilogien og Inception som alle fire er filmer av Christopher Nolan. Nå skal de jobbe sammen igjen.</strong><!--more--><a href="//filmbloggen.net/2012/06/19/hans-zimmer-klar-for-man-of-steel/christopher-nolan/" rel="attachment wp-att-4271"><img class="alignnone size-large wp-image-4271" src="/wp-content/uploads//2012/06/CHRISTOPHER-NOLAN-620x511.jpg" alt="" width="620" height="511" /></a>
     Man of Steel har en vanvittig rolleliste med blant annet Henry Cavill som Supermann, Amy Adams som Lois Lane, Russel Crowe som Jor-El, Laurence Fishburne som Perry White, Kevin Costner som Jonathan Kent og Diane Lane som hans kone. Dette er bare for å nevne noen. Så langt så elsker jeg Amy Adams som Lois Lane og har ståltro på at hun kan gjøre en kjemperolle.
 
     Når du setter rollelista over sammen med manus av David Goyer og Jonathan Nolan, produsentene Christopher Nolan og Emma Thomas og regissør Zack Snyder kan vi få en heidundranes film.
@@ -244,7 +244,7 @@ categories:
 ---
 **Den talentfulle Zimmer har laget musikken for Batman-trilogien og Inception som alle fire er filmer av Christopher Nolan. Nå skal de jobbe sammen igjen.**<!--more-->
 
-<a href="//filmbloggen.net/2012/06/19/hans-zimmer-klar-for-man-of-steel/christopher-nolan/" rel="attachment wp-att-4271"><img class="alignnone size-large wp-image-4271" src="//filmbloggen.net/wp-content/uploads//2012/06/CHRISTOPHER-NOLAN-620x511.jpg" alt="" width="620" height="511" /></a>
+<a href="//filmbloggen.net/2012/06/19/hans-zimmer-klar-for-man-of-steel/christopher-nolan/" rel="attachment wp-att-4271"><img class="alignnone size-large wp-image-4271" src="/wp-content/uploads//2012/06/CHRISTOPHER-NOLAN-620x511.jpg" alt="" width="620" height="511" /></a>
 Man of Steel har en vanvittig rolleliste med blant annet Henry Cavill som Supermann, Amy Adams som Lois Lane, Russel Crowe som Jor-El, Laurence Fishburne som Perry White, Kevin Costner som Jonathan Kent og Diane Lane som hans kone. Dette er bare for å nevne noen. Så langt så elsker jeg Amy Adams som Lois Lane og har ståltro på at hun kan gjøre en kjemperolle.
 
 Når du setter rollelista over sammen med manus av David Goyer og Jonathan Nolan, produsentene Christopher Nolan og Emma Thomas og regissør Zack Snyder kan vi få en heidundranes film.

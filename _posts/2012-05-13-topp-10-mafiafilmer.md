@@ -16,7 +16,7 @@ content:
 
     <strong><!--more-->10. The Untouchables</strong>
 
-    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/420586-the_untouchables_original/" rel="attachment wp-att-3412"><img class="alignnone size-large wp-image-3412" src="//filmbloggen.net/wp-content/uploads//2012/05/420586-the_untouchables_original-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/420586-the_untouchables_original/" rel="attachment wp-att-3412"><img class="alignnone size-large wp-image-3412" src="/wp-content/uploads//2012/05/420586-the_untouchables_original-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Chicago styres med jernhånd av mafialederen Al Capone (Robert De Niro) og det er Eliot Ness' (Kevin Costner) oppgave å stanse hans alkoholvirksomhet. Sammen med Jim Malone (Sean Connery), George Stone (Andy Garcia) og Oscar Wallace (Charles Martin Smith) skal de en gang for alle stanse Al Capones ulovlige alkoholproduksjon. Filmen byr på mye spenning både i form av ville skytescener og ampre sekvenser fra rettsaken mot selveste Al Capone. Dette er en klassiker og derfor fortjener den å være med på listen.
     <strong></strong>
@@ -28,7 +28,7 @@ content:
 
     <strong>8. Scarface</strong>
 
-    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/scarface-wallpaper_52027_2470/" rel="attachment wp-att-3417"><img class="alignnone size-large wp-image-3417" src="//filmbloggen.net/wp-content/uploads//2012/05/scarface-wallpaper_52027_2470-620x409.jpg" alt="" width="620" height="409" /></a>
+    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/scarface-wallpaper_52027_2470/" rel="attachment wp-att-3417"><img class="alignnone size-large wp-image-3417" src="/wp-content/uploads//2012/05/scarface-wallpaper_52027_2470-620x409.jpg" alt="" width="620" height="409" /></a>
 
     Den fattige immigranten Tony Montana går fra å være en nobody til å bli en styrtrik dopkonge. Fortellingen om han utspiller seg i eksotiske Miami - der de kriminelle viser ingen nåde og de forskjellige kulturelle gruppene danner seg gjenger for å overleve. Tony Montana er kanskje en av Hollywoods best utviklede karakterer noensinne. Han er selvsikker, selvsentrert og har et forferdelig temperament. Denne havnet på listen fordi den skildrer godt hvordan veien til rikdom utspiller seg, og den gjør det på en såpass god måte at det fortjener en del applaus. Brian De Palma viser gang etter gang at han er en av de dyktigste regissørene der ute. Denne filmen er hans perle.
     <strong></strong>
@@ -39,7 +39,7 @@ content:
 
     <strong>6. Gomorra</strong>
 
-    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/kids-shooting/" rel="attachment wp-att-3435"><img class="alignnone size-large wp-image-3435" src="//filmbloggen.net/wp-content/uploads//2012/05/kids-shooting-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/kids-shooting/" rel="attachment wp-att-3435"><img class="alignnone size-large wp-image-3435" src="/wp-content/uploads//2012/05/kids-shooting-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Vi får et innblikk i Italias moderne kriminelle mafiafamilier og filmen sensurerer ikke de grove detaljene. Den er ærlig i fremstillingen av hverdagen for en gangster og det gjør den særdeles upassende for det yngre publikum. Vi følger blant annet to unge karer som har store forhåpninger om å bli mafiabosser når de blir eldre. Det viser seg å være en risikofylt drøm å oppfylle. Filmen viser også at barn i 12-årsalderen blir rekruttert til forskjellige kriminelle familier. Noen ganger trosser det vennskap man en gang hadde og det skaper ubalanse i forholdet mellom mafiafamiliene. Denne filmen skiller seg ut fra de andre på listen. Den er ikke like kjent eller populær og den er heller ikke fra samme tiår, men allikevel føler jeg at den fortjener plassen.
     <strong></strong>
@@ -54,7 +54,7 @@ content:
 
     <strong>3. Infernal Affairs</strong>
 
-    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/infernal-affairs/" rel="attachment wp-att-3437"><img class="alignnone size-large wp-image-3437" src="//filmbloggen.net/wp-content/uploads//2012/05/Infernal-Affairs-620x411.jpg" alt="" width="620" height="411" /></a>
+    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/infernal-affairs/" rel="attachment wp-att-3437"><img class="alignnone size-large wp-image-3437" src="/wp-content/uploads//2012/05/Infernal-Affairs-620x411.jpg" alt="" width="620" height="411" /></a>
 
     The Departed er hakket dårligere enn originalen Infernal Affairs, de er forskjellige på sine egne måter, men jeg liker miljøet og settingen som er satt til Hong Kong bedre. Historien er veldig møysommelig laget, måten den skifter fokus mellom de to hovedaktørene gjør storyen meget troverdig og finurlig sammensatt. Storyen er omtrent lik The Departed, det eneste unntaket er at Martin Scorcese valgte å sette historien i Boston. Siden denne filmen skiller seg ut fra de andre filmene syntes jeg det var en god idé å blande det litt. Listen blir kjedelig dersom det bare er de klassiske filmene om italienske mafiafamilier.
 
@@ -64,7 +64,7 @@ content:
 
     <strong>1. City of God</strong>
 
-    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/02_copy4_original/" rel="attachment wp-att-3436"><img class="alignnone size-large wp-image-3436" src="//filmbloggen.net/wp-content/uploads//2012/05/02_copy4_original-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/02_copy4_original/" rel="attachment wp-att-3436"><img class="alignnone size-large wp-image-3436" src="/wp-content/uploads//2012/05/02_copy4_original-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Mange tenker vel kanskje at denne i bunn og grunn ikke kan kategoriseres som en mafiafilm, men jeg føler City of God fortjener plassen av den enkle grunn at det er en meget bra film. På best mulig måte klarer den å skildre det tøffe livet i Rio de Janeiro - hvordan oppvekstvilkårene var og hvorfor man valgte den kriminelle verden framfor den lovlydige. Historien handler om to gutter: den ene blir en fotograf og den andre blir en narkolanger. Regissør Fernando Meirelles deler fortellingen opp i deler og mestrer på en eller annen merkelig måte å gjøre hver del like magisk. Jeg gir denne filmen mine beste anbefalninger.
 
@@ -108,7 +108,7 @@ post_content:
 
     <strong><!--more-->10. The Untouchables</strong>
 
-    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/420586-the_untouchables_original/" rel="attachment wp-att-3412"><img class="alignnone size-large wp-image-3412" src="//filmbloggen.net/wp-content/uploads//2012/05/420586-the_untouchables_original-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/420586-the_untouchables_original/" rel="attachment wp-att-3412"><img class="alignnone size-large wp-image-3412" src="/wp-content/uploads//2012/05/420586-the_untouchables_original-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Chicago styres med jernhånd av mafialederen Al Capone (Robert De Niro) og det er Eliot Ness' (Kevin Costner) oppgave å stanse hans alkoholvirksomhet. Sammen med Jim Malone (Sean Connery), George Stone (Andy Garcia) og Oscar Wallace (Charles Martin Smith) skal de en gang for alle stanse Al Capones ulovlige alkoholproduksjon. Filmen byr på mye spenning både i form av ville skytescener og ampre sekvenser fra rettsaken mot selveste Al Capone. Dette er en klassiker og derfor fortjener den å være med på listen.
     <strong></strong>
@@ -120,7 +120,7 @@ post_content:
 
     <strong>8. Scarface</strong>
 
-    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/scarface-wallpaper_52027_2470/" rel="attachment wp-att-3417"><img class="alignnone size-large wp-image-3417" src="//filmbloggen.net/wp-content/uploads//2012/05/scarface-wallpaper_52027_2470-620x409.jpg" alt="" width="620" height="409" /></a>
+    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/scarface-wallpaper_52027_2470/" rel="attachment wp-att-3417"><img class="alignnone size-large wp-image-3417" src="/wp-content/uploads//2012/05/scarface-wallpaper_52027_2470-620x409.jpg" alt="" width="620" height="409" /></a>
 
     Den fattige immigranten Tony Montana går fra å være en nobody til å bli en styrtrik dopkonge. Fortellingen om han utspiller seg i eksotiske Miami - der de kriminelle viser ingen nåde og de forskjellige kulturelle gruppene danner seg gjenger for å overleve. Tony Montana er kanskje en av Hollywoods best utviklede karakterer noensinne. Han er selvsikker, selvsentrert og har et forferdelig temperament. Denne havnet på listen fordi den skildrer godt hvordan veien til rikdom utspiller seg, og den gjør det på en såpass god måte at det fortjener en del applaus. Brian De Palma viser gang etter gang at han er en av de dyktigste regissørene der ute. Denne filmen er hans perle.
     <strong></strong>
@@ -131,7 +131,7 @@ post_content:
 
     <strong>6. Gomorra</strong>
 
-    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/kids-shooting/" rel="attachment wp-att-3435"><img class="alignnone size-large wp-image-3435" src="//filmbloggen.net/wp-content/uploads//2012/05/kids-shooting-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/kids-shooting/" rel="attachment wp-att-3435"><img class="alignnone size-large wp-image-3435" src="/wp-content/uploads//2012/05/kids-shooting-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Vi får et innblikk i Italias moderne kriminelle mafiafamilier og filmen sensurerer ikke de grove detaljene. Den er ærlig i fremstillingen av hverdagen for en gangster og det gjør den særdeles upassende for det yngre publikum. Vi følger blant annet to unge karer som har store forhåpninger om å bli mafiabosser når de blir eldre. Det viser seg å være en risikofylt drøm å oppfylle. Filmen viser også at barn i 12-årsalderen blir rekruttert til forskjellige kriminelle familier. Noen ganger trosser det vennskap man en gang hadde og det skaper ubalanse i forholdet mellom mafiafamiliene. Denne filmen skiller seg ut fra de andre på listen. Den er ikke like kjent eller populær og den er heller ikke fra samme tiår, men allikevel føler jeg at den fortjener plassen.
     <strong></strong>
@@ -146,7 +146,7 @@ post_content:
 
     <strong>3. Infernal Affairs</strong>
 
-    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/infernal-affairs/" rel="attachment wp-att-3437"><img class="alignnone size-large wp-image-3437" src="//filmbloggen.net/wp-content/uploads//2012/05/Infernal-Affairs-620x411.jpg" alt="" width="620" height="411" /></a>
+    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/infernal-affairs/" rel="attachment wp-att-3437"><img class="alignnone size-large wp-image-3437" src="/wp-content/uploads//2012/05/Infernal-Affairs-620x411.jpg" alt="" width="620" height="411" /></a>
 
     The Departed er hakket dårligere enn originalen Infernal Affairs, de er forskjellige på sine egne måter, men jeg liker miljøet og settingen som er satt til Hong Kong bedre. Historien er veldig møysommelig laget, måten den skifter fokus mellom de to hovedaktørene gjør storyen meget troverdig og finurlig sammensatt. Storyen er omtrent lik The Departed, det eneste unntaket er at Martin Scorcese valgte å sette historien i Boston. Siden denne filmen skiller seg ut fra de andre filmene syntes jeg det var en god idé å blande det litt. Listen blir kjedelig dersom det bare er de klassiske filmene om italienske mafiafamilier.
 
@@ -156,7 +156,7 @@ post_content:
 
     <strong>1. City of God</strong>
 
-    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/02_copy4_original/" rel="attachment wp-att-3436"><img class="alignnone size-large wp-image-3436" src="//filmbloggen.net/wp-content/uploads//2012/05/02_copy4_original-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/02_copy4_original/" rel="attachment wp-att-3436"><img class="alignnone size-large wp-image-3436" src="/wp-content/uploads//2012/05/02_copy4_original-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Mange tenker vel kanskje at denne i bunn og grunn ikke kan kategoriseres som en mafiafilm, men jeg føler City of God fortjener plassen av den enkle grunn at det er en meget bra film. På best mulig måte klarer den å skildre det tøffe livet i Rio de Janeiro - hvordan oppvekstvilkårene var og hvorfor man valgte den kriminelle verden framfor den lovlydige. Historien handler om to gutter: den ene blir en fotograf og den andre blir en narkolanger. Regissør Fernando Meirelles deler fortellingen opp i deler og mestrer på en eller annen merkelig måte å gjøre hver del like magisk. Jeg gir denne filmen mine beste anbefalninger.
 
@@ -264,7 +264,7 @@ meta:
 
     <strong>10. The Untouchables</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=3412" rel="attachment wp-att-3412"><img class="alignnone size-large wp-image-3412" src="//filmbloggen.net/wp-content/uploads//2012/05/420586-the_untouchables_original-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3412" rel="attachment wp-att-3412"><img class="alignnone size-large wp-image-3412" src="/wp-content/uploads//2012/05/420586-the_untouchables_original-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Chicago styres med jernhånd av mafialederen Al Capone (Robert De Niro) og det er Eliot Ness' (Kevin Costner) oppgave å stanse hans alkoholvirksomhet. Sammen med Jim Malone (Sean Connery), George Stone (Andy Garcia) og Oscar Wallace (Charles Martin Smith) skal de en gang for alle stanse Al Capones ulovlige alkoholproduksjon. Filmen byr på mye spenning både i form av ville skytescener og ampre sekvenser fra rettsaken mot selveste Al Capone. Dette er en klassiker og derfor fortjener den å være med på listen.
     <strong></strong>
@@ -276,7 +276,7 @@ meta:
 
     <strong>8. Scarface</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=3417" rel="attachment wp-att-3417"><img class="alignnone size-large wp-image-3417" src="//filmbloggen.net/wp-content/uploads//2012/05/scarface-wallpaper_52027_2470-620x409.jpg" alt="" width="620" height="409" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3417" rel="attachment wp-att-3417"><img class="alignnone size-large wp-image-3417" src="/wp-content/uploads//2012/05/scarface-wallpaper_52027_2470-620x409.jpg" alt="" width="620" height="409" /></a>
 
     Den fattige immigranten Tony Montana går fra å være en nobody til å bli en styrtrik dopkonge. Fortellingen om han utspiller seg i eksotiske Miami - der de kriminelle viser ingen nåde og de forskjellige kulturelle gruppene danner seg gjenger for å overleve. Tony Montana er kanskje en av Hollywoods best utviklede karakterer noensinne. Han er selvsikker, selvsentrert og har et forferdelig temperament. Denne havnet på listen fordi den skildrer godt hvordan veien til rikdom utspiller seg, og den gjør det på en såpass god måte at det fortjener en del applaus. Brian De Palma viser gang etter gang at han er en av de dyktigste regissørene der ute. Denne filmen er hans perle.
     <strong></strong>
@@ -287,7 +287,7 @@ meta:
 
     <strong>6. Gomorra</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=3435" rel="attachment wp-att-3435"><img class="alignnone size-large wp-image-3435" src="//filmbloggen.net/wp-content/uploads//2012/05/kids-shooting-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3435" rel="attachment wp-att-3435"><img class="alignnone size-large wp-image-3435" src="/wp-content/uploads//2012/05/kids-shooting-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Vi får et innblikk i Italias moderne kriminelle mafiafamilier og filmen sensurerer ikke de grove detaljene. Den er ærlig i fremstillingen av hverdagen for en gangster og det gjør den særdeles upassende for det yngre publikum. Vi følger blant annet to unge karer som har store forhåpninger om å bli mafiabosser når de blir eldre. Det viser seg å være en risikofylt drøm å oppfylle. Filmen viser også at barn i 12-årsalderen blir rekruttert til forskjellige kriminelle familier. Noen ganger trosser det vennskap man en gang hadde og det skaper ubalanse i forholdet mellom mafiafamiliene. Denne filmen skiller seg ut fra de andre på listen. Den er ikke like kjent eller populær og den er heller ikke fra samme tiår, men allikevel føler jeg at den fortjener plassen.
     <strong></strong>
@@ -302,7 +302,7 @@ meta:
 
     <strong>3. Infernal Affairs</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=3437" rel="attachment wp-att-3437"><img class="alignnone size-large wp-image-3437" src="//filmbloggen.net/wp-content/uploads//2012/05/Infernal-Affairs-620x411.jpg" alt="" width="620" height="411" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3437" rel="attachment wp-att-3437"><img class="alignnone size-large wp-image-3437" src="/wp-content/uploads//2012/05/Infernal-Affairs-620x411.jpg" alt="" width="620" height="411" /></a>
 
     The Departed er hakket dårligere enn originalen Infernal Affairs, de er forskjellige på sine egne måter, men jeg liker miljøet og settingen som er satt til Hong Kong bedre. Historien er veldig møysommelig laget, måten den skifter fokus mellom de to hovedaktørene gjør storyen meget troverdig og finurlig sammensatt. Storyen er omtrent lik The Departed, det eneste unntaket er at Martin Scorcese valgte å sette historien i Boston. Siden denne filmen skiller seg ut fra de andre filmene syntes jeg det var en god idé å blande det litt. Listen blir kjedelig dersom det bare er de klassiske filmene om italienske mafiafamilier.
 
@@ -312,7 +312,7 @@ meta:
 
     <strong>1. City of God</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=3436" rel="attachment wp-att-3436"><img class="alignnone size-large wp-image-3436" src="//filmbloggen.net/wp-content/uploads//2012/05/02_copy4_original-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3436" rel="attachment wp-att-3436"><img class="alignnone size-large wp-image-3436" src="/wp-content/uploads//2012/05/02_copy4_original-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Mange tenker vel kanskje at denne i bunn og grunn ikke kan kategoriseres som en mafiafilm, men jeg føler City of God fortjener plassen av den enkle grunn at det er en meget bra film. På best mulig måte klarer den å skildre det tøffe livet i Rio de Janeiro - hvordan oppvekstvilkårene var og hvorfor man valgte den kriminelle verden framfor den lovlydige. Historien handler om to gutter: den ene blir en fotograf og den andre blir en narkolanger. Regissør Fernando Meirelles deler fortellingen opp i deler og mestrer på en eller annen merkelig måte å gjøre hver del like magisk. Jeg gir denne filmen mine beste anbefalninger.
 
@@ -335,7 +335,7 @@ meta:
 
     <strong>10. The Untouchables</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=3412" rel="attachment wp-att-3412"><img class="alignnone size-large wp-image-3412" src="//filmbloggen.net/wp-content/uploads//2012/05/420586-the_untouchables_original-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3412" rel="attachment wp-att-3412"><img class="alignnone size-large wp-image-3412" src="/wp-content/uploads//2012/05/420586-the_untouchables_original-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Chicago styres med jernhånd av mafialederen Al Capone (Robert De Niro) og det er Eliot Ness' (Kevin Costner) oppgave å stanse hans alkoholvirksomhet. Sammen med Jim Malone (Sean Connery), George Stone (Andy Garcia) og Oscar Wallace (Charles Martin Smith) skal de en gang for alle stanse Al Capones ulovlige alkoholproduksjon. Filmen byr på mye spenning både i form av ville skytescener og ampre sekvenser fra rettsaken mot selveste Al Capone. Dette er en klassiker og derfor fortjener den å være med på listen.
     <strong></strong>
@@ -347,7 +347,7 @@ meta:
 
     <strong>8. Scarface</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=3417" rel="attachment wp-att-3417"><img class="alignnone size-large wp-image-3417" src="//filmbloggen.net/wp-content/uploads//2012/05/scarface-wallpaper_52027_2470-620x409.jpg" alt="" width="620" height="409" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3417" rel="attachment wp-att-3417"><img class="alignnone size-large wp-image-3417" src="/wp-content/uploads//2012/05/scarface-wallpaper_52027_2470-620x409.jpg" alt="" width="620" height="409" /></a>
 
     Den fattige immigranten Tony Montana går fra å være en nobody til å bli en styrtrik dopkonge. Fortellingen om han utspiller seg i eksotiske Miami - der de kriminelle viser ingen nåde og de forskjellige kulturelle gruppene danner seg gjenger for å overleve. Tony Montana er kanskje en av Hollywoods best utviklede karakterer noensinne. Han er selvsikker, selvsentrert og har et forferdelig temperament. Denne havnet på listen fordi den skildrer godt hvordan veien til rikdom utspiller seg, og den gjør det på en såpass god måte at det fortjener en del applaus. Brian De Palma viser gang etter gang at han er en av de dyktigste regissørene der ute. Denne filmen er hans perle.
     <strong></strong>
@@ -358,7 +358,7 @@ meta:
 
     <strong>6. Gomorra</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=3435" rel="attachment wp-att-3435"><img class="alignnone size-large wp-image-3435" src="//filmbloggen.net/wp-content/uploads//2012/05/kids-shooting-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3435" rel="attachment wp-att-3435"><img class="alignnone size-large wp-image-3435" src="/wp-content/uploads//2012/05/kids-shooting-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Vi får et innblikk i Italias moderne kriminelle mafiafamilier og filmen sensurerer ikke de grove detaljene. Den er ærlig i fremstillingen av hverdagen for en gangster og det gjør den særdeles upassende for det yngre publikum. Vi følger blant annet to unge karer som har store forhåpninger om å bli mafiabosser når de blir eldre. Det viser seg å være en risikofylt drøm å oppfylle. Filmen viser også at barn i 12-årsalderen blir rekruttert til forskjellige kriminelle familier. Noen ganger trosser det vennskap man en gang hadde og det skaper ubalanse i forholdet mellom mafiafamiliene. Denne filmen skiller seg ut fra de andre på listen. Den er ikke like kjent eller populær og den er heller ikke fra samme tiår, men allikevel føler jeg at den fortjener plassen.
     <strong></strong>
@@ -373,7 +373,7 @@ meta:
 
     <strong>3. Infernal Affairs</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=3437" rel="attachment wp-att-3437"><img class="alignnone size-large wp-image-3437" src="//filmbloggen.net/wp-content/uploads//2012/05/Infernal-Affairs-620x411.jpg" alt="" width="620" height="411" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3437" rel="attachment wp-att-3437"><img class="alignnone size-large wp-image-3437" src="/wp-content/uploads//2012/05/Infernal-Affairs-620x411.jpg" alt="" width="620" height="411" /></a>
 
     The Departed er hakket dårligere enn originalen Infernal Affairs, de er forskjellige på sine egne måter, men jeg liker miljøet og settingen som er satt til Hong Kong bedre. Historien er veldig møysommelig laget, måten den skifter fokus mellom de to hovedaktørene gjør storyen meget troverdig og finurlig sammensatt. Storyen er omtrent lik The Departed, det eneste unntaket er at Martin Scorcese valgte å sette historien i Boston. Siden denne filmen skiller seg ut fra de andre filmene syntes jeg det var en god idé å blande det litt. Listen blir kjedelig dersom det bare er de klassiske filmene om italienske mafiafamilier.
 
@@ -383,7 +383,7 @@ meta:
 
     <strong>1. City of God</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=3436" rel="attachment wp-att-3436"><img class="alignnone size-large wp-image-3436" src="//filmbloggen.net/wp-content/uploads//2012/05/02_copy4_original-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3436" rel="attachment wp-att-3436"><img class="alignnone size-large wp-image-3436" src="/wp-content/uploads//2012/05/02_copy4_original-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Mange tenker vel kanskje at denne i bunn og grunn ikke kan kategoriseres som en mafiafilm, men jeg føler City of God fortjener plassen av den enkle grunn at det er en meget bra film. På best mulig måte klarer den å skildre det tøffe livet i Rio de Janeiro - hvordan oppvekstvilkårene var og hvorfor man valgte den kriminelle verden framfor den lovlydige. Historien handler om to gutter: den ene blir en fotograf og den andre blir en narkolanger. Regissør Fernando Meirelles deler fortellingen opp i deler og mestrer på en eller annen merkelig måte å gjøre hver del like magisk. Jeg gir denne filmen mine beste anbefalninger.
 
@@ -471,7 +471,7 @@ categories:
 
 **<!--more-->10. The Untouchables**
 
-<a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/420586-the_untouchables_original/" rel="attachment wp-att-3412"><img class="alignnone size-large wp-image-3412" src="//filmbloggen.net/wp-content/uploads//2012/05/420586-the_untouchables_original-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/420586-the_untouchables_original/" rel="attachment wp-att-3412"><img class="alignnone size-large wp-image-3412" src="/wp-content/uploads//2012/05/420586-the_untouchables_original-620x348.jpg" alt="" width="620" height="348" /></a>
 
 Chicago styres med jernhånd av mafialederen Al Capone (Robert De Niro) og det er Eliot Ness’ (Kevin Costner) oppgave å stanse hans alkoholvirksomhet. Sammen med Jim Malone (Sean Connery), George Stone (Andy Garcia) og Oscar Wallace (Charles Martin Smith) skal de en gang for alle stanse Al Capones ulovlige alkoholproduksjon. Filmen byr på mye spenning både i form av ville skytescener og ampre sekvenser fra rettsaken mot selveste Al Capone. Dette er en klassiker og derfor fortjener den å være med på listen.
 ****
@@ -483,7 +483,7 @@ _ ****
 
 **8. Scarface**
 
-<a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/scarface-wallpaper_52027_2470/" rel="attachment wp-att-3417"><img class="alignnone size-large wp-image-3417" src="//filmbloggen.net/wp-content/uploads//2012/05/scarface-wallpaper_52027_2470-620x409.jpg" alt="" width="620" height="409" /></a>
+<a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/scarface-wallpaper_52027_2470/" rel="attachment wp-att-3417"><img class="alignnone size-large wp-image-3417" src="/wp-content/uploads//2012/05/scarface-wallpaper_52027_2470-620x409.jpg" alt="" width="620" height="409" /></a>
 
 Den fattige immigranten Tony Montana går fra å være en nobody til å bli en styrtrik dopkonge. Fortellingen om han utspiller seg i eksotiske Miami – der de kriminelle viser ingen nåde og de forskjellige kulturelle gruppene danner seg gjenger for å overleve. Tony Montana er kanskje en av Hollywoods best utviklede karakterer noensinne. Han er selvsikker, selvsentrert og har et forferdelig temperament. Denne havnet på listen fordi den skildrer godt hvordan veien til rikdom utspiller seg, og den gjør det på en såpass god måte at det fortjener en del applaus. Brian De Palma viser gang etter gang at han er en av de dyktigste regissørene der ute. Denne filmen er hans perle.
 ****
@@ -494,7 +494,7 @@ Goodfellas er basert på Nicholas Pileggis bok _Wiseguys_. Den handler om Henry 
 
 **6. Gomorra**
 
-<a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/kids-shooting/" rel="attachment wp-att-3435"><img class="alignnone size-large wp-image-3435" src="//filmbloggen.net/wp-content/uploads//2012/05/kids-shooting-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/kids-shooting/" rel="attachment wp-att-3435"><img class="alignnone size-large wp-image-3435" src="/wp-content/uploads//2012/05/kids-shooting-620x413.jpg" alt="" width="620" height="413" /></a>
 
 Vi får et innblikk i Italias moderne kriminelle mafiafamilier og filmen sensurerer ikke de grove detaljene. Den er ærlig i fremstillingen av hverdagen for en gangster og det gjør den særdeles upassende for det yngre publikum. Vi følger blant annet to unge karer som har store forhåpninger om å bli mafiabosser når de blir eldre. Det viser seg å være en risikofylt drøm å oppfylle. Filmen viser også at barn i 12-årsalderen blir rekruttert til forskjellige kriminelle familier. Noen ganger trosser det vennskap man en gang hadde og det skaper ubalanse i forholdet mellom mafiafamiliene. Denne filmen skiller seg ut fra de andre på listen. Den er ikke like kjent eller populær og den er heller ikke fra samme tiår, men allikevel føler jeg at den fortjener plassen.
 ****
@@ -509,7 +509,7 @@ Gudfaren er regnet som en av tidenes beste filmer. Den tar for seg Vito Corleone
 
 **3. Infernal Affairs**
 
-<a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/infernal-affairs/" rel="attachment wp-att-3437"><img class="alignnone size-large wp-image-3437" src="//filmbloggen.net/wp-content/uploads//2012/05/Infernal-Affairs-620x411.jpg" alt="" width="620" height="411" /></a>
+<a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/infernal-affairs/" rel="attachment wp-att-3437"><img class="alignnone size-large wp-image-3437" src="/wp-content/uploads//2012/05/Infernal-Affairs-620x411.jpg" alt="" width="620" height="411" /></a>
 
 The Departed er hakket dårligere enn originalen Infernal Affairs, de er forskjellige på sine egne måter, men jeg liker miljøet og settingen som er satt til Hong Kong bedre. Historien er veldig møysommelig laget, måten den skifter fokus mellom de to hovedaktørene gjør storyen meget troverdig og finurlig sammensatt. Storyen er omtrent lik The Departed, det eneste unntaket er at Martin Scorcese valgte å sette historien i Boston. Siden denne filmen skiller seg ut fra de andre filmene syntes jeg det var en god idé å blande det litt. Listen blir kjedelig dersom det bare er de klassiske filmene om italienske mafiafamilier.
 
@@ -519,7 +519,7 @@ Del 2 av mesterstykket om mafiafamilien Corleone tar for seg historien om hvorda
 
 **1. City of God**
 
-<a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/02_copy4_original/" rel="attachment wp-att-3436"><img class="alignnone size-large wp-image-3436" src="//filmbloggen.net/wp-content/uploads//2012/05/02_copy4_original-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2012/05/13/topp-10-mafiafilmer/02_copy4_original/" rel="attachment wp-att-3436"><img class="alignnone size-large wp-image-3436" src="/wp-content/uploads//2012/05/02_copy4_original-620x348.jpg" alt="" width="620" height="348" /></a>
 
 Mange tenker vel kanskje at denne i bunn og grunn ikke kan kategoriseres som en mafiafilm, men jeg føler City of God fortjener plassen av den enkle grunn at det er en meget bra film. På best mulig måte klarer den å skildre det tøffe livet i Rio de Janeiro – hvordan oppvekstvilkårene var og hvorfor man valgte den kriminelle verden framfor den lovlydige. Historien handler om to gutter: den ene blir en fotograf og den andre blir en narkolanger. Regissør Fernando Meirelles deler fortellingen opp i deler og mestrer på en eller annen merkelig måte å gjøre hver del like magisk. Jeg gir denne filmen mine beste anbefalninger.
 

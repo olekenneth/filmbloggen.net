@@ -110,7 +110,7 @@ content:
     Manus:</strong> David O. Russell<strong>
     Skuespillere:  </strong>Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker...
 
-    <strong> <a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200"><img class="alignnone size-large wp-image-9200" src="//filmbloggen.net/wp-content/uploads//2013/01/28-620x413.jpg" alt="" width="620" height="413" />
+    <strong> <a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200"><img class="alignnone size-large wp-image-9200" src="/wp-content/uploads//2013/01/28-620x413.jpg" alt="" width="620" height="413" />
     </a></strong><em><a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200">F</a>oto: Norsk Filmdistribusjon</em>
 
     <strong>David O. Russell har gjennom årene skapt en ganske solid filmografi</strong>, i hvert fall om det skal bedømmes ut ifra Oscar-nominasjoner og kritikernes mottakelser. Men for meg har regissøren aldri klart å overbevise. Han tar utgangspunkt i noen spennende og potensielt hjerteskjærende utgangspunkt, men klarer aldri å balansere på linjen mellom troverdighet og overeksponerte følelseskonvensjoner.
@@ -190,7 +190,7 @@ post_content:
     Manus:</strong> David O. Russell<strong>
     Skuespillere:  </strong>Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker...
 
-    <strong> <a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200"><img class="alignnone size-large wp-image-9200" src="//filmbloggen.net/wp-content/uploads//2013/01/28-620x413.jpg" alt="" width="620" height="413" />
+    <strong> <a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200"><img class="alignnone size-large wp-image-9200" src="/wp-content/uploads//2013/01/28-620x413.jpg" alt="" width="620" height="413" />
     </a></strong><em><a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200">F</a>oto: Norsk Filmdistribusjon</em>
 
     <strong>David O. Russell har gjennom årene skapt en ganske solid filmografi</strong>, i hvert fall om det skal bedømmes ut ifra Oscar-nominasjoner og kritikernes mottakelser. Men for meg har regissøren aldri klart å overbevise. Han tar utgangspunkt i noen spennende og potensielt hjerteskjærende utgangspunkt, men klarer aldri å balansere på linjen mellom troverdighet og overeksponerte følelseskonvensjoner.
@@ -220,7 +220,7 @@ meta:
     Manus:</strong> David O. Russell<strong>
     Skuespillere:  </strong>Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker...
 
-    <strong> <a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200"><img class="alignnone size-large wp-image-9200" src="//filmbloggen.net/wp-content/uploads//2013/01/28-620x413.jpg" alt="" width="620" height="413" />
+    <strong> <a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200"><img class="alignnone size-large wp-image-9200" src="/wp-content/uploads//2013/01/28-620x413.jpg" alt="" width="620" height="413" />
     </a></strong><em><a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200">F</a>oto: Norsk Filmdistribusjon</em>
 
     <strong>David O. Russell har gjennom årene skapt en ganske solid filmografi</strong>, i hvert fall om det skal bedømmes ut ifra Oscar-nominasjoner og kritikernes mottakelser. Men for meg har regissøren aldri klart å overbevise. Han tar utgangspunkt i noen spennende og potensielt hjerteskjærende utgangspunkt, men klarer aldri å balansere på linjen mellom troverdighet og overeksponerte følelseskonvensjoner.
@@ -243,7 +243,7 @@ meta:
     Manus:</strong> David O. Russell<strong>
     Skuespillere:  </strong>Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker...
 
-    <strong> <a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200"><img class="alignnone size-large wp-image-9200" src="//filmbloggen.net/wp-content/uploads//2013/01/28-620x413.jpg" alt="" width="620" height="413" />
+    <strong> <a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200"><img class="alignnone size-large wp-image-9200" src="/wp-content/uploads//2013/01/28-620x413.jpg" alt="" width="620" height="413" />
     </a></strong><em><a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200">F</a>oto: Norsk Filmdistribusjon</em>
 
     <strong>David O. Russell har gjennom årene skapt en ganske solid filmografi</strong>, i hvert fall om det skal bedømmes ut ifra Oscar-nominasjoner og kritikernes mottakelser. Men for meg har regissøren aldri klart å overbevise. Han tar utgangspunkt i noen spennende og potensielt hjerteskjærende utgangspunkt, men klarer aldri å balansere på linjen mellom troverdighet og overeksponerte følelseskonvensjoner.
@@ -280,7 +280,7 @@ Regi:** David O. Russell**
 Manus:** David O. Russell**
 Skuespillere:  **Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker…
 
-** <a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200"><img class="alignnone size-large wp-image-9200" src="//filmbloggen.net/wp-content/uploads//2013/01/28-620x413.jpg" alt="" width="620" height="413" /><br /> </a>**_<a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200">F</a>oto: Norsk Filmdistribusjon_
+** <a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200"><img class="alignnone size-large wp-image-9200" src="/wp-content/uploads//2013/01/28-620x413.jpg" alt="" width="620" height="413" /><br /> </a>**_<a href="//filmbloggen.net/2013/01/10/bade-subtanslost-og-hjerteskjaerende-i-silver-linings-playbook/the-silver-linings-playbook/" rel="attachment wp-att-9200">F</a>oto: Norsk Filmdistribusjon_
 
 **David O. Russell har gjennom årene skapt en ganske solid filmografi**, i hvert fall om det skal bedømmes ut ifra Oscar-nominasjoner og kritikernes mottakelser. Men for meg har regissøren aldri klart å overbevise. Han tar utgangspunkt i noen spennende og potensielt hjerteskjærende utgangspunkt, men klarer aldri å balansere på linjen mellom troverdighet og overeksponerte følelseskonvensjoner.
 

@@ -98,7 +98,7 @@ content:
   - |
     <strong>Daniel Radcliffe er tilbake på kinolerretet i 2012</strong>, men denne gangen<strong> som advokat</strong> i en film om gjenferd.
 
-    <a href="//filmbloggen.net/2011/10/27/fra-magi-til-det-overnaturlige/thewoman/" rel="attachment wp-att-1661"><img class="alignnone size-large wp-image-1661" src="//filmbloggen.net/wp-content/uploads//2011/10/TheWoman-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/2011/10/27/fra-magi-til-det-overnaturlige/thewoman/" rel="attachment wp-att-1661"><img class="alignnone size-large wp-image-1661" src="/wp-content/uploads//2011/10/TheWoman-620x465.jpg" alt="" width="620" height="465" /></a>
 
     Som de aller fleste vet er <strong>Daniel Radcliffe mest kjent for sin rolle som Harry Potter</strong> i filmene med samme navn. Mange tårer ble felt da den 10 år gamle filmserien endelig endte i den siste og avgjørende filmen om skjebnen til den magiske verdenen som er gjemt for oss vanlige mennesker. Men nå er Radcliffe tilbake på skjermen, i filmen “The Woman in Black”.
 
@@ -165,7 +165,7 @@ post_content:
   - |
     <strong>Daniel Radcliffe er tilbake på kinolerretet i 2012</strong>, men denne gangen<strong> som advokat</strong> i en film om gjenferd.
 
-    <a href="//filmbloggen.net/2011/10/27/fra-magi-til-det-overnaturlige/thewoman/" rel="attachment wp-att-1661"><img class="alignnone size-large wp-image-1661" src="//filmbloggen.net/wp-content/uploads//2011/10/TheWoman-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/2011/10/27/fra-magi-til-det-overnaturlige/thewoman/" rel="attachment wp-att-1661"><img class="alignnone size-large wp-image-1661" src="/wp-content/uploads//2011/10/TheWoman-620x465.jpg" alt="" width="620" height="465" /></a>
 
     Som de aller fleste vet er <strong>Daniel Radcliffe mest kjent for sin rolle som Harry Potter</strong> i filmene med samme navn. Mange tårer ble felt da den 10 år gamle filmserien endelig endte i den siste og avgjørende filmen om skjebnen til den magiske verdenen som er gjemt for oss vanlige mennesker. Men nå er Radcliffe tilbake på skjermen, i filmen “The Woman in Black”.
 
@@ -184,7 +184,7 @@ meta:
   - |
     a:75:{i:11967;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:11945;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:11995;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:11954;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"308351bab4";}i:11952;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:11956;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"cff3610c18";}i:11996;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:11988;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1741:"<strong>Daniel Radcliffe er tilbake på kinolerretet i 2012</strong>, men denne gangen<strong> som advokat</strong> i en film om gjenferd.
 
-    <a href="//filmbloggen.net/?attachment_id=1661" rel="attachment wp-att-1661"><img class="alignnone size-large wp-image-1661" src="//filmbloggen.net/wp-content/uploads//2011/10/TheWoman-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/?attachment_id=1661" rel="attachment wp-att-1661"><img class="alignnone size-large wp-image-1661" src="/wp-content/uploads//2011/10/TheWoman-620x465.jpg" alt="" width="620" height="465" /></a>
 
     Som de aller fleste vet er <strong>Daniel Radcliffe mest kjent for sin rolle som Harry Potter</strong> i filmene med samme navn. Mange tårer ble felt da den 10 år gamle filmserien endelig endte i den siste og avgjørende filmen om skjebnen til den magiske verdenen som er gjemt for oss vanlige mennesker. Men nå er Radcliffe tilbake på skjermen, i filmen “The Woman in Black”.
 
@@ -196,7 +196,7 @@ meta:
 
     //www.youtube.com/watch?v=7lReemWmO5o";}i:11976;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:11978;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"12";}i:11974;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"27";}i:11972;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"10";}i:11980;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"01";}i:12027;a:2:{s:3:"key";s:9:"edit_date";s:5:"value";s:1:"1";}i:11999;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:11989;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:11968;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"12";}i:11975;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:11977;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"12";}i:11973;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"27";}i:11971;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"10";}i:11979;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"00";}i:11961;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:11959;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:11962;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:12016;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"1658";}i:11965;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"27";}i:11955;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"e80970e179";}i:11992;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:11991;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:11993;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:11966;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"10";}i:11969;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"00";}i:11946;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:11949;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:11981;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:11997;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:11947;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"9";}i:12017;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1741:"<strong>Daniel Radcliffe er tilbake på kinolerretet i 2012</strong>, men denne gangen<strong> som advokat</strong> i en film om gjenferd.
 
-    <a href="//filmbloggen.net/?attachment_id=1661" rel="attachment wp-att-1661"><img class="alignnone size-large wp-image-1661" src="//filmbloggen.net/wp-content/uploads//2011/10/TheWoman-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/?attachment_id=1661" rel="attachment wp-att-1661"><img class="alignnone size-large wp-image-1661" src="/wp-content/uploads//2011/10/TheWoman-620x465.jpg" alt="" width="620" height="465" /></a>
 
     Som de aller fleste vet er <strong>Daniel Radcliffe mest kjent for sin rolle som Harry Potter</strong> i filmene med samme navn. Mange tårer ble felt da den 10 år gamle filmserien endelig endte i den siste og avgjørende filmen om skjebnen til den magiske verdenen som er gjemt for oss vanlige mennesker. Men nå er Radcliffe tilbake på skjermen, i filmen “The Woman in Black”.
 
@@ -230,7 +230,7 @@ tags:
 ---
 **Daniel Radcliffe er tilbake på kinolerretet i 2012**, men denne gangen **som advokat** i en film om gjenferd.
 
-<a href="//filmbloggen.net/2011/10/27/fra-magi-til-det-overnaturlige/thewoman/" rel="attachment wp-att-1661"><img class="alignnone size-large wp-image-1661" src="//filmbloggen.net/wp-content/uploads//2011/10/TheWoman-620x465.jpg" alt="" width="620" height="465" /></a>
+<a href="//filmbloggen.net/2011/10/27/fra-magi-til-det-overnaturlige/thewoman/" rel="attachment wp-att-1661"><img class="alignnone size-large wp-image-1661" src="/wp-content/uploads//2011/10/TheWoman-620x465.jpg" alt="" width="620" height="465" /></a>
 
 Som de aller fleste vet er **Daniel Radcliffe mest kjent for sin rolle som Harry Potter** i filmene med samme navn. Mange tårer ble felt da den 10 år gamle filmserien endelig endte i den siste og avgjørende filmen om skjebnen til den magiske verdenen som er gjemt for oss vanlige mennesker. Men nå er Radcliffe tilbake på skjermen, i filmen “The Woman in Black”.
 

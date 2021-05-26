@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Adam Scott, Jennifer Westfeldt, Jon Hamm, Kristen Wiig, Maya Rudolph, Chris O'Dowd, Megan Fox, Edward Burns, Lee Bryant, Kelly Bishop, Cotter Smith.
     <strong>Spilletid:</strong> 1 time og 47 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=6785" rel="attachment wp-att-6785"><img class="alignnone size-large wp-image-6785" src="//filmbloggen.net/wp-content/uploads//2012/08/Friends-With-Kids-4-620x349.jpg" alt="" width="620" height="349" /></a>
+    <a href="//filmbloggen.net/?attachment_id=6785" rel="attachment wp-att-6785"><img class="alignnone size-large wp-image-6785" src="/wp-content/uploads//2012/08/Friends-With-Kids-4-620x349.jpg" alt="" width="620" height="349" /></a>
 
     <strong>Det blir drama når vennene Jason (Adam Scott) og Julie (Jennifer Westfeldt) bestemmer seg for å ha barn sammen, uten å tenke på konsekvensene og ansvaret de sitter med som foreldre av barnet. De valgte å få barn grunnet deres alder. De tenkte dette var deres siste sjanse og grep dermed sjansen før det ble for sent. Vennene deres, som også har små barn, sliter i hverdagen med å holde orden. De lever et problematisk liv der deres barn krever all oppmerksomhet, så det blir ingen tid til romantiske utflukter. Når det viser seg at vennenes baby-avtale ikke byr på like mange problemer som deres venners normale omsorg av sine barn, da blir det uenigheter.</strong>
 
@@ -66,7 +66,7 @@ post_content:
     <strong>Skuespillere:</strong> Adam Scott, Jennifer Westfeldt, Jon Hamm, Kristen Wiig, Maya Rudolph, Chris O'Dowd, Megan Fox, Edward Burns, Lee Bryant, Kelly Bishop, Cotter Smith.
     <strong>Spilletid:</strong> 1 time og 47 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=6785" rel="attachment wp-att-6785"><img class="alignnone size-large wp-image-6785" src="//filmbloggen.net/wp-content/uploads//2012/08/Friends-With-Kids-4-620x349.jpg" alt="" width="620" height="349" /></a>
+    <a href="//filmbloggen.net/?attachment_id=6785" rel="attachment wp-att-6785"><img class="alignnone size-large wp-image-6785" src="/wp-content/uploads//2012/08/Friends-With-Kids-4-620x349.jpg" alt="" width="620" height="349" /></a>
 
     <strong>Det blir drama når vennene Jason (Adam Scott) og Julie (Jennifer Westfeldt) bestemmer seg for å ha barn sammen, uten å tenke på konsekvensene og ansvaret de sitter med som foreldre av barnet. De valgte å få barn grunnet deres alder. De tenkte dette var deres siste sjanse og grep dermed sjansen før det ble for sent. Vennene deres, som også har små barn, sliter i hverdagen med å holde orden. De lever et problematisk liv der deres barn krever all oppmerksomhet, så det blir ingen tid til romantiske utflukter. Når det viser seg at vennenes baby-avtale ikke byr på like mange problemer som deres venners normale omsorg av sine barn, da blir det uenigheter.</strong>
 
@@ -174,7 +174,7 @@ meta:
     <strong>Skuespillere:</strong> Adam Scott, Jennifer Westfeldt, Jon Hamm, Kristen Wiig, Maya Rudolph, Chris O'Dowd, Megan Fox, Edward Burns, Lee Bryant, Kelly Bishop, Cotter Smith.
     <strong>Spilletid:</strong> 1 time og 47 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=6785" rel="attachment wp-att-6785"><img class="alignnone size-large wp-image-6785" src="//filmbloggen.net/wp-content/uploads//2012/08/Friends-With-Kids-4-620x349.jpg" alt="" width="620" height="349" /></a>
+    <a href="//filmbloggen.net/?attachment_id=6785" rel="attachment wp-att-6785"><img class="alignnone size-large wp-image-6785" src="/wp-content/uploads//2012/08/Friends-With-Kids-4-620x349.jpg" alt="" width="620" height="349" /></a>
 
     <strong>Det blir drama når vennene Jason (Adam Scott) og Julie (Jennifer Westfeldt) bestemmer seg for å ha barn sammen, uten å tenke på konsekvensene og ansvaret de sitter med som foreldre av barnet. De valgte å få barn grunnet deres alder. De tenkte dette var deres siste sjanse og grep dermed sjansen før det ble for sent. Vennene deres, som også har små barn, sliter i hverdagen med å holde orden. De lever et problematisk liv der deres barn krever all oppmerksomhet, så det blir ingen tid til romantiske utflukter. Når det viser seg at vennenes baby-avtale ikke byr på like mange problemer som deres venners normale omsorg av sine barn, da blir det uenigheter.</strong>
 
@@ -198,7 +198,7 @@ meta:
     <strong>Skuespillere:</strong> Adam Scott, Jennifer Westfeldt, Jon Hamm, Kristen Wiig, Maya Rudolph, Chris O'Dowd, Megan Fox, Edward Burns, Lee Bryant, Kelly Bishop, Cotter Smith.
     <strong>Spilletid:</strong> 1 time og 47 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=6785" rel="attachment wp-att-6785"><img class="alignnone size-large wp-image-6785" src="//filmbloggen.net/wp-content/uploads//2012/08/Friends-With-Kids-4-620x349.jpg" alt="" width="620" height="349" /></a>
+    <a href="//filmbloggen.net/?attachment_id=6785" rel="attachment wp-att-6785"><img class="alignnone size-large wp-image-6785" src="/wp-content/uploads//2012/08/Friends-With-Kids-4-620x349.jpg" alt="" width="620" height="349" /></a>
 
     <strong>Det blir drama når vennene Jason (Adam Scott) og Julie (Jennifer Westfeldt) bestemmer seg for å ha barn sammen, uten å tenke på konsekvensene og ansvaret de sitter med som foreldre av barnet. De valgte å få barn grunnet deres alder. De tenkte dette var deres siste sjanse og grep dermed sjansen før det ble for sent. Vennene deres, som også har små barn, sliter i hverdagen med å holde orden. De lever et problematisk liv der deres barn krever all oppmerksomhet, så det blir ingen tid til romantiske utflukter. Når det viser seg at vennenes baby-avtale ikke byr på like mange problemer som deres venners normale omsorg av sine barn, da blir det uenigheter.</strong>
 
@@ -293,7 +293,7 @@ tags:
 **Skuespillere:** Adam Scott, Jennifer Westfeldt, Jon Hamm, Kristen Wiig, Maya Rudolph, Chris O’Dowd, Megan Fox, Edward Burns, Lee Bryant, Kelly Bishop, Cotter Smith.
 **Spilletid:** 1 time og 47 minutter
 
-<a href="//filmbloggen.net/2012/09/13/forplantningsavtaler-og-hverdagsproblematikk/friends-with-kids-4/" rel="attachment wp-att-6785"><img class="alignnone size-large wp-image-6785" src="//filmbloggen.net/wp-content/uploads//2012/08/Friends-With-Kids-4-620x349.jpg" alt="" width="620" height="349" /></a>
+<a href="//filmbloggen.net/2012/09/13/forplantningsavtaler-og-hverdagsproblematikk/friends-with-kids-4/" rel="attachment wp-att-6785"><img class="alignnone size-large wp-image-6785" src="/wp-content/uploads//2012/08/Friends-With-Kids-4-620x349.jpg" alt="" width="620" height="349" /></a>
 
 **Det blir drama når vennene Jason (Adam Scott) og Julie (Jennifer Westfeldt) bestemmer seg for å ha barn sammen, uten å tenke på konsekvensene og ansvaret de sitter med som foreldre av barnet. De valgte å få barn grunnet deres alder. De tenkte dette var deres siste sjanse og grep dermed sjansen før det ble for sent. Vennene deres, som også har små barn, sliter i hverdagen med å holde orden. De lever et problematisk liv der deres barn krever all oppmerksomhet, så det blir ingen tid til romantiske utflukter. Når det viser seg at vennenes baby-avtale ikke byr på like mange problemer som deres venners normale omsorg av sine barn, da blir det uenigheter.**
 

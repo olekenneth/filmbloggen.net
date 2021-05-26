@@ -107,7 +107,7 @@ content:
     <strong>Spilletid:</strong> </strong>1 time og 57 minutter<strong>
     <strong>Regissør: </strong></strong>Gabriele Muccino<strong>
     <strong>Med:</strong> </strong>Will Smith, Jaden Smith og Thandie Newton<strong>
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/pursuit.jpg"><img class="alignnone size-large wp-image-185" src="//filmbloggen.net/wp-content/uploads//2011/04/pursuit-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <a href="/wp-content/uploads//2011/04/pursuit.jpg"><img class="alignnone size-large wp-image-185" src="/wp-content/uploads//2011/04/pursuit-1024x682.jpg" alt="" width="620" height="412" /></a>
     </strong>The Pursuit of Happyness er en skikkelig gladfilm med vanvittige skuespillerprestasjoner. Will Smith leverer i nok en storfilm og han var på dette tidspunktet noe av det heteste i hollywood. Han er for meg en av de mest komplette skuespillerne i verden og det beviser han (i hvert fall for meg) i denne.
 
     The Pursuit of Happyness handler om den godhjertede og smånaive Chris Gardner (Will Smith). Filmen er basert på en sann historie og Gardner sier selv at han ble vanvittig fornøyd med måten filmen er portrettert på og han var på sett hver eneste dag i 17 uker. Gardner og hans kone sliter med å få endene til å møtes. Gardner er en mislykket salgsagent for et (nokså unyttig) medisinsk apparat som han selger til sykehus rundt om. Hans kone bestemmer seg for å forlate Chris og deres fem-årige sønn. Chris blir kastet ut i fattigdom og blir kastet ut av leiligheten og må bo på gata med sin sønn.
@@ -129,7 +129,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 57 minutter<strong>
     <strong>Regissør: </strong></strong>Gabriele Muccino<strong>
     <strong>Med:</strong> </strong>Will Smith, Jaden Smith og Thandie Newton<strong>
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/pursuit.jpg"><img class="alignnone size-large wp-image-185" title="THE PURSUIT OF HAPPYNESS" src="//filmbloggen.net/wp-content/uploads//2011/04/pursuit-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <a href="/wp-content/uploads//2011/04/pursuit.jpg"><img class="alignnone size-large wp-image-185" title="THE PURSUIT OF HAPPYNESS" src="/wp-content/uploads//2011/04/pursuit-1024x682.jpg" alt="" width="620" height="412" /></a>
     </strong>The Pursuit of Happyness er en skikkelig gladfilm med vanvittige skuespillerprestasjoner. Will Smith leverer i nok en storfilm og han var på dette tidspunktet noe av det heteste i hollywood. Han er for meg en av de mest komplette skuespillerne i verden og det beviser han (i hvert fall for meg) i denne.
 
     The Pursuit of Happyness handler om den godhjertede og smånaive Chris Gardner (Will Smith). Filmen er basert på en sann historie og Gardner sier selv at han ble vanvittig fornøyd med måten filmen er portrettert på og han var på sett hver eneste dag i 17 uker. Gardner og hans kone sliter med å få endene til å møtes. Gardner er en mislykket salgsagent for et (nokså unyttig) medisinsk apparat som han selger til sykehus rundt om. Hans kone bestemmer seg for å forlate Chris og deres fem-årige sønn. Chris blir kastet ut i fattigdom og blir kastet ut av leiligheten og må bo på gata med sin sønn.
@@ -146,7 +146,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 57 minutter<strong>
     <strong>Regissør: </strong></strong>Gabriele Muccino<strong>
     <strong>Med:</strong> </strong>Will Smith, Jaden Smith og Thandie Newton<strong>
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/pursuit.jpg"><img class="alignnone size-large wp-image-185" title="THE PURSUIT OF HAPPYNESS" src="//filmbloggen.net/wp-content/uploads//2011/04/pursuit-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <a href="/wp-content/uploads//2011/04/pursuit.jpg"><img class="alignnone size-large wp-image-185" title="THE PURSUIT OF HAPPYNESS" src="/wp-content/uploads//2011/04/pursuit-1024x682.jpg" alt="" width="620" height="412" /></a>
     </strong>The Pursuit of Happyness er en skikkelig gladfilm med vanvittige skuespillerprestasjoner. Will Smith leverer i nok en storfilm og han var på dette tidspunktet noe av det heteste i hollywood. Han er for meg en av de mest komplette skuespillerne i verden og det beviser han (i hvert fall for meg) i denne.
 
     The Pursuit of Happyness handler om den godhjertede og smånaive Chris Gardner (Will Smith). Filmen er basert på en sann historie og Gardner sier selv at han ble vanvittig fornøyd med måten filmen er portrettert på og han var på sett hver eneste dag i 17 uker. Gardner og hans kone sliter med å få endene til å møtes. Gardner er en mislykket salgsagent for et (nokså unyttig) medisinsk apparat som han selger til sykehus rundt om. Hans kone bestemmer seg for å forlate Chris og deres fem-årige sønn. Chris blir kastet ut i fattigdom og blir kastet ut av leiligheten og må bo på gata med sin sønn.
@@ -219,7 +219,7 @@ post_content:
     <strong>Spilletid:</strong> </strong>1 time og 57 minutter<strong>
     <strong>Regissør: </strong></strong>Gabriele Muccino<strong>
     <strong>Med:</strong> </strong>Will Smith, Jaden Smith og Thandie Newton<strong>
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/pursuit.jpg"><img class="alignnone size-large wp-image-185" src="//filmbloggen.net/wp-content/uploads//2011/04/pursuit-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <a href="/wp-content/uploads//2011/04/pursuit.jpg"><img class="alignnone size-large wp-image-185" src="/wp-content/uploads//2011/04/pursuit-1024x682.jpg" alt="" width="620" height="412" /></a>
     </strong>The Pursuit of Happyness er en skikkelig gladfilm med vanvittige skuespillerprestasjoner. Will Smith leverer i nok en storfilm og han var på dette tidspunktet noe av det heteste i hollywood. Han er for meg en av de mest komplette skuespillerne i verden og det beviser han (i hvert fall for meg) i denne.
 
     The Pursuit of Happyness handler om den godhjertede og smånaive Chris Gardner (Will Smith). Filmen er basert på en sann historie og Gardner sier selv at han ble vanvittig fornøyd med måten filmen er portrettert på og han var på sett hver eneste dag i 17 uker. Gardner og hans kone sliter med å få endene til å møtes. Gardner er en mislykket salgsagent for et (nokså unyttig) medisinsk apparat som han selger til sykehus rundt om. Hans kone bestemmer seg for å forlate Chris og deres fem-årige sønn. Chris blir kastet ut i fattigdom og blir kastet ut av leiligheten og må bo på gata med sin sønn.
@@ -261,7 +261,7 @@ tags:
 **Spilletid:**** 1 time og 57 minutter**
 **Regissør:**** Gabriele Muccino**
 **Med:**** Will Smith, Jaden Smith og Thandie Newton**
-[<img class="alignnone size-large wp-image-185" src="//filmbloggen.net/wp-content/uploads//2011/04/pursuit-1024x682.jpg" alt="" width="620" height="412" />](//filmbloggen.net/wp-content/uploads//2011/04/pursuit.jpg)
+[<img class="alignnone size-large wp-image-185" src="/wp-content/uploads//2011/04/pursuit-1024x682.jpg" alt="" width="620" height="412" />](/wp-content/uploads//2011/04/pursuit.jpg)
 ** The Pursuit of Happyness er en skikkelig gladfilm med vanvittige skuespillerprestasjoner. Will Smith leverer i nok en storfilm og han var på dette tidspunktet noe av det heteste i hollywood. Han er for meg en av de mest komplette skuespillerne i verden og det beviser han (i hvert fall for meg) i denne.
 
 The Pursuit of Happyness handler om den godhjertede og smånaive Chris Gardner (Will Smith). Filmen er basert på en sann historie og Gardner sier selv at han ble vanvittig fornøyd med måten filmen er portrettert på og han var på sett hver eneste dag i 17 uker. Gardner og hans kone sliter med å få endene til å møtes. Gardner er en mislykket salgsagent for et (nokså unyttig) medisinsk apparat som han selger til sykehus rundt om. Hans kone bestemmer seg for å forlate Chris og deres fem-årige sønn. Chris blir kastet ut i fattigdom og blir kastet ut av leiligheten og må bo på gata med sin sønn.

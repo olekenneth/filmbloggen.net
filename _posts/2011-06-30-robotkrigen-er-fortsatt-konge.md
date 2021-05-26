@@ -238,7 +238,7 @@ tags:
 ---
 **En av sommerens klart største filmer hadde verdenspremiere onsdag 29. juni og jeg hadde jo selvfølgelig ikke noe annet valg enn å ta turen for å være der på første visning på dagen. Som vanlig skuffet ikke duoen Michael Bay og Steven Spielberg. FOR EN FILM!**
 (Anmeldelse av Transformers: Dark of the Moon)
-[<img class="alignnone size-full wp-image-24" title="TRANSFORMERS 3" src="//filmbloggen.net/wp-content/uploads//2011/04/transformers-dark-of-the-moon-9.jpg" alt="" width="504" height="336" />](//filmbloggen.net/?attachment_id=24)
+[<img class="alignnone size-full wp-image-24" title="TRANSFORMERS 3" src="/wp-content/uploads//2011/04/transformers-dark-of-the-moon-9.jpg" alt="" width="504" height="336" />](//filmbloggen.net/?attachment_id=24)
 ****Originaltittel:**** Transformers: Dark of the moon****
 Kategori:**** Action**
 **Spilletid:**** 2 timer og 26 minutter**

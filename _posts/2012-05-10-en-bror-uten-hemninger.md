@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> Paul Rudd, Elisabeth Banks, Zooey Deschanel, Emily Mortimer, Steve Coogan, Adam Scott, Rashida Jones, T.J. Miller.
     <strong>Spilletid:</strong> 1 time og 30 minutter
 
-    <a href="//filmbloggen.net/2012/05/10/en-bror-uten-hemninger/paul-rudd-my-idiot-brother/" rel="attachment wp-att-3309"><img class="alignnone size-large wp-image-3309" src="//filmbloggen.net/wp-content/uploads//2012/05/Paul-Rudd-My-Idiot-Brother-620x411.jpg" alt="" width="620" height="411" /></a>
+    <a href="//filmbloggen.net/2012/05/10/en-bror-uten-hemninger/paul-rudd-my-idiot-brother/" rel="attachment wp-att-3309"><img class="alignnone size-large wp-image-3309" src="/wp-content/uploads//2012/05/Paul-Rudd-My-Idiot-Brother-620x411.jpg" alt="" width="620" height="411" /></a>
 
     Fortellingen om Ned Rochlin begynner med at han klarer å gjøre en hodeløs avgjørelse om å selge marijuana til en politibetjent. Etter et lite opphold i fengsel drar han tilbake til sin kjæreste, men hun har allerede erstattet han med en annen. Gården han bodde på og hunden Willie Nelson blir fratatt ham. Han faller inn i en sørgelig fase og bestemmer seg for å dra hjem til sin kjære mor. Søstrene i familien har erfart at broren deres har en tendens til å ødelegge deres idylliske liv, allikevel slipper de ham inn i deres hjem. Det skulle de ikke gjort.
 
@@ -61,7 +61,7 @@ post_content:
     <strong>Skuespillere:</strong> Paul Rudd, Elisabeth Banks, Zooey Deschanel, Emily Mortimer, Steve Coogan, Adam Scott, Rashida Jones, T.J. Miller.
     <strong>Spilletid:</strong> 1 time og 30 minutter
 
-    <a href="//filmbloggen.net/2012/05/10/en-bror-uten-hemninger/paul-rudd-my-idiot-brother/" rel="attachment wp-att-3309"><img class="alignnone size-large wp-image-3309" src="//filmbloggen.net/wp-content/uploads//2012/05/Paul-Rudd-My-Idiot-Brother-620x411.jpg" alt="" width="620" height="411" /></a>
+    <a href="//filmbloggen.net/2012/05/10/en-bror-uten-hemninger/paul-rudd-my-idiot-brother/" rel="attachment wp-att-3309"><img class="alignnone size-large wp-image-3309" src="/wp-content/uploads//2012/05/Paul-Rudd-My-Idiot-Brother-620x411.jpg" alt="" width="620" height="411" /></a>
 
     Fortellingen om Ned Rochlin begynner med at han klarer å gjøre en hodeløs avgjørelse om å selge marijuana til en politibetjent. Etter et lite opphold i fengsel drar han tilbake til sin kjæreste, men hun har allerede erstattet han med en annen. Gården han bodde på og hunden Willie Nelson blir fratatt ham. Han faller inn i en sørgelig fase og bestemmer seg for å dra hjem til sin kjære mor. Søstrene i familien har erfart at broren deres har en tendens til å ødelegge deres idylliske liv, allikevel slipper de ham inn i deres hjem. Det skulle de ikke gjort.
 
@@ -166,7 +166,7 @@ meta:
     <strong>Skuespillere:</strong> Paul Rudd, Elisabeth Banks, Zooey Deschanel, Emily Mortimer, Steve Coogan, Adam Scott, Rashida Jones, T.J. Miller.
     <strong>Spilletid:</strong> 1 time og 30 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=3309" rel="attachment wp-att-3309"><img class="alignnone size-large wp-image-3309" src="//filmbloggen.net/wp-content/uploads//2012/05/Paul-Rudd-My-Idiot-Brother-620x411.jpg" alt="" width="620" height="411" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3309" rel="attachment wp-att-3309"><img class="alignnone size-large wp-image-3309" src="/wp-content/uploads//2012/05/Paul-Rudd-My-Idiot-Brother-620x411.jpg" alt="" width="620" height="411" /></a>
 
     Fortellingen om Ned Rochlin begynner med at han klarer å gjøre en hodeløs avgjørelse om å selge marijuana til en politibetjent. Etter et lite opphold i fengsel drar han tilbake til sin kjæreste, men hun har allerede erstattet han med en annen. Gården han bodde på og hunden Willie Nelson blir fratatt ham. Han faller inn i en sørgelig fase og bestemmer seg for å dra hjem til sin kjære mor. Søstrene i familien har erfart at broren deres har en tendens til å ødelegge deres idylliske liv, allikevel slipper de ham inn i deres hjem. Det skulle de ikke gjort.
 
@@ -186,7 +186,7 @@ meta:
     <strong>Skuespillere:</strong> Paul Rudd, Elisabeth Banks, Zooey Deschanel, Emily Mortimer, Steve Coogan, Adam Scott, Rashida Jones, T.J. Miller.
     <strong>Spilletid:</strong> 1 time og 30 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=3309" rel="attachment wp-att-3309"><img class="alignnone size-large wp-image-3309" src="//filmbloggen.net/wp-content/uploads//2012/05/Paul-Rudd-My-Idiot-Brother-620x411.jpg" alt="" width="620" height="411" /></a>
+    <a href="//filmbloggen.net/?attachment_id=3309" rel="attachment wp-att-3309"><img class="alignnone size-large wp-image-3309" src="/wp-content/uploads//2012/05/Paul-Rudd-My-Idiot-Brother-620x411.jpg" alt="" width="620" height="411" /></a>
 
     Fortellingen om Ned Rochlin begynner med at han klarer å gjøre en hodeløs avgjørelse om å selge marijuana til en politibetjent. Etter et lite opphold i fengsel drar han tilbake til sin kjæreste, men hun har allerede erstattet han med en annen. Gården han bodde på og hunden Willie Nelson blir fratatt ham. Han faller inn i en sørgelig fase og bestemmer seg for å dra hjem til sin kjære mor. Søstrene i familien har erfart at broren deres har en tendens til å ødelegge deres idylliske liv, allikevel slipper de ham inn i deres hjem. Det skulle de ikke gjort.
 
@@ -283,7 +283,7 @@ tags:
 **Skuespillere:** Paul Rudd, Elisabeth Banks, Zooey Deschanel, Emily Mortimer, Steve Coogan, Adam Scott, Rashida Jones, T.J. Miller.
 **Spilletid:** 1 time og 30 minutter
 
-<a href="//filmbloggen.net/2012/05/10/en-bror-uten-hemninger/paul-rudd-my-idiot-brother/" rel="attachment wp-att-3309"><img class="alignnone size-large wp-image-3309" src="//filmbloggen.net/wp-content/uploads//2012/05/Paul-Rudd-My-Idiot-Brother-620x411.jpg" alt="" width="620" height="411" /></a>
+<a href="//filmbloggen.net/2012/05/10/en-bror-uten-hemninger/paul-rudd-my-idiot-brother/" rel="attachment wp-att-3309"><img class="alignnone size-large wp-image-3309" src="/wp-content/uploads//2012/05/Paul-Rudd-My-Idiot-Brother-620x411.jpg" alt="" width="620" height="411" /></a>
 
 Fortellingen om Ned Rochlin begynner med at han klarer å gjøre en hodeløs avgjørelse om å selge marijuana til en politibetjent. Etter et lite opphold i fengsel drar han tilbake til sin kjæreste, men hun har allerede erstattet han med en annen. Gården han bodde på og hunden Willie Nelson blir fratatt ham. Han faller inn i en sørgelig fase og bestemmer seg for å dra hjem til sin kjære mor. Søstrene i familien har erfart at broren deres har en tendens til å ødelegge deres idylliske liv, allikevel slipper de ham inn i deres hjem. Det skulle de ikke gjort.
 

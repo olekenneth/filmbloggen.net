@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Denne uka har jeg valgt meg ut en gammel Tom Hanks-film som jeg mener er vanvittig undervurdert: Cast Away.</strong>
-    <a href="//filmbloggen.net/2011/09/19/fra-skuffen-cast-away/cab/" rel="attachment wp-att-920"><img class="alignnone size-large wp-image-920" src="//filmbloggen.net/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" />
+    <a href="//filmbloggen.net/2011/09/19/fra-skuffen-cast-away/cab/" rel="attachment wp-att-920"><img class="alignnone size-large wp-image-920" src="/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" />
     </a><strong>Originaltittel: </strong>Cast Away
     <strong>Kategori:</strong> Drama
     <strong>Spilletid:</strong> 2 timer og 23 minutter
@@ -172,7 +172,7 @@ ID:
 post_content:
   - |
     <strong>Denne uka har jeg valgt meg ut en gammel Tom Hanks-film som jeg mener er vanvittig undervurdert: Cast Away.</strong>
-    <a href="//filmbloggen.net/2011/09/19/fra-skuffen-cast-away/cab/" rel="attachment wp-att-920"><img class="alignnone size-large wp-image-920" src="//filmbloggen.net/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" />
+    <a href="//filmbloggen.net/2011/09/19/fra-skuffen-cast-away/cab/" rel="attachment wp-att-920"><img class="alignnone size-large wp-image-920" src="/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" />
     </a><strong>Originaltittel: </strong>Cast Away
     <strong>Kategori:</strong> Drama
     <strong>Spilletid:</strong> 2 timer og 23 minutter
@@ -195,7 +195,7 @@ save:
 meta:
   - |
     a:74:{i:7405;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:7384;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:7437;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:7393;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"4ada96b038";}i:7391;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:7395;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"9e70417315";}i:7438;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:7430;a:2:{s:3:"key";s:7:"content";s:5:"value";s:2577:"<strong>Denne uka har jeg valgt meg ut en gammel Tom Hanks-film som jeg mener er vanvittig undervurdert: Cast Away.</strong>
-    <a href="//filmbloggen.net/?attachment_id=920" rel="attachment wp-att-920"><img class="alignnone size-large wp-image-920" title="cab" src="//filmbloggen.net/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" />
+    <a href="//filmbloggen.net/?attachment_id=920" rel="attachment wp-att-920"><img class="alignnone size-large wp-image-920" title="cab" src="/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" />
     </a><strong>Originaltittel: </strong>Cast Away
     <strong>Kategori:</strong> Drama
     <strong>Spilletid:</strong> 2 timer og 23 minutter
@@ -209,7 +209,7 @@ meta:
     Chuck Noland transformerer kroppen sin både fysisk og overkommer massevis av psykiske utfordringer. Han lærer seg å lage ild, han fisker med et hjemmelaget spyd og blir sin egen tannlege ved hjelp av et par skøyter. Den eneste han har å prate med på øya er en volleyball ved navn Wilson som Hanks klarer å lage mye moro med.
 
     Jeg anbefaler absolutt ikke å se traileren til filmen som ødelegger mye av opplevelsen, da den spoiler grenseløst mye. Spesialeffektene er fantastiske og jeg prøvde så godt jeg kunne å finne noe å putte fingeren på, men jeg storkoste meg gjennom hele filmen. Det eneste som man kan sette et minus på er at introen er litt unødvendig lang, og at outroen er litt for kort. Synes den siste scenen fortjener litt mer tid. Men alt i alt en film som blir bedre for hver gang du ser den.";}i:7414;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:7416;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"16";}i:7412;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"19";}i:7410;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"09";}i:7418;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"54";}i:7442;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:7431;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:7406;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"16";}i:7413;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:7415;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"16";}i:7411;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"19";}i:7409;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"09";}i:7417;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"54";}i:7399;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:7397;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:7400;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:7459;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"917";}i:7403;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"19";}i:7394;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"7979604ee1";}i:7434;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:7433;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:7435;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:7404;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"09";}i:7407;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"54";}i:7422;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:7423;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:7385;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:7388;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:10:"auto-draft";}i:7419;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:7439;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:7386;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:7441;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:7460;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:2577:"<strong>Denne uka har jeg valgt meg ut en gammel Tom Hanks-film som jeg mener er vanvittig undervurdert: Cast Away.</strong>
-    <a href="//filmbloggen.net/?attachment_id=920" rel="attachment wp-att-920"><img class="alignnone size-large wp-image-920" title="cab" src="//filmbloggen.net/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" />
+    <a href="//filmbloggen.net/?attachment_id=920" rel="attachment wp-att-920"><img class="alignnone size-large wp-image-920" title="cab" src="/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" />
     </a><strong>Originaltittel: </strong>Cast Away
     <strong>Kategori:</strong> Drama
     <strong>Spilletid:</strong> 2 timer og 23 minutter
@@ -235,7 +235,7 @@ tags:
   - Tom Hanks
 ---
 **Denne uka har jeg valgt meg ut en gammel Tom Hanks-film som jeg mener er vanvittig undervurdert: Cast Away.**
-<a href="//filmbloggen.net/2011/09/19/fra-skuffen-cast-away/cab/" rel="attachment wp-att-920"><img class="alignnone size-large wp-image-920" src="//filmbloggen.net/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" /><br /> </a>**Originaltittel:** Cast Away
+<a href="//filmbloggen.net/2011/09/19/fra-skuffen-cast-away/cab/" rel="attachment wp-att-920"><img class="alignnone size-large wp-image-920" src="/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" /><br /> </a>**Originaltittel:** Cast Away
 **Kategori:** Drama
 **Spilletid:** 2 timer og 23 minutter
 **Regissør: **Robert Zemeckis

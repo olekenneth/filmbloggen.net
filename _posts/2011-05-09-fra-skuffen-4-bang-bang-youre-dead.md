@@ -107,7 +107,7 @@ content:
     <strong>Spilletid:</strong> </strong>1 time og 29 minutter<strong>
     <strong>Regissør: </strong></strong>Guy Ferland<strong>
     <strong>Med: </strong></strong>Tom Cavanagh, Ben Foster og Randy Harrison<strong>
-    </strong><a href="//filmbloggen.net/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg"><img src="//filmbloggen.net/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg" alt="" width="619" height="453" /></a>
+    </strong><a href="/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg"><img src="/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg" alt="" width="619" height="453" /></a>
 
     Det verste jeg vet om er å få spørsmålet om hva mitt favorittfilm er. Det er jo så sinnsykt mange kandidater og så mange som jeg elsker av helt forskjellige grunner, men om jeg blir tvunget til det så ender som regel alltid opp med Bang Bang You're Dead. Jeg skal prøve å forklare hvorfor (det man som regel gjør i en anmeldelse?). Jeg starter som jeg pleier å gjøre med handlingen.
 
@@ -133,7 +133,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 29 minutter<strong>
     <strong>Regissør: </strong></strong>Guy Ferland<strong>
     <strong>Med: </strong></strong>Tom Cavanagh, Ben Foster og Randy Harrison<strong>
-    </strong><a href="//filmbloggen.net/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg"><img class="alignnone size-full wp-image-299" src="//filmbloggen.net/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg" alt="" width="619" height="453" /></a>
+    </strong><a href="/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg"><img class="alignnone size-full wp-image-299" src="/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg" alt="" width="619" height="453" /></a>
 
     Det verste jeg vet om er å få spørsmålet om hva mitt favorittfilm er. Det er jo så sinnsykt mange kandidater og så mange som jeg elsker av helt forskjellige grunner, men om jeg blir tvunget til det så ender som regel alltid opp med Bang Bang You're Dead. Jeg skal prøve å forklare hvorfor (det man som regel gjør i en anmeldelse?). Jeg starter som jeg pleier å gjøre med handlingen.
 
@@ -151,7 +151,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 29 minutter<strong>
     <strong>Regissør: </strong></strong>Guy Ferland<strong>
     <strong>Med: </strong></strong>Tom Cavanagh, Ben Foster og Randy Harrison<strong>
-    </strong><a href="//filmbloggen.net/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg"><img class="alignnone size-full wp-image-299" src="//filmbloggen.net/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg" alt="" width="619" height="453" /></a>
+    </strong><a href="/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg"><img class="alignnone size-full wp-image-299" src="/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg" alt="" width="619" height="453" /></a>
 
     Det verste jeg vet om er å få spørsmålet om hva mitt favorittfilm er. Det er jo så sinnsykt mange kandidater og så mange som jeg elsker av helt forskjellige grunner, men om jeg blir tvunget til det så ender som regel alltid opp med Bang Bang You're Dead. Jeg skal prøve å forklare hvorfor (det man som regel gjør i en anmeldelse?). Jeg starter som jeg pleier å gjøre med handlingen.
 
@@ -223,7 +223,7 @@ post_content:
     <strong>Spilletid:</strong> </strong>1 time og 29 minutter<strong>
     <strong>Regissør: </strong></strong>Guy Ferland<strong>
     <strong>Med: </strong></strong>Tom Cavanagh, Ben Foster og Randy Harrison<strong>
-    </strong><a href="//filmbloggen.net/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg"><img src="//filmbloggen.net/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg" alt="" width="619" height="453" /></a>
+    </strong><a href="/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg"><img src="/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg" alt="" width="619" height="453" /></a>
 
     Det verste jeg vet om er å få spørsmålet om hva mitt favorittfilm er. Det er jo så sinnsykt mange kandidater og så mange som jeg elsker av helt forskjellige grunner, men om jeg blir tvunget til det så ender som regel alltid opp med Bang Bang You're Dead. Jeg skal prøve å forklare hvorfor (det man som regel gjør i en anmeldelse?). Jeg starter som jeg pleier å gjøre med handlingen.
 
@@ -273,7 +273,7 @@ Kategori:** **Drama/Thriller**
 **Spilletid:** **1 time og 29 minutter**
 **Regissør: ****Guy Ferland**
 **Med: ****Tom Cavanagh, Ben Foster og Randy Harrison**
-** [<img src="//filmbloggen.net/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg" alt="" width="619" height="453" />](//filmbloggen.net/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg)
+** [<img src="/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg" alt="" width="619" height="453" />](/wp-content/uploads//2011/05/ben-in-bang-bang-you-re-dead-e1310643186716.jpg)
 
 Det verste jeg vet om er å få spørsmålet om hva mitt favorittfilm er. Det er jo så sinnsykt mange kandidater og så mange som jeg elsker av helt forskjellige grunner, men om jeg blir tvunget til det så ender som regel alltid opp med Bang Bang You’re Dead. Jeg skal prøve å forklare hvorfor (det man som regel gjør i en anmeldelse?). Jeg starter som jeg pleier å gjøre med handlingen.
 

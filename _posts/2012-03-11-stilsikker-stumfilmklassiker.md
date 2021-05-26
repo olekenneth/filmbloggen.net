@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell, Malcolm McDowell, Missi Pyle, Penelope Ann Miller.
     <strong>Spilletid:</strong> 1 time og 40 minutter
 
-    <a href="//filmbloggen.net/2012/03/11/stilsikker-stumfilmklassiker/the_artist_3/" rel="attachment wp-att-2784"><img class="alignnone size-large wp-image-2784" src="//filmbloggen.net/wp-content/uploads//2012/03/the_artist_3-620x360.jpg" alt="" width="620" height="360" /></a>
+    <a href="//filmbloggen.net/2012/03/11/stilsikker-stumfilmklassiker/the_artist_3/" rel="attachment wp-att-2784"><img class="alignnone size-large wp-image-2784" src="/wp-content/uploads//2012/03/the_artist_3-620x360.jpg" alt="" width="620" height="360" /></a>
 
     The Artist er en nostalgisk hyllest til det gode, gamle Hollywood - Et sted med mange muligheter for potensielle filmelskere. Filmen bringer oss først til et miljø preget av stumfilmens undre, med George Valentin (Jean Dujardin) i sentrum av det hele. Livet kunne ikke vært bedre for den kjekke stumfilmsjarmøren, han elsker oppmerksomheten, pengene og statusen. Men er lykken langvarig?
 
@@ -67,7 +67,7 @@ post_content:
     <strong>Skuespillere:</strong> Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell, Malcolm McDowell, Missi Pyle, Penelope Ann Miller.
     <strong>Spilletid:</strong> 1 time og 40 minutter
 
-    <a href="//filmbloggen.net/2012/03/11/stilsikker-stumfilmklassiker/the_artist_3/" rel="attachment wp-att-2784"><img class="alignnone size-large wp-image-2784" src="//filmbloggen.net/wp-content/uploads//2012/03/the_artist_3-620x360.jpg" alt="" width="620" height="360" /></a>
+    <a href="//filmbloggen.net/2012/03/11/stilsikker-stumfilmklassiker/the_artist_3/" rel="attachment wp-att-2784"><img class="alignnone size-large wp-image-2784" src="/wp-content/uploads//2012/03/the_artist_3-620x360.jpg" alt="" width="620" height="360" /></a>
 
     The Artist er en nostalgisk hyllest til det gode, gamle Hollywood - Et sted med mange muligheter for potensielle filmelskere. Filmen bringer oss først til et miljø preget av stumfilmens undre, med George Valentin (Jean Dujardin) i sentrum av det hele. Livet kunne ikke vært bedre for den kjekke stumfilmsjarmøren, han elsker oppmerksomheten, pengene og statusen. Men er lykken langvarig?
 
@@ -171,7 +171,7 @@ meta:
     <strong>Skuespillere:</strong> Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell, Malcolm McDowell, Missi Pyle, Penelope Ann Miller.
     <strong>Spilletid:</strong> 1 time og 40 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=2784" rel="attachment wp-att-2784"><img class="alignnone size-large wp-image-2784" src="//filmbloggen.net/wp-content/uploads//2012/03/the_artist_3-620x360.jpg" alt="" width="620" height="360" /></a>
+    <a href="//filmbloggen.net/?attachment_id=2784" rel="attachment wp-att-2784"><img class="alignnone size-large wp-image-2784" src="/wp-content/uploads//2012/03/the_artist_3-620x360.jpg" alt="" width="620" height="360" /></a>
 
     The Artist er en nostalgisk hyllest til det gode, gamle Hollywood - Et sted med mange muligheter for potensielle filmelskere. Filmen bringer oss først til et miljø preget av stumfilmens undre, med George Valentin (Jean Dujardin) i sentrum av det hele. Livet kunne ikke vært bedre for den kjekke stumfilmsjarmøren, han elsker oppmerksomheten, pengene og statusen. Men er lykken langvarig?
 
@@ -196,7 +196,7 @@ meta:
     <strong>Skuespillere:</strong> Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell, Malcolm McDowell, Missi Pyle, Penelope Ann Miller.
     <strong>Spilletid:</strong> 1 time og 40 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=2784" rel="attachment wp-att-2784"><img class="alignnone size-large wp-image-2784" src="//filmbloggen.net/wp-content/uploads//2012/03/the_artist_3-620x360.jpg" alt="" width="620" height="360" /></a>
+    <a href="//filmbloggen.net/?attachment_id=2784" rel="attachment wp-att-2784"><img class="alignnone size-large wp-image-2784" src="/wp-content/uploads//2012/03/the_artist_3-620x360.jpg" alt="" width="620" height="360" /></a>
 
     The Artist er en nostalgisk hyllest til det gode, gamle Hollywood - Et sted med mange muligheter for potensielle filmelskere. Filmen bringer oss først til et miljø preget av stumfilmens undre, med George Valentin (Jean Dujardin) i sentrum av det hele. Livet kunne ikke vært bedre for den kjekke stumfilmsjarmøren, han elsker oppmerksomheten, pengene og statusen. Men er lykken langvarig?
 
@@ -304,7 +304,7 @@ tags:
 **Skuespillere:** Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell, Malcolm McDowell, Missi Pyle, Penelope Ann Miller.
 **Spilletid:** 1 time og 40 minutter
 
-<a href="//filmbloggen.net/2012/03/11/stilsikker-stumfilmklassiker/the_artist_3/" rel="attachment wp-att-2784"><img class="alignnone size-large wp-image-2784" src="//filmbloggen.net/wp-content/uploads//2012/03/the_artist_3-620x360.jpg" alt="" width="620" height="360" /></a>
+<a href="//filmbloggen.net/2012/03/11/stilsikker-stumfilmklassiker/the_artist_3/" rel="attachment wp-att-2784"><img class="alignnone size-large wp-image-2784" src="/wp-content/uploads//2012/03/the_artist_3-620x360.jpg" alt="" width="620" height="360" /></a>
 
 The Artist er en nostalgisk hyllest til det gode, gamle Hollywood – Et sted med mange muligheter for potensielle filmelskere. Filmen bringer oss først til et miljø preget av stumfilmens undre, med George Valentin (Jean Dujardin) i sentrum av det hele. Livet kunne ikke vært bedre for den kjekke stumfilmsjarmøren, han elsker oppmerksomheten, pengene og statusen. Men er lykken langvarig?
 

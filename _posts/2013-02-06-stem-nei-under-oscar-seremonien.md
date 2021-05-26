@@ -114,7 +114,7 @@ content:
     Manus: </strong>Pedro Peirano<strong>
     Skuespillere: </strong>Gael García Bernal, Alferdo Castro, Antonia Zegers, Néstor Cantillana...
 
-    <a href="//filmbloggen.net/2013/02/06/stem-nei-under-oscar-seremonien/attachment/8/" rel="attachment wp-att-9793"><img class="alignnone size-full wp-image-9793" src="//filmbloggen.net/wp-content/uploads//2013/02/8.jpg" alt="" width="100%" /></a>
+    <a href="//filmbloggen.net/2013/02/06/stem-nei-under-oscar-seremonien/attachment/8/" rel="attachment wp-att-9793"><img class="alignnone size-full wp-image-9793" src="/wp-content/uploads//2013/02/8.jpg" alt="" width="100%" /></a>
     <em>Foto: Arthaus</em>
 
     Stem nei tar oss med tilbake til det chilenske valget i 1989, under diktaturet til Augusto Pinochet, og plasserer oss på ”Nei”-siden i det store og viktige valget. For første gang fikk begge sidene tale sin sak på en ordentlig måte, og ”Nei”-siden fikk uttrykke akkurat det de ønsket for å få flere til å åpne øynene for det diktaturet de levde under.
@@ -194,7 +194,7 @@ post_content:
     Manus: </strong>Pedro Peirano<strong>
     Skuespillere: </strong>Gael García Bernal, Alferdo Castro, Antonia Zegers, Néstor Cantillana...
 
-    <a href="//filmbloggen.net/2013/02/06/stem-nei-under-oscar-seremonien/attachment/8/" rel="attachment wp-att-9793"><img class="alignnone size-full wp-image-9793" src="//filmbloggen.net/wp-content/uploads//2013/02/8.jpg" alt="" width="100%" /></a>
+    <a href="//filmbloggen.net/2013/02/06/stem-nei-under-oscar-seremonien/attachment/8/" rel="attachment wp-att-9793"><img class="alignnone size-full wp-image-9793" src="/wp-content/uploads//2013/02/8.jpg" alt="" width="100%" /></a>
     <em>Foto: Arthaus</em>
 
     Stem nei tar oss med tilbake til det chilenske valget i 1989, under diktaturet til Augusto Pinochet, og plasserer oss på ”Nei”-siden i det store og viktige valget. For første gang fikk begge sidene tale sin sak på en ordentlig måte, og ”Nei”-siden fikk uttrykke akkurat det de ønsket for å få flere til å åpne øynene for det diktaturet de levde under.
@@ -224,7 +224,7 @@ meta:
     Manus: </strong>Pedro Peirano<strong>
     Skuespillere: </strong>Gael García Bernal, Alferdo Castro, Antonia Zegers, Néstor Cantillana...
 
-    <a href="//filmbloggen.net/?attachment_id=9793" rel="attachment wp-att-9793"><img class="alignnone size-full wp-image-9793" src="//filmbloggen.net/wp-content/uploads//2013/02/8.jpg" alt="" width="1000" height="500" /></a>
+    <a href="//filmbloggen.net/?attachment_id=9793" rel="attachment wp-att-9793"><img class="alignnone size-full wp-image-9793" src="/wp-content/uploads//2013/02/8.jpg" alt="" width="1000" height="500" /></a>
     <em>Foto: Arthaus</em>
 
     Stem nei tar oss med tilbake til det chilenske valget i 1989, under diktaturet til Augusto Pinochet, og plasserer oss på ”Nei”-siden i det store og viktige valget. For første gang fikk begge sidene tale sin sak på en ordentlig måte, og ”Nei”-siden fikk uttrykke akkurat det de ønsket for å få flere til å åpne øynene for det diktaturet de levde under.
@@ -247,7 +247,7 @@ meta:
     Manus: </strong>Pedro Peirano<strong>
     Skuespillere: </strong>Gael García Bernal, Alferdo Castro, Antonia Zegers, Néstor Cantillana...
 
-    <a href="//filmbloggen.net/?attachment_id=9793" rel="attachment wp-att-9793"><img class="alignnone size-full wp-image-9793" src="//filmbloggen.net/wp-content/uploads//2013/02/8.jpg" alt="" width="1000" height="500" /></a>
+    <a href="//filmbloggen.net/?attachment_id=9793" rel="attachment wp-att-9793"><img class="alignnone size-full wp-image-9793" src="/wp-content/uploads//2013/02/8.jpg" alt="" width="1000" height="500" /></a>
     <em>Foto: Arthaus</em>
 
     Stem nei tar oss med tilbake til det chilenske valget i 1989, under diktaturet til Augusto Pinochet, og plasserer oss på ”Nei”-siden i det store og viktige valget. For første gang fikk begge sidene tale sin sak på en ordentlig måte, og ”Nei”-siden fikk uttrykke akkurat det de ønsket for å få flere til å åpne øynene for det diktaturet de levde under.
@@ -283,7 +283,7 @@ Regissør:** Pablo Larraín**
 Manus:** Pedro Peirano**
 Skuespillere:** Gael García Bernal, Alferdo Castro, Antonia Zegers, Néstor Cantillana…
 
-<a href="//filmbloggen.net/2013/02/06/stem-nei-under-oscar-seremonien/attachment/8/" rel="attachment wp-att-9793"><img class="alignnone size-full wp-image-9793" src="//filmbloggen.net/wp-content/uploads//2013/02/8.jpg" alt="" width="100%" /></a>
+<a href="//filmbloggen.net/2013/02/06/stem-nei-under-oscar-seremonien/attachment/8/" rel="attachment wp-att-9793"><img class="alignnone size-full wp-image-9793" src="/wp-content/uploads//2013/02/8.jpg" alt="" width="100%" /></a>
 _Foto: Arthaus_
 
 Stem nei tar oss med tilbake til det chilenske valget i 1989, under diktaturet til Augusto Pinochet, og plasserer oss på ”Nei”-siden i det store og viktige valget. For første gang fikk begge sidene tale sin sak på en ordentlig måte, og ”Nei”-siden fikk uttrykke akkurat det de ønsket for å få flere til å åpne øynene for det diktaturet de levde under.

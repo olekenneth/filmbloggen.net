@@ -109,7 +109,7 @@ content:
     Manus: </strong>Will Beall<strong>
     Skuespillere: </strong>Josh Brolin, Ryan Gosling, Sean Penn, Anthony Mackie, Robert Patrick, Michael Peña
 
-    <strong><a href="//filmbloggen.net/2013/01/14/en-eneste-stor-kitsch-i-gangster-squad/attachment/26/" rel="attachment wp-att-9342"><img class="alignnone size-large wp-image-9342" src="//filmbloggen.net/wp-content/uploads//2013/01/26-620x310.jpg" alt="" width="620" height="310" />
+    <strong><a href="//filmbloggen.net/2013/01/14/en-eneste-stor-kitsch-i-gangster-squad/attachment/26/" rel="attachment wp-att-9342"><img class="alignnone size-large wp-image-9342" src="/wp-content/uploads//2013/01/26-620x310.jpg" alt="" width="620" height="310" />
     </a></strong><em>Foto: Warner Bros. Pictures/ SF Norge AS </em>
 
     Jeg har holdt øynene på Gangster Squad helt siden det først fikk liv. Når den første traileren da kom, ble jeg ekstra interessert og hadde tro på at Zombieland-regissør  Ruben Fleischer taklet sjangerovergangen ypperlig. Nå vet jeg både at han ikke kom gjennom uten mindre problemer, men også at filmen i sin helhet ble for opptatt av å imitere andre.<span style="font-size: 13px; line-height: 19px;"> </span>
@@ -190,7 +190,7 @@ post_content:
     Manus: </strong>Will Beall<strong>
     Skuespillere: </strong>Josh Brolin, Ryan Gosling, Sean Penn, Anthony Mackie, Robert Patrick, Michael Peña
 
-    <strong><a href="//filmbloggen.net/2013/01/14/en-eneste-stor-kitsch-i-gangster-squad/attachment/26/" rel="attachment wp-att-9342"><img class="alignnone size-large wp-image-9342" src="//filmbloggen.net/wp-content/uploads//2013/01/26-620x310.jpg" alt="" width="620" height="310" />
+    <strong><a href="//filmbloggen.net/2013/01/14/en-eneste-stor-kitsch-i-gangster-squad/attachment/26/" rel="attachment wp-att-9342"><img class="alignnone size-large wp-image-9342" src="/wp-content/uploads//2013/01/26-620x310.jpg" alt="" width="620" height="310" />
     </a></strong><em>Foto: Warner Bros. Pictures/ SF Norge AS </em>
 
     Jeg har holdt øynene på Gangster Squad helt siden det først fikk liv. Når den første traileren da kom, ble jeg ekstra interessert og hadde tro på at Zombieland-regissør  Ruben Fleischer taklet sjangerovergangen ypperlig. Nå vet jeg både at han ikke kom gjennom uten mindre problemer, men også at filmen i sin helhet ble for opptatt av å imitere andre.<span style="font-size: 13px; line-height: 19px;"> </span>
@@ -221,7 +221,7 @@ meta:
     Manus: </strong>Will Beall<strong>
     Skuespillere: </strong>Josh Brolin, Ryan Gosling, Sean Penn, Anthony Mackie, Robert Patrick, Michael Peña
 
-    <strong><a href="//filmbloggen.net/2013/01/14/en-eneste-stor-kitsch-i-gangster-squad/attachment/26/" rel="attachment wp-att-9342"><img class="alignnone size-large wp-image-9342" src="//filmbloggen.net/wp-content/uploads//2013/01/26-620x310.jpg" alt="" width="620" height="310" />
+    <strong><a href="//filmbloggen.net/2013/01/14/en-eneste-stor-kitsch-i-gangster-squad/attachment/26/" rel="attachment wp-att-9342"><img class="alignnone size-large wp-image-9342" src="/wp-content/uploads//2013/01/26-620x310.jpg" alt="" width="620" height="310" />
     </a></strong><em>Foto: Warner Bros. Pictures/ SF Norge AS </em>
 
     Jeg har holdt øynene på Gangster Squad helt siden det først fikk liv. Når den første traileren da kom, ble jeg ekstra interessert og hadde tro på at Zombieland-regissør  Ruben Fleischer taklet sjangerovergangen ypperlig. Nå vet jeg både at han ikke kom gjennom uten mindre problemer, men også at filmen i sin helhet ble for opptatt av å imitere andre.<span style="font-size: 13px; line-height: 19px;"> </span>
@@ -245,7 +245,7 @@ meta:
     Manus: </strong>Will Beall<strong>
     Skuespillere: </strong>Josh Brolin, Ryan Gosling, Sean Penn, Anthony Mackie, Robert Patrick, Michael Peña
 
-    <strong><a href="//filmbloggen.net/2013/01/14/en-eneste-stor-kitsch-i-gangster-squad/attachment/26/" rel="attachment wp-att-9342"><img class="alignnone size-large wp-image-9342" src="//filmbloggen.net/wp-content/uploads//2013/01/26-620x310.jpg" alt="" width="620" height="310" />
+    <strong><a href="//filmbloggen.net/2013/01/14/en-eneste-stor-kitsch-i-gangster-squad/attachment/26/" rel="attachment wp-att-9342"><img class="alignnone size-large wp-image-9342" src="/wp-content/uploads//2013/01/26-620x310.jpg" alt="" width="620" height="310" />
     </a></strong><em>Foto: Warner Bros. Pictures/ SF Norge AS </em>
 
     Jeg har holdt øynene på Gangster Squad helt siden det først fikk liv. Når den første traileren da kom, ble jeg ekstra interessert og hadde tro på at Zombieland-regissør  Ruben Fleischer taklet sjangerovergangen ypperlig. Nå vet jeg både at han ikke kom gjennom uten mindre problemer, men også at filmen i sin helhet ble for opptatt av å imitere andre.<span style="font-size: 13px; line-height: 19px;"> </span>
@@ -282,7 +282,7 @@ Regissør:** Ruber Fleischer**
 Manus:** Will Beall**
 Skuespillere: **Josh Brolin, Ryan Gosling, Sean Penn, Anthony Mackie, Robert Patrick, Michael Peña
 
-**<a href="//filmbloggen.net/2013/01/14/en-eneste-stor-kitsch-i-gangster-squad/attachment/26/" rel="attachment wp-att-9342"><img class="alignnone size-large wp-image-9342" src="//filmbloggen.net/wp-content/uploads//2013/01/26-620x310.jpg" alt="" width="620" height="310" /><br /> </a>**_Foto: Warner Bros. Pictures/ SF Norge AS _
+**<a href="//filmbloggen.net/2013/01/14/en-eneste-stor-kitsch-i-gangster-squad/attachment/26/" rel="attachment wp-att-9342"><img class="alignnone size-large wp-image-9342" src="/wp-content/uploads//2013/01/26-620x310.jpg" alt="" width="620" height="310" /><br /> </a>**_Foto: Warner Bros. Pictures/ SF Norge AS _
 
 Jeg har holdt øynene på Gangster Squad helt siden det først fikk liv. Når den første traileren da kom, ble jeg ekstra interessert og hadde tro på at Zombieland-regissør  Ruben Fleischer taklet sjangerovergangen ypperlig. Nå vet jeg både at han ikke kom gjennom uten mindre problemer, men også at filmen i sin helhet ble for opptatt av å imitere andre.<span style="font-size: 13px;line-height: 19px"> </span>
 

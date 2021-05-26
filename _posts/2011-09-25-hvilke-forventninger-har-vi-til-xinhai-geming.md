@@ -99,7 +99,7 @@ content:
     <strong>Et historisk drama basert på grunnleggelsen av Republikken Kina da nasjonalistiske styrker styrtet Qing-dynastiet. Se trailer og info om filmen her.
     <!--more--><span class="Apple-style-span" style="font-weight: normal;"><strong> </strong></span></strong>
 
-    <a href="//filmbloggen.net/2011/09/25/hvilke-forventninger-har-vi-til-xinhai-geming/jc/" rel="attachment wp-att-1051"><img class="alignnone size-full wp-image-1051" src="//filmbloggen.net/wp-content/uploads//2011/09/jc.jpg" alt="" width="600" height="450" /></a>
+    <a href="//filmbloggen.net/2011/09/25/hvilke-forventninger-har-vi-til-xinhai-geming/jc/" rel="attachment wp-att-1051"><img class="alignnone size-full wp-image-1051" src="/wp-content/uploads//2011/09/jc.jpg" alt="" width="600" height="450" /></a>
 
     Traileren til denne filmen er nok til å få hvem som helst nysgjerrige. "Xinhai geming/1911 Revolution" er et historisk drama basert på opprettelsen av Republikken Kina da de nasjonalistiske styrkene, ledet av Sun Yat-sen styrtet Qing-dynastiet i 1911.
 
@@ -172,7 +172,7 @@ post_content:
     <strong>Et historisk drama basert på grunnleggelsen av Republikken Kina da nasjonalistiske styrker styrtet Qing-dynastiet. Se trailer og info om filmen her.
     <!--more--><span class="Apple-style-span" style="font-weight: normal;"><strong> </strong></span></strong>
 
-    <a href="//filmbloggen.net/2011/09/25/hvilke-forventninger-har-vi-til-xinhai-geming/jc/" rel="attachment wp-att-1051"><img class="alignnone size-full wp-image-1051" src="//filmbloggen.net/wp-content/uploads//2011/09/jc.jpg" alt="" width="600" height="450" /></a>
+    <a href="//filmbloggen.net/2011/09/25/hvilke-forventninger-har-vi-til-xinhai-geming/jc/" rel="attachment wp-att-1051"><img class="alignnone size-full wp-image-1051" src="/wp-content/uploads//2011/09/jc.jpg" alt="" width="600" height="450" /></a>
 
     Traileren til denne filmen er nok til å få hvem som helst nysgjerrige. "Xinhai geming/1911 Revolution" er et historisk drama basert på opprettelsen av Republikken Kina da de nasjonalistiske styrkene, ledet av Sun Yat-sen styrtet Qing-dynastiet i 1911.
 
@@ -197,7 +197,7 @@ meta:
     a:75:{i:8299;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:8277;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:8327;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:8286;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"ff092678c4";}i:8284;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:8288;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"3094e15979";}i:8328;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:8320;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1905:"<strong>Et historisk drama basert på grunnleggelsen av Republikken Kina da nasjonalistiske styrker styrtet Qing-dynastiet.
     <!--more--><span class="Apple-style-span" style="font-weight: normal;"><strong> </strong></span></strong>
 
-    <a href="//filmbloggen.net/2011/09/25/hvilke-forventninger-har-vi-til-xinhai-geming/jc/" rel="attachment wp-att-1051"><img class="alignnone size-full wp-image-1051" src="//filmbloggen.net/wp-content/uploads//2011/09/jc.jpg" alt="" width="600" height="450" /></a>
+    <a href="//filmbloggen.net/2011/09/25/hvilke-forventninger-har-vi-til-xinhai-geming/jc/" rel="attachment wp-att-1051"><img class="alignnone size-full wp-image-1051" src="/wp-content/uploads//2011/09/jc.jpg" alt="" width="600" height="450" /></a>
 
     Traileren til denne filmen er nok til å få hvem som helst nysgjerrige. "Xinhai geming/1911 Revolution" er et historisk drama basert på opprettelsen av Republikken Kina da de nasjonalistiske styrkene, ledet av Sun Yat-sen styrtet Qing-dynastiet i 1911.
 
@@ -215,7 +215,7 @@ meta:
     <strong>Hva slags forventninger har du til filmen? </strong>";}i:8308;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:8310;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"10";}i:8306;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"26";}i:8304;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"09";}i:8312;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"34";}i:8331;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:8321;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:8300;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"20";}i:8307;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:8309;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"20";}i:8305;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"25";}i:8303;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"09";}i:8311;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"05";}i:8293;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:8291;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:8294;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:8348;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"1050";}i:8297;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"25";}i:8287;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"18e2dc618a";}i:8324;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:8323;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:8325;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:8298;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"09";}i:8301;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"05";}i:8359;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:8360;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:8278;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:8281;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:8313;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:8329;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:8279;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"7";}i:8362;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"7";}i:8349;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1905:"<strong>Et historisk drama basert på grunnleggelsen av Republikken Kina da nasjonalistiske styrker styrtet Qing-dynastiet.
     <!--more--><span class="Apple-style-span" style="font-weight: normal;"><strong> </strong></span></strong>
 
-    <a href="//filmbloggen.net/2011/09/25/hvilke-forventninger-har-vi-til-xinhai-geming/jc/" rel="attachment wp-att-1051"><img class="alignnone size-full wp-image-1051" src="//filmbloggen.net/wp-content/uploads//2011/09/jc.jpg" alt="" width="600" height="450" /></a>
+    <a href="//filmbloggen.net/2011/09/25/hvilke-forventninger-har-vi-til-xinhai-geming/jc/" rel="attachment wp-att-1051"><img class="alignnone size-full wp-image-1051" src="/wp-content/uploads//2011/09/jc.jpg" alt="" width="600" height="450" /></a>
 
     Traileren til denne filmen er nok til å få hvem som helst nysgjerrige. "Xinhai geming/1911 Revolution" er et historisk drama basert på opprettelsen av Republikken Kina da de nasjonalistiske styrkene, ledet av Sun Yat-sen styrtet Qing-dynastiet i 1911.
 
@@ -248,7 +248,7 @@ format: video
 
 <span class="Apple-style-span" style="font-weight: normal"><strong> </strong></span>**
 
-<a href="//filmbloggen.net/2011/09/25/hvilke-forventninger-har-vi-til-xinhai-geming/jc/" rel="attachment wp-att-1051"><img class="alignnone size-full wp-image-1051" src="//filmbloggen.net/wp-content/uploads//2011/09/jc.jpg" alt="" width="600" height="450" /></a>
+<a href="//filmbloggen.net/2011/09/25/hvilke-forventninger-har-vi-til-xinhai-geming/jc/" rel="attachment wp-att-1051"><img class="alignnone size-full wp-image-1051" src="/wp-content/uploads//2011/09/jc.jpg" alt="" width="600" height="450" /></a>
 
 Traileren til denne filmen er nok til å få hvem som helst nysgjerrige. «Xinhai geming/1911 Revolution» er et historisk drama basert på opprettelsen av Republikken Kina da de nasjonalistiske styrkene, ledet av Sun Yat-sen styrtet Qing-dynastiet i 1911.
 

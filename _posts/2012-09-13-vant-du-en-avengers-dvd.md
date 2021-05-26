@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Disse tre vant DVD av The Avengers.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" title="hulken" src="//filmbloggen.net/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" title="hulken" src="/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" />
     </a>I Filmbloggens lille Avengers-konkurranse ga vi ut tre DVDer levert av Disney Norge. Under får du vinnere og riktig svar.<strong>
 
     LES OGSÅ:</strong> <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/">Superheltene innfrir</a>
@@ -182,7 +182,7 @@ ID:
 post_content:
   - |
     <strong>Disse tre vant DVD av The Avengers.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" title="hulken" src="//filmbloggen.net/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" title="hulken" src="/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" />
     </a>I Filmbloggens lille Avengers-konkurranse ga vi ut tre DVDer levert av Disney Norge. Under får du vinnere og riktig svar.<strong>
 
     LES OGSÅ:</strong> <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/">Superheltene innfrir</a>
@@ -216,7 +216,7 @@ categories:
 **Disse tre vant DVD av The Avengers.**<!--more-->
 
 
-<a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" src="//filmbloggen.net/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" /><br /> </a>I Filmbloggens lille Avengers-konkurranse ga vi ut tre DVDer levert av Disney Norge. Under får du vinnere og riktig svar.**</p>
+<a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" src="/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" /><br /> </a>I Filmbloggens lille Avengers-konkurranse ga vi ut tre DVDer levert av Disney Norge. Under får du vinnere og riktig svar.**</p>
 
 LES OGSÅ:</strong> [Superheltene innfrir](//filmbloggen.net/2012/04/29/superheltene-innfrir/)
 

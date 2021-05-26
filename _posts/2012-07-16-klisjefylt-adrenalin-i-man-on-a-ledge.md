@@ -109,7 +109,7 @@ content:
     <strong>Manus:</strong> Pablo F. Fenjves
     <strong>Skuespillere:</strong> Sam Worthington, Elizabeth Banks, Jamie Bell, Anthony Mackie, Ed Harris, Titus Welliver, Genesis Rodriguez
 
-    <a href="//filmbloggen.net/2012/07/16/klisjefylt-adrenalin-i-man-on-a-ledge/oetgada12/" rel="attachment wp-att-5074"><img class="alignnone size-large wp-image-5074" src="//filmbloggen.net/wp-content/uploads//2012/07/oetgada12-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/07/16/klisjefylt-adrenalin-i-man-on-a-ledge/oetgada12/" rel="attachment wp-att-5074"><img class="alignnone size-large wp-image-5074" src="/wp-content/uploads//2012/07/oetgada12-620x412.jpg" alt="" width="620" height="412" /></a>
     <em>Foto: Summit Entertaiment</em>
 
     I Man on a Ledge må en tidligere politimann (Sam Worthington) gamble på at broren og ei venninne kan stjele en diamant som skal vise hans uskyld, og dette med livet som innsats. Nick (politimannen) er dømt til fengsel for å stjele en diamant, men han er tydeligvis uskyldig og det skal dette tyveriet bevise.
@@ -186,7 +186,7 @@ post_content:
     <strong>Manus:</strong> Pablo F. Fenjves
     <strong>Skuespillere:</strong> Sam Worthington, Elizabeth Banks, Jamie Bell, Anthony Mackie, Ed Harris, Titus Welliver, Genesis Rodriguez
 
-    <a href="//filmbloggen.net/2012/07/16/klisjefylt-adrenalin-i-man-on-a-ledge/oetgada12/" rel="attachment wp-att-5074"><img class="alignnone size-large wp-image-5074" src="//filmbloggen.net/wp-content/uploads//2012/07/oetgada12-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/07/16/klisjefylt-adrenalin-i-man-on-a-ledge/oetgada12/" rel="attachment wp-att-5074"><img class="alignnone size-large wp-image-5074" src="/wp-content/uploads//2012/07/oetgada12-620x412.jpg" alt="" width="620" height="412" /></a>
     <em>Foto: Summit Entertaiment</em>
 
     I Man on a Ledge må en tidligere politimann (Sam Worthington) gamble på at broren og ei venninne kan stjele en diamant som skal vise hans uskyld, og dette med livet som innsats. Nick (politimannen) er dømt til fengsel for å stjele en diamant, men han er tydeligvis uskyldig og det skal dette tyveriet bevise.
@@ -213,7 +213,7 @@ meta:
     <strong>Manus:</strong> Pablo F. Fenjves
     <strong>Skuespillere:</strong> Sam Worthington, Elizabeth Banks, Jamie Bell, Anthony Mackie, Ed Harris, Titus Welliver, Genesis Rodriguez
 
-    <a href="//filmbloggen.net/?attachment_id=5074" rel="attachment wp-att-5074"><img class="alignnone size-large wp-image-5074" src="//filmbloggen.net/wp-content/uploads//2012/07/oetgada12-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/?attachment_id=5074" rel="attachment wp-att-5074"><img class="alignnone size-large wp-image-5074" src="/wp-content/uploads//2012/07/oetgada12-620x412.jpg" alt="" width="620" height="412" /></a>
     <em>Foto: Summit Entertaiment</em>
 
     I Man on a Ledge må en tidligere politimann (Sam Worthington) gamble på at broren og ei venninne kan stjele en diamant som skal vise hans uskyld, og dette med livet som innsats. Nick (politimannen) er dømt til fengsel for å stjele en diamant, men han er tydeligvis uskyldig og det skal dette tyveriet bevise.
@@ -233,7 +233,7 @@ meta:
     <strong>Manus:</strong> Pablo F. Fenjves
     <strong>Skuespillere:</strong> Sam Worthington, Elizabeth Banks, Jamie Bell, Anthony Mackie, Ed Harris, Titus Welliver, Genesis Rodriguez
 
-    <a href="//filmbloggen.net/?attachment_id=5074" rel="attachment wp-att-5074"><img class="alignnone size-large wp-image-5074" src="//filmbloggen.net/wp-content/uploads//2012/07/oetgada12-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/?attachment_id=5074" rel="attachment wp-att-5074"><img class="alignnone size-large wp-image-5074" src="/wp-content/uploads//2012/07/oetgada12-620x412.jpg" alt="" width="620" height="412" /></a>
     <em>Foto: Summit Entertaiment</em>
 
     I Man on a Ledge må en tidligere politimann (Sam Worthington) gamble på at broren og ei venninne kan stjele en diamant som skal vise hans uskyld, og dette med livet som innsats. Nick (politimannen) er dømt til fengsel for å stjele en diamant, men han er tydeligvis uskyldig og det skal dette tyveriet bevise.
@@ -284,7 +284,7 @@ tags:
 **Manus:** Pablo F. Fenjves
 **Skuespillere:** Sam Worthington, Elizabeth Banks, Jamie Bell, Anthony Mackie, Ed Harris, Titus Welliver, Genesis Rodriguez
 
-<a href="//filmbloggen.net/2012/07/16/klisjefylt-adrenalin-i-man-on-a-ledge/oetgada12/" rel="attachment wp-att-5074"><img class="alignnone size-large wp-image-5074" src="//filmbloggen.net/wp-content/uploads//2012/07/oetgada12-620x412.jpg" alt="" width="620" height="412" /></a>
+<a href="//filmbloggen.net/2012/07/16/klisjefylt-adrenalin-i-man-on-a-ledge/oetgada12/" rel="attachment wp-att-5074"><img class="alignnone size-large wp-image-5074" src="/wp-content/uploads//2012/07/oetgada12-620x412.jpg" alt="" width="620" height="412" /></a>
 _Foto: Summit Entertaiment_
 
 I Man on a Ledge må en tidligere politimann (Sam Worthington) gamble på at broren og ei venninne kan stjele en diamant som skal vise hans uskyld, og dette med livet som innsats. Nick (politimannen) er dømt til fengsel for å stjele en diamant, men han er tydeligvis uskyldig og det skal dette tyveriet bevise.

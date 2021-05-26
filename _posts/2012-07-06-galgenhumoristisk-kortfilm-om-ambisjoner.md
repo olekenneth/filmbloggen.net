@@ -106,7 +106,7 @@ content:
     <strong>Regi:</strong> Joanna Rubin Dranger
     <strong>Skuespillere: </strong>Vanna Rosenberg, Ewa Fröling, Johan Rabaeus, David Dencik, Claire Wikholm, Ann Petrén, Michelle Meadows & Katarina Cohen, Carl Johan De Geer
     <strong>Spilletid:</strong> 29,5 min.</p>
-    <p style="text-align: left"><a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-i-baren/" rel="attachment wp-att-4826"><img class="aligncenter size-large wp-image-4826" src="//filmbloggen.net/wp-content/uploads//2012/07/Fröken-Märkvärdig-i-baren-620x437.jpg" alt="" width="620" height="437" /></a></p>
+    <p style="text-align: left"><a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-i-baren/" rel="attachment wp-att-4826"><img class="aligncenter size-large wp-image-4826" src="/wp-content/uploads//2012/07/Fröken-Märkvärdig-i-baren-620x437.jpg" alt="" width="620" height="437" /></a></p>
     <em>Bilde: Joanna Rubin Dranger, Lisbeth gabrielsson Film AB, A Man & Ink, Bullitt Film</em>
 
     <em>Denne anmeldelsen ble publisert for første gang den 24. oktober 2011 på studentmagasinet Atriums blogg. Denne versjonen har blitt grundig omskrevet for Filmbloggen.net.</em>
@@ -121,7 +121,7 @@ content:
 
     <strong>Men for all del, denne kortfilmen er ikke et talerør for sytende kreative</strong> som skylder sine nederlag på resten av samfunnet; her passer man på å kritisere den håpefulle kunstner/forfatteren like mye som omgivelsene hennes. Hun mangler for eksempel evne til å ta imot velmenende hjelp fra kjæresten, og er paradoksalt men menneskelig nok altfor hard mot seg selv og selvmedlidende samtidig som hun har innslag av optimistiske, men totalt urealistiske ambisjoner.
 
-    <a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-drommer-om-hyllowood/" rel="attachment wp-att-4825"><img class="alignnone size-large wp-image-4825" src="//filmbloggen.net/wp-content/uploads//2012/07/Fröken-Märkvärdig-drömmer-om-Hyllowood-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-drommer-om-hyllowood/" rel="attachment wp-att-4825"><img class="alignnone size-large wp-image-4825" src="/wp-content/uploads//2012/07/Fröken-Märkvärdig-drömmer-om-Hyllowood-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Bilde: Joanna Rubin Dranger, Lisbeth gabrielsson Film AB, A Man & Ink, Bullitt Film</em>
     <div class="mceTemp">
 
@@ -194,7 +194,7 @@ post_content:
     <strong>Regi:</strong> Joanna Rubin Dranger
     <strong>Skuespillere: </strong>Vanna Rosenberg, Ewa Fröling, Johan Rabaeus, David Dencik, Claire Wikholm, Ann Petrén, Michelle Meadows & Katarina Cohen, Carl Johan De Geer
     <strong>Spilletid:</strong> 29,5 min.</p>
-    <p style="text-align: left"><a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-i-baren/" rel="attachment wp-att-4826"><img class="aligncenter size-large wp-image-4826" src="//filmbloggen.net/wp-content/uploads//2012/07/Fröken-Märkvärdig-i-baren-620x437.jpg" alt="" width="620" height="437" /></a></p>
+    <p style="text-align: left"><a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-i-baren/" rel="attachment wp-att-4826"><img class="aligncenter size-large wp-image-4826" src="/wp-content/uploads//2012/07/Fröken-Märkvärdig-i-baren-620x437.jpg" alt="" width="620" height="437" /></a></p>
     <em>Bilde: Joanna Rubin Dranger, Lisbeth gabrielsson Film AB, A Man & Ink, Bullitt Film</em>
 
     <em>Denne anmeldelsen ble publisert for første gang den 24. oktober 2011 på studentmagasinet Atriums blogg. Denne versjonen har blitt grundig omskrevet for Filmbloggen.net.</em>
@@ -209,7 +209,7 @@ post_content:
 
     <strong>Men for all del, denne kortfilmen er ikke et talerør for sytende kreative</strong> som skylder sine nederlag på resten av samfunnet; her passer man på å kritisere den håpefulle kunstner/forfatteren like mye som omgivelsene hennes. Hun mangler for eksempel evne til å ta imot velmenende hjelp fra kjæresten, og er paradoksalt men menneskelig nok altfor hard mot seg selv og selvmedlidende samtidig som hun har innslag av optimistiske, men totalt urealistiske ambisjoner.
 
-    <a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-drommer-om-hyllowood/" rel="attachment wp-att-4825"><img class="alignnone size-large wp-image-4825" src="//filmbloggen.net/wp-content/uploads//2012/07/Fröken-Märkvärdig-drömmer-om-Hyllowood-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-drommer-om-hyllowood/" rel="attachment wp-att-4825"><img class="alignnone size-large wp-image-4825" src="/wp-content/uploads//2012/07/Fröken-Märkvärdig-drömmer-om-Hyllowood-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Bilde: Joanna Rubin Dranger, Lisbeth gabrielsson Film AB, A Man & Ink, Bullitt Film</em>
     <div class="mceTemp">
 
@@ -232,7 +232,7 @@ meta:
     <strong>Regi:</strong> Joanna Rubin Dranger
     <strong>Skuespillere: </strong>Vanna Rosenberg, Ewa Fröling, Johan Rabaeus, David Dencik, Claire Wikholm, Ann Petrén, Michelle Meadows & Katarina Cohen, Carl Johan De Geer
     <strong>Spilletid:</strong> 29,5 min</p>
-    <p style="text-align: left;"><a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-i-baren/" rel="attachment wp-att-4826"><img class="aligncenter size-large wp-image-4826" src="//filmbloggen.net/wp-content/uploads//2012/07/Fröken-Märkvärdig-i-baren-620x437.jpg" alt="" width="620" height="437" /></a></p>
+    <p style="text-align: left;"><a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-i-baren/" rel="attachment wp-att-4826"><img class="aligncenter size-large wp-image-4826" src="/wp-content/uploads//2012/07/Fröken-Märkvärdig-i-baren-620x437.jpg" alt="" width="620" height="437" /></a></p>
     <em>Bilde: Joanna Rubin Dranger, Lisbeth gabrielsson Film AB, A Man & Ink, Bullitt Film</em>
 
     <em>Denne anmeldelsen ble publisert for første gang den 24. oktober 2011 på studentmagasinet Atriums blogg. Denne versjonen har blitt grundig omskrevet for Filmbloggen.net.</em>
@@ -247,7 +247,7 @@ meta:
 
     <strong>Men for all del, denne kortfilmen er ikke et talerør for sytende kreative</strong> som skylder sine nederlag på resten av samfunnet; her passer man på å kritisere den håpefulle kunstner/forfatteren like mye som omgivelsene hennes. Hun mangler for eksempel evne til å ta imot velmenende hjelp fra kjæresten, og er paradoksalt men menneskelig nok altfor hard mot seg selv og selvmedlidende samtidig som hun har innslag av optimistiske, men totalt urealistiske ambisjoner.
 
-    <a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-drommer-om-hyllowood/" rel="attachment wp-att-4825"><img class="alignnone size-large wp-image-4825" src="//filmbloggen.net/wp-content/uploads//2012/07/Fröken-Märkvärdig-drömmer-om-Hyllowood-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-drommer-om-hyllowood/" rel="attachment wp-att-4825"><img class="alignnone size-large wp-image-4825" src="/wp-content/uploads//2012/07/Fröken-Märkvärdig-drömmer-om-Hyllowood-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Bilde: Joanna Rubin Dranger, Lisbeth gabrielsson Film AB, A Man & Ink, Bullitt Film</em>
     <div class="mceTemp">
 
@@ -263,7 +263,7 @@ meta:
     <strong>Regi:</strong> Joanna Rubin Dranger
     <strong>Skuespillere: </strong>Vanna Rosenberg, Ewa Fröling, Johan Rabaeus, David Dencik, Claire Wikholm, Ann Petrén, Michelle Meadows & Katarina Cohen, Carl Johan De Geer
     <strong>Spilletid:</strong> 29,5 min</p>
-    <p style="text-align: left;"><a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-i-baren/" rel="attachment wp-att-4826"><img class="aligncenter size-large wp-image-4826" src="//filmbloggen.net/wp-content/uploads//2012/07/Fröken-Märkvärdig-i-baren-620x437.jpg" alt="" width="620" height="437" /></a></p>
+    <p style="text-align: left;"><a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-i-baren/" rel="attachment wp-att-4826"><img class="aligncenter size-large wp-image-4826" src="/wp-content/uploads//2012/07/Fröken-Märkvärdig-i-baren-620x437.jpg" alt="" width="620" height="437" /></a></p>
     <em>Bilde: Joanna Rubin Dranger, Lisbeth gabrielsson Film AB, A Man & Ink, Bullitt Film</em>
 
     <em>Denne anmeldelsen ble publisert for første gang den 24. oktober 2011 på studentmagasinet Atriums blogg. Denne versjonen har blitt grundig omskrevet for Filmbloggen.net.</em>
@@ -278,7 +278,7 @@ meta:
 
     <strong>Men for all del, denne kortfilmen er ikke et talerør for sytende kreative</strong> som skylder sine nederlag på resten av samfunnet; her passer man på å kritisere den håpefulle kunstner/forfatteren like mye som omgivelsene hennes. Hun mangler for eksempel evne til å ta imot velmenende hjelp fra kjæresten, og er paradoksalt men menneskelig nok altfor hard mot seg selv og selvmedlidende samtidig som hun har innslag av optimistiske, men totalt urealistiske ambisjoner.
 
-    <a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-drommer-om-hyllowood/" rel="attachment wp-att-4825"><img class="alignnone size-large wp-image-4825" src="//filmbloggen.net/wp-content/uploads//2012/07/Fröken-Märkvärdig-drömmer-om-Hyllowood-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-drommer-om-hyllowood/" rel="attachment wp-att-4825"><img class="alignnone size-large wp-image-4825" src="/wp-content/uploads//2012/07/Fröken-Märkvärdig-drömmer-om-Hyllowood-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Bilde: Joanna Rubin Dranger, Lisbeth gabrielsson Film AB, A Man & Ink, Bullitt Film</em>
     <div class="mceTemp">
 
@@ -330,7 +330,7 @@ tags:
 </p>
 
 <p style="text-align: left">
-  <a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-i-baren/" rel="attachment wp-att-4826"><img class="aligncenter size-large wp-image-4826" src="//filmbloggen.net/wp-content/uploads//2012/07/Fröken-Märkvärdig-i-baren-620x437.jpg" alt="" width="620" height="437" /></a>
+  <a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-i-baren/" rel="attachment wp-att-4826"><img class="aligncenter size-large wp-image-4826" src="/wp-content/uploads//2012/07/Fröken-Märkvärdig-i-baren-620x437.jpg" alt="" width="620" height="437" /></a>
 </p>
 
 _Bilde: Joanna Rubin Dranger, Lisbeth gabrielsson Film AB, A Man & Ink, Bullitt Film_
@@ -355,7 +355,7 @@ _Klipp fra filmen, med engelske undertekster._
 
 **Men for all del, denne kortfilmen er ikke et talerør for sytende kreative** som skylder sine nederlag på resten av samfunnet; her passer man på å kritisere den håpefulle kunstner/forfatteren like mye som omgivelsene hennes. Hun mangler for eksempel evne til å ta imot velmenende hjelp fra kjæresten, og er paradoksalt men menneskelig nok altfor hard mot seg selv og selvmedlidende samtidig som hun har innslag av optimistiske, men totalt urealistiske ambisjoner.
 
-<a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-drommer-om-hyllowood/" rel="attachment wp-att-4825"><img class="alignnone size-large wp-image-4825" src="//filmbloggen.net/wp-content/uploads//2012/07/Fröken-Märkvärdig-drömmer-om-Hyllowood-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2012/07/06/galgenhumoristisk-kortfilm-om-ambisjoner/froken-markvardig-drommer-om-hyllowood/" rel="attachment wp-att-4825"><img class="alignnone size-large wp-image-4825" src="/wp-content/uploads//2012/07/Fröken-Märkvärdig-drömmer-om-Hyllowood-620x348.jpg" alt="" width="620" height="348" /></a>
 _Bilde: Joanna Rubin Dranger, Lisbeth gabrielsson Film AB, A Man & Ink, Bullitt Film_
 
 <div class="mceTemp">

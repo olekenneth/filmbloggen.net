@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Jennifer Lawrence, Josh Hutcherson, Stanley Tucci, Wes Bentley, Willow Shields, Elizabeth Banks, Lenny Kravitz, Woody Harrelson, Toby Jones.
     <strong>Spilletid:</strong> 2 timer og 22 minutter
 
-    <a href="//filmbloggen.net/2012/03/29/reality-tv-med-livet-pa-spill/the-hunger-games-movie-for-dummies-img/" rel="attachment wp-att-2912"><img class="alignnone size-large wp-image-2912" src="//filmbloggen.net/wp-content/uploads//2012/03/the-hunger-games-movie-for-dummies-img-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/03/29/reality-tv-med-livet-pa-spill/the-hunger-games-movie-for-dummies-img/" rel="attachment wp-att-2912"><img class="alignnone size-large wp-image-2912" src="/wp-content/uploads//2012/03/the-hunger-games-movie-for-dummies-img-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Vi tas med til en verden der de rike fra byen Capitol sender de fattige fra distriktene til The Hunger Games (dødsleker). Guttene og jentene fra hvert distrikt må slåss mot hverandre til det kun står igjen én overlevende. Og nedslaktningen vises selvfølgelig på tv, slik at både de overdådige rike og de underprivilegerte fattige får innblikk i lekenes seanser.
 
@@ -71,7 +71,7 @@ post_content:
     <strong>Skuespillere:</strong> Jennifer Lawrence, Josh Hutcherson, Stanley Tucci, Wes Bentley, Willow Shields, Elizabeth Banks, Lenny Kravitz, Woody Harrelson, Toby Jones.
     <strong>Spilletid:</strong> 2 timer og 22 minutter
 
-    <a href="//filmbloggen.net/2012/03/29/reality-tv-med-livet-pa-spill/the-hunger-games-movie-for-dummies-img/" rel="attachment wp-att-2912"><img class="alignnone size-large wp-image-2912" src="//filmbloggen.net/wp-content/uploads//2012/03/the-hunger-games-movie-for-dummies-img-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/03/29/reality-tv-med-livet-pa-spill/the-hunger-games-movie-for-dummies-img/" rel="attachment wp-att-2912"><img class="alignnone size-large wp-image-2912" src="/wp-content/uploads//2012/03/the-hunger-games-movie-for-dummies-img-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Vi tas med til en verden der de rike fra byen Capitol sender de fattige fra distriktene til The Hunger Games (dødsleker). Guttene og jentene fra hvert distrikt må slåss mot hverandre til det kun står igjen én overlevende. Og nedslaktningen vises selvfølgelig på tv, slik at både de overdådige rike og de underprivilegerte fattige får innblikk i lekenes seanser.
 
@@ -181,7 +181,7 @@ meta:
     <strong>Skuespillere:</strong> Jennifer Lawrence, Josh Hutcherson, Stanley Tucci, Wes Bentley, Willow Shields, Elizabeth Banks, Lenny Kravitz, Woody Harrelson, Toby Jones.
     <strong>Spilletid:</strong> 2 timer og 22 minutter
 
-    <a href="//filmbloggen.net/2012/03/29/reality-tv-med-livet-pa-spill/the-hunger-games-movie-for-dummies-img/" rel="attachment wp-att-2912"><img class="alignnone size-large wp-image-2912" src="//filmbloggen.net/wp-content/uploads//2012/03/the-hunger-games-movie-for-dummies-img-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/03/29/reality-tv-med-livet-pa-spill/the-hunger-games-movie-for-dummies-img/" rel="attachment wp-att-2912"><img class="alignnone size-large wp-image-2912" src="/wp-content/uploads//2012/03/the-hunger-games-movie-for-dummies-img-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Vi tas med til en verden der de rike fra byen Capitol sender de fattige fra distriktene til The Hunger Games (dødsleker). Guttene og jentene fra hvert distrikt må slåss mot hverandre til det kun står igjen én overlevende. Og nedslaktningen vises selvfølgelig på tv, slik at både de overdådige rike og de underprivilegerte fattige får innblikk i lekenes seanser.
 
@@ -210,7 +210,7 @@ meta:
     <strong>Skuespillere:</strong> Jennifer Lawrence, Josh Hutcherson, Stanley Tucci, Wes Bentley, Willow Shields, Elizabeth Banks, Lenny Kravitz, Woody Harrelson, Toby Jones.
     <strong>Spilletid:</strong> 2 timer og 22 minutter
 
-    <a href="//filmbloggen.net/2012/03/29/reality-tv-med-livet-pa-spill/the-hunger-games-movie-for-dummies-img/" rel="attachment wp-att-2912"><img class="alignnone size-large wp-image-2912" src="//filmbloggen.net/wp-content/uploads//2012/03/the-hunger-games-movie-for-dummies-img-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/03/29/reality-tv-med-livet-pa-spill/the-hunger-games-movie-for-dummies-img/" rel="attachment wp-att-2912"><img class="alignnone size-large wp-image-2912" src="/wp-content/uploads//2012/03/the-hunger-games-movie-for-dummies-img-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Vi tas med til en verden der de rike fra byen Capitol sender de fattige fra distriktene til The Hunger Games (dødsleker). Guttene og jentene fra hvert distrikt må slåss mot hverandre til det kun står igjen én overlevende. Og nedslaktningen vises selvfølgelig på tv, slik at både de overdådige rike og de underprivilegerte fattige får innblikk i lekenes seanser.
 
@@ -323,7 +323,7 @@ tags:
 **Skuespillere:** Jennifer Lawrence, Josh Hutcherson, Stanley Tucci, Wes Bentley, Willow Shields, Elizabeth Banks, Lenny Kravitz, Woody Harrelson, Toby Jones.
 **Spilletid:** 2 timer og 22 minutter
 
-<a href="//filmbloggen.net/2012/03/29/reality-tv-med-livet-pa-spill/the-hunger-games-movie-for-dummies-img/" rel="attachment wp-att-2912"><img class="alignnone size-large wp-image-2912" src="//filmbloggen.net/wp-content/uploads//2012/03/the-hunger-games-movie-for-dummies-img-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/03/29/reality-tv-med-livet-pa-spill/the-hunger-games-movie-for-dummies-img/" rel="attachment wp-att-2912"><img class="alignnone size-large wp-image-2912" src="/wp-content/uploads//2012/03/the-hunger-games-movie-for-dummies-img-620x413.jpg" alt="" width="620" height="413" /></a>
 
 Vi tas med til en verden der de rike fra byen Capitol sender de fattige fra distriktene til The Hunger Games (dødsleker). Guttene og jentene fra hvert distrikt må slåss mot hverandre til det kun står igjen én overlevende. Og nedslaktningen vises selvfølgelig på tv, slik at både de overdådige rike og de underprivilegerte fattige får innblikk i lekenes seanser.
 

@@ -239,7 +239,7 @@ tags:
 ---
 **The Hangover hadde ENDELIG premiere på fredag. Og den holder virkelig nivået oppe!!**
 
-[<img class="alignnone size-large wp-image-614" title="The Hangover Part II" src="//filmbloggen.net/wp-content/uploads//2011/05/hangover-2-e1310576095397-620x463.jpg" alt="" width="620" height="463" />](//filmbloggen.net/wp-content/uploads//2011/05/hangover-2.jpg)
+[<img class="alignnone size-large wp-image-614" title="The Hangover Part II" src="/wp-content/uploads//2011/05/hangover-2-e1310576095397-620x463.jpg" alt="" width="620" height="463" />](/wp-content/uploads//2011/05/hangover-2.jpg)
 ****Originaltittel:**** The Hangover Part 2****
 Kategori:**** Komedie**
 **Spilletid:**** 1 time og 41 minutter**

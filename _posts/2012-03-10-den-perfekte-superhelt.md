@@ -108,7 +108,7 @@ content:
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>
     <strong>Regissør: </strong></strong>Andrew Stanton
     <strong>Med: </strong>Taylor Kitsch, Lynn Collins, Samantha Morton, Mark Strong, Ciaran Hinds, Dominic West, James Purefoy, Daryl Sabara, Polly Walker, Bryan Cranston, with Thomas Hayden Church, Willem Dafoe
-    <a href="//filmbloggen.net/2012/03/10/den-perfekte-superhelt/taylor-kitsch/" rel="attachment wp-att-2812"><img class="alignnone size-large wp-image-2812" src="//filmbloggen.net/wp-content/uploads//2012/03/john-carter-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/03/10/den-perfekte-superhelt/taylor-kitsch/" rel="attachment wp-att-2812"><img class="alignnone size-large wp-image-2812" src="/wp-content/uploads//2012/03/john-carter-620x412.jpg" alt="" width="620" height="412" /></a>
     Filmen åpner skuffende. Den første scenen virker som et billig salgstriks fra nervøse produsenter, og passer ikke inn med resten av filmen. Heldigvis fortsetter ikke filmen i samme stil. John Carter var en fryd for øye. Den var morsom når den skulle være morsom, den var intens når den skulle være det og den har en gjeng bunnsolide skuespillere.
 
     <a href="//www.imdb.com/name/nm2018237/" target="_blank">Taylor Kitsch</a> og <a href="//www.imdb.com/name/nm1211488/" target="_blank">Lynn Collins</a> får begge sine store gjennombrudd på kinolerretet. Duoen er ikke kjent for de fleste, men gjør en superb jobb. Regissør <a href="//www.imdb.com/name/nm0004056/" target="_blank">Andrew Stanton</a> er nok en mann flere har hørt om. Stanton har to Oscarstatuetter for henholdsvis Finding Nemo og WALL-E på peishylla, men dette er hans første film som regissør for ekte mennesker.
@@ -197,7 +197,7 @@ post_content:
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>
     <strong>Regissør: </strong></strong>Andrew Stanton
     <strong>Med: </strong>Taylor Kitsch, Lynn Collins, Samantha Morton, Mark Strong, Ciaran Hinds, Dominic West, James Purefoy, Daryl Sabara, Polly Walker, Bryan Cranston, with Thomas Hayden Church, Willem Dafoe
-    <a href="//filmbloggen.net/2012/03/10/den-perfekte-superhelt/taylor-kitsch/" rel="attachment wp-att-2812"><img class="alignnone size-large wp-image-2812" src="//filmbloggen.net/wp-content/uploads//2012/03/john-carter-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/03/10/den-perfekte-superhelt/taylor-kitsch/" rel="attachment wp-att-2812"><img class="alignnone size-large wp-image-2812" src="/wp-content/uploads//2012/03/john-carter-620x412.jpg" alt="" width="620" height="412" /></a>
     Filmen åpner skuffende. Den første scenen virker som et billig salgstriks fra nervøse produsenter, og passer ikke inn med resten av filmen. Heldigvis fortsetter ikke filmen i samme stil. John Carter var en fryd for øye. Den var morsom når den skulle være morsom, den var intens når den skulle være det og den har en gjeng bunnsolide skuespillere.
 
     <a href="//www.imdb.com/name/nm2018237/" target="_blank">Taylor Kitsch</a> og <a href="//www.imdb.com/name/nm1211488/" target="_blank">Lynn Collins</a> får begge sine store gjennombrudd på kinolerretet. Duoen er ikke kjent for de fleste, men gjør en superb jobb. Regissør <a href="//www.imdb.com/name/nm0004056/" target="_blank">Andrew Stanton</a> er nok en mann flere har hørt om. Stanton har to Oscarstatuetter for henholdsvis Finding Nemo og WALL-E på peishylla, men dette er hans første film som regissør for ekte mennesker.
@@ -238,7 +238,7 @@ meta:
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>
     <strong>Regissør: </strong></strong>Andrew Stanton
     <strong>Med: </strong>Taylor Kitsch, Lynn Collins, Samantha Morton, Mark Strong, Ciaran Hinds, Dominic West, James Purefoy, Daryl Sabara, Polly Walker, Bryan Cranston, with Thomas Hayden Church, Willem Dafoe
-    <a href="//filmbloggen.net/2012/03/10/den-perfekte-superhelt/taylor-kitsch/" rel="attachment wp-att-2812"><img class="alignnone size-large wp-image-2812" src="//filmbloggen.net/wp-content/uploads//2012/03/john-carter-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/03/10/den-perfekte-superhelt/taylor-kitsch/" rel="attachment wp-att-2812"><img class="alignnone size-large wp-image-2812" src="/wp-content/uploads//2012/03/john-carter-620x412.jpg" alt="" width="620" height="412" /></a>
     Filmen åpner skuffende. Den første scenen virker som et billig salgstriks fra nervøse produsenter, og passer ikke inn med resten av filmen. Heldigvis fortsetter ikke filmen i samme stil. John Carter var en fryd for øye. Den var morsom når den skulle være morsom, den var intens når den skulle være det og den har en gjeng bunnsolide skuespillere.
 
     <a href="//www.imdb.com/name/nm2018237/" target="_blank">Taylor Kitsch</a> og <a href="//www.imdb.com/name/nm1211488/" target="_blank">Lynn Collins</a> får begge sine store gjennombrudd på kinolerretet. Duoen er ikke kjent for de fleste, men gjør en superb jobb. Regissør <a href="//www.imdb.com/name/nm0004056/" target="_blank">Andrew Stanton</a> er nok en mann flere har hørt om. Stanton har to Oscarstatuetter for henholdsvis Finding Nemo og WALL-E på peishylla, men dette er hans første film som regissør for ekte mennesker.
@@ -268,7 +268,7 @@ meta:
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>
     <strong>Regissør: </strong></strong>Andrew Stanton
     <strong>Med: </strong>Taylor Kitsch, Lynn Collins, Samantha Morton, Mark Strong, Ciaran Hinds, Dominic West, James Purefoy, Daryl Sabara, Polly Walker, Bryan Cranston, with Thomas Hayden Church, Willem Dafoe
-    <a href="//filmbloggen.net/2012/03/10/den-perfekte-superhelt/taylor-kitsch/" rel="attachment wp-att-2812"><img class="alignnone size-large wp-image-2812" src="//filmbloggen.net/wp-content/uploads//2012/03/john-carter-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/03/10/den-perfekte-superhelt/taylor-kitsch/" rel="attachment wp-att-2812"><img class="alignnone size-large wp-image-2812" src="/wp-content/uploads//2012/03/john-carter-620x412.jpg" alt="" width="620" height="412" /></a>
     Filmen åpner skuffende. Den første scenen virker som et billig salgstriks fra nervøse produsenter, og passer ikke inn med resten av filmen. Heldigvis fortsetter ikke filmen i samme stil. John Carter var en fryd for øye. Den var morsom når den skulle være morsom, den var intens når den skulle være det og den har en gjeng bunnsolide skuespillere.
 
     <a href="//www.imdb.com/name/nm2018237/" target="_blank">Taylor Kitsch</a> og <a href="//www.imdb.com/name/nm1211488/" target="_blank">Lynn Collins</a> får begge sine store gjennombrudd på kinolerretet. Duoen er ikke kjent for de fleste, men gjør en superb jobb. Regissør <a href="//www.imdb.com/name/nm0004056/" target="_blank">Andrew Stanton</a> er nok en mann flere har hørt om. Stanton har to Oscarstatuetter for henholdsvis Finding Nemo og WALL-E på peishylla, men dette er hans første film som regissør for ekte mennesker.
@@ -329,7 +329,7 @@ Originaltittel: **John Carter
 **Spilletid:** **2 timer og 12 minutter**
 **Regissør: ****Andrew Stanton
 **Med: **Taylor Kitsch, Lynn Collins, Samantha Morton, Mark Strong, Ciaran Hinds, Dominic West, James Purefoy, Daryl Sabara, Polly Walker, Bryan Cranston, with Thomas Hayden Church, Willem Dafoe
-<a href="//filmbloggen.net/2012/03/10/den-perfekte-superhelt/taylor-kitsch/" rel="attachment wp-att-2812"><img class="alignnone size-large wp-image-2812" src="//filmbloggen.net/wp-content/uploads//2012/03/john-carter-620x412.jpg" alt="" width="620" height="412" /></a>
+<a href="//filmbloggen.net/2012/03/10/den-perfekte-superhelt/taylor-kitsch/" rel="attachment wp-att-2812"><img class="alignnone size-large wp-image-2812" src="/wp-content/uploads//2012/03/john-carter-620x412.jpg" alt="" width="620" height="412" /></a>
 Filmen åpner skuffende. Den første scenen virker som et billig salgstriks fra nervøse produsenter, og passer ikke inn med resten av filmen. Heldigvis fortsetter ikke filmen i samme stil. John Carter var en fryd for øye. Den var morsom når den skulle være morsom, den var intens når den skulle være det og den har en gjeng bunnsolide skuespillere.
 
 <a href="//www.imdb.com/name/nm2018237/" target="_blank">Taylor Kitsch</a> og <a href="//www.imdb.com/name/nm1211488/" target="_blank">Lynn Collins</a> får begge sine store gjennombrudd på kinolerretet. Duoen er ikke kjent for de fleste, men gjør en superb jobb. Regissør <a href="//www.imdb.com/name/nm0004056/" target="_blank">Andrew Stanton</a> er nok en mann flere har hørt om. Stanton har to Oscarstatuetter for henholdsvis Finding Nemo og WALL-E på peishylla, men dette er hans første film som regissør for ekte mennesker.

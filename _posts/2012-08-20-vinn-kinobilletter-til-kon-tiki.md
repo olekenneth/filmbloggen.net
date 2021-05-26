@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Har du lyst til å se Norsk films nye storsatsing? Vinn billetter her.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" src="//filmbloggen.net/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" src="/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong><em>Foto: Nordisk Film</em></strong>
 
     Kon-Tiki har premiere i norske kinosaler 24. august. Vi her i Filmbloggen har fire billetter vi har lyst til å gi ut til to heldige vinnere. Det eneste du må gjøre er å sende en mail til hanskristian@rangnes.no med riktig svar på spørsmålene innen 31. august og du er med i konkurransen.
@@ -181,7 +181,7 @@ ID:
 post_content:
   - |
     <strong>Har du lyst til å se Norsk films nye storsatsing? Vinn billetter her.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" src="//filmbloggen.net/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" src="/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong><em>Foto: Nordisk Film</em></strong>
 
     Kon-Tiki har premiere i norske kinosaler 24. august. Vi her i Filmbloggen har fire billetter vi har lyst til å gi ut til to heldige vinnere. Det eneste du må gjøre er å sende en mail til hanskristian@rangnes.no med riktig svar på spørsmålene innen 31. august og du er med i konkurransen.
@@ -213,7 +213,7 @@ save:
 meta:
   - |
     a:75:{i:30269;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:30248;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:30301;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:30257;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"ef775ed4ff";}i:30255;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:30259;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"007c08204e";}i:30302;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:30294;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1112:"<strong>Har du lyst til å se Norsk films nye storsatsing? Vinn billetter her.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" src="//filmbloggen.net/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" src="/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong><em>Foto: Nordisk Film</em></strong>
 
     Kon-Tiki har premiere i norske kinosaler 24. august. Vi her i Filmbloggen har fire billetter vi har lyst til å gi ut til to heldige vinnere. Det eneste du må gjøre er å sende en mail til hanskristian@rangnes.no med riktig svar på spørsmålene innen 31. august og du er med i konkurransen.
@@ -234,7 +234,7 @@ meta:
     - Kon-Tiki
 
     Husk å inkludere navn, adresse og postnummer. Lykke til!";}i:30278;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:30280;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"21";}i:30276;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"20";}i:30274;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"08";}i:30282;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"39";}i:30306;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:30295;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:30270;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"17";}i:30277;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:30279;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"17";}i:30275;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"20";}i:30273;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"08";}i:30281;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"24";}i:30263;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:30261;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:30264;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:30323;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"6434";}i:30267;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"20";}i:30258;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"0da97a00b4";}i:30298;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:30297;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:30299;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:30268;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"08";}i:30271;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"24";}i:30286;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:30287;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:30249;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:30252;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:30283;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:30303;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:30250;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:30305;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:30324;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1112:"<strong>Har du lyst til å se Norsk films nye storsatsing? Vinn billetter her.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" src="//filmbloggen.net/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" src="/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong><em>Foto: Nordisk Film</em></strong>
 
     Kon-Tiki har premiere i norske kinosaler 24. august. Vi her i Filmbloggen har fire billetter vi har lyst til å gi ut til to heldige vinnere. Det eneste du må gjøre er å sende en mail til hanskristian@rangnes.no med riktig svar på spørsmålene innen 31. august og du er med i konkurransen.
@@ -265,7 +265,7 @@ tags:
 **Har du lyst til å se Norsk films nye storsatsing? Vinn billetter her.**<!--more-->
 
 
-<a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" src="//filmbloggen.net/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" src="/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
 **_Foto: Nordisk Film_**
 
 Kon-Tiki har premiere i norske kinosaler 24. august. Vi her i Filmbloggen har fire billetter vi har lyst til å gi ut til to heldige vinnere. Det eneste du må gjøre er å sende en mail til hanskristian@rangnes.no med riktig svar på spørsmålene innen 31. august og du er med i konkurransen.

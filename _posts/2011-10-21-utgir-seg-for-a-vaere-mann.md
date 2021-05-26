@@ -96,7 +96,7 @@ content:
   - |
     <strong> I rollen som butleren Albert Nobbs, som egentlig er kvinne.</strong>
 
-    <a href="//filmbloggen.net/2011/10/21/utgir-seg-for-a-vaere-mann/albert-nobbs/" rel="attachment wp-att-1580"><img class="alignnone size-large wp-image-1580" src="//filmbloggen.net/wp-content/uploads//2011/10/Albert-Nobbs-e1319204232314.jpg" alt="" width="619" height="341" /></a>
+    <a href="//filmbloggen.net/2011/10/21/utgir-seg-for-a-vaere-mann/albert-nobbs/" rel="attachment wp-att-1580"><img class="alignnone size-large wp-image-1580" src="/wp-content/uploads//2011/10/Albert-Nobbs-e1319204232314.jpg" alt="" width="619" height="341" /></a>
 
     <em>("Helen and Albert Nobbs" Foto: Patrick Redmond/Courtesy Roadside Attractions.)</em>
 
@@ -165,7 +165,7 @@ post_content:
   - |
     <strong> I rollen som butleren Albert Nobbs, som egentlig er kvinne.</strong>
 
-    <a href="//filmbloggen.net/2011/10/21/utgir-seg-for-a-vaere-mann/albert-nobbs/" rel="attachment wp-att-1580"><img class="alignnone size-large wp-image-1580" src="//filmbloggen.net/wp-content/uploads//2011/10/Albert-Nobbs-e1319204232314.jpg" alt="" width="619" height="341" /></a>
+    <a href="//filmbloggen.net/2011/10/21/utgir-seg-for-a-vaere-mann/albert-nobbs/" rel="attachment wp-att-1580"><img class="alignnone size-large wp-image-1580" src="/wp-content/uploads//2011/10/Albert-Nobbs-e1319204232314.jpg" alt="" width="619" height="341" /></a>
 
     <em>("Helen and Albert Nobbs" Foto: Patrick Redmond/Courtesy Roadside Attractions.)</em>
 
@@ -188,7 +188,7 @@ meta:
   - |
     a:72:{i:11375;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:11354;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:11403;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:11363;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"b1b2d5c813";}i:11361;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:11365;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"58e5680517";}i:11404;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:11396;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1963:"<strong> I rollen som butleren Albert Nobbs, som egentlig er kvinne.</strong>
 
-    <a href="//filmbloggen.net/2011/10/21/utgir-seg-for-a-vaere-mann/albert-nobbs/" rel="attachment wp-att-1580"><img class="alignnone size-large wp-image-1580" src="//filmbloggen.net/wp-content/uploads//2011/10/Albert-Nobbs-e1319204232314.jpg" alt="" width="619" height="341" /></a>
+    <a href="//filmbloggen.net/2011/10/21/utgir-seg-for-a-vaere-mann/albert-nobbs/" rel="attachment wp-att-1580"><img class="alignnone size-large wp-image-1580" src="/wp-content/uploads//2011/10/Albert-Nobbs-e1319204232314.jpg" alt="" width="619" height="341" /></a>
 
     <em>("Helen and Albert Nobbs" Foto: Patrick Redmond/Courtesy Roadside Attractions.)</em>
 
@@ -202,7 +202,7 @@ meta:
 
     //www.youtube.com/watch?v=66N5hjkq740";}i:11384;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:11386;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"16";}i:11382;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"21";}i:11380;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"10";}i:11388;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"04";}i:11407;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:11397;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:11376;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"15";}i:11383;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:11385;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"15";}i:11381;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"21";}i:11379;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"10";}i:11387;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"57";}i:11369;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:11367;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:11370;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:11423;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"1571";}i:11373;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"21";}i:11364;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"982583aae6";}i:11400;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:11399;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:11401;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:11374;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"10";}i:11377;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"57";}i:11355;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:11358;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:11389;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:11405;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:11356;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"9";}i:11425;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1963:"<strong> I rollen som butleren Albert Nobbs, som egentlig er kvinne.</strong>
 
-    <a href="//filmbloggen.net/2011/10/21/utgir-seg-for-a-vaere-mann/albert-nobbs/" rel="attachment wp-att-1580"><img class="alignnone size-large wp-image-1580" src="//filmbloggen.net/wp-content/uploads//2011/10/Albert-Nobbs-e1319204232314.jpg" alt="" width="619" height="341" /></a>
+    <a href="//filmbloggen.net/2011/10/21/utgir-seg-for-a-vaere-mann/albert-nobbs/" rel="attachment wp-att-1580"><img class="alignnone size-large wp-image-1580" src="/wp-content/uploads//2011/10/Albert-Nobbs-e1319204232314.jpg" alt="" width="619" height="341" /></a>
 
     <em>("Helen and Albert Nobbs" Foto: Patrick Redmond/Courtesy Roadside Attractions.)</em>
 
@@ -223,7 +223,7 @@ format: video
 ---
  **I rollen som butleren Albert Nobbs, som egentlig er kvinne.**
 
-<a href="//filmbloggen.net/2011/10/21/utgir-seg-for-a-vaere-mann/albert-nobbs/" rel="attachment wp-att-1580"><img class="alignnone size-large wp-image-1580" src="//filmbloggen.net/wp-content/uploads//2011/10/Albert-Nobbs-e1319204232314.jpg" alt="" width="619" height="341" /></a>
+<a href="//filmbloggen.net/2011/10/21/utgir-seg-for-a-vaere-mann/albert-nobbs/" rel="attachment wp-att-1580"><img class="alignnone size-large wp-image-1580" src="/wp-content/uploads//2011/10/Albert-Nobbs-e1319204232314.jpg" alt="" width="619" height="341" /></a>
 
 _(«Helen and Albert Nobbs» Foto: Patrick Redmond/Courtesy Roadside Attractions.)_
 

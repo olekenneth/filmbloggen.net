@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Klikk deg inn for å se riktige svar og hvem som vant Prometheus-stæsj!</strong><!--more-->
-    <img class="alignnone size-large wp-image-4629" src="//filmbloggen.net/wp-content/uploads//2012/07/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
+    <img class="alignnone size-large wp-image-4629" src="/wp-content/uploads//2012/07/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
     Da er det på tide å kåre de to vinnerne av vår kuleste konkurranse så langt. Det er tydelig at mange av besvarelsene kom fra konkurransesider, siden det var sinnsykt mange som hadde feil på det samme spørsmålet. Spørsmålene var:
     <div><label for="entry_0"><label for="entry_0"><label for="entry_0"><strong>- Hvorfor valgte Ridley Scott å kalle filmen Prometheus?</strong>
     1. Fordi han synes det hørtes kult ut
@@ -179,7 +179,7 @@ ID:
 post_content:
   - |
     <strong>Klikk deg inn for å se riktige svar og hvem som vant Prometheus-stæsj!</strong><!--more-->
-    <img class="alignnone size-large wp-image-4629" src="//filmbloggen.net/wp-content/uploads//2012/07/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
+    <img class="alignnone size-large wp-image-4629" src="/wp-content/uploads//2012/07/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
     Da er det på tide å kåre de to vinnerne av vår kuleste konkurranse så langt. Det er tydelig at mange av besvarelsene kom fra konkurransesider, siden det var sinnsykt mange som hadde feil på det samme spørsmålet. Spørsmålene var:
     <div><label for="entry_0"><label for="entry_0"><label for="entry_0"><strong>- Hvorfor valgte Ridley Scott å kalle filmen Prometheus?</strong>
     1. Fordi han synes det hørtes kult ut
@@ -209,7 +209,7 @@ save:
 meta:
   - |
     a:74:{i:25247;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:25226;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:25279;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:25235;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"bb140aee31";}i:25233;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:25237;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"7b280920d3";}i:25280;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:25272;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1609:"<strong>Klikk deg inn for å se riktige svar og hvem som vant Prometheus-stæsj!</strong><!--more-->
-    <img class="alignnone size-large wp-image-4629" title="prometheus stæsj" src="//filmbloggen.net/wp-content/uploads//2012/07/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
+    <img class="alignnone size-large wp-image-4629" title="prometheus stæsj" src="/wp-content/uploads//2012/07/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
     Da er det på tide å kåre de to vinnerne av vår kuleste konkurranse så langt. Det er tydelig at mange av besvarelsene kom fra konkurransesider, siden det var sinnsykt mange som hadde feil på det samme spørsmålet. Spørsmålene var:
     <div><label for="entry_0"><label for="entry_0"><strong>- Hvorfor valgte Ridley Scott å kalle filmen Prometheus?</strong>
     1. Fordi han synes det hørtes kult ut
@@ -232,7 +232,7 @@ meta:
     Vinnerne er konktaktet på mail og får tilsendt sine premier i morgen. Lykke til neste gang!
 
     </div>";}i:25256;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:25258;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"15";}i:25254;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"01";}i:25252;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:25260;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"07";}i:25284;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:25273;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:25248;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"15";}i:25255;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:25257;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"15";}i:25253;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"01";}i:25251;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"07";}i:25259;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"07";}i:25241;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:25239;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:25242;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:25301;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"4628";}i:25245;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"01";}i:25236;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"815f8e513a";}i:25276;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:25275;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:25277;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:25246;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"07";}i:25249;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"07";}i:25264;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:25265;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:25227;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:25230;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:10:"auto-draft";}i:25261;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:25281;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:25228;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:25283;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:25302;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1609:"<strong>Klikk deg inn for å se riktige svar og hvem som vant Prometheus-stæsj!</strong><!--more-->
-    <img class="alignnone size-large wp-image-4629" title="prometheus stæsj" src="//filmbloggen.net/wp-content/uploads//2012/07/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
+    <img class="alignnone size-large wp-image-4629" title="prometheus stæsj" src="/wp-content/uploads//2012/07/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
     Da er det på tide å kåre de to vinnerne av vår kuleste konkurranse så langt. Det er tydelig at mange av besvarelsene kom fra konkurransesider, siden det var sinnsykt mange som hadde feil på det samme spørsmålet. Spørsmålene var:
     <div><label for="entry_0"><label for="entry_0"><strong>- Hvorfor valgte Ridley Scott å kalle filmen Prometheus?</strong>
     1. Fordi han synes det hørtes kult ut
@@ -263,7 +263,7 @@ categories:
 **Klikk deg inn for å se riktige svar og hvem som vant Prometheus-stæsj!**<!--more-->
 
 
-<img class="alignnone size-large wp-image-4629" src="//filmbloggen.net/wp-content/uploads//2012/07/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
+<img class="alignnone size-large wp-image-4629" src="/wp-content/uploads//2012/07/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
 Da er det på tide å kåre de to vinnerne av vår kuleste konkurranse så langt. Det er tydelig at mange av besvarelsene kom fra konkurransesider, siden det var sinnsykt mange som hadde feil på det samme spørsmålet. Spørsmålene var:
 
 <div>

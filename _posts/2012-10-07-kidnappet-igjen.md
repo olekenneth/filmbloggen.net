@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> Liam Neeson, Famke Janssen, Maggie Grace, Leland Orser, Jon Gries, D.B. Sweeney, Luke Grimes, Rade Serbedzija.
     <strong>Spilletid:</strong> 1 time og 31 minutter
 
-    <a href="//filmbloggen.net/2012/10/07/kidnappet-igjen/taken-2-bilde-4/" rel="attachment wp-att-7447"><img class="alignnone size-large wp-image-7447" src="//filmbloggen.net/wp-content/uploads//2012/10/Taken-2-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/10/07/kidnappet-igjen/taken-2-bilde-4/" rel="attachment wp-att-7447"><img class="alignnone size-large wp-image-7447" src="/wp-content/uploads//2012/10/Taken-2-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Liam Neeson spiller fortsatt den barske og dødelige CIA-agenten Bryan Mills, som nok en gang må ta opp kampen mot kriminelle albanere.</strong> Denne gangen drar han, datteren (Maggie Grace) og den sørgende eksona (Famke Janssen) til Istanbul på ferie. Og der hadde de håpet på å finne fred og ro, men de må istedet belage seg på å bli kidnappet. Albanerne vil ha hevn for hva Bryan gjorde med kameratene og sønnene deres i forrige film. Noe som innebærer at Bryan må bekjempe og drepe dem alle mann slik at de aldri kommer etter ham igjen.
 
@@ -65,7 +65,7 @@ post_content:
     <strong>Skuespillere:</strong> Liam Neeson, Famke Janssen, Maggie Grace, Leland Orser, Jon Gries, D.B. Sweeney, Luke Grimes, Rade Serbedzija.
     <strong>Spilletid:</strong> 1 time og 31 minutter
 
-    <a href="//filmbloggen.net/2012/10/07/kidnappet-igjen/taken-2-bilde-4/" rel="attachment wp-att-7447"><img class="alignnone size-large wp-image-7447" src="//filmbloggen.net/wp-content/uploads//2012/10/Taken-2-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/10/07/kidnappet-igjen/taken-2-bilde-4/" rel="attachment wp-att-7447"><img class="alignnone size-large wp-image-7447" src="/wp-content/uploads//2012/10/Taken-2-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Liam Neeson spiller fortsatt den barske og dødelige CIA-agenten Bryan Mills, som nok en gang må ta opp kampen mot kriminelle albanere.</strong> Denne gangen drar han, datteren (Maggie Grace) og den sørgende eksona (Famke Janssen) til Istanbul på ferie. Og der hadde de håpet på å finne fred og ro, men de må istedet belage seg på å bli kidnappet. Albanerne vil ha hevn for hva Bryan gjorde med kameratene og sønnene deres i forrige film. Noe som innebærer at Bryan må bekjempe og drepe dem alle mann slik at de aldri kommer etter ham igjen.
 
@@ -174,7 +174,7 @@ meta:
     <strong>Skuespillere:</strong> Liam Neeson, Famke Janssen, Maggie Grace, Leland Orser, Jon Gries, D.B. Sweeney, Luke Grimes, Rade Serbedzija.
     <strong>Spilletid:</strong> 1 time og 31 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=7447" rel="attachment wp-att-7447"><img class="alignnone size-large wp-image-7447" src="//filmbloggen.net/wp-content/uploads//2012/10/Taken-2-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=7447" rel="attachment wp-att-7447"><img class="alignnone size-large wp-image-7447" src="/wp-content/uploads//2012/10/Taken-2-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Liam Neeson spiller fortsatt den barske og dødelige CIA-agenten Bryan Mills, som nok en gang må ta opp kampen mot kriminelle albanere.</strong> Denne gangen drar han, datteren (Maggie Grace) og den sørgende eksona (Famke Janssen) til Istanbul på ferie. Og der hadde de håpet på å finne fred og ro, men de må istedet belage seg på å bli kidnappet. Albanerne vil ha hevn for hva Bryan gjorde med kameratene og sønnene deres i forrige film. Noe som innebærer at Bryan må bekjempe og drepe dem alle mann slik at de aldri kommer etter ham igjen.
 
@@ -198,7 +198,7 @@ meta:
     <strong>Skuespillere:</strong> Liam Neeson, Famke Janssen, Maggie Grace, Leland Orser, Jon Gries, D.B. Sweeney, Luke Grimes, Rade Serbedzija.
     <strong>Spilletid:</strong> 1 time og 31 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=7447" rel="attachment wp-att-7447"><img class="alignnone size-large wp-image-7447" src="//filmbloggen.net/wp-content/uploads//2012/10/Taken-2-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=7447" rel="attachment wp-att-7447"><img class="alignnone size-large wp-image-7447" src="/wp-content/uploads//2012/10/Taken-2-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Liam Neeson spiller fortsatt den barske og dødelige CIA-agenten Bryan Mills, som nok en gang må ta opp kampen mot kriminelle albanere.</strong> Denne gangen drar han, datteren (Maggie Grace) og den sørgende eksona (Famke Janssen) til Istanbul på ferie. Og der hadde de håpet på å finne fred og ro, men de må istedet belage seg på å bli kidnappet. Albanerne vil ha hevn for hva Bryan gjorde med kameratene og sønnene deres i forrige film. Noe som innebærer at Bryan må bekjempe og drepe dem alle mann slik at de aldri kommer etter ham igjen.
 
@@ -299,7 +299,7 @@ tags:
 **Skuespillere:** Liam Neeson, Famke Janssen, Maggie Grace, Leland Orser, Jon Gries, D.B. Sweeney, Luke Grimes, Rade Serbedzija.
 **Spilletid:** 1 time og 31 minutter
 
-<a href="//filmbloggen.net/2012/10/07/kidnappet-igjen/taken-2-bilde-4/" rel="attachment wp-att-7447"><img class="alignnone size-large wp-image-7447" src="//filmbloggen.net/wp-content/uploads//2012/10/Taken-2-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2012/10/07/kidnappet-igjen/taken-2-bilde-4/" rel="attachment wp-att-7447"><img class="alignnone size-large wp-image-7447" src="/wp-content/uploads//2012/10/Taken-2-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
 **Liam Neeson spiller fortsatt den barske og dødelige CIA-agenten Bryan Mills, som nok en gang må ta opp kampen mot kriminelle albanere.** Denne gangen drar han, datteren (Maggie Grace) og den sørgende eksona (Famke Janssen) til Istanbul på ferie. Og der hadde de håpet på å finne fred og ro, men de må istedet belage seg på å bli kidnappet. Albanerne vil ha hevn for hva Bryan gjorde med kameratene og sønnene deres i forrige film. Noe som innebærer at Bryan må bekjempe og drepe dem alle mann slik at de aldri kommer etter ham igjen.
 

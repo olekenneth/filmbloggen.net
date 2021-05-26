@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Ukas Idrettsfilm er den amerikanske fotballfilmen We Are Marshall.
-    <img class="alignnone size-medium wp-image-366" src="//filmbloggen.net/wp-content/uploads//2011/05/we-are-marshall1.jpg?w=300" alt="" width="618" height="438" />
+    <img class="alignnone size-medium wp-image-366" src="/wp-content/uploads//2011/05/we-are-marshall1.jpg?w=300" alt="" width="618" height="438" />
     <strong>Originaltittel: </strong></strong>We Are Marshall<strong><strong>
     Kategori:</strong> </strong>Sport/Drama<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 11 minutter<strong>
@@ -177,7 +177,7 @@ ID:
 post_content:
   - |
     <strong>Ukas Idrettsfilm er den amerikanske fotballfilmen We Are Marshall.
-    <img class="alignnone size-medium wp-image-366" src="//filmbloggen.net/wp-content/uploads//2011/05/we-are-marshall1.jpg?w=300" alt="" width="618" height="438" />
+    <img class="alignnone size-medium wp-image-366" src="/wp-content/uploads//2011/05/we-are-marshall1.jpg?w=300" alt="" width="618" height="438" />
     <strong>Originaltittel: </strong></strong>We Are Marshall<strong><strong>
     Kategori:</strong> </strong>Sport/Drama<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 11 minutter<strong>
@@ -208,7 +208,7 @@ tags:
   - McG
 ---
 **Ukas Idrettsfilm er den amerikanske fotballfilmen We Are Marshall.
-<img class="alignnone size-medium wp-image-366" src="//filmbloggen.net/wp-content/uploads//2011/05/we-are-marshall1.jpg?w=300" alt="" width="618" height="438" />
+<img class="alignnone size-medium wp-image-366" src="/wp-content/uploads//2011/05/we-are-marshall1.jpg?w=300" alt="" width="618" height="438" />
 **Originaltittel:**** We Are Marshall****
 Kategori:**** Sport/Drama**
 **Spilletid:**** 2 timer og 11 minutter**

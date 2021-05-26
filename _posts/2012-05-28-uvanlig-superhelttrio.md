@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly, Anna Wood, Ashley Hinshaw, Bo Petersen.
     <strong>Spilletid:</strong> 1 time og 24 minutter
 
-    <a href="//filmbloggen.net/2012/05/28/uvanlig-superhelttrio/chronicle11/" rel="attachment wp-att-3800"><img class="alignnone size-large wp-image-3800" src="//filmbloggen.net/wp-content/uploads//2012/05/Chronicle11-620x438.jpg" alt="" width="620" height="438" /></a>
+    <a href="//filmbloggen.net/2012/05/28/uvanlig-superhelttrio/chronicle11/" rel="attachment wp-att-3800"><img class="alignnone size-large wp-image-3800" src="/wp-content/uploads//2012/05/Chronicle11-620x438.jpg" alt="" width="620" height="438" /></a>
 
     Jeg hadde ingen store forventninger til denne filmen, jeg visste bare at det handlet om superhelter - noe jeg har sett mye av i det siste - men jeg ble tildels positivt overrasket av en den ukonvensjonelle historien og de flotte effektene.
 
@@ -68,7 +68,7 @@ post_content:
     <strong>Skuespillere:</strong> Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly, Anna Wood, Ashley Hinshaw, Bo Petersen.
     <strong>Spilletid:</strong> 1 time og 24 minutter
 
-    <a href="//filmbloggen.net/2012/05/28/uvanlig-superhelttrio/chronicle11/" rel="attachment wp-att-3800"><img class="alignnone size-large wp-image-3800" src="//filmbloggen.net/wp-content/uploads//2012/05/Chronicle11-620x438.jpg" alt="" width="620" height="438" /></a>
+    <a href="//filmbloggen.net/2012/05/28/uvanlig-superhelttrio/chronicle11/" rel="attachment wp-att-3800"><img class="alignnone size-large wp-image-3800" src="/wp-content/uploads//2012/05/Chronicle11-620x438.jpg" alt="" width="620" height="438" /></a>
 
     Jeg hadde ingen store forventninger til denne filmen, jeg visste bare at det handlet om superhelter - noe jeg har sett mye av i det siste - men jeg ble tildels positivt overrasket av en den ukonvensjonelle historien og de flotte effektene.
 
@@ -179,7 +179,7 @@ meta:
     <strong>Skuespillere:</strong> Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly, Anna Wood, Ashley Hinshaw, Bo Petersen.
     <strong>Spilletid:</strong> 1 time og 24 minutter
 
-    <a href="//filmbloggen.net/2012/05/28/uvanlig-superhelttrio/chronicle11/" rel="attachment wp-att-3800"><img class="alignnone size-large wp-image-3800" src="//filmbloggen.net/wp-content/uploads//2012/05/Chronicle11-620x438.jpg" alt="" width="620" height="438" /></a>
+    <a href="//filmbloggen.net/2012/05/28/uvanlig-superhelttrio/chronicle11/" rel="attachment wp-att-3800"><img class="alignnone size-large wp-image-3800" src="/wp-content/uploads//2012/05/Chronicle11-620x438.jpg" alt="" width="620" height="438" /></a>
 
     Jeg hadde ingen store forventninger til denne filmen, jeg visste bare at det handlet om superhelter - noe jeg har sett mye av i det siste - men jeg ble tildels positivt overrasket av en den ukonvensjonelle historien og de flotte effektene.
 
@@ -205,7 +205,7 @@ meta:
     <strong>Skuespillere:</strong> Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly, Anna Wood, Ashley Hinshaw, Bo Petersen.
     <strong>Spilletid:</strong> 1 time og 24 minutter
 
-    <a href="//filmbloggen.net/2012/05/28/uvanlig-superhelttrio/chronicle11/" rel="attachment wp-att-3800"><img class="alignnone size-large wp-image-3800" src="//filmbloggen.net/wp-content/uploads//2012/05/Chronicle11-620x438.jpg" alt="" width="620" height="438" /></a>
+    <a href="//filmbloggen.net/2012/05/28/uvanlig-superhelttrio/chronicle11/" rel="attachment wp-att-3800"><img class="alignnone size-large wp-image-3800" src="/wp-content/uploads//2012/05/Chronicle11-620x438.jpg" alt="" width="620" height="438" /></a>
 
     Jeg hadde ingen store forventninger til denne filmen, jeg visste bare at det handlet om superhelter - noe jeg har sett mye av i det siste - men jeg ble tildels positivt overrasket av en den ukonvensjonelle historien og de flotte effektene.
 
@@ -309,7 +309,7 @@ tags:
 **Skuespillere:** Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly, Anna Wood, Ashley Hinshaw, Bo Petersen.
 **Spilletid:** 1 time og 24 minutter
 
-<a href="//filmbloggen.net/2012/05/28/uvanlig-superhelttrio/chronicle11/" rel="attachment wp-att-3800"><img class="alignnone size-large wp-image-3800" src="//filmbloggen.net/wp-content/uploads//2012/05/Chronicle11-620x438.jpg" alt="" width="620" height="438" /></a>
+<a href="//filmbloggen.net/2012/05/28/uvanlig-superhelttrio/chronicle11/" rel="attachment wp-att-3800"><img class="alignnone size-large wp-image-3800" src="/wp-content/uploads//2012/05/Chronicle11-620x438.jpg" alt="" width="620" height="438" /></a>
 
 Jeg hadde ingen store forventninger til denne filmen, jeg visste bare at det handlet om superhelter – noe jeg har sett mye av i det siste – men jeg ble tildels positivt overrasket av en den ukonvensjonelle historien og de flotte effektene.
 

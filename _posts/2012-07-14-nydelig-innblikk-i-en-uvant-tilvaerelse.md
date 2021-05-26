@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Judi Dench, Bill Nighy, Tom Wilkinson, Maggie Smith, Ronald Pickup, Celia Imrie, Penelope Wilton, Dev Patel, Tena Desae.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/07/14/nydelig-innblikk-i-en-uvant-tilvaerelse/best-exotic-marigold05/" rel="attachment wp-att-5031"><img class="alignnone size-large wp-image-5031" src="//filmbloggen.net/wp-content/uploads//2012/07/best-exotic-marigold05-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/14/nydelig-innblikk-i-en-uvant-tilvaerelse/best-exotic-marigold05/" rel="attachment wp-att-5031"><img class="alignnone size-large wp-image-5031" src="/wp-content/uploads//2012/07/best-exotic-marigold05-620x413.jpg" alt="" width="620" height="413" /></a>
 
     John Madden gir oss denne gang en fortelling om en gruppe britiske pensjonister som drar på en selvrealiseringsreise til India - et fascinerende og eventyrlig land.
 
@@ -69,7 +69,7 @@ post_content:
     <strong>Skuespillere:</strong> Judi Dench, Bill Nighy, Tom Wilkinson, Maggie Smith, Ronald Pickup, Celia Imrie, Penelope Wilton, Dev Patel, Tena Desae.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/07/14/nydelig-innblikk-i-en-uvant-tilvaerelse/best-exotic-marigold05/" rel="attachment wp-att-5031"><img class="alignnone size-large wp-image-5031" src="//filmbloggen.net/wp-content/uploads//2012/07/best-exotic-marigold05-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/14/nydelig-innblikk-i-en-uvant-tilvaerelse/best-exotic-marigold05/" rel="attachment wp-att-5031"><img class="alignnone size-large wp-image-5031" src="/wp-content/uploads//2012/07/best-exotic-marigold05-620x413.jpg" alt="" width="620" height="413" /></a>
 
     John Madden gir oss denne gang en fortelling om en gruppe britiske pensjonister som drar på en selvrealiseringsreise til India - et fascinerende og eventyrlig land.
 
@@ -179,7 +179,7 @@ meta:
     <strong>Skuespillere:</strong> Judi Dench, Bill Nighy, Tom Wilkinson, Maggie Smith, Ronald Pickup, Celia Imrie, Penelope Wilton, Dev Patel, Tena Desae.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/07/14/nydelig-innblikk-i-en-uvant-tilvaerelse/best-exotic-marigold05/" rel="attachment wp-att-5031"><img class="alignnone size-large wp-image-5031" src="//filmbloggen.net/wp-content/uploads//2012/07/best-exotic-marigold05-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/14/nydelig-innblikk-i-en-uvant-tilvaerelse/best-exotic-marigold05/" rel="attachment wp-att-5031"><img class="alignnone size-large wp-image-5031" src="/wp-content/uploads//2012/07/best-exotic-marigold05-620x413.jpg" alt="" width="620" height="413" /></a>
 
     John Madden gir oss denne gang en fortelling om en gruppe britiske pensjonister som drar på en selvrealiseringsreise til India - et fascinerende og eventyrlig land.
 
@@ -206,7 +206,7 @@ meta:
     <strong>Skuespillere:</strong> Judi Dench, Bill Nighy, Tom Wilkinson, Maggie Smith, Ronald Pickup, Celia Imrie, Penelope Wilton, Dev Patel, Tena Desae.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/07/14/nydelig-innblikk-i-en-uvant-tilvaerelse/best-exotic-marigold05/" rel="attachment wp-att-5031"><img class="alignnone size-large wp-image-5031" src="//filmbloggen.net/wp-content/uploads//2012/07/best-exotic-marigold05-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/07/14/nydelig-innblikk-i-en-uvant-tilvaerelse/best-exotic-marigold05/" rel="attachment wp-att-5031"><img class="alignnone size-large wp-image-5031" src="/wp-content/uploads//2012/07/best-exotic-marigold05-620x413.jpg" alt="" width="620" height="413" /></a>
 
     John Madden gir oss denne gang en fortelling om en gruppe britiske pensjonister som drar på en selvrealiseringsreise til India - et fascinerende og eventyrlig land.
 
@@ -313,7 +313,7 @@ tags:
 **Skuespillere:** Judi Dench, Bill Nighy, Tom Wilkinson, Maggie Smith, Ronald Pickup, Celia Imrie, Penelope Wilton, Dev Patel, Tena Desae.
 **Spilletid:** 2 timer og 4 minutter
 
-<a href="//filmbloggen.net/2012/07/14/nydelig-innblikk-i-en-uvant-tilvaerelse/best-exotic-marigold05/" rel="attachment wp-att-5031"><img class="alignnone size-large wp-image-5031" src="//filmbloggen.net/wp-content/uploads//2012/07/best-exotic-marigold05-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/07/14/nydelig-innblikk-i-en-uvant-tilvaerelse/best-exotic-marigold05/" rel="attachment wp-att-5031"><img class="alignnone size-large wp-image-5031" src="/wp-content/uploads//2012/07/best-exotic-marigold05-620x413.jpg" alt="" width="620" height="413" /></a>
 
 John Madden gir oss denne gang en fortelling om en gruppe britiske pensjonister som drar på en selvrealiseringsreise til India – et fascinerende og eventyrlig land.
 

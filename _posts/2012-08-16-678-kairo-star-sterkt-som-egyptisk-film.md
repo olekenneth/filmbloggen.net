@@ -108,7 +108,7 @@ content:
     Manus: </strong>Mohamed Diab<strong>
     </strong><strong>Skuespillere: </strong>Boshra, Nelly Karim, Maged El Kedwany, Nahed El Sebaï, Bassem Samra
 
-    <a href="//filmbloggen.net/2012/08/16/678-kairo-star-sterkt-som-egyptisk-film/11-002/" rel="attachment wp-att-6178"><img class="alignnone size-large wp-image-6178" src="//filmbloggen.net/wp-content/uploads//2012/08/11-002-620x310.jpg" alt="" width="620" height="310" />
+    <a href="//filmbloggen.net/2012/08/16/678-kairo-star-sterkt-som-egyptisk-film/11-002/" rel="attachment wp-att-6178"><img class="alignnone size-large wp-image-6178" src="/wp-content/uploads//2012/08/11-002-620x310.jpg" alt="" width="620" height="310" />
     </a>
 
     Allerede fra første akt er det tydelig at <strong>678 Kairo</strong> er en samfunnskritisk dramafilm. Den tør å legge frem en uhørt side av en tabubelagt sak som fortjener - og bør - bli hørt. For ett par år siden fantes det ingen lov mot seksuell trakassering i Egypt. Denne filmen plasserer oss i skoene til tre forskjellige kvinner, fra tre forskjellige samfunnsklasser, som opplever tre forskjellige former for overgrep. Sammen slår de tilbake mot mennene som skader dem og landet som snur andre øret til.
@@ -188,7 +188,7 @@ post_content:
     Manus: </strong>Mohamed Diab<strong>
     </strong><strong>Skuespillere: </strong>Boshra, Nelly Karim, Maged El Kedwany, Nahed El Sebaï, Bassem Samra
 
-    <a href="//filmbloggen.net/2012/08/16/678-kairo-star-sterkt-som-egyptisk-film/11-002/" rel="attachment wp-att-6178"><img class="alignnone size-large wp-image-6178" src="//filmbloggen.net/wp-content/uploads//2012/08/11-002-620x310.jpg" alt="" width="620" height="310" />
+    <a href="//filmbloggen.net/2012/08/16/678-kairo-star-sterkt-som-egyptisk-film/11-002/" rel="attachment wp-att-6178"><img class="alignnone size-large wp-image-6178" src="/wp-content/uploads//2012/08/11-002-620x310.jpg" alt="" width="620" height="310" />
     </a>
 
     Allerede fra første akt er det tydelig at <strong>678 Kairo</strong> er en samfunnskritisk dramafilm. Den tør å legge frem en uhørt side av en tabubelagt sak som fortjener - og bør - bli hørt. For ett par år siden fantes det ingen lov mot seksuell trakassering i Egypt. Denne filmen plasserer oss i skoene til tre forskjellige kvinner, fra tre forskjellige samfunnsklasser, som opplever tre forskjellige former for overgrep. Sammen slår de tilbake mot mennene som skader dem og landet som snur andre øret til.
@@ -218,7 +218,7 @@ meta:
     Manus: </strong>Mohamed Diab<strong>
     </strong><strong>Skuespillere: </strong>Boshra, Nelly Karim, Maged El Kedwany, Nahed El Sebaï, Bassem Samra
 
-    <a href="//filmbloggen.net/2012/08/16/678-kairo-star-sterkt-som-egyptisk-film/11-002/" rel="attachment wp-att-6178"><img class="alignnone size-large wp-image-6178" src="//filmbloggen.net/wp-content/uploads//2012/08/11-002-620x310.jpg" alt="" width="620" height="310" />
+    <a href="//filmbloggen.net/2012/08/16/678-kairo-star-sterkt-som-egyptisk-film/11-002/" rel="attachment wp-att-6178"><img class="alignnone size-large wp-image-6178" src="/wp-content/uploads//2012/08/11-002-620x310.jpg" alt="" width="620" height="310" />
     </a>
 
     Allerede fra første akt er det tydelig at <strong>678 Kairo</strong> er en samfunnskritisk dramafilm. Den tør å legge frem en uhørt side av en tabubelagt sak som fortjener - og bør - bli hørt. For ett par år siden fantes det ingen lov mot seksuell trakassering i Egypt. Denne filmen plasserer oss i skoene til tre forskjellige kvinner, fra tre forskjellige samfunnsklasser, som opplever tre forskjellige former for overgrep. Sammen slår de tilbake mot mennene som skader dem og landet som snur andre øret til.
@@ -241,7 +241,7 @@ meta:
     Manus: </strong>Mohamed Diab<strong>
     </strong><strong>Skuespillere: </strong>Boshra, Nelly Karim, Maged El Kedwany, Nahed El Sebaï, Bassem Samra
 
-    <a href="//filmbloggen.net/2012/08/16/678-kairo-star-sterkt-som-egyptisk-film/11-002/" rel="attachment wp-att-6178"><img class="alignnone size-large wp-image-6178" src="//filmbloggen.net/wp-content/uploads//2012/08/11-002-620x310.jpg" alt="" width="620" height="310" />
+    <a href="//filmbloggen.net/2012/08/16/678-kairo-star-sterkt-som-egyptisk-film/11-002/" rel="attachment wp-att-6178"><img class="alignnone size-large wp-image-6178" src="/wp-content/uploads//2012/08/11-002-620x310.jpg" alt="" width="620" height="310" />
     </a>
 
     Allerede fra første akt er det tydelig at <strong>678 Kairo</strong> er en samfunnskritisk dramafilm. Den tør å legge frem en uhørt side av en tabubelagt sak som fortjener - og bør - bli hørt. For ett par år siden fantes det ingen lov mot seksuell trakassering i Egypt. Denne filmen plasserer oss i skoene til tre forskjellige kvinner, fra tre forskjellige samfunnsklasser, som opplever tre forskjellige former for overgrep. Sammen slår de tilbake mot mennene som skader dem og landet som snur andre øret til.
@@ -289,7 +289,7 @@ Regi:** Mohamed Diab**
 Manus:** Mohamed Diab**
 ** **Skuespillere:** Boshra, Nelly Karim, Maged El Kedwany, Nahed El Sebaï, Bassem Samra
 
-<a href="//filmbloggen.net/2012/08/16/678-kairo-star-sterkt-som-egyptisk-film/11-002/" rel="attachment wp-att-6178"><img class="alignnone size-large wp-image-6178" src="//filmbloggen.net/wp-content/uploads//2012/08/11-002-620x310.jpg" alt="" width="620" height="310" /><br /> </a>
+<a href="//filmbloggen.net/2012/08/16/678-kairo-star-sterkt-som-egyptisk-film/11-002/" rel="attachment wp-att-6178"><img class="alignnone size-large wp-image-6178" src="/wp-content/uploads//2012/08/11-002-620x310.jpg" alt="" width="620" height="310" /><br /> </a>
 
 Allerede fra første akt er det tydelig at **678 Kairo** er en samfunnskritisk dramafilm. Den tør å legge frem en uhørt side av en tabubelagt sak som fortjener – og bør – bli hørt. For ett par år siden fantes det ingen lov mot seksuell trakassering i Egypt. Denne filmen plasserer oss i skoene til tre forskjellige kvinner, fra tre forskjellige samfunnsklasser, som opplever tre forskjellige former for overgrep. Sammen slår de tilbake mot mennene som skader dem og landet som snur andre øret til.
 

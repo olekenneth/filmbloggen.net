@@ -110,7 +110,7 @@ content:
     Manus: </strong>Martin McDonagh<strong>
     </strong><strong>Skuespillere:  </strong>Colin Farrell, Sam Rockwell, Woody Harrelson, Christopher Walken...
 
-    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="//filmbloggen.net/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
 
     For de som ikke kjenner til Martin McDonagh, kan en rask introduksjon være på sin plass. Han kom med sin første spillefilm i 2008, kalt <em>In Bruges</em>, med Colin Farrell og Brendan Gleeson i hovedrollene. Den mørke og satiriske komedien ble fort en av mine favoritter, og nå er <em>Seven Psychopats</em> endelig sett, og den ligger godt an til å konkurrere med sin foregående.
 
@@ -118,7 +118,7 @@ content:
 
     <strong>Uten å avsløre mer som skjer i historien, vil jeg si at måten den blir fortalt på er veldig moro og unik.</strong> I noen situasjoner får vi høre idémyldringen for filmmanuset til Farrells karakter, og det er tydelig at McDonagh bryter den fjerde veggen, indirekte. Mye av det Farrell snakker om, skjer senere i filmen, eller samtidig, uten at karakterene i filmen forstår det fullstendig.
 
-    <img class="alignleft size-medium wp-image-7585" src="//filmbloggen.net/wp-content/uploads//2012/10/seven-psychopaths-cbs-films07-300x200.jpg" alt="" width="300" height="200" />
+    <img class="alignleft size-medium wp-image-7585" src="/wp-content/uploads//2012/10/seven-psychopaths-cbs-films07-300x200.jpg" alt="" width="300" height="200" />
 
     <strong>Som i <em>In Bruges</em> er det karakterene som virkelig gir filmen sin egen identitet, og selv uten Brendan Gleeson og Ralph </strong><strong>Fiennes ble det en herlig ensemble-film.</strong> Colin Farrell er en dyktig skuespiller når han slipper å stresse med en falsk dialekt, og det kommer tydelig frem her. Han er hysterisk morsom, uten å bli en parodi. Woody Harrelson er også perfekt i rollen som en psykopatisk hundeeier, og behersker rollen sin med full kontroll. Men det er kanskje Sam Rockwell som virkelig fortjener applausen for sin rolletolkning av den merkelige hundekidnapperen, som har mer til seg enn man først tror.
 
@@ -195,7 +195,7 @@ post_content:
     Manus: </strong>Martin McDonagh<strong>
     </strong><strong>Skuespillere:  </strong>Colin Farrell, Sam Rockwell, Woody Harrelson, Christopher Walken...
 
-    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="//filmbloggen.net/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
 
     For de som ikke kjenner til Martin McDonagh, kan en rask introduksjon være på sin plass. Han kom med sin første spillefilm i 2008, kalt <em>In Bruges</em>, med Colin Farrell og Brendan Gleeson i hovedrollene. Den mørke og satiriske komedien ble fort en av mine favoritter, og nå er <em>Seven Psychopats</em> endelig sett, og den ligger godt an til å konkurrere med sin foregående.
 
@@ -203,7 +203,7 @@ post_content:
 
     <strong>Uten å avsløre mer som skjer i historien, vil jeg si at måten den blir fortalt på er veldig moro og unik.</strong> I noen situasjoner får vi høre idémyldringen for filmmanuset til Farrells karakter, og det er tydelig at McDonagh bryter den fjerde veggen, indirekte. Mye av det Farrell snakker om, skjer senere i filmen, eller samtidig, uten at karakterene i filmen forstår det fullstendig.
 
-    <img class="alignleft size-medium wp-image-7585" src="//filmbloggen.net/wp-content/uploads//2012/10/seven-psychopaths-cbs-films07-300x200.jpg" alt="" width="300" height="200" />
+    <img class="alignleft size-medium wp-image-7585" src="/wp-content/uploads//2012/10/seven-psychopaths-cbs-films07-300x200.jpg" alt="" width="300" height="200" />
 
     <strong>Som i <em>In Bruges</em> er det karakterene som virkelig gir filmen sin egen identitet, og selv uten Brendan Gleeson og Ralph </strong><strong>Fiennes ble det en herlig ensemble-film.</strong> Colin Farrell er en dyktig skuespiller når han slipper å stresse med en falsk dialekt, og det kommer tydelig frem her. Han er hysterisk morsom, uten å bli en parodi. Woody Harrelson er også perfekt i rollen som en psykopatisk hundeeier, og behersker rollen sin med full kontroll. Men det er kanskje Sam Rockwell som virkelig fortjener applausen for sin rolletolkning av den merkelige hundekidnapperen, som har mer til seg enn man først tror.
 
@@ -230,7 +230,7 @@ meta:
     Manus: </strong>Martin McDonagh<strong>
     </strong><strong>Skuespillere:  </strong>Colin Farrell, Sam Rockwell, Woody Harrelson, Christoph Walken...
 
-    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="//filmbloggen.net/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
 
     For de som ikke kjenner til Martin McDonagh, kan en rask introduksjon være på sin plass. Han kom med sin første spillefilm i 2008, kalt <em>In Bruges</em>, med Colin Farrell og Brendan Gleeson i hovedrollene. Den mørke og satiriske komedien ble fort en av mine favoritter, og nå er <em>Seven Psychopats</em> endelig sett, og den ligger godt an til å konkurrere med sin foregående.
 
@@ -238,7 +238,7 @@ meta:
 
     <strong>Uten å avsløre mer som skjer i historien, vil jeg si at måten den blir fortalt på er veldig moro og unik.</strong> I noen situasjoner får vi høre idémyldringen for filmmanuset til Farrells karakter, og det er tydelig at McDonagh bryter den fjerde veggen, indirekte. Mye av det Farrell snakker om, skjer senere i filmen, eller samtidig, uten at karakterene i filmen forstår det fullstendig.
 
-    <img class="alignleft size-medium wp-image-7585" src="//filmbloggen.net/wp-content/uploads//2012/10/seven-psychopaths-cbs-films07-300x200.jpg" alt="" width="300" height="200" />
+    <img class="alignleft size-medium wp-image-7585" src="/wp-content/uploads//2012/10/seven-psychopaths-cbs-films07-300x200.jpg" alt="" width="300" height="200" />
 
     <strong>Som i <em>In Bruges</em> er det karakterene som virkelig gir filmen sin egen identitet, og selv uten Brendan Gleeson og Ralph </strong><strong>Fiennes ble det en herlig ensemble-film.</strong> Colin Farrell er en dyktig skuespiller når han slipper å stresse med en falsk dialekt, og det kommer tydelig frem her. Han er hysterisk morsom, uten å bli en parodi. Woody Harrelson er også perfekt i rollen som en psykopatisk hundeeier, og behersker rollen sin med full kontroll. Men det er kanskje Sam Rockwell som virkelig fortjener applausen for sin rolletolkning av den merkelige hundekidnapperen, som har mer til seg enn man først tror.
 
@@ -258,7 +258,7 @@ meta:
     Manus: </strong>Martin McDonagh<strong>
     </strong><strong>Skuespillere:  </strong>Colin Farrell, Sam Rockwell, Woody Harrelson, Christoph Walken...
 
-    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="//filmbloggen.net/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
 
     For de som ikke kjenner til Martin McDonagh, kan en rask introduksjon være på sin plass. Han kom med sin første spillefilm i 2008, kalt <em>In Bruges</em>, med Colin Farrell og Brendan Gleeson i hovedrollene. Den mørke og satiriske komedien ble fort en av mine favoritter, og nå er <em>Seven Psychopats</em> endelig sett, og den ligger godt an til å konkurrere med sin foregående.
 
@@ -266,7 +266,7 @@ meta:
 
     <strong>Uten å avsløre mer som skjer i historien, vil jeg si at måten den blir fortalt på er veldig moro og unik.</strong> I noen situasjoner får vi høre idémyldringen for filmmanuset til Farrells karakter, og det er tydelig at McDonagh bryter den fjerde veggen, indirekte. Mye av det Farrell snakker om, skjer senere i filmen, eller samtidig, uten at karakterene i filmen forstår det fullstendig.
 
-    <img class="alignleft size-medium wp-image-7585" src="//filmbloggen.net/wp-content/uploads//2012/10/seven-psychopaths-cbs-films07-300x200.jpg" alt="" width="300" height="200" />
+    <img class="alignleft size-medium wp-image-7585" src="/wp-content/uploads//2012/10/seven-psychopaths-cbs-films07-300x200.jpg" alt="" width="300" height="200" />
 
     <strong>Som i <em>In Bruges</em> er det karakterene som virkelig gir filmen sin egen identitet, og selv uten Brendan Gleeson og Ralph </strong><strong>Fiennes ble det en herlig ensemble-film.</strong> Colin Farrell er en dyktig skuespiller når han slipper å stresse med en falsk dialekt, og det kommer tydelig frem her. Han er hysterisk morsom, uten å bli en parodi. Woody Harrelson er også perfekt i rollen som en psykopatisk hundeeier, og behersker rollen sin med full kontroll. Men det er kanskje Sam Rockwell som virkelig fortjener applausen for sin rolletolkning av den merkelige hundekidnapperen, som har mer til seg enn man først tror.
 
@@ -317,7 +317,7 @@ Regi:** Martin McDonagh**
 Manus:** Martin McDonagh**
 ** **Skuespillere:  **Colin Farrell, Sam Rockwell, Woody Harrelson, Christopher Walken…
 
-<a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="//filmbloggen.net/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
 
 For de som ikke kjenner til Martin McDonagh, kan en rask introduksjon være på sin plass. Han kom med sin første spillefilm i 2008, kalt _In Bruges_, med Colin Farrell og Brendan Gleeson i hovedrollene. Den mørke og satiriske komedien ble fort en av mine favoritter, og nå er _Seven Psychopats_ endelig sett, og den ligger godt an til å konkurrere med sin foregående.
 
@@ -325,7 +325,7 @@ For de som ikke kjenner til Martin McDonagh, kan en rask introduksjon være på 
 
 **Uten å avsløre mer som skjer i historien, vil jeg si at måten den blir fortalt på er veldig moro og unik.** I noen situasjoner får vi høre idémyldringen for filmmanuset til Farrells karakter, og det er tydelig at McDonagh bryter den fjerde veggen, indirekte. Mye av det Farrell snakker om, skjer senere i filmen, eller samtidig, uten at karakterene i filmen forstår det fullstendig.
 
-<img class="alignleft size-medium wp-image-7585" src="//filmbloggen.net/wp-content/uploads//2012/10/seven-psychopaths-cbs-films07-300x200.jpg" alt="" width="300" height="200" />
+<img class="alignleft size-medium wp-image-7585" src="/wp-content/uploads//2012/10/seven-psychopaths-cbs-films07-300x200.jpg" alt="" width="300" height="200" />
 
 **Som i _In Bruges_ er det karakterene som virkelig gir filmen sin egen identitet, og selv uten Brendan Gleeson og Ralph ****Fiennes ble det en herlig ensemble-film.** Colin Farrell er en dyktig skuespiller når han slipper å stresse med en falsk dialekt, og det kommer tydelig frem her. Han er hysterisk morsom, uten å bli en parodi. Woody Harrelson er også perfekt i rollen som en psykopatisk hundeeier, og behersker rollen sin med full kontroll. Men det er kanskje Sam Rockwell som virkelig fortjener applausen for sin rolletolkning av den merkelige hundekidnapperen, som har mer til seg enn man først tror.
 

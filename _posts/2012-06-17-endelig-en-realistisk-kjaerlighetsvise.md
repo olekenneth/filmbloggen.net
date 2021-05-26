@@ -106,7 +106,7 @@ content:
     <strong>Spilletid:</strong> </strong>1 time og 32 minutter<strong>
     <strong>Regissør: </strong></strong>Andrew Haigh
     <strong>Med: </strong>Tom Cullen, Chris New, Jonathan Race,Laura Freeman, Jonathan Wright, Loretto Murray.<strong>
-    </strong><a href="//filmbloggen.net/2012/06/17/endelig-en-realistisk-kjaerlighetsvise/ctyqdbv10/" rel="attachment wp-att-4224"><img class="alignnone size-large wp-image-4224" src="//filmbloggen.net/wp-content/uploads//2012/06/ctyqdbv10-620x446.jpg" alt="" width="620" height="446" /></a>
+    </strong><a href="//filmbloggen.net/2012/06/17/endelig-en-realistisk-kjaerlighetsvise/ctyqdbv10/" rel="attachment wp-att-4224"><img class="alignnone size-large wp-image-4224" src="/wp-content/uploads//2012/06/ctyqdbv10-620x446.jpg" alt="" width="620" height="446" /></a>
     <em><strong>Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com/" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.</strong>
     <strong>Foto: Arthaus</strong></em></span>
 
@@ -181,7 +181,7 @@ post_content:
     <strong>Spilletid:</strong> </strong>1 time og 32 minutter<strong>
     <strong>Regissør: </strong></strong>Andrew Haigh
     <strong>Med: </strong>Tom Cullen, Chris New, Jonathan Race,Laura Freeman, Jonathan Wright, Loretto Murray.<strong>
-    </strong><a href="//filmbloggen.net/2012/06/17/endelig-en-realistisk-kjaerlighetsvise/ctyqdbv10/" rel="attachment wp-att-4224"><img class="alignnone size-large wp-image-4224" src="//filmbloggen.net/wp-content/uploads//2012/06/ctyqdbv10-620x446.jpg" alt="" width="620" height="446" /></a>
+    </strong><a href="//filmbloggen.net/2012/06/17/endelig-en-realistisk-kjaerlighetsvise/ctyqdbv10/" rel="attachment wp-att-4224"><img class="alignnone size-large wp-image-4224" src="/wp-content/uploads//2012/06/ctyqdbv10-620x446.jpg" alt="" width="620" height="446" /></a>
     <em><strong>Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com/" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.</strong>
     <strong>Foto: Arthaus</strong></em></span>
 
@@ -206,7 +206,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 32 minutter<strong>
     <strong>Regissør: </strong></strong>Andrew Haigh
     <strong>Med: </strong>Tom Cullen, Chris New, Jonathan Race,Laura Freeman, Jonathan Wright, Loretto Murray.<strong>
-    </strong><a href="//filmbloggen.net/?attachment_id=4224" rel="attachment wp-att-4224"><img class="alignnone size-large wp-image-4224" title="ctyqdbv10" src="//filmbloggen.net/wp-content/uploads//2012/06/ctyqdbv10-620x446.jpg" alt="" width="620" height="446" /></a>
+    </strong><a href="//filmbloggen.net/?attachment_id=4224" rel="attachment wp-att-4224"><img class="alignnone size-large wp-image-4224" title="ctyqdbv10" src="/wp-content/uploads//2012/06/ctyqdbv10-620x446.jpg" alt="" width="620" height="446" /></a>
     <em><strong>Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com/" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.</strong>
     <strong>Foto: Arthaus</strong></em>
 
@@ -224,7 +224,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 32 minutter<strong>
     <strong>Regissør: </strong></strong>Andrew Haigh
     <strong>Med: </strong>Tom Cullen, Chris New, Jonathan Race,Laura Freeman, Jonathan Wright, Loretto Murray.<strong>
-    </strong><a href="//filmbloggen.net/?attachment_id=4224" rel="attachment wp-att-4224"><img class="alignnone size-large wp-image-4224" title="ctyqdbv10" src="//filmbloggen.net/wp-content/uploads//2012/06/ctyqdbv10-620x446.jpg" alt="" width="620" height="446" /></a>
+    </strong><a href="//filmbloggen.net/?attachment_id=4224" rel="attachment wp-att-4224"><img class="alignnone size-large wp-image-4224" title="ctyqdbv10" src="/wp-content/uploads//2012/06/ctyqdbv10-620x446.jpg" alt="" width="620" height="446" /></a>
     <em><strong>Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com/" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.</strong>
     <strong>Foto: Arthaus</strong></em>
 
@@ -263,7 +263,7 @@ tags:
 ---
 #### “Weekend” er uten tvil årets homsefilm. Men ikke se bort ifra at den også er årets kjærlighetsfilm.<!--more-->
 
-<span class="Apple-style-span" style="font-weight: normal"><strong>Originaltittel: </strong>Weekend<br /> <strong><strong>Kategori:</strong></strong> Drama / Kjærlighet<strong><br /> <strong>Spilletid:</strong> </strong>1 time og 32 minutter<strong><br /> <strong>Regissør: </strong></strong>Andrew Haigh<br /> <strong>Med: </strong>Tom Cullen, Chris New, Jonathan Race,Laura Freeman, Jonathan Wright, Loretto Murray.<strong><br /> </strong><a href="//filmbloggen.net/2012/06/17/endelig-en-realistisk-kjaerlighetsvise/ctyqdbv10/" rel="attachment wp-att-4224"><img class="alignnone size-large wp-image-4224" src="//filmbloggen.net/wp-content/uploads//2012/06/ctyqdbv10-620x446.jpg" alt="" width="620" height="446" /></a><br /> <em><strong>Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com/" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.</strong><br /> <strong>Foto: Arthaus</strong></em></span>
+<span class="Apple-style-span" style="font-weight: normal"><strong>Originaltittel: </strong>Weekend<br /> <strong><strong>Kategori:</strong></strong> Drama / Kjærlighet<strong><br /> <strong>Spilletid:</strong> </strong>1 time og 32 minutter<strong><br /> <strong>Regissør: </strong></strong>Andrew Haigh<br /> <strong>Med: </strong>Tom Cullen, Chris New, Jonathan Race,Laura Freeman, Jonathan Wright, Loretto Murray.<strong><br /> </strong><a href="//filmbloggen.net/2012/06/17/endelig-en-realistisk-kjaerlighetsvise/ctyqdbv10/" rel="attachment wp-att-4224"><img class="alignnone size-large wp-image-4224" src="/wp-content/uploads//2012/06/ctyqdbv10-620x446.jpg" alt="" width="620" height="446" /></a><br /> <em><strong>Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com/" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.</strong><br /> <strong>Foto: Arthaus</strong></em></span>
 
 Russell og Glen er nemlig, uavhengig av at deres kjønnorganer ikke passer inni hverandre, så forelsket som det er mulig å bli. I hvert fall på så kort tid. De treffes fredag på en ustreit bar i Nottingham og Glen blir til slutt med Russell hjem for en standard du-vet-hva. Og det skal ikke mer til enn litt god, gammaldags, klein morgenstemning for at gutta boys skjønner at dette ikke bare var du-vet-hva.
 

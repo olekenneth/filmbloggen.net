@@ -107,7 +107,7 @@ content:
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>
     <strong>Regissør: </strong></strong>James McTeigue
     <strong>Med: </strong>Natalie Portman, Hugo Weaving, Stephen Rea, Rupert Graves og Stephen Fry
-    <a href="//filmbloggen.net/?attachment_id=426"><img class="alignnone size-full wp-image-426" src="//filmbloggen.net/wp-content/uploads//2011/06/v-for-vendetta-1.jpg" alt="" width="450" height="300" /></a><strong><strong></strong></strong><strong>
+    <a href="//filmbloggen.net/?attachment_id=426"><img class="alignnone size-full wp-image-426" src="/wp-content/uploads//2011/06/v-for-vendetta-1.jpg" alt="" width="450" height="300" /></a><strong><strong></strong></strong><strong>
     </strong>Det handler om fremtidens England. En konservativ maktpolitiker har effektivt bygd opp så mye frykt og usikkerhet i samfunnet, at han i realiteten er blitt en fascistisk allhersker. Med utgangspunkt i historien om Guy Fawkes, som i sin tid førsøkte å sprenge det britiske parlamentet, spinnes et dystopisk fremtidseventyr om overmakt, kontroll, løgner, frihet og terrorisme.
 
     V for Vendetta er så vanvittig mye mer enn en actionfilm. Det inntrykket man får av traileren er at dette er en hardcore actionfilm med slåsscener hele veien igjennom. Den leverer på det punktet også, men den er så vanvittig mye mer. Det er først og fremst moralen som kommer frem som er det første jeg tenker på når jeg tenker på V for Vendetta. Sitatet til V (spilt FANTASTISK av Hugo Weaving): "People should not be scared of their goverment. A goverment should be afraid of it's people." Har sittet fast i hodet mitt siden jeg så filmen for første gang på kino tilbake i 2006. På samme måte som mange mobbeofre ikke skal være redd for de som mobber.
@@ -128,7 +128,7 @@ meta:
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>
     <strong>Regissør: </strong></strong>James McTeigue
     <strong>Med: </strong>Natalie Portman, Hugo Weaving, Stephen Rea, Rupert Graves og Stephen Fry
-    <a href="//filmbloggen.net/?attachment_id=426"><img class="alignnone size-full wp-image-426" src="//filmbloggen.net/wp-content/uploads//2011/06/v-for-vendetta-1.jpg" alt="" width="450" height="300" /></a><strong><strong></strong></strong><strong>
+    <a href="//filmbloggen.net/?attachment_id=426"><img class="alignnone size-full wp-image-426" src="/wp-content/uploads//2011/06/v-for-vendetta-1.jpg" alt="" width="450" height="300" /></a><strong><strong></strong></strong><strong>
     </strong>Det handler om fremtidens England. En konservativ maktpolitiker har effektivt bygd opp så mye frykt og usikkerhet i samfunnet, at han i realiteten er blitt en fascistisk allhersker. Med utgangspunkt i historien om Guy Fawkes, som i sin tid førsøkte å sprenge det britiske parlamentet, spinnes et dystopisk fremtidseventyr om overmakt, kontroll, løgner, frihet og terrorisme.
 
     V for Vendetta er så vanvittig mye mer enn en actionfilm. Det inntrykket man får av traileren er at dette er en hardcore actionfilm med slåsscener hele veien igjennom. Den leverer på det punktet også, men den er så vanvittig mye mer. Det er først og fremst moralen som kommer frem som er det første jeg tenker på når jeg tenker på V for Vendetta. Sitatet til V (spilt FANTASTISK av Hugo Weaving): "People should not be scared of their goverment. A goverment should be afraid of it's people." Har sittet fast i hodet mitt siden jeg så filmen for første gang på kino tilbake i 2006. På samme måte som mange mobbeofre ikke skal være redd for de som mobber.
@@ -144,7 +144,7 @@ meta:
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>
     <strong>Regissør: </strong></strong>James McTeigue
     <strong>Med: </strong>Natalie Portman, Hugo Weaving, Stephen Rea, Rupert Graves og Stephen Fry
-    <a href="//filmbloggen.net/?attachment_id=426"><img class="alignnone size-full wp-image-426" src="//filmbloggen.net/wp-content/uploads//2011/06/v-for-vendetta-1.jpg" alt="" width="450" height="300" /></a><strong><strong></strong></strong><strong>
+    <a href="//filmbloggen.net/?attachment_id=426"><img class="alignnone size-full wp-image-426" src="/wp-content/uploads//2011/06/v-for-vendetta-1.jpg" alt="" width="450" height="300" /></a><strong><strong></strong></strong><strong>
     </strong>Det handler om fremtidens England. En konservativ maktpolitiker har effektivt bygd opp så mye frykt og usikkerhet i samfunnet, at han i realiteten er blitt en fascistisk allhersker. Med utgangspunkt i historien om Guy Fawkes, som i sin tid førsøkte å sprenge det britiske parlamentet, spinnes et dystopisk fremtidseventyr om overmakt, kontroll, løgner, frihet og terrorisme.
 
     V for Vendetta er så vanvittig mye mer enn en actionfilm. Det inntrykket man får av traileren er at dette er en hardcore actionfilm med slåsscener hele veien igjennom. Den leverer på det punktet også, men den er så vanvittig mye mer. Det er først og fremst moralen som kommer frem som er det første jeg tenker på når jeg tenker på V for Vendetta. Sitatet til V (spilt FANTASTISK av Hugo Weaving): "People should not be scared of their goverment. A goverment should be afraid of it's people." Har sittet fast i hodet mitt siden jeg så filmen for første gang på kino tilbake i 2006. På samme måte som mange mobbeofre ikke skal være redd for de som mobber.
@@ -207,7 +207,7 @@ post_content:
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>
     <strong>Regissør: </strong></strong>James McTeigue
     <strong>Med: </strong>Natalie Portman, Hugo Weaving, Stephen Rea, Rupert Graves og Stephen Fry
-    <a href="//filmbloggen.net/?attachment_id=426"><img class="alignnone size-full wp-image-426" src="//filmbloggen.net/wp-content/uploads//2011/06/v-for-vendetta-1.jpg" alt="" width="450" height="300" /></a><strong><strong></strong></strong><strong>
+    <a href="//filmbloggen.net/?attachment_id=426"><img class="alignnone size-full wp-image-426" src="/wp-content/uploads//2011/06/v-for-vendetta-1.jpg" alt="" width="450" height="300" /></a><strong><strong></strong></strong><strong>
     </strong>Det handler om fremtidens England. En konservativ maktpolitiker har effektivt bygd opp så mye frykt og usikkerhet i samfunnet, at han i realiteten er blitt en fascistisk allhersker. Med utgangspunkt i historien om Guy Fawkes, som i sin tid førsøkte å sprenge det britiske parlamentet, spinnes et dystopisk fremtidseventyr om overmakt, kontroll, løgner, frihet og terrorisme.
 
     V for Vendetta er så vanvittig mye mer enn en actionfilm. Det inntrykket man får av traileren er at dette er en hardcore actionfilm med slåsscener hele veien igjennom. Den leverer på det punktet også, men den er så vanvittig mye mer. Det er først og fremst moralen som kommer frem som er det første jeg tenker på når jeg tenker på V for Vendetta. Sitatet til V (spilt FANTASTISK av Hugo Weaving): "People should not be scared of their goverment. A goverment should be afraid of it's people." Har sittet fast i hodet mitt siden jeg så filmen for første gang på kino tilbake i 2006. På samme måte som mange mobbeofre ikke skal være redd for de som mobber.
@@ -259,7 +259,7 @@ Kategori:**** Action**
 **Spilletid:**** 2 timer og 12 minutter**
 **Regissør:**** James McTeigue
 **Med:** Natalie Portman, Hugo Weaving, Stephen Rea, Rupert Graves og Stephen Fry
-[<img class="alignnone size-full wp-image-426" src="//filmbloggen.net/wp-content/uploads//2011/06/v-for-vendetta-1.jpg" alt="" width="450" height="300" />](//filmbloggen.net/?attachment_id=426)**********
+[<img class="alignnone size-full wp-image-426" src="/wp-content/uploads//2011/06/v-for-vendetta-1.jpg" alt="" width="450" height="300" />](//filmbloggen.net/?attachment_id=426)**********
 ** Det handler om fremtidens England. En konservativ maktpolitiker har effektivt bygd opp så mye frykt og usikkerhet i samfunnet, at han i realiteten er blitt en fascistisk allhersker. Med utgangspunkt i historien om Guy Fawkes, som i sin tid førsøkte å sprenge det britiske parlamentet, spinnes et dystopisk fremtidseventyr om overmakt, kontroll, løgner, frihet og terrorisme.
 
 V for Vendetta er så vanvittig mye mer enn en actionfilm. Det inntrykket man får av traileren er at dette er en hardcore actionfilm med slåsscener hele veien igjennom. Den leverer på det punktet også, men den er så vanvittig mye mer. Det er først og fremst moralen som kommer frem som er det første jeg tenker på når jeg tenker på V for Vendetta. Sitatet til V (spilt FANTASTISK av Hugo Weaving): «People should not be scared of their goverment. A goverment should be afraid of it’s people.» Har sittet fast i hodet mitt siden jeg så filmen for første gang på kino tilbake i 2006. På samme måte som mange mobbeofre ikke skal være redd for de som mobber.

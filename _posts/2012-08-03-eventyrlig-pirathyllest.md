@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere (Original tale):</strong> Hugh Grant, Martin Freeman, Imelda Staunton, David Tennant, Jeremy Piven, Salma Hayek, Lenny Henry, Brian Blessed, Anton Yelchin, Brendan Gleeson, Ashley Jensen.
     <strong>Spillertid:</strong> 1 time og 28 minutter
 
-    <a href="//filmbloggen.net/2012/08/03/eventyrlig-pirathyllest/pirates-band-misfits-picture01/" rel="attachment wp-att-5645"><img class="alignnone size-large wp-image-5645" src="//filmbloggen.net/wp-content/uploads//2012/08/pirates-band-misfits-picture01-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/08/03/eventyrlig-pirathyllest/pirates-band-misfits-picture01/" rel="attachment wp-att-5645"><img class="alignnone size-large wp-image-5645" src="/wp-content/uploads//2012/08/pirates-band-misfits-picture01-620x412.jpg" alt="" width="620" height="412" /></a>
 
     <strong><em>The Pirates! Band of misfits</em> har en møysommelig godt konstruert historie om Pirate Captain (Hugh Grants stemme) og hans drøm om å bli den største og beste piraten på de syv hav. Målsettingen hans er å vinne den noe merksnodige konkurransen Pirate of the year. Sammen med sitt underlige crew av piratvenner kaprer de skip i håp om å finne dyrebare skatter, uten hell. Det er først da de treffer Charles Darwin (David Tennants stemme) at ting begynner å snu til deres fordel.</strong>
 
@@ -61,7 +61,7 @@ post_content:
     <strong>Skuespillere (Original tale):</strong> Hugh Grant, Martin Freeman, Imelda Staunton, David Tennant, Jeremy Piven, Salma Hayek, Lenny Henry, Brian Blessed, Anton Yelchin, Brendan Gleeson, Ashley Jensen.
     <strong>Spillertid:</strong> 1 time og 28 minutter
 
-    <a href="//filmbloggen.net/2012/08/03/eventyrlig-pirathyllest/pirates-band-misfits-picture01/" rel="attachment wp-att-5645"><img class="alignnone size-large wp-image-5645" src="//filmbloggen.net/wp-content/uploads//2012/08/pirates-band-misfits-picture01-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/08/03/eventyrlig-pirathyllest/pirates-band-misfits-picture01/" rel="attachment wp-att-5645"><img class="alignnone size-large wp-image-5645" src="/wp-content/uploads//2012/08/pirates-band-misfits-picture01-620x412.jpg" alt="" width="620" height="412" /></a>
 
     <strong><em>The Pirates! Band of misfits</em> har en møysommelig godt konstruert historie om Pirate Captain (Hugh Grants stemme) og hans drøm om å bli den største og beste piraten på de syv hav. Målsettingen hans er å vinne den noe merksnodige konkurransen Pirate of the year. Sammen med sitt underlige crew av piratvenner kaprer de skip i håp om å finne dyrebare skatter, uten hell. Det er først da de treffer Charles Darwin (David Tennants stemme) at ting begynner å snu til deres fordel.</strong>
 
@@ -166,7 +166,7 @@ meta:
     <strong>Skuespillere (Original tale):</strong> Hugh Grant, Martin Freeman, Imelda Staunton, David Tennant, Jeremy Piven, Salma Hayek, Lenny Henry, Brian Blessed, Anton Yelchin, Brendan Gleeson, Ashley Jensen.
     <strong>Spillertid:</strong> 1 time og 28 minutter
 
-    <a href="//filmbloggen.net/2012/08/03/eventyrlig-pirathyllest/pirates-band-misfits-picture01/" rel="attachment wp-att-5645"><img class="alignnone size-large wp-image-5645" src="//filmbloggen.net/wp-content/uploads//2012/08/pirates-band-misfits-picture01-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/08/03/eventyrlig-pirathyllest/pirates-band-misfits-picture01/" rel="attachment wp-att-5645"><img class="alignnone size-large wp-image-5645" src="/wp-content/uploads//2012/08/pirates-band-misfits-picture01-620x412.jpg" alt="" width="620" height="412" /></a>
 
     <strong><em>The Pirates! Band of misfits</em> har en møysommelig godt konstruert historie om Pirate Captain (Hugh Grants stemme) og hans drøm om å bli den største og beste piraten på de syv hav. Målsettingen hans er å vinne den noe merksnodige  konkurransen Pirate of the year. Sammen med sitt underlige crew av piratvenner kaprer de skip i håp om å finne dyrebare skatter, uten hell. Det er først da de treffer Charles Darwin (David Tennants stemme) at ting begynner å snu til deres fordel.</strong>
 
@@ -186,7 +186,7 @@ meta:
     <strong>Skuespillere (Original tale):</strong> Hugh Grant, Martin Freeman, Imelda Staunton, David Tennant, Jeremy Piven, Salma Hayek, Lenny Henry, Brian Blessed, Anton Yelchin, Brendan Gleeson, Ashley Jensen.
     <strong>Spillertid:</strong> 1 time og 28 minutter
 
-    <a href="//filmbloggen.net/2012/08/03/eventyrlig-pirathyllest/pirates-band-misfits-picture01/" rel="attachment wp-att-5645"><img class="alignnone size-large wp-image-5645" src="//filmbloggen.net/wp-content/uploads//2012/08/pirates-band-misfits-picture01-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/08/03/eventyrlig-pirathyllest/pirates-band-misfits-picture01/" rel="attachment wp-att-5645"><img class="alignnone size-large wp-image-5645" src="/wp-content/uploads//2012/08/pirates-band-misfits-picture01-620x412.jpg" alt="" width="620" height="412" /></a>
 
     <strong><em>The Pirates! Band of misfits</em> har en møysommelig godt konstruert historie om Pirate Captain (Hugh Grants stemme) og hans drøm om å bli den største og beste piraten på de syv hav. Målsettingen hans er å vinne den noe merksnodige  konkurransen Pirate of the year. Sammen med sitt underlige crew av piratvenner kaprer de skip i håp om å finne dyrebare skatter, uten hell. Det er først da de treffer Charles Darwin (David Tennants stemme) at ting begynner å snu til deres fordel.</strong>
 
@@ -286,7 +286,7 @@ tags:
 **Skuespillere (Original tale):** Hugh Grant, Martin Freeman, Imelda Staunton, David Tennant, Jeremy Piven, Salma Hayek, Lenny Henry, Brian Blessed, Anton Yelchin, Brendan Gleeson, Ashley Jensen.
 **Spillertid:** 1 time og 28 minutter
 
-<a href="//filmbloggen.net/2012/08/03/eventyrlig-pirathyllest/pirates-band-misfits-picture01/" rel="attachment wp-att-5645"><img class="alignnone size-large wp-image-5645" src="//filmbloggen.net/wp-content/uploads//2012/08/pirates-band-misfits-picture01-620x412.jpg" alt="" width="620" height="412" /></a>
+<a href="//filmbloggen.net/2012/08/03/eventyrlig-pirathyllest/pirates-band-misfits-picture01/" rel="attachment wp-att-5645"><img class="alignnone size-large wp-image-5645" src="/wp-content/uploads//2012/08/pirates-band-misfits-picture01-620x412.jpg" alt="" width="620" height="412" /></a>
 
 **_The Pirates! Band of misfits_ har en møysommelig godt konstruert historie om Pirate Captain (Hugh Grants stemme) og hans drøm om å bli den største og beste piraten på de syv hav. Målsettingen hans er å vinne den noe merksnodige konkurransen Pirate of the year. Sammen med sitt underlige crew av piratvenner kaprer de skip i håp om å finne dyrebare skatter, uten hell. Det er først da de treffer Charles Darwin (David Tennants stemme) at ting begynner å snu til deres fordel.**
 

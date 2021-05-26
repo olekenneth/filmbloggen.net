@@ -122,7 +122,7 @@ content:
 
     <em>Disse datoene er basert på når seriene har premiere i USA.</em>
 
-    <a href="//filmbloggen.net/2011/09/20/den-store-tv-serie-maneden/eileentv/" rel="attachment wp-att-929"><img class="alignnone size-large wp-image-929" src="//filmbloggen.net/wp-content/uploads//2011/09/eileentv-620x353.jpg" alt="" width="620" height="353" /></a>
+    <a href="//filmbloggen.net/2011/09/20/den-store-tv-serie-maneden/eileentv/" rel="attachment wp-att-929"><img class="alignnone size-large wp-image-929" src="/wp-content/uploads//2011/09/eileentv-620x353.jpg" alt="" width="620" height="353" /></a>
 
     I tillegg kommer det nye episoder av komiseriene <a href="//www.imdb.com/title/tt0898266/">The Big Bang Theory</a>, <a href="//www.imdb.com/title/tt0369179/">Two and a Half Men</a>, <a href="//www.imdb.com/title/tt0182576/">Family Guy</a>, <a href="//www.imdb.com/title/tt0096697/">The Simpsons</a> og <a href="//www.imdb.com/title/tt1442437/">Modern Family</a>. Disse kommer nok rullende inn på norske TV skjermer utover høsten og neste år.
 
@@ -209,7 +209,7 @@ post_content:
 
     <em>Disse datoene er basert på når seriene har premiere i USA.</em>
 
-    <a href="//filmbloggen.net/2011/09/20/den-store-tv-serie-maneden/eileentv/" rel="attachment wp-att-929"><img class="alignnone size-large wp-image-929" src="//filmbloggen.net/wp-content/uploads//2011/09/eileentv-620x353.jpg" alt="" width="620" height="353" /></a>
+    <a href="//filmbloggen.net/2011/09/20/den-store-tv-serie-maneden/eileentv/" rel="attachment wp-att-929"><img class="alignnone size-large wp-image-929" src="/wp-content/uploads//2011/09/eileentv-620x353.jpg" alt="" width="620" height="353" /></a>
 
     I tillegg kommer det nye episoder av komiseriene <a href="//www.imdb.com/title/tt0898266/">The Big Bang Theory</a>, <a href="//www.imdb.com/title/tt0369179/">Two and a Half Men</a>, <a href="//www.imdb.com/title/tt0182576/">Family Guy</a>, <a href="//www.imdb.com/title/tt0096697/">The Simpsons</a> og <a href="//www.imdb.com/title/tt1442437/">Modern Family</a>. Disse kommer nok rullende inn på norske TV skjermer utover høsten og neste år.
 
@@ -248,7 +248,7 @@ meta:
 
     <em>Disse datoene er basert på når seriene har premiere i USA.</em>
 
-    <a href="//filmbloggen.net/2011/09/20/den-store-tv-serie-maneden/eileentv/" rel="attachment wp-att-929"><img class="alignnone size-large wp-image-929" title="tvserier" src="//filmbloggen.net/wp-content/uploads//2011/09/eileentv-620x353.jpg" alt="" width="620" height="353" /></a>
+    <a href="//filmbloggen.net/2011/09/20/den-store-tv-serie-maneden/eileentv/" rel="attachment wp-att-929"><img class="alignnone size-large wp-image-929" title="tvserier" src="/wp-content/uploads//2011/09/eileentv-620x353.jpg" alt="" width="620" height="353" /></a>
 
     I tillegg kommer det nye episoder av komiseriene <a href="//www.imdb.com/title/tt0898266/">The Big Bang Theory</a>, <a href="//www.imdb.com/title/tt0369179/">Two and a Half Men</a>, <a href="//www.imdb.com/title/tt0182576/">Family Guy</a>, <a href="//www.imdb.com/title/tt0096697/">The Simpsons</a> og <a href="//www.imdb.com/title/tt1442437/">Modern Family</a>. Disse kommer nok rullende inn på norske TV skjermer utover høsten og neste år.
 
@@ -298,7 +298,7 @@ categories:
 
 _Disse datoene er basert på når seriene har premiere i USA._
 
-<a href="//filmbloggen.net/2011/09/20/den-store-tv-serie-maneden/eileentv/" rel="attachment wp-att-929"><img class="alignnone size-large wp-image-929" src="//filmbloggen.net/wp-content/uploads//2011/09/eileentv-620x353.jpg" alt="" width="620" height="353" /></a>
+<a href="//filmbloggen.net/2011/09/20/den-store-tv-serie-maneden/eileentv/" rel="attachment wp-att-929"><img class="alignnone size-large wp-image-929" src="/wp-content/uploads//2011/09/eileentv-620x353.jpg" alt="" width="620" height="353" /></a>
 
 I tillegg kommer det nye episoder av komiseriene [The Big Bang Theory](//www.imdb.com/title/tt0898266/), [Two and a Half Men](//www.imdb.com/title/tt0369179/), [Family Guy](//www.imdb.com/title/tt0182576/), [The Simpsons](//www.imdb.com/title/tt0096697/) og [Modern Family](//www.imdb.com/title/tt1442437/). Disse kommer nok rullende inn på norske TV skjermer utover høsten og neste år.
 

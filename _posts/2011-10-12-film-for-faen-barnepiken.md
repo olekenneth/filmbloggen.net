@@ -105,7 +105,7 @@ content:
     <strong>Manus:</strong> Tate Taylor
     <strong>Med: </strong>Emma Stone, Bryce Dallas Howard, Mike Vogel, Sissy Spacek, Allison Janney, Jessica Chastain, Chris Lowell, Viola Davis, Anna Camp, Cicely Tyson, Leslie Jordan og Aunjanue Ellis
 
-    <a href="//filmbloggen.net/2011/10/12/film-for-faen-barnepiken/barnepiken_219523o/" rel="attachment wp-att-1403"><img class="size-full wp-image-1403 alignnone" src="//filmbloggen.net/wp-content/uploads//2011/10/Barnepiken_219523o.jpg" alt="" width="600" height="400" />
+    <a href="//filmbloggen.net/2011/10/12/film-for-faen-barnepiken/barnepiken_219523o/" rel="attachment wp-att-1403"><img class="size-full wp-image-1403 alignnone" src="/wp-content/uploads//2011/10/Barnepiken_219523o.jpg" alt="" width="600" height="400" />
     </a>Barnepiken tar opp et viktig tema om raseskillet i sørstatene på 60-tallet. Historien følger Skeeter som er en ung lovende skribent. Hun drømmer om å bli forfatter og journalist, og får sin første jobb hos Jackson Journal, for å svare på spørsmål om husstell og rengjøring. Hun vet ikke mye om dette, så hun søker råd hos sin venninnes hushjelp Aibileen.
 
     Skeeter er den rake motsetningen fra resten av overklassen, og er interessert i å fortelle hushjelpenes historie; hvordan det er å oppdra hvite barn, samtidig som deres egne barn blir oppdratt av noen andre. Hun skriver historien til Aibileen og Minny, og går etterhvert løs på historiene til et titalls svarte hushjelper, som etter mye overtalelse blir med på revolusjonen.
@@ -178,7 +178,7 @@ post_content:
     <strong>Manus:</strong> Tate Taylor
     <strong>Med: </strong>Emma Stone, Bryce Dallas Howard, Mike Vogel, Sissy Spacek, Allison Janney, Jessica Chastain, Chris Lowell, Viola Davis, Anna Camp, Cicely Tyson, Leslie Jordan og Aunjanue Ellis
 
-    <a href="//filmbloggen.net/2011/10/12/film-for-faen-barnepiken/barnepiken_219523o/" rel="attachment wp-att-1403"><img class="size-full wp-image-1403 alignnone" src="//filmbloggen.net/wp-content/uploads//2011/10/Barnepiken_219523o.jpg" alt="" width="600" height="400" />
+    <a href="//filmbloggen.net/2011/10/12/film-for-faen-barnepiken/barnepiken_219523o/" rel="attachment wp-att-1403"><img class="size-full wp-image-1403 alignnone" src="/wp-content/uploads//2011/10/Barnepiken_219523o.jpg" alt="" width="600" height="400" />
     </a>Barnepiken tar opp et viktig tema om raseskillet i sørstatene på 60-tallet. Historien følger Skeeter som er en ung lovende skribent. Hun drømmer om å bli forfatter og journalist, og får sin første jobb hos Jackson Journal, for å svare på spørsmål om husstell og rengjøring. Hun vet ikke mye om dette, så hun søker råd hos sin venninnes hushjelp Aibileen.
 
     Skeeter er den rake motsetningen fra resten av overklassen, og er interessert i å fortelle hushjelpenes historie; hvordan det er å oppdra hvite barn, samtidig som deres egne barn blir oppdratt av noen andre. Hun skriver historien til Aibileen og Minny, og går etterhvert løs på historiene til et titalls svarte hushjelper, som etter mye overtalelse blir med på revolusjonen.
@@ -223,7 +223,7 @@ meta:
     <strong>Manus:</strong> Tate Taylor
     <strong>Med: </strong>Emma Stone, Bryce Dallas Howard, Mike Vogel, Sissy Spacek, Allison Janney, Jessica Chastain, Chris Lowell, Viola Davis, Anna Camp, Cicely Tyson, Leslie Jordan og Aunjanue Ellis
 
-    <a href="//filmbloggen.net/2011/10/12/film-for-faen-barnepiken/barnepiken_219523o/" rel="attachment wp-att-1403"><img class="size-full wp-image-1403 alignnone" src="//filmbloggen.net/wp-content/uploads//2011/10/Barnepiken_219523o.jpg" alt="" width="600" height="400" />
+    <a href="//filmbloggen.net/2011/10/12/film-for-faen-barnepiken/barnepiken_219523o/" rel="attachment wp-att-1403"><img class="size-full wp-image-1403 alignnone" src="/wp-content/uploads//2011/10/Barnepiken_219523o.jpg" alt="" width="600" height="400" />
     </a>Barnepiken tar opp et viktig tema om raseskillet i sørstatene på 60-tallet. Historien følger Skeeter som er en ung lovende skribent. Hun drømmer om å bli forfatter og journalist, og får sin første jobb hos Jackson Journal, for å svare på spørsmål om husstell og rengjøring. Hun vet ikke mye om dette, så hun søker råd hos sin venninnes hushjelp Aibileen.
 
     Filmen er basert på den bestselgende novellen skrevet av Kathryn Stockett. Jeg har personlig ikke lest den, men etter hva jeg har hørt så følger den fint etter boken på alle måter. En av de store plussene med filmen er at den klarer å styre unna de store klisjéene som fort kunne blitt gjort. Isteden føles den ekte og den viser en god kjemi blant skuespillerne.
@@ -243,7 +243,7 @@ meta:
     <strong>Manus:</strong> Tate Taylor
     <strong>Med: </strong>Emma Stone, Bryce Dallas Howard, Mike Vogel, Sissy Spacek, Allison Janney, Jessica Chastain, Chris Lowell, Viola Davis, Anna Camp, Cicely Tyson, Leslie Jordan og Aunjanue Ellis
 
-    <a href="//filmbloggen.net/2011/10/12/film-for-faen-barnepiken/barnepiken_219523o/" rel="attachment wp-att-1403"><img class="size-full wp-image-1403 alignnone" src="//filmbloggen.net/wp-content/uploads//2011/10/Barnepiken_219523o.jpg" alt="" width="600" height="400" />
+    <a href="//filmbloggen.net/2011/10/12/film-for-faen-barnepiken/barnepiken_219523o/" rel="attachment wp-att-1403"><img class="size-full wp-image-1403 alignnone" src="/wp-content/uploads//2011/10/Barnepiken_219523o.jpg" alt="" width="600" height="400" />
     </a>Barnepiken tar opp et viktig tema om raseskillet i sørstatene på 60-tallet. Historien følger Skeeter som er en ung lovende skribent. Hun drømmer om å bli forfatter og journalist, og får sin første jobb hos Jackson Journal, for å svare på spørsmål om husstell og rengjøring. Hun vet ikke mye om dette, så hun søker råd hos sin venninnes hushjelp Aibileen.
 
     Filmen er basert på den bestselgende novellen skrevet av Kathryn Stockett. Jeg har personlig ikke lest den, men etter hva jeg har hørt så følger den fint etter boken på alle måter. En av de store plussene med filmen er at den klarer å styre unna de store klisjéene som fort kunne blitt gjort. Isteden føles den ekte og den viser en god kjemi blant skuespillerne.
@@ -282,7 +282,7 @@ tags:
 **Manus:** Tate Taylor
 **Med:** Emma Stone, Bryce Dallas Howard, Mike Vogel, Sissy Spacek, Allison Janney, Jessica Chastain, Chris Lowell, Viola Davis, Anna Camp, Cicely Tyson, Leslie Jordan og Aunjanue Ellis
 
-<a href="//filmbloggen.net/2011/10/12/film-for-faen-barnepiken/barnepiken_219523o/" rel="attachment wp-att-1403"><img class="size-full wp-image-1403 alignnone" src="//filmbloggen.net/wp-content/uploads//2011/10/Barnepiken_219523o.jpg" alt="" width="600" height="400" /><br /> </a>Barnepiken tar opp et viktig tema om raseskillet i sørstatene på 60-tallet. Historien følger Skeeter som er en ung lovende skribent. Hun drømmer om å bli forfatter og journalist, og får sin første jobb hos Jackson Journal, for å svare på spørsmål om husstell og rengjøring. Hun vet ikke mye om dette, så hun søker råd hos sin venninnes hushjelp Aibileen.
+<a href="//filmbloggen.net/2011/10/12/film-for-faen-barnepiken/barnepiken_219523o/" rel="attachment wp-att-1403"><img class="size-full wp-image-1403 alignnone" src="/wp-content/uploads//2011/10/Barnepiken_219523o.jpg" alt="" width="600" height="400" /><br /> </a>Barnepiken tar opp et viktig tema om raseskillet i sørstatene på 60-tallet. Historien følger Skeeter som er en ung lovende skribent. Hun drømmer om å bli forfatter og journalist, og får sin første jobb hos Jackson Journal, for å svare på spørsmål om husstell og rengjøring. Hun vet ikke mye om dette, så hun søker råd hos sin venninnes hushjelp Aibileen.
 
 Skeeter er den rake motsetningen fra resten av overklassen, og er interessert i å fortelle hushjelpenes historie; hvordan det er å oppdra hvite barn, samtidig som deres egne barn blir oppdratt av noen andre. Hun skriver historien til Aibileen og Minny, og går etterhvert løs på historiene til et titalls svarte hushjelper, som etter mye overtalelse blir med på revolusjonen.
 

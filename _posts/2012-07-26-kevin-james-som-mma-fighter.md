@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Ja, du leste riktig. Tjukkingen fra Kongen av Queens har rollen som Scott Voss i "Here Comes the Boom". Og han ser faen meg litt "butch" ut.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/07/26/kevin-james-som-mma-fighter/hereboom/" rel="attachment wp-att-5157"><img class="alignnone size-full wp-image-5157" src="//filmbloggen.net/wp-content/uploads//2012/07/HereBoom.jpg" alt="" width="620" height="372" />
+    <a href="//filmbloggen.net/2012/07/26/kevin-james-som-mma-fighter/hereboom/" rel="attachment wp-att-5157"><img class="alignnone size-full wp-image-5157" src="/wp-content/uploads//2012/07/HereBoom.jpg" alt="" width="620" height="372" />
     </a> <em>Foto: Sony Pictures</em>
 
     Jeg har alltid hatt sansen for Kevin James. Han virker som en veldig jordnær og skikkelig type, som har en god selvinnsikt. Kanskje det kommer til å endre seg nå, fordi det ser ut som om han har lagt ned mye arbeid for rollen som Scott Voss i "Here Comes the Boom". Her spiller han en biologi-lærer som prøver seg som MMA-fighter etter at skolen bestemmer seg for å legge ned flere valgfag på grunn av økonomiske problemer.
@@ -167,7 +167,7 @@ ID:
 post_content:
   - |
     <strong>Ja, du leste riktig. Tjukkingen fra Kongen av Queens har rollen som Scott Voss i "Here Comes the Boom". Og han ser faen meg litt "butch" ut.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/07/26/kevin-james-som-mma-fighter/hereboom/" rel="attachment wp-att-5157"><img class="alignnone size-full wp-image-5157" src="//filmbloggen.net/wp-content/uploads//2012/07/HereBoom.jpg" alt="" width="620" height="372" />
+    <a href="//filmbloggen.net/2012/07/26/kevin-james-som-mma-fighter/hereboom/" rel="attachment wp-att-5157"><img class="alignnone size-full wp-image-5157" src="/wp-content/uploads//2012/07/HereBoom.jpg" alt="" width="620" height="372" />
     </a> <em>Foto: Sony Pictures</em>
 
     Jeg har alltid hatt sansen for Kevin James. Han virker som en veldig jordnær og skikkelig type, som har en god selvinnsikt. Kanskje det kommer til å endre seg nå, fordi det ser ut som om han har lagt ned mye arbeid for rollen som Scott Voss i "Here Comes the Boom". Her spiller han en biologi-lærer som prøver seg som MMA-fighter etter at skolen bestemmer seg for å legge ned flere valgfag på grunn av økonomiske problemer.
@@ -185,7 +185,7 @@ publish:
 meta:
   - |
     a:75:{i:27304;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:27282;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:27335;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:27291;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"62b1011d1f";}i:27289;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:27293;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"9e5c080ff4";}i:27336;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:27328;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1510:"<strong>Ja, du leste riktig. Tjukkingen fra Kongen av Queens har rollen som Scott Voss i "Here Comes the Boom". Og han ser faen meg litt "butch" ut.</strong><!--more-->
-    <a href="//filmbloggen.net/?attachment_id=5157" rel="attachment wp-att-5157"><img class="alignnone size-full wp-image-5157" src="//filmbloggen.net/wp-content/uploads//2012/07/HereBoom.jpg" alt="" width="620" height="372" />
+    <a href="//filmbloggen.net/?attachment_id=5157" rel="attachment wp-att-5157"><img class="alignnone size-full wp-image-5157" src="/wp-content/uploads//2012/07/HereBoom.jpg" alt="" width="620" height="372" />
     </a> <em>Foto: Sony Pictures</em>
 
     Jeg har alltid hatt sansen for Kevin James. Han virker som en veldig jordnær og skikkelig type, som har en god selvinnsikt. Kanskje det kommer til å endre seg nå, fordi det ser ut som om han har lagt ned mye arbeid for rollen som Scott Voss i "Here Comes the Boom". Her spiller han en biologi-lærer som prøver seg som MMA-fighter etter at skolen bestemmer seg for å legge ned flere valgfag på grunn av økonomiske problemer.
@@ -194,7 +194,7 @@ meta:
 
     Filmen ser ut som en god komedie som er sjarmerende og virker bra gjennomført. Dette har jeg troen på! Filmen har enda ikke fått en norsk premieredato, men den kommer på amerikanske kinoer 12. oktober. Se trailer under:
     [youtube id="M4L6ruTF5qE" width="620" height="350"]";}i:27313;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:27315;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"11";}i:27311;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"26";}i:27309;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:27317;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"50";}i:27340;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:27329;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:27305;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"11";}i:27312;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:27314;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"11";}i:27310;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"26";}i:27308;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"07";}i:27316;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"50";}i:27298;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:27296;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:27299;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:27357;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"5156";}i:27302;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"26";}i:27292;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"6451a3d69d";}i:27332;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:27331;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:27333;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:27303;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"07";}i:27306;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"50";}i:27320;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:27321;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:27283;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:27286;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:27318;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:27337;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:27284;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:27339;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:27358;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1510:"<strong>Ja, du leste riktig. Tjukkingen fra Kongen av Queens har rollen som Scott Voss i "Here Comes the Boom". Og han ser faen meg litt "butch" ut.</strong><!--more-->
-    <a href="//filmbloggen.net/?attachment_id=5157" rel="attachment wp-att-5157"><img class="alignnone size-full wp-image-5157" src="//filmbloggen.net/wp-content/uploads//2012/07/HereBoom.jpg" alt="" width="620" height="372" />
+    <a href="//filmbloggen.net/?attachment_id=5157" rel="attachment wp-att-5157"><img class="alignnone size-full wp-image-5157" src="/wp-content/uploads//2012/07/HereBoom.jpg" alt="" width="620" height="372" />
     </a> <em>Foto: Sony Pictures</em>
 
     Jeg har alltid hatt sansen for Kevin James. Han virker som en veldig jordnær og skikkelig type, som har en god selvinnsikt. Kanskje det kommer til å endre seg nå, fordi det ser ut som om han har lagt ned mye arbeid for rollen som Scott Voss i "Here Comes the Boom". Her spiller han en biologi-lærer som prøver seg som MMA-fighter etter at skolen bestemmer seg for å legge ned flere valgfag på grunn av økonomiske problemer.
@@ -227,7 +227,7 @@ format: video
 **Ja, du leste riktig. Tjukkingen fra Kongen av Queens har rollen som Scott Voss i «Here Comes the Boom». Og han ser faen meg litt «butch» ut.**<!--more-->
 
 
-<a href="//filmbloggen.net/2012/07/26/kevin-james-som-mma-fighter/hereboom/" rel="attachment wp-att-5157"><img class="alignnone size-full wp-image-5157" src="//filmbloggen.net/wp-content/uploads//2012/07/HereBoom.jpg" alt="" width="620" height="372" /><br /> </a> _Foto: Sony Pictures_
+<a href="//filmbloggen.net/2012/07/26/kevin-james-som-mma-fighter/hereboom/" rel="attachment wp-att-5157"><img class="alignnone size-full wp-image-5157" src="/wp-content/uploads//2012/07/HereBoom.jpg" alt="" width="620" height="372" /><br /> </a> _Foto: Sony Pictures_
 
 Jeg har alltid hatt sansen for Kevin James. Han virker som en veldig jordnær og skikkelig type, som har en god selvinnsikt. Kanskje det kommer til å endre seg nå, fordi det ser ut som om han har lagt ned mye arbeid for rollen som Scott Voss i «Here Comes the Boom». Her spiller han en biologi-lærer som prøver seg som MMA-fighter etter at skolen bestemmer seg for å legge ned flere valgfag på grunn av økonomiske problemer.
 

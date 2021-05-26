@@ -108,7 +108,7 @@ content:
     <strong>Manus:</strong> Christopher McQuarrie
     <strong>Skuespillere:</strong> Tom Cruise, Rosamund Pike, Richard Jenkins, Werner Herzog, David Oyelowo, Joseph Sikora, Scott A. Martin, Alexander Rhodes, Jai Courtney
     <strong>Spilletid:</strong> 2 timer og 10 minutter
-    <img class="alignnone size-large wp-image-9272" src="//filmbloggen.net/wp-content/uploads//2013/01/nmuogmy10-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-9272" src="/wp-content/uploads//2013/01/nmuogmy10-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto: UIP</strong>
 
     <strong>Tom Cruise gjør et mini-comeback i Jack Reacher.</strong> Han har kun laget tre filmer siden Valkyrie i 2008: Knight and Day, Rock of Ages og Mission Impossible: Ghost Protocol. Joda, han gjør ålreite roller i ålreite filmer. Med unntak av Rock of Ages som jeg synes var gjennomsyra kjedelig, så manglet både Knight and Day og MI: Ghost Protocol et godt manus. Det gjør ikke Jack Reacher. Bortsett fra scenen der Robert Duvall blir introdusert for oss tas det ikke snarveier i en vanvittig god actionthriller som blir dratt frem av kule karakterer, høyt tempo, god action og et godt manus skrevet av regissør Christopher McQuarrie. Humoren er også på plass og de to timene i kinosalen blir borte fortere enn snø på Sunnmøre.
@@ -120,7 +120,7 @@ content:
     <strong>LES OGSÅ:</strong> <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/">Anmeldelse av Mission Impossible: Ghost Protocol</a>
 
     <em>Anmeldelsen fortsetter under bildet
-    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="//filmbloggen.net/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
     </em><strong>
     Jeg har allerede vært innom manuset, skuespillerne og spesialeffektene,</strong> men et annet nøkkelmoment som også er på plass, er en sinnsykt kul skurk som både er troverdig og vanvittig skummel. Den første scenen vi ser han i gir deg frysninger (ikke på den gode måten) og The Zeg er en mann som du kan se er pur ondskap. Han er spilt av Werner Herzog. Ikke en mann som er spesielt kjent, med mindre du er lidenskapelig opptatt av tysk dokumentarfilm. 70-åringen tilfører mye til Jack Reacher. Den kunne gått over til å blitt veldig cheesy og lite minneverdig film, men den fella klarer Christopher McQuarrie fint å unngå. Selv om han danser på kanten flere ganger.
 
@@ -194,7 +194,7 @@ post_content:
     <strong>Manus:</strong> Christopher McQuarrie
     <strong>Skuespillere:</strong> Tom Cruise, Rosamund Pike, Richard Jenkins, Werner Herzog, David Oyelowo, Joseph Sikora, Scott A. Martin, Alexander Rhodes, Jai Courtney
     <strong>Spilletid:</strong> 2 timer og 10 minutter
-    <img class="alignnone size-large wp-image-9272" src="//filmbloggen.net/wp-content/uploads//2013/01/nmuogmy10-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-9272" src="/wp-content/uploads//2013/01/nmuogmy10-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto: UIP</strong>
 
     <strong>Tom Cruise gjør et mini-comeback i Jack Reacher.</strong> Han har kun laget tre filmer siden Valkyrie i 2008: Knight and Day, Rock of Ages og Mission Impossible: Ghost Protocol. Joda, han gjør ålreite roller i ålreite filmer. Med unntak av Rock of Ages som jeg synes var gjennomsyra kjedelig, så manglet både Knight and Day og MI: Ghost Protocol et godt manus. Det gjør ikke Jack Reacher. Bortsett fra scenen der Robert Duvall blir introdusert for oss tas det ikke snarveier i en vanvittig god actionthriller som blir dratt frem av kule karakterer, høyt tempo, god action og et godt manus skrevet av regissør Christopher McQuarrie. Humoren er også på plass og de to timene i kinosalen blir borte fortere enn snø på Sunnmøre.
@@ -206,7 +206,7 @@ post_content:
     <strong>LES OGSÅ:</strong> <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/">Anmeldelse av Mission Impossible: Ghost Protocol</a>
 
     <em>Anmeldelsen fortsetter under bildet
-    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="//filmbloggen.net/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
     </em><strong>
     Jeg har allerede vært innom manuset, skuespillerne og spesialeffektene,</strong> men et annet nøkkelmoment som også er på plass, er en sinnsykt kul skurk som både er troverdig og vanvittig skummel. Den første scenen vi ser han i gir deg frysninger (ikke på den gode måten) og The Zeg er en mann som du kan se er pur ondskap. Han er spilt av Werner Herzog. Ikke en mann som er spesielt kjent, med mindre du er lidenskapelig opptatt av tysk dokumentarfilm. 70-åringen tilfører mye til Jack Reacher. Den kunne gått over til å blitt veldig cheesy og lite minneverdig film, men den fella klarer Christopher McQuarrie fint å unngå. Selv om han danser på kanten flere ganger.
 
@@ -230,7 +230,7 @@ meta:
     <strong>Manus:</strong> Christopher McQuarrie
     <strong>Skuespillere:</strong> Tom Cruise, Rosamund Pike, Richard Jenkins, Werner Herzog, David Oyelowo, Joseph Sikora, Scott A. Martin, Alexander Rhodes, Jai Courtney
     <strong>Spilletid:</strong> 2 timer og 10 minutter
-    <img class="alignnone size-large wp-image-9272" src="//filmbloggen.net/wp-content/uploads//2013/01/nmuogmy10-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-9272" src="/wp-content/uploads//2013/01/nmuogmy10-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto: UIP</strong>
 
     <strong>Tom Cruise gjør et mini-comeback i Jack Reacher.</strong> Han har kun laget tre filmer siden Valkyrie i 2008: Knight and Day, Rock of Ages og Mission Impossible: Ghost Protocol. Joda, han gjør ålreite roller i ålreite filmer. Med unntak av Rock of Ages som jeg synes var gjennomsyra kjedelig, så manglet både Knight and Day og MI: Ghost Protocol et godt manus. Det gjør ikke Jack Reacher. Bortsett fra scenen der Robert Duvall blir introdusert for oss tas det ikke snarveier i en vanvittig god actionthriller som blir dratt frem av kule karakterer, høyt tempo, god action og et godt manus skrevet av regissør Christopher McQuarrie. Humoren er også på plass og de to timene i kinosalen blir borte fortere enn snø på Sunnmøre.
@@ -242,7 +242,7 @@ meta:
     <strong>LES OGSÅ:</strong> <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/">Anmeldelse av Mission Impossible: Ghost Protocol</a>
 
     <em>Anmeldelsen fortsetter under bildet
-    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="//filmbloggen.net/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
     </em><strong>
     Jeg har allerede vært innom manuset, skuespillerne og spesialeffektene,</strong> men et annet nøkkelmoment som også er på plass, er en sinnsykt kul skurk som både er troverdig og vanvittig skummel. Den første scenen vi ser han i gir deg frysninger (ikke på den gode måten) og The Zeg er en mann som du kan se er pur ondskap. Han er spilt av Werner Herzog. Ikke en mann som er spesielt kjent, med mindre du er lidenskapelig opptatt av tysk dokumentarfilm. 70-åringen tilfører mye til Jack Reacher. Den kunne gått over til å blitt veldig cheesy og lite minneverdig film, men den fella klarer Christopher McQuarrie fint å unngå. Selv om han danser på kanten flere ganger.
 
@@ -259,7 +259,7 @@ meta:
     <strong>Manus:</strong> Christopher McQuarrie
     <strong>Skuespillere:</strong> Tom Cruise, Rosamund Pike, Richard Jenkins, Werner Herzog, David Oyelowo, Joseph Sikora, Scott A. Martin, Alexander Rhodes, Jai Courtney
     <strong>Spilletid:</strong> 2 timer og 10 minutter
-    <img class="alignnone size-large wp-image-9272" src="//filmbloggen.net/wp-content/uploads//2013/01/nmuogmy10-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-9272" src="/wp-content/uploads//2013/01/nmuogmy10-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto: UIP</strong>
 
     <strong>Tom Cruise gjør et mini-comeback i Jack Reacher.</strong> Han har kun laget tre filmer siden Valkyrie i 2008: Knight and Day, Rock of Ages og Mission Impossible: Ghost Protocol. Joda, han gjør ålreite roller i ålreite filmer. Med unntak av Rock of Ages som jeg synes var gjennomsyra kjedelig, så manglet både Knight and Day og MI: Ghost Protocol et godt manus. Det gjør ikke Jack Reacher. Bortsett fra scenen der Robert Duvall blir introdusert for oss tas det ikke snarveier i en vanvittig god actionthriller som blir dratt frem av kule karakterer, høyt tempo, god action og et godt manus skrevet av regissør Christopher McQuarrie. Humoren er også på plass og de to timene i kinosalen blir borte fortere enn snø på Sunnmøre.
@@ -271,7 +271,7 @@ meta:
     <strong>LES OGSÅ:</strong> <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/">Anmeldelse av Mission Impossible: Ghost Protocol</a>
 
     <em>Anmeldelsen fortsetter under bildet
-    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="//filmbloggen.net/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
     </em><strong>
     Jeg har allerede vært innom manuset, skuespillerne og spesialeffektene,</strong> men et annet nøkkelmoment som også er på plass, er en sinnsykt kul skurk som både er troverdig og vanvittig skummel. Den første scenen vi ser han i gir deg frysninger (ikke på den gode måten) og The Zeg er en mann som du kan se er pur ondskap. Han er spilt av Werner Herzog. Ikke en mann som er spesielt kjent, med mindre du er lidenskapelig opptatt av tysk dokumentarfilm. 70-åringen tilfører mye til Jack Reacher. Den kunne gått over til å blitt veldig cheesy og lite minneverdig film, men den fella klarer Christopher McQuarrie fint å unngå. Selv om han danser på kanten flere ganger.
 
@@ -306,7 +306,7 @@ tags:
 **Manus:** Christopher McQuarrie
 **Skuespillere:** Tom Cruise, Rosamund Pike, Richard Jenkins, Werner Herzog, David Oyelowo, Joseph Sikora, Scott A. Martin, Alexander Rhodes, Jai Courtney
 **Spilletid:** 2 timer og 10 minutter
-<img class="alignnone size-large wp-image-9272" src="//filmbloggen.net/wp-content/uploads//2013/01/nmuogmy10-620x413.jpg" alt="" width="620" height="413" />
+<img class="alignnone size-large wp-image-9272" src="/wp-content/uploads//2013/01/nmuogmy10-620x413.jpg" alt="" width="620" height="413" />
 **Foto: UIP**
 
 **Tom Cruise gjør et mini-comeback i Jack Reacher.** Han har kun laget tre filmer siden Valkyrie i 2008: Knight and Day, Rock of Ages og Mission Impossible: Ghost Protocol. Joda, han gjør ålreite roller i ålreite filmer. Med unntak av Rock of Ages som jeg synes var gjennomsyra kjedelig, så manglet både Knight and Day og MI: Ghost Protocol et godt manus. Det gjør ikke Jack Reacher. Bortsett fra scenen der Robert Duvall blir introdusert for oss tas det ikke snarveier i en vanvittig god actionthriller som blir dratt frem av kule karakterer, høyt tempo, god action og et godt manus skrevet av regissør Christopher McQuarrie. Humoren er også på plass og de to timene i kinosalen blir borte fortere enn snø på Sunnmøre.
@@ -318,7 +318,7 @@ tags:
 **LES OGSÅ:** [Anmeldelse av Mission Impossible: Ghost Protocol](//filmbloggen.net/2012/02/04/umulig-oppdrag/)
 
 _Anmeldelsen fortsetter under bildet
-<a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="//filmbloggen.net/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
 _ **
 Jeg har allerede vært innom manuset, skuespillerne og spesialeffektene,** men et annet nøkkelmoment som også er på plass, er en sinnsykt kul skurk som både er troverdig og vanvittig skummel. Den første scenen vi ser han i gir deg frysninger (ikke på den gode måten) og The Zeg er en mann som du kan se er pur ondskap. Han er spilt av Werner Herzog. Ikke en mann som er spesielt kjent, med mindre du er lidenskapelig opptatt av tysk dokumentarfilm. 70-åringen tilfører mye til Jack Reacher. Den kunne gått over til å blitt veldig cheesy og lite minneverdig film, men den fella klarer Christopher McQuarrie fint å unngå. Selv om han danser på kanten flere ganger.
 

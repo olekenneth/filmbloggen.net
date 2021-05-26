@@ -102,7 +102,7 @@ content:
   - |
     <strong>Gjett om jeg har gleda meg lenge til å se Thor. Den skuffet ikke i et sekund!
     </strong>(Anmeldelse av Thor)
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/thor2.jpg"><img class="alignnone size-large wp-image-661" title="Thor" src="//filmbloggen.net/wp-content/uploads//2011/04/thor2-e1310589960998-620x484.jpg" alt="" width="620" height="484" /></a>
+    <a href="/wp-content/uploads//2011/04/thor2.jpg"><img class="alignnone size-large wp-image-661" title="Thor" src="/wp-content/uploads//2011/04/thor2-e1310589960998-620x484.jpg" alt="" width="620" height="484" /></a>
     <strong>Originaltittel: </strong>Thor<strong>
     Kategori:</strong> Action/Eventyr
     <strong>Spilletid:</strong> 2 timer og 10 minutter
@@ -111,7 +111,7 @@ content:
 
     Jeg er en stor fan av Marvel-filmene og så langt har jeg aldri gått skuffet ut av en kinosal etter en Marvel-film. Heldigvis lagde Marvel en magisk Thor film også. For de som ikke vet så står Marvel Studios bak filmer som: The Punisher, Blade, Spider-Man, Fantastic Four, X-Men, Ghost Rider, Iron Man, The Incredible Hulk osv. Jeg har aldri lest mye tegneserier så jeg har derfor heller ikke lest tegneseriene til disse men Marvel er nøye på å ikke endre mye fra tegneseriene. Grunnen til at jeg liker filmene må vel være at manuset er enkelt, med gode one-linere og mye action.
 
-    <img class="size-large wp-image-259 alignleft" title="MANHATTAN" src="//filmbloggen.net/wp-content/uploads//2011/04/thor-1024x682.jpg" alt="" width="223" height="148" />Regissør Branagh har holdt seg til Marvel Comics tegneserieversjon som første gang så dagens lys i 1962. Den er løselig basert på den norrøne mytologien vi nordmenn oppfatter som vår.
+    <img class="size-large wp-image-259 alignleft" title="MANHATTAN" src="/wp-content/uploads//2011/04/thor-1024x682.jpg" alt="" width="223" height="148" />Regissør Branagh har holdt seg til Marvel Comics tegneserieversjon som første gang så dagens lys i 1962. Den er løselig basert på den norrøne mytologien vi nordmenn oppfatter som vår.
 
     Jeg starter med det eneste negative jeg har fordi det er såpass lite. Natalie Portman har en dårlig rolle i filmen og hun blir bare en skygge av seg selv ifra rollen i Black Swan. Jeg synes også at det ble litt unødvendig kliss. Det var liksom så lite at det bare ble irriterende. Hvis du skal ha en romantisk historie må du legge mer vekt på det, eller så dropper du det. Den tredje og siste negative kritikken er ikke mot denne filmen men derimot mot 3D-filmer. Jeg synes at slåsskamper rett og slett blir mindre intense med 3D, som er motsatt av hvordan det skal fungere. 3D-brillene er jo også bare irriterende som klør på nesa og gennerellt ubehagelige.
 
@@ -176,7 +176,7 @@ post_content:
   - |
     <strong>Gjett om jeg har gleda meg lenge til å se Thor. Den skuffet ikke i et sekund!
     </strong>(Anmeldelse av Thor)
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/thor2.jpg"><img class="alignnone size-large wp-image-661" title="Thor" src="//filmbloggen.net/wp-content/uploads//2011/04/thor2-e1310589960998-620x484.jpg" alt="" width="620" height="484" /></a>
+    <a href="/wp-content/uploads//2011/04/thor2.jpg"><img class="alignnone size-large wp-image-661" title="Thor" src="/wp-content/uploads//2011/04/thor2-e1310589960998-620x484.jpg" alt="" width="620" height="484" /></a>
     <strong>Originaltittel: </strong>Thor<strong>
     Kategori:</strong> Action/Eventyr
     <strong>Spilletid:</strong> 2 timer og 10 minutter
@@ -185,7 +185,7 @@ post_content:
 
     Jeg er en stor fan av Marvel-filmene og så langt har jeg aldri gått skuffet ut av en kinosal etter en Marvel-film. Heldigvis lagde Marvel en magisk Thor film også. For de som ikke vet så står Marvel Studios bak filmer som: The Punisher, Blade, Spider-Man, Fantastic Four, X-Men, Ghost Rider, Iron Man, The Incredible Hulk osv. Jeg har aldri lest mye tegneserier så jeg har derfor heller ikke lest tegneseriene til disse men Marvel er nøye på å ikke endre mye fra tegneseriene. Grunnen til at jeg liker filmene må vel være at manuset er enkelt, med gode one-linere og mye action.
 
-    <img class="size-large wp-image-259 alignleft" title="MANHATTAN" src="//filmbloggen.net/wp-content/uploads//2011/04/thor-1024x682.jpg" alt="" width="223" height="148" />Regissør Branagh har holdt seg til Marvel Comics tegneserieversjon som første gang så dagens lys i 1962. Den er løselig basert på den norrøne mytologien vi nordmenn oppfatter som vår.
+    <img class="size-large wp-image-259 alignleft" title="MANHATTAN" src="/wp-content/uploads//2011/04/thor-1024x682.jpg" alt="" width="223" height="148" />Regissør Branagh har holdt seg til Marvel Comics tegneserieversjon som første gang så dagens lys i 1962. Den er løselig basert på den norrøne mytologien vi nordmenn oppfatter som vår.
 
     Jeg starter med det eneste negative jeg har fordi det er såpass lite. Natalie Portman har en dårlig rolle i filmen og hun blir bare en skygge av seg selv ifra rollen i Black Swan. Jeg synes også at det ble litt unødvendig kliss. Det var liksom så lite at det bare ble irriterende. Hvis du skal ha en romantisk historie må du legge mer vekt på det, eller så dropper du det. Den tredje og siste negative kritikken er ikke mot denne filmen men derimot mot 3D-filmer. Jeg synes at slåsskamper rett og slett blir mindre intense med 3D, som er motsatt av hvordan det skal fungere. 3D-brillene er jo også bare irriterende som klør på nesa og gennerellt ubehagelige.
 
@@ -213,7 +213,7 @@ tags:
 ---
 **Gjett om jeg har gleda meg lenge til å se Thor. Den skuffet ikke i et sekund!
 ** (Anmeldelse av Thor)
-[<img class="alignnone size-large wp-image-661" title="Thor" src="//filmbloggen.net/wp-content/uploads//2011/04/thor2-e1310589960998-620x484.jpg" alt="" width="620" height="484" />](//filmbloggen.net/wp-content/uploads//2011/04/thor2.jpg)
+[<img class="alignnone size-large wp-image-661" title="Thor" src="/wp-content/uploads//2011/04/thor2-e1310589960998-620x484.jpg" alt="" width="620" height="484" />](/wp-content/uploads//2011/04/thor2.jpg)
 **Originaltittel:** Thor**
 Kategori:** Action/Eventyr
 **Spilletid:** 2 timer og 10 minutter
@@ -222,7 +222,7 @@ Kategori:** Action/Eventyr
 
 Jeg er en stor fan av Marvel-filmene og så langt har jeg aldri gått skuffet ut av en kinosal etter en Marvel-film. Heldigvis lagde Marvel en magisk Thor film også. For de som ikke vet så står Marvel Studios bak filmer som: The Punisher, Blade, Spider-Man, Fantastic Four, X-Men, Ghost Rider, Iron Man, The Incredible Hulk osv. Jeg har aldri lest mye tegneserier så jeg har derfor heller ikke lest tegneseriene til disse men Marvel er nøye på å ikke endre mye fra tegneseriene. Grunnen til at jeg liker filmene må vel være at manuset er enkelt, med gode one-linere og mye action.
 
-<img class="size-large wp-image-259 alignleft" title="MANHATTAN" src="//filmbloggen.net/wp-content/uploads//2011/04/thor-1024x682.jpg" alt="" width="223" height="148" /> Regissør Branagh har holdt seg til Marvel Comics tegneserieversjon som første gang så dagens lys i 1962. Den er løselig basert på den norrøne mytologien vi nordmenn oppfatter som vår.
+<img class="size-large wp-image-259 alignleft" title="MANHATTAN" src="/wp-content/uploads//2011/04/thor-1024x682.jpg" alt="" width="223" height="148" /> Regissør Branagh har holdt seg til Marvel Comics tegneserieversjon som første gang så dagens lys i 1962. Den er løselig basert på den norrøne mytologien vi nordmenn oppfatter som vår.
 
 Jeg starter med det eneste negative jeg har fordi det er såpass lite. Natalie Portman har en dårlig rolle i filmen og hun blir bare en skygge av seg selv ifra rollen i Black Swan. Jeg synes også at det ble litt unødvendig kliss. Det var liksom så lite at det bare ble irriterende. Hvis du skal ha en romantisk historie må du legge mer vekt på det, eller så dropper du det. Den tredje og siste negative kritikken er ikke mot denne filmen men derimot mot 3D-filmer. Jeg synes at slåsskamper rett og slett blir mindre intense med 3D, som er motsatt av hvordan det skal fungere. 3D-brillene er jo også bare irriterende som klør på nesa og gennerellt ubehagelige.
 

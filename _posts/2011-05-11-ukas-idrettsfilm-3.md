@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Denne uka har jeg valgt ut Glory Road som Ukas Idrettsfilm.
-    <a href="//filmbloggen.net/wp-content/uploads//2011/05/glory-road-poster.jpg"><img class="alignnone size-medium wp-image-267" src="//filmbloggen.net/wp-content/uploads//2011/05/glory-road-poster.jpg?w=300" alt="" width="563" height="315" /></a></strong>
+    <a href="/wp-content/uploads//2011/05/glory-road-poster.jpg"><img class="alignnone size-medium wp-image-267" src="/wp-content/uploads//2011/05/glory-road-poster.jpg?w=300" alt="" width="563" height="315" /></a></strong>
 
     <strong>Originaltittel: </strong>Glory Road<strong>
     Kategori:</strong> Drama/Sport
@@ -176,7 +176,7 @@ ID:
 post_content:
   - |
     <strong>Denne uka har jeg valgt ut Glory Road som Ukas Idrettsfilm.
-    <a href="//filmbloggen.net/wp-content/uploads//2011/05/glory-road-poster.jpg"><img class="alignnone size-medium wp-image-267" src="//filmbloggen.net/wp-content/uploads//2011/05/glory-road-poster.jpg?w=300" alt="" width="563" height="315" /></a></strong>
+    <a href="/wp-content/uploads//2011/05/glory-road-poster.jpg"><img class="alignnone size-medium wp-image-267" src="/wp-content/uploads//2011/05/glory-road-poster.jpg?w=300" alt="" width="563" height="315" /></a></strong>
 
     <strong>Originaltittel: </strong>Glory Road<strong>
     Kategori:</strong> Drama/Sport
@@ -220,7 +220,7 @@ tags:
   - Schin A.S. Kerr
 ---
 **Denne uka har jeg valgt ut Glory Road som Ukas Idrettsfilm.
-[<img class="alignnone size-medium wp-image-267" src="//filmbloggen.net/wp-content/uploads//2011/05/glory-road-poster.jpg?w=300" alt="" width="563" height="315" />](//filmbloggen.net/wp-content/uploads//2011/05/glory-road-poster.jpg)**
+[<img class="alignnone size-medium wp-image-267" src="/wp-content/uploads//2011/05/glory-road-poster.jpg?w=300" alt="" width="563" height="315" />](/wp-content/uploads//2011/05/glory-road-poster.jpg)**
 
 **Originaltittel:** Glory Road**
 Kategori:** Drama/Sport

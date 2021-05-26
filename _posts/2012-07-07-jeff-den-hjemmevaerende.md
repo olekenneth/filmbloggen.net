@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Jason Segel, Ed Helms, Susan Sarandon, Judy Greer, Rae Dawn Chong.
     <strong>Spilletid:</strong> 1 time og 23 minutter
 
-    <a href="//filmbloggen.net/2012/07/07/jeff-den-hjemmevaerende/jeff-who-lives-at-home-trailer/" rel="attachment wp-att-4849"><img class="alignnone size-large wp-image-4849" src="//filmbloggen.net/wp-content/uploads//2012/07/jeff-who-lives-at-home-trailer-620x341.jpg" alt="" width="620" height="341" /></a>
+    <a href="//filmbloggen.net/2012/07/07/jeff-den-hjemmevaerende/jeff-who-lives-at-home-trailer/" rel="attachment wp-att-4849"><img class="alignnone size-large wp-image-4849" src="/wp-content/uploads//2012/07/jeff-who-lives-at-home-trailer-620x341.jpg" alt="" width="620" height="341" /></a>
 
     Cyrus (en av Duplass-brødrenes tidligere filmer) var en subtil dramakomedie om kjærlighet og familie - den var en positiv overraskelse ettersom jeg forventet nok en banal komedie om en skrullete familie. Jeg var derfor spent i forkant av Jeff, who lives at home.
 
@@ -67,7 +67,7 @@ post_content:
     <strong>Skuespillere:</strong> Jason Segel, Ed Helms, Susan Sarandon, Judy Greer, Rae Dawn Chong.
     <strong>Spilletid:</strong> 1 time og 23 minutter
 
-    <a href="//filmbloggen.net/2012/07/07/jeff-den-hjemmevaerende/jeff-who-lives-at-home-trailer/" rel="attachment wp-att-4849"><img class="alignnone size-large wp-image-4849" src="//filmbloggen.net/wp-content/uploads//2012/07/jeff-who-lives-at-home-trailer-620x341.jpg" alt="" width="620" height="341" /></a>
+    <a href="//filmbloggen.net/2012/07/07/jeff-den-hjemmevaerende/jeff-who-lives-at-home-trailer/" rel="attachment wp-att-4849"><img class="alignnone size-large wp-image-4849" src="/wp-content/uploads//2012/07/jeff-who-lives-at-home-trailer-620x341.jpg" alt="" width="620" height="341" /></a>
 
     Cyrus (en av Duplass-brødrenes tidligere filmer) var en subtil dramakomedie om kjærlighet og familie - den var en positiv overraskelse ettersom jeg forventet nok en banal komedie om en skrullete familie. Jeg var derfor spent i forkant av Jeff, who lives at home.
 
@@ -177,7 +177,7 @@ meta:
     <strong>Skuespillere:</strong> Jason Segel, Ed Helms, Susan Sarandon, Judy Greer, Rae Dawn Chong.
     <strong>Spilletid:</strong> 1 time og 23 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=4849" rel="attachment wp-att-4849"><img class="alignnone size-large wp-image-4849" src="//filmbloggen.net/wp-content/uploads//2012/07/jeff-who-lives-at-home-trailer-620x341.jpg" alt="" width="620" height="341" /></a>
+    <a href="//filmbloggen.net/?attachment_id=4849" rel="attachment wp-att-4849"><img class="alignnone size-large wp-image-4849" src="/wp-content/uploads//2012/07/jeff-who-lives-at-home-trailer-620x341.jpg" alt="" width="620" height="341" /></a>
 
     Cyrus (en av Duplass-brødrenes tidligere filmer) var en subtil dramakomedie om kjærlighet og familie - den var en positiv overraskelse ettersom jeg forventet nok en banal komedie om en skrullete familie. Jeg var derfor spent i forkant av Jeff, who lives at home.
 
@@ -202,7 +202,7 @@ meta:
     <strong>Skuespillere:</strong> Jason Segel, Ed Helms, Susan Sarandon, Judy Greer, Rae Dawn Chong.
     <strong>Spilletid:</strong> 1 time og 23 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=4849" rel="attachment wp-att-4849"><img class="alignnone size-large wp-image-4849" src="//filmbloggen.net/wp-content/uploads//2012/07/jeff-who-lives-at-home-trailer-620x341.jpg" alt="" width="620" height="341" /></a>
+    <a href="//filmbloggen.net/?attachment_id=4849" rel="attachment wp-att-4849"><img class="alignnone size-large wp-image-4849" src="/wp-content/uploads//2012/07/jeff-who-lives-at-home-trailer-620x341.jpg" alt="" width="620" height="341" /></a>
 
     Cyrus (en av Duplass-brødrenes tidligere filmer) var en subtil dramakomedie om kjærlighet og familie - den var en positiv overraskelse ettersom jeg forventet nok en banal komedie om en skrullete familie. Jeg var derfor spent i forkant av Jeff, who lives at home.
 
@@ -299,7 +299,7 @@ tags:
 **Skuespillere:** Jason Segel, Ed Helms, Susan Sarandon, Judy Greer, Rae Dawn Chong.
 **Spilletid:** 1 time og 23 minutter
 
-<a href="//filmbloggen.net/2012/07/07/jeff-den-hjemmevaerende/jeff-who-lives-at-home-trailer/" rel="attachment wp-att-4849"><img class="alignnone size-large wp-image-4849" src="//filmbloggen.net/wp-content/uploads//2012/07/jeff-who-lives-at-home-trailer-620x341.jpg" alt="" width="620" height="341" /></a>
+<a href="//filmbloggen.net/2012/07/07/jeff-den-hjemmevaerende/jeff-who-lives-at-home-trailer/" rel="attachment wp-att-4849"><img class="alignnone size-large wp-image-4849" src="/wp-content/uploads//2012/07/jeff-who-lives-at-home-trailer-620x341.jpg" alt="" width="620" height="341" /></a>
 
 Cyrus (en av Duplass-brødrenes tidligere filmer) var en subtil dramakomedie om kjærlighet og familie – den var en positiv overraskelse ettersom jeg forventet nok en banal komedie om en skrullete familie. Jeg var derfor spent i forkant av Jeff, who lives at home.
 

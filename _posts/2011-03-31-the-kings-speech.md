@@ -102,7 +102,7 @@ content:
   - |
     <strong>Klarer virkelig en film som handler om taleproblemer og som bygger egentlig kun opp til en ting, en tale, å underholde i to timer?</strong>
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/03/the-kings-speech.jpg"><img class="alignnone size-medium wp-image-9" src="//filmbloggen.net/wp-content/uploads//2011/03/the-kings-speech.jpg?w=300" alt="" width="540" height="360" /></a>
+    <a href="/wp-content/uploads//2011/03/the-kings-speech.jpg"><img class="alignnone size-medium wp-image-9" src="/wp-content/uploads//2011/03/the-kings-speech.jpg?w=300" alt="" width="540" height="360" /></a>
 
     <strong>Kategori:</strong> Drama
     <strong>Spilletid:</strong> 1 time og 58 minutter
@@ -132,7 +132,7 @@ meta:
   - |
     a:74:{i:15895;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:15875;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:15929;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:15883;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"e3630d7ff9";}i:15885;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"1bd2d76557";}i:15930;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:15920;a:2:{s:3:"key";s:7:"content";s:5:"value";s:2704:"<strong>Klarer virkelig en film som handler om taleproblemer og som bygger egentlig kun opp til en ting, en tale, å underholde i to timer?</strong>
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/03/the-kings-speech.jpg"><img class="alignnone size-medium wp-image-9" src="//filmbloggen.net/wp-content/uploads//2011/03/the-kings-speech.jpg?w=300" alt="" width="540" height="360" /></a>
+    <a href="/wp-content/uploads//2011/03/the-kings-speech.jpg"><img class="alignnone size-medium wp-image-9" src="/wp-content/uploads//2011/03/the-kings-speech.jpg?w=300" alt="" width="540" height="360" /></a>
 
     <strong>Kategori:</strong> Drama
     <strong>Spilletid:</strong> 1 time og 58 minutter
@@ -157,7 +157,7 @@ meta:
 
     Jeg har forresten <a href="//bloggurat.net/minblogg/registrere/292fa2b47c41aee804e9cbba80e91ddb819dcffc">presentert bloggen min</a> på Bloggurat.";}i:15904;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:15906;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"23";}i:15902;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"09";}i:15900;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"02";}i:15908;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"26";}i:15934;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:15921;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:15896;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"21";}i:15903;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:15905;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"21";}i:15901;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"31";}i:15899;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"03";}i:15907;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"05";}i:15889;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:15887;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:15890;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:15951;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:2:"12";}i:476;a:2:{s:3:"key";s:16:"jabber_published";s:5:"value";s:10:"1301605549";}i:15893;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"31";}i:15884;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"b11a598e59";}i:15926;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:15925;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:15927;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:15894;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"03";}i:15897;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"05";}i:15912;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:15913;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:15876;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:15879;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:15909;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:15931;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:15877;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:15933;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:15952;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:2704:"<strong>Klarer virkelig en film som handler om taleproblemer og som bygger egentlig kun opp til en ting, en tale, å underholde i to timer?</strong>
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/03/the-kings-speech.jpg"><img class="alignnone size-medium wp-image-9" src="//filmbloggen.net/wp-content/uploads//2011/03/the-kings-speech.jpg?w=300" alt="" width="540" height="360" /></a>
+    <a href="/wp-content/uploads//2011/03/the-kings-speech.jpg"><img class="alignnone size-medium wp-image-9" src="/wp-content/uploads//2011/03/the-kings-speech.jpg?w=300" alt="" width="540" height="360" /></a>
 
     <strong>Kategori:</strong> Drama
     <strong>Spilletid:</strong> 1 time og 58 minutter
@@ -237,7 +237,7 @@ post_content:
   - |
     <strong>Klarer virkelig en film som handler om taleproblemer og som bygger egentlig kun opp til en ting, en tale, å underholde i to timer?</strong>
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/03/the-kings-speech.jpg"><img class="alignnone size-medium wp-image-9" src="//filmbloggen.net/wp-content/uploads//2011/03/the-kings-speech.jpg?w=300" alt="" width="540" height="360" /></a>
+    <a href="/wp-content/uploads//2011/03/the-kings-speech.jpg"><img class="alignnone size-medium wp-image-9" src="/wp-content/uploads//2011/03/the-kings-speech.jpg?w=300" alt="" width="540" height="360" /></a>
 
     <strong>Kategori:</strong> Drama
     <strong>Spilletid:</strong> 1 time og 58 minutter
@@ -277,7 +277,7 @@ tags:
 ---
 **Klarer virkelig en film som handler om taleproblemer og som bygger egentlig kun opp til en ting, en tale, å underholde i to timer?**
 
-[<img class="alignnone size-medium wp-image-9" src="//filmbloggen.net/wp-content/uploads//2011/03/the-kings-speech.jpg?w=300" alt="" width="540" height="360" />](//filmbloggen.net/wp-content/uploads//2011/03/the-kings-speech.jpg)
+[<img class="alignnone size-medium wp-image-9" src="/wp-content/uploads//2011/03/the-kings-speech.jpg?w=300" alt="" width="540" height="360" />](/wp-content/uploads//2011/03/the-kings-speech.jpg)
 
 **Kategori:** Drama
 **Spilletid:** 1 time og 58 minutter

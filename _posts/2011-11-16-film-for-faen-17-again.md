@@ -105,7 +105,7 @@ content:
     <strong>Manus:</strong> Jason Filardi
     <strong>Med: Zac Efron, Leslie Mann, Thomas Lennon, Michelle Trachtenberg, Matthew Perry</strong>
 
-    <strong></strong><a href="//filmbloggen.net/2011/11/16/film-for-faen-17-again/17-again-728465/" rel="attachment wp-att-1748"><img class="alignnone size-full wp-image-1748" src="//filmbloggen.net/wp-content/uploads//2011/11/17-AGAIN-728465.jpg" alt="" width="570" height="364" /></a>
+    <strong></strong><a href="//filmbloggen.net/2011/11/16/film-for-faen-17-again/17-again-728465/" rel="attachment wp-att-1748"><img class="alignnone size-full wp-image-1748" src="/wp-content/uploads//2011/11/17-AGAIN-728465.jpg" alt="" width="570" height="364" /></a>
     <h1>DEN KLASSISKE "TILBAKE I TID"-FILMEN</h1>
     I 1989 hadde 17-årige Mike livet og en strålende basketkarriere foran seg. Men dama blir gravid, og Mike valgte familien framfor karrieren. 20 år seinere er han en bitter, sur mann, nylig uten jobb og med et ekteskap i oppløsning. Så gis han en mirakuløs sjanse til å ordne opp: Han forvandles til en 17-åring igjen, med en 37-årings erfaringer.
 
@@ -179,7 +179,7 @@ post_content:
     <strong>Manus:</strong> Jason Filardi
     <strong>Med: Zac Efron, Leslie Mann, Thomas Lennon, Michelle Trachtenberg, Matthew Perry</strong>
 
-    <strong></strong><a href="//filmbloggen.net/2011/11/16/film-for-faen-17-again/17-again-728465/" rel="attachment wp-att-1748"><img class="alignnone size-full wp-image-1748" src="//filmbloggen.net/wp-content/uploads//2011/11/17-AGAIN-728465.jpg" alt="" width="570" height="364" /></a>
+    <strong></strong><a href="//filmbloggen.net/2011/11/16/film-for-faen-17-again/17-again-728465/" rel="attachment wp-att-1748"><img class="alignnone size-full wp-image-1748" src="/wp-content/uploads//2011/11/17-AGAIN-728465.jpg" alt="" width="570" height="364" /></a>
     <h1>DEN KLASSISKE "TILBAKE I TID"-FILMEN</h1>
     I 1989 hadde 17-årige Mike livet og en strålende basketkarriere foran seg. Men dama blir gravid, og Mike valgte familien framfor karrieren. 20 år seinere er han en bitter, sur mann, nylig uten jobb og med et ekteskap i oppløsning. Så gis han en mirakuløs sjanse til å ordne opp: Han forvandles til en 17-åring igjen, med en 37-årings erfaringer.
 
@@ -207,7 +207,7 @@ meta:
     <strong>Manus:</strong> Jason Filardi
     <strong>Med: Zac Efron, Leslie Mann, Thomas Lennon, Michelle Trachtenberg, Matthew Perry</strong>
 
-    <strong></strong><a href="//filmbloggen.net/?attachment_id=1748" rel="attachment wp-att-1748"><img class="alignnone size-full wp-image-1748" title="17-AGAIN-728465" src="//filmbloggen.net/wp-content/uploads//2011/11/17-AGAIN-728465.jpg" alt="" width="570" height="364" /></a>DEN KLASSISKE "TILBAKE I TID"-FILMEN
+    <strong></strong><a href="//filmbloggen.net/?attachment_id=1748" rel="attachment wp-att-1748"><img class="alignnone size-full wp-image-1748" title="17-AGAIN-728465" src="/wp-content/uploads//2011/11/17-AGAIN-728465.jpg" alt="" width="570" height="364" /></a>DEN KLASSISKE "TILBAKE I TID"-FILMEN
 
     I 1989 hadde 17-årige Mike livet og en strålende basketkarriere foran seg. Men dama blir gravid, og Mike valgte familien framfor karrieren. 20 år seinere er han en bitter, sur mann, nylig uten jobb og med et ekteskap i oppløsning. Så gis han en mirakuløs sjanse til å ordne opp: Han forvandles til en 17-åring igjen, med en 37-årings erfaringer.
 
@@ -226,7 +226,7 @@ meta:
     <strong>Manus:</strong> Jason Filardi
     <strong>Med: Zac Efron, Leslie Mann, Thomas Lennon, Michelle Trachtenberg, Matthew Perry</strong>
 
-    <strong></strong><a href="//filmbloggen.net/?attachment_id=1748" rel="attachment wp-att-1748"><img class="alignnone size-full wp-image-1748" title="17-AGAIN-728465" src="//filmbloggen.net/wp-content/uploads//2011/11/17-AGAIN-728465.jpg" alt="" width="570" height="364" /></a>DEN KLASSISKE "TILBAKE I TID"-FILMEN
+    <strong></strong><a href="//filmbloggen.net/?attachment_id=1748" rel="attachment wp-att-1748"><img class="alignnone size-full wp-image-1748" title="17-AGAIN-728465" src="/wp-content/uploads//2011/11/17-AGAIN-728465.jpg" alt="" width="570" height="364" /></a>DEN KLASSISKE "TILBAKE I TID"-FILMEN
 
     I 1989 hadde 17-årige Mike livet og en strålende basketkarriere foran seg. Men dama blir gravid, og Mike valgte familien framfor karrieren. 20 år seinere er han en bitter, sur mann, nylig uten jobb og med et ekteskap i oppløsning. Så gis han en mirakuløs sjanse til å ordne opp: Han forvandles til en 17-åring igjen, med en 37-årings erfaringer.
 
@@ -249,7 +249,7 @@ categories:
 **Manus:** Jason Filardi
 **Med: Zac Efron, Leslie Mann, Thomas Lennon, Michelle Trachtenberg, Matthew Perry**
 
-****<a href="//filmbloggen.net/2011/11/16/film-for-faen-17-again/17-again-728465/" rel="attachment wp-att-1748"><img class="alignnone size-full wp-image-1748" src="//filmbloggen.net/wp-content/uploads//2011/11/17-AGAIN-728465.jpg" alt="" width="570" height="364" /></a>
+****<a href="//filmbloggen.net/2011/11/16/film-for-faen-17-again/17-again-728465/" rel="attachment wp-att-1748"><img class="alignnone size-full wp-image-1748" src="/wp-content/uploads//2011/11/17-AGAIN-728465.jpg" alt="" width="570" height="364" /></a>
 
 # DEN KLASSISKE «TILBAKE I TID»-FILMEN
 

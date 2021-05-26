@@ -106,7 +106,7 @@ content:
     <strong>Spilletid: </strong>1 time og 58 minutter
     <strong>Regi:</strong> Seth MacFarlane
     <strong>Manus:</strong> Seth MacFarlane, Alec Sulkin, Wellesley Wild
-    <strong>Skuespillere:</strong> Seth MacFarlane, Mila Kunis, Mark Wahlberg, Joel McHale, Patrick Warburton,  Ronald Boone<a href="//filmbloggen.net/2012/08/09/verdens-morsomste-bjorn/ted2/" rel="attachment wp-att-6020"><img class="alignnone size-large wp-image-6020" src="//filmbloggen.net/wp-content/uploads//2012/08/ted2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <strong>Skuespillere:</strong> Seth MacFarlane, Mila Kunis, Mark Wahlberg, Joel McHale, Patrick Warburton,  Ronald Boone<a href="//filmbloggen.net/2012/08/09/verdens-morsomste-bjorn/ted2/" rel="attachment wp-att-6020"><img class="alignnone size-large wp-image-6020" src="/wp-content/uploads//2012/08/ted2-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: UIP</em>
 
     John, <em>(Mark Wahlberg)</em> og teddybjørnen Ted <em>(Seth Macfarlane)</em> har vært venner fra barndommen av, etter at et magisk ønske gikk i oppfyllelse. Nå er de begge voksne og har ikke gjort så mye med livene sine siden. De røyker pot, ser på nerdete filmer og lever av bilutleiejobben til John og dama hans, spilt av Mila Kunis. Hun på sin side er lei av at John ikke tar ansvar for livet sitt og vil ha Ted ut av leiligheten.
@@ -192,7 +192,7 @@ post_content:
     <strong>Spilletid: </strong>1 time og 58 minutter
     <strong>Regi:</strong> Seth MacFarlane
     <strong>Manus:</strong> Seth MacFarlane, Alec Sulkin, Wellesley Wild
-    <strong>Skuespillere:</strong> Seth MacFarlane, Mila Kunis, Mark Wahlberg, Joel McHale, Patrick Warburton,  Ronald Boone<a href="//filmbloggen.net/2012/08/09/verdens-morsomste-bjorn/ted2/" rel="attachment wp-att-6020"><img class="alignnone size-large wp-image-6020" src="//filmbloggen.net/wp-content/uploads//2012/08/ted2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <strong>Skuespillere:</strong> Seth MacFarlane, Mila Kunis, Mark Wahlberg, Joel McHale, Patrick Warburton,  Ronald Boone<a href="//filmbloggen.net/2012/08/09/verdens-morsomste-bjorn/ted2/" rel="attachment wp-att-6020"><img class="alignnone size-large wp-image-6020" src="/wp-content/uploads//2012/08/ted2-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: UIP</em>
 
     John, <em>(Mark Wahlberg)</em> og teddybjørnen Ted <em>(Seth Macfarlane)</em> har vært venner fra barndommen av, etter at et magisk ønske gikk i oppfyllelse. Nå er de begge voksne og har ikke gjort så mye med livene sine siden. De røyker pot, ser på nerdete filmer og lever av bilutleiejobben til John og dama hans, spilt av Mila Kunis. Hun på sin side er lei av at John ikke tar ansvar for livet sitt og vil ha Ted ut av leiligheten.
@@ -230,7 +230,7 @@ meta:
     <strong>Spilletid: </strong>1 time og 58 minutter
     <strong>Regi:</strong> Seth MacFarlane
     <strong>Manus:</strong> Seth MacFarlane, Alec Sulkin, Wellesley Wild
-    <strong>Skuespillere:</strong> Seth MacFarlane, Mila Kunis, Mark Wahlberg, Joel McHale, Patrick Warburton,  Ronald Boone<a href="//filmbloggen.net/2012/08/09/verdens-morsomste-bjorn/ted2/" rel="attachment wp-att-6020"><img class="alignnone size-large wp-image-6020" src="//filmbloggen.net/wp-content/uploads//2012/08/ted2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <strong>Skuespillere:</strong> Seth MacFarlane, Mila Kunis, Mark Wahlberg, Joel McHale, Patrick Warburton,  Ronald Boone<a href="//filmbloggen.net/2012/08/09/verdens-morsomste-bjorn/ted2/" rel="attachment wp-att-6020"><img class="alignnone size-large wp-image-6020" src="/wp-content/uploads//2012/08/ted2-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: UIP</em>
 
     John, <em>(Mark Wahlberg)</em> og teddybjørnen Ted <em>(Seth Macfarlane)</em> har vært venner fra barndommen av, etter at et magisk ønske gikk i oppfyllelse. Nå er de begge voksne og har ikke gjort så mye med livene sine siden. De røyker pot, ser på nerdete filmer og lever av bilutleiejobben til John og dama hans, spilt av Mila Kunis. Hun på sin side er lei av at John ikke tar ansvar for livet sitt og vil ha Ted ut av leiligheten.
@@ -259,7 +259,7 @@ meta:
     <strong>Spilletid: </strong>1 time og 58 minutter
     <strong>Regi:</strong> Seth MacFarlane
     <strong>Manus:</strong> Seth MacFarlane, Alec Sulkin, Wellesley Wild
-    <strong>Skuespillere:</strong> Seth MacFarlane, Mila Kunis, Mark Wahlberg, Joel McHale, Patrick Warburton,  Ronald Boone<a href="//filmbloggen.net/2012/08/09/verdens-morsomste-bjorn/ted2/" rel="attachment wp-att-6020"><img class="alignnone size-large wp-image-6020" src="//filmbloggen.net/wp-content/uploads//2012/08/ted2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <strong>Skuespillere:</strong> Seth MacFarlane, Mila Kunis, Mark Wahlberg, Joel McHale, Patrick Warburton,  Ronald Boone<a href="//filmbloggen.net/2012/08/09/verdens-morsomste-bjorn/ted2/" rel="attachment wp-att-6020"><img class="alignnone size-large wp-image-6020" src="/wp-content/uploads//2012/08/ted2-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: UIP</em>
 
     John, <em>(Mark Wahlberg)</em> og teddybjørnen Ted <em>(Seth Macfarlane)</em> har vært venner fra barndommen av, etter at et magisk ønske gikk i oppfyllelse. Nå er de begge voksne og har ikke gjort så mye med livene sine siden. De røyker pot, ser på nerdete filmer og lever av bilutleiejobben til John og dama hans, spilt av Mila Kunis. Hun på sin side er lei av at John ikke tar ansvar for livet sitt og vil ha Ted ut av leiligheten.
@@ -320,7 +320,7 @@ tags:
 **Spilletid:** 1 time og 58 minutter
 **Regi:** Seth MacFarlane
 **Manus:** Seth MacFarlane, Alec Sulkin, Wellesley Wild
-**Skuespillere:** Seth MacFarlane, Mila Kunis, Mark Wahlberg, Joel McHale, Patrick Warburton,  Ronald Boone<a href="//filmbloggen.net/2012/08/09/verdens-morsomste-bjorn/ted2/" rel="attachment wp-att-6020"><img class="alignnone size-large wp-image-6020" src="//filmbloggen.net/wp-content/uploads//2012/08/ted2-620x348.jpg" alt="" width="620" height="348" /></a>
+**Skuespillere:** Seth MacFarlane, Mila Kunis, Mark Wahlberg, Joel McHale, Patrick Warburton,  Ronald Boone<a href="//filmbloggen.net/2012/08/09/verdens-morsomste-bjorn/ted2/" rel="attachment wp-att-6020"><img class="alignnone size-large wp-image-6020" src="/wp-content/uploads//2012/08/ted2-620x348.jpg" alt="" width="620" height="348" /></a>
 _Foto: UIP_
 
 John, _(Mark Wahlberg)_ og teddybjørnen Ted _(Seth Macfarlane)_ har vært venner fra barndommen av, etter at et magisk ønske gikk i oppfyllelse. Nå er de begge voksne og har ikke gjort så mye med livene sine siden. De røyker pot, ser på nerdete filmer og lever av bilutleiejobben til John og dama hans, spilt av Mila Kunis. Hun på sin side er lei av at John ikke tar ansvar for livet sitt og vil ha Ted ut av leiligheten.

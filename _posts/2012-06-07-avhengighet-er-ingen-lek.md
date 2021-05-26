@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Michael Fassbender, Carey Mulligan, James Badge Dale, Nicole Beharie, Elizabeth Masucci.
     <strong>Spilletid:</strong> 1 time og 41 minutter
 
-    <a href="//filmbloggen.net/2012/06/07/avhengighet-er-ingen-lek/michael-fassbender-in-shame/" rel="attachment wp-att-3932"><img class="alignnone size-large wp-image-3932" src="//filmbloggen.net/wp-content/uploads//2012/06/Michael-Fassbender-in-Shame-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/06/07/avhengighet-er-ingen-lek/michael-fassbender-in-shame/" rel="attachment wp-att-3932"><img class="alignnone size-large wp-image-3932" src="/wp-content/uploads//2012/06/Michael-Fassbender-in-Shame-620x412.jpg" alt="" width="620" height="412" /></a>
 
     Brandon Sullivan (Michael Fassbender) lever et tilsynelatende bekymringsløst liv. Han har en bra jobb og en fin leilighet i New York, men bak fasaden skjuler det seg en meget ensom mann - en mann som har et umettelig behov for sex. Han lever et liv preget av utallige one-night stands med kvinner (som kun er ute etter uforpliktende sex). Og når Sissy (Carey Mulligan), hans søster, kommer på et uventet besøk for å bo hos ham til ting, som hun så fint sier, "ordner seg", blir hans uvanlige livsstil øyeblikkelig avbrutt. Det utvikler seg et stort dilemma for Brandon: dersom han skal kunne fortsette sin elleville livsstil må han kaste sitt eneste gjenværende familiemedlem på dør.
 
@@ -64,7 +64,7 @@ post_content:
     <strong>Skuespillere:</strong> Michael Fassbender, Carey Mulligan, James Badge Dale, Nicole Beharie, Elizabeth Masucci.
     <strong>Spilletid:</strong> 1 time og 41 minutter
 
-    <a href="//filmbloggen.net/2012/06/07/avhengighet-er-ingen-lek/michael-fassbender-in-shame/" rel="attachment wp-att-3932"><img class="alignnone size-large wp-image-3932" src="//filmbloggen.net/wp-content/uploads//2012/06/Michael-Fassbender-in-Shame-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/06/07/avhengighet-er-ingen-lek/michael-fassbender-in-shame/" rel="attachment wp-att-3932"><img class="alignnone size-large wp-image-3932" src="/wp-content/uploads//2012/06/Michael-Fassbender-in-Shame-620x412.jpg" alt="" width="620" height="412" /></a>
 
     Brandon Sullivan (Michael Fassbender) lever et tilsynelatende bekymringsløst liv. Han har en bra jobb og en fin leilighet i New York, men bak fasaden skjuler det seg en meget ensom mann - en mann som har et umettelig behov for sex. Han lever et liv preget av utallige one-night stands med kvinner (som kun er ute etter uforpliktende sex). Og når Sissy (Carey Mulligan), hans søster, kommer på et uventet besøk for å bo hos ham til ting, som hun så fint sier, "ordner seg", blir hans uvanlige livsstil øyeblikkelig avbrutt. Det utvikler seg et stort dilemma for Brandon: dersom han skal kunne fortsette sin elleville livsstil må han kaste sitt eneste gjenværende familiemedlem på dør.
 
@@ -171,7 +171,7 @@ meta:
     <strong>Skuespillere:</strong> Michael Fassbender, Carey Mulligan, James Badge Dale, Nicole Beharie, Elizabeth Masucci.
     <strong>Spilletid:</strong> 1 time og 41 minutter
 
-    <a href="//filmbloggen.net/2012/06/07/avhengighet-er-ingen-lek/michael-fassbender-in-shame/" rel="attachment wp-att-3932"><img class="alignnone size-large wp-image-3932" src="//filmbloggen.net/wp-content/uploads//2012/06/Michael-Fassbender-in-Shame-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/06/07/avhengighet-er-ingen-lek/michael-fassbender-in-shame/" rel="attachment wp-att-3932"><img class="alignnone size-large wp-image-3932" src="/wp-content/uploads//2012/06/Michael-Fassbender-in-Shame-620x412.jpg" alt="" width="620" height="412" /></a>
 
     Brandon Sullivan (Michael Fassbender) lever et tilsynelatende bekymringsløst liv. Han har en bra jobb og en fin leilighet i New York, men bak fasaden skjuler det seg en meget ensom mann - en mann som har et umettelig behov for sex. Han lever et liv preget av utallige one-night stands med kvinner (som kun er ute etter uforpliktende sex). Og når Sissy (Carey Mulligan), hans søster, kommer på et uventet besøk for å bo hos ham til ting, som hun så fint sier, "ordner seg", blir hans uvanlige livsstil øyeblikkelig avbrutt. Det utvikler seg et stort dilemma for Brandon: dersom han skal kunne fortsette sin elleville livsstil må han kaste sitt eneste gjenværende familiemedlem på dør.
 
@@ -193,7 +193,7 @@ meta:
     <strong>Skuespillere:</strong> Michael Fassbender, Carey Mulligan, James Badge Dale, Nicole Beharie, Elizabeth Masucci.
     <strong>Spilletid:</strong> 1 time og 41 minutter
 
-    <a href="//filmbloggen.net/2012/06/07/avhengighet-er-ingen-lek/michael-fassbender-in-shame/" rel="attachment wp-att-3932"><img class="alignnone size-large wp-image-3932" src="//filmbloggen.net/wp-content/uploads//2012/06/Michael-Fassbender-in-Shame-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2012/06/07/avhengighet-er-ingen-lek/michael-fassbender-in-shame/" rel="attachment wp-att-3932"><img class="alignnone size-large wp-image-3932" src="/wp-content/uploads//2012/06/Michael-Fassbender-in-Shame-620x412.jpg" alt="" width="620" height="412" /></a>
 
     Brandon Sullivan (Michael Fassbender) lever et tilsynelatende bekymringsløst liv. Han har en bra jobb og en fin leilighet i New York, men bak fasaden skjuler det seg en meget ensom mann - en mann som har et umettelig behov for sex. Han lever et liv preget av utallige one-night stands med kvinner (som kun er ute etter uforpliktende sex). Og når Sissy (Carey Mulligan), hans søster, kommer på et uventet besøk for å bo hos ham til ting, som hun så fint sier, "ordner seg", blir hans uvanlige livsstil øyeblikkelig avbrutt. Det utvikler seg et stort dilemma for Brandon: dersom han skal kunne fortsette sin elleville livsstil må han kaste sitt eneste gjenværende familiemedlem på dør.
 
@@ -290,7 +290,7 @@ tags:
 **Skuespillere:** Michael Fassbender, Carey Mulligan, James Badge Dale, Nicole Beharie, Elizabeth Masucci.
 **Spilletid:** 1 time og 41 minutter
 
-<a href="//filmbloggen.net/2012/06/07/avhengighet-er-ingen-lek/michael-fassbender-in-shame/" rel="attachment wp-att-3932"><img class="alignnone size-large wp-image-3932" src="//filmbloggen.net/wp-content/uploads//2012/06/Michael-Fassbender-in-Shame-620x412.jpg" alt="" width="620" height="412" /></a>
+<a href="//filmbloggen.net/2012/06/07/avhengighet-er-ingen-lek/michael-fassbender-in-shame/" rel="attachment wp-att-3932"><img class="alignnone size-large wp-image-3932" src="/wp-content/uploads//2012/06/Michael-Fassbender-in-Shame-620x412.jpg" alt="" width="620" height="412" /></a>
 
 Brandon Sullivan (Michael Fassbender) lever et tilsynelatende bekymringsløst liv. Han har en bra jobb og en fin leilighet i New York, men bak fasaden skjuler det seg en meget ensom mann – en mann som har et umettelig behov for sex. Han lever et liv preget av utallige one-night stands med kvinner (som kun er ute etter uforpliktende sex). Og når Sissy (Carey Mulligan), hans søster, kommer på et uventet besøk for å bo hos ham til ting, som hun så fint sier, «ordner seg», blir hans uvanlige livsstil øyeblikkelig avbrutt. Det utvikler seg et stort dilemma for Brandon: dersom han skal kunne fortsette sin elleville livsstil må han kaste sitt eneste gjenværende familiemedlem på dør.
 

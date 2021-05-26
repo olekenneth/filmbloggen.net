@@ -99,7 +99,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Dette er nå bekreftet både av produsent Mark Wahlberg og av skuespiller Jeremy Piven som spiller Ari Gold i serien.
-    <a href="//filmbloggen.net/2011/10/11/bekreftet-at-det-jobbes-med-en-entourage-film/entourage-entourage-124106_1024_768_20110729021555/" rel="attachment wp-att-1382"><img class="alignnone size-large wp-image-1382" title="entourage-entourage-124106_1024_768_20110729021555" src="//filmbloggen.net/wp-content/uploads//2011/10/entourage-entourage-124106_1024_768_20110729021555-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/2011/10/11/bekreftet-at-det-jobbes-med-en-entourage-film/entourage-entourage-124106_1024_768_20110729021555/" rel="attachment wp-att-1382"><img class="alignnone size-large wp-image-1382" title="entourage-entourage-124106_1024_768_20110729021555" src="/wp-content/uploads//2011/10/entourage-entourage-124106_1024_768_20110729021555-620x465.jpg" alt="" width="620" height="465" /></a>
     </strong>Etter åtte suksessfulle sesonger var det mange som var redd for at det var slutten for Entourage-guttene. Men Mark Wahlberg fortalte følgende til People i helgen.
     - It better happen. We're working on a movie as we speak.
 
@@ -166,7 +166,7 @@ post_mime_type:
 post_content:
   - |
     <strong>Dette er nå bekreftet både av produsent Mark Wahlberg og av skuespiller Jeremy Piven som spiller Ari Gold i serien.
-    <a href="//filmbloggen.net/2011/10/11/bekreftet-at-det-jobbes-med-en-entourage-film/entourage-entourage-124106_1024_768_20110729021555/" rel="attachment wp-att-1382"><img class="alignnone size-large wp-image-1382" title="entourage-entourage-124106_1024_768_20110729021555" src="//filmbloggen.net/wp-content/uploads//2011/10/entourage-entourage-124106_1024_768_20110729021555-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/2011/10/11/bekreftet-at-det-jobbes-med-en-entourage-film/entourage-entourage-124106_1024_768_20110729021555/" rel="attachment wp-att-1382"><img class="alignnone size-large wp-image-1382" title="entourage-entourage-124106_1024_768_20110729021555" src="/wp-content/uploads//2011/10/entourage-entourage-124106_1024_768_20110729021555-620x465.jpg" alt="" width="620" height="465" /></a>
     </strong>Etter åtte suksessfulle sesonger var det mange som var redd for at det var slutten for Entourage-guttene. Men Mark Wahlberg fortalte følgende til People i helgen.
     - It better happen. We're working on a movie as we speak.
 
@@ -187,7 +187,7 @@ save:
 meta:
   - |
     a:74:{i:10218;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:10197;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:10249;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:10206;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"c4492f9301";}i:10204;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:10208;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"8b9eaa8956";}i:10250;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:10242;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1755:"<strong>Dette er nå bekreftet både av produsent Mark Wahlberg og av skuespiller Jeremy Piven som spiller Ari Gold i serien.
-    <a href="//filmbloggen.net/2011/09/13/kommer-det-en-entourage-film/entourage_040607_23-thumb/" rel="attachment wp-att-868"><img class="alignnone size-full wp-image-868" title="entourage_040607_23-thumb" src="//filmbloggen.net/wp-content/uploads//2011/09/entourage_040607_23-thumb.jpg" alt="" width="450" height="299" /></a>
+    <a href="//filmbloggen.net/2011/09/13/kommer-det-en-entourage-film/entourage_040607_23-thumb/" rel="attachment wp-att-868"><img class="alignnone size-full wp-image-868" title="entourage_040607_23-thumb" src="/wp-content/uploads//2011/09/entourage_040607_23-thumb.jpg" alt="" width="450" height="299" /></a>
     </strong>Etter åtte suksessfulle sesonger var det mange som var redd for at det var slutten for Entourage-guttene. Men Mark Wahlberg fortalte følgende til People i helgen.
     - It better happen. We're working on a movie as we speak.
 
@@ -197,7 +197,7 @@ meta:
     - The dream job he got offered is too good to pass up.
 
     Dette får du tolke akkurat som du vil, men alt ligger uansett til rette for en vanvittig bra film (kanskje kan vi håpe for flere enn en?). Det blir spennende å se!";}i:10227;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:10229;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"12";}i:10225;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"11";}i:10223;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"10";}i:10231;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"26";}i:10254;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:10243;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:10219;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"12";}i:10226;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:10228;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"12";}i:10224;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"11";}i:10222;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"10";}i:10230;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"26";}i:10212;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:10210;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:10213;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:10270;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"1377";}i:10216;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"11";}i:10207;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"a384105ffb";}i:10246;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:10245;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:10247;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:10217;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"10";}i:10220;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"26";}i:10234;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:10235;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:10198;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:10201;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:10:"auto-draft";}i:10232;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:10251;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:10199;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:10253;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:10272;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1755:"<strong>Dette er nå bekreftet både av produsent Mark Wahlberg og av skuespiller Jeremy Piven som spiller Ari Gold i serien.
-    <a href="//filmbloggen.net/2011/09/13/kommer-det-en-entourage-film/entourage_040607_23-thumb/" rel="attachment wp-att-868"><img class="alignnone size-full wp-image-868" title="entourage_040607_23-thumb" src="//filmbloggen.net/wp-content/uploads//2011/09/entourage_040607_23-thumb.jpg" alt="" width="450" height="299" /></a>
+    <a href="//filmbloggen.net/2011/09/13/kommer-det-en-entourage-film/entourage_040607_23-thumb/" rel="attachment wp-att-868"><img class="alignnone size-full wp-image-868" title="entourage_040607_23-thumb" src="/wp-content/uploads//2011/09/entourage_040607_23-thumb.jpg" alt="" width="450" height="299" /></a>
     </strong>Etter åtte suksessfulle sesonger var det mange som var redd for at det var slutten for Entourage-guttene. Men Mark Wahlberg fortalte følgende til People i helgen.
     - It better happen. We're working on a movie as we speak.
 
@@ -211,7 +211,7 @@ categories:
   - Komedie
 ---
 **Dette er nå bekreftet både av produsent Mark Wahlberg og av skuespiller Jeremy Piven som spiller Ari Gold i serien.
-<a href="//filmbloggen.net/2011/10/11/bekreftet-at-det-jobbes-med-en-entourage-film/entourage-entourage-124106_1024_768_20110729021555/" rel="attachment wp-att-1382"><img class="alignnone size-large wp-image-1382" src="//filmbloggen.net/wp-content/uploads//2011/10/entourage-entourage-124106_1024_768_20110729021555-620x465.jpg" alt="" width="620" height="465" /></a>
+<a href="//filmbloggen.net/2011/10/11/bekreftet-at-det-jobbes-med-en-entourage-film/entourage-entourage-124106_1024_768_20110729021555/" rel="attachment wp-att-1382"><img class="alignnone size-large wp-image-1382" src="/wp-content/uploads//2011/10/entourage-entourage-124106_1024_768_20110729021555-620x465.jpg" alt="" width="620" height="465" /></a>
 ** Etter åtte suksessfulle sesonger var det mange som var redd for at det var slutten for Entourage-guttene. Men Mark Wahlberg fortalte følgende til People i helgen.
 – It better happen. We’re working on a movie as we speak.
 

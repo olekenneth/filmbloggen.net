@@ -19,7 +19,7 @@ content:
     <strong>Regi:</strong> Woody Allen
     <strong>Skuespillere:</strong> Jonathan Rhys Meyers, Scarlett Johansson, Emily Mortimer, Matthew Goode & Brian Cox.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
-    <a href="//filmbloggen.net/2012/01/16/pulserende-kjaerlighet-og-voldsomt-begjaer/match-point/" rel="attachment wp-att-1926"><img class="alignnone size-large wp-image-1926" src="//filmbloggen.net/wp-content/uploads//2012/01/match-point-620x401.jpg" alt="" width="620" height="401" /></a>
+    <a href="//filmbloggen.net/2012/01/16/pulserende-kjaerlighet-og-voldsomt-begjaer/match-point/" rel="attachment wp-att-1926"><img class="alignnone size-large wp-image-1926" src="/wp-content/uploads//2012/01/match-point-620x401.jpg" alt="" width="620" height="401" /></a>
     Woody Allen er en regissør jeg har hørt mye snakk om, men jeg har ikke oppdaget hvor fantastisk han er før nå. Han er blant annet mannen bak suksessene "Annie Hall", "Manhattan" og den relativt nye "Midnight in Paris". Han fokuserer mye på romanser, kjærlighet og selvrealisering.
 
     I Match Point følger vi en mann ved navn Chris Wilton, en tidligere tennisproff som akkurat har anskaffet seg en liten leilighet i London. Barndommen hans var sterkt preget av fattigdom, men tennissporten var hans vei ut av fattigdomshelvete. En ting han helst vil unngå er å leve under sine egne materalistiske behov og dyder. Chris er en særdeles intellektuell person, han leser blant annet boken "Forbrytelse og straff" av Fjodor Dostojevskij (en russisk forfatter som blant annet skriver mye om psykologi i datidens russiske samfunn).
@@ -54,7 +54,7 @@ post_content:
     <strong>Regi:</strong> Woody Allen
     <strong>Skuespillere:</strong> Jonathan Rhys Meyers, Scarlett Johansson, Emily Mortimer, Matthew Goode & Brian Cox.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
-    <a href="//filmbloggen.net/2012/01/16/pulserende-kjaerlighet-og-voldsomt-begjaer/match-point/" rel="attachment wp-att-1926"><img class="alignnone size-large wp-image-1926" src="//filmbloggen.net/wp-content/uploads//2012/01/match-point-620x401.jpg" alt="" width="620" height="401" /></a>
+    <a href="//filmbloggen.net/2012/01/16/pulserende-kjaerlighet-og-voldsomt-begjaer/match-point/" rel="attachment wp-att-1926"><img class="alignnone size-large wp-image-1926" src="/wp-content/uploads//2012/01/match-point-620x401.jpg" alt="" width="620" height="401" /></a>
     Woody Allen er en regissør jeg har hørt mye snakk om, men jeg har ikke oppdaget hvor fantastisk han er før nå. Han er blant annet mannen bak suksessene "Annie Hall", "Manhattan" og den relativt nye "Midnight in Paris". Han fokuserer mye på romanser, kjærlighet og selvrealisering.
 
     I Match Point følger vi en mann ved navn Chris Wilton, en tidligere tennisproff som akkurat har anskaffet seg en liten leilighet i London. Barndommen hans var sterkt preget av fattigdom, men tennissporten var hans vei ut av fattigdomshelvete. En ting han helst vil unngå er å leve under sine egne materalistiske behov og dyder. Chris er en særdeles intellektuell person, han leser blant annet boken "Forbrytelse og straff" av Fjodor Dostojevskij (en russisk forfatter som blant annet skriver mye om psykologi i datidens russiske samfunn).
@@ -145,7 +145,7 @@ meta:
     <strong>Regi:</strong> Woody Allen
     <strong>Skuespillere:</strong> Jonathan Rhys Meyers, Scarlett Johansson, Emily Mortimer, Matthew Goode & Brian Cox.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
-    <a href="//filmbloggen.net/2012/01/16/pulserende-kjaerlighet-og-voldsomt-begjaer/match-point/" rel="attachment wp-att-1926"><img class="alignnone size-large wp-image-1926" src="//filmbloggen.net/wp-content/uploads//2012/01/match-point-620x401.jpg" alt="" width="620" height="401" /></a>
+    <a href="//filmbloggen.net/2012/01/16/pulserende-kjaerlighet-og-voldsomt-begjaer/match-point/" rel="attachment wp-att-1926"><img class="alignnone size-large wp-image-1926" src="/wp-content/uploads//2012/01/match-point-620x401.jpg" alt="" width="620" height="401" /></a>
     Woody Allen er en regissør jeg har hørt mye snakk om, men jeg har ikke oppdaget hvor fantastisk han er før nå. Han er blant annet mannen bak suksessene "Annie Hall", "Manhattan" og den relativt nye "Midnight in Paris". Han fokuserer mye på romanser, kjærlighet og selvrealisering.
 
     I Match Point følger vi en mann ved navn Chris Wilton, en tidligere tennisproff som akkurat har anskaffet seg en liten leilighet i London. Barndommen hans var sterkt preget av fattigdom, men tennissporten var hans vei ut av fattigdomshelvete. En ting han helst vil unngå er å leve under sine egne materalistiske behov og dyder. Chris er en særdeles intellektuell person, han leser blant annet boken "Forbrytelse og straff" av Fjodor Dostojevskij (en russisk forfatter som blant annet skriver mye om psykologi i datidens russiske samfunn).
@@ -157,7 +157,7 @@ meta:
     <strong>Regi:</strong> Woody Allen
     <strong>Skuespillere:</strong> Jonathan Rhys Meyers, Scarlett Johansson, Emily Mortimer, Matthew Goode & Brian Cox.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
-    <a href="//filmbloggen.net/2012/01/16/pulserende-kjaerlighet-og-voldsomt-begjaer/match-point/" rel="attachment wp-att-1926"><img class="alignnone size-large wp-image-1926" src="//filmbloggen.net/wp-content/uploads//2012/01/match-point-620x401.jpg" alt="" width="620" height="401" /></a>
+    <a href="//filmbloggen.net/2012/01/16/pulserende-kjaerlighet-og-voldsomt-begjaer/match-point/" rel="attachment wp-att-1926"><img class="alignnone size-large wp-image-1926" src="/wp-content/uploads//2012/01/match-point-620x401.jpg" alt="" width="620" height="401" /></a>
     Woody Allen er en regissør jeg har hørt mye snakk om, men jeg har ikke oppdaget hvor fantastisk han er før nå. Han er blant annet mannen bak suksessene "Annie Hall", "Manhattan" og den relativt nye "Midnight in Paris". Han fokuserer mye på romanser, kjærlighet og selvrealisering.
 
     I Match Point følger vi en mann ved navn Chris Wilton, en tidligere tennisproff som akkurat har anskaffet seg en liten leilighet i London. Barndommen hans var sterkt preget av fattigdom, men tennissporten var hans vei ut av fattigdomshelvete. En ting han helst vil unngå er å leve under sine egne materalistiske behov og dyder. Chris er en særdeles intellektuell person, han leser blant annet boken "Forbrytelse og straff" av Fjodor Dostojevskij (en russisk forfatter som blant annet skriver mye om psykologi i datidens russiske samfunn).
@@ -239,7 +239,7 @@ tags:
 **Regi:** Woody Allen
 **Skuespillere:** Jonathan Rhys Meyers, Scarlett Johansson, Emily Mortimer, Matthew Goode & Brian Cox.
 **Spilletid:** 2 timer og 4 minutter
-<a href="//filmbloggen.net/2012/01/16/pulserende-kjaerlighet-og-voldsomt-begjaer/match-point/" rel="attachment wp-att-1926"><img class="alignnone size-large wp-image-1926" src="//filmbloggen.net/wp-content/uploads//2012/01/match-point-620x401.jpg" alt="" width="620" height="401" /></a>
+<a href="//filmbloggen.net/2012/01/16/pulserende-kjaerlighet-og-voldsomt-begjaer/match-point/" rel="attachment wp-att-1926"><img class="alignnone size-large wp-image-1926" src="/wp-content/uploads//2012/01/match-point-620x401.jpg" alt="" width="620" height="401" /></a>
 Woody Allen er en regissør jeg har hørt mye snakk om, men jeg har ikke oppdaget hvor fantastisk han er før nå. Han er blant annet mannen bak suksessene «Annie Hall», «Manhattan» og den relativt nye «Midnight in Paris». Han fokuserer mye på romanser, kjærlighet og selvrealisering.
 
 I Match Point følger vi en mann ved navn Chris Wilton, en tidligere tennisproff som akkurat har anskaffet seg en liten leilighet i London. Barndommen hans var sterkt preget av fattigdom, men tennissporten var hans vei ut av fattigdomshelvete. En ting han helst vil unngå er å leve under sine egne materalistiske behov og dyder. Chris er en særdeles intellektuell person, han leser blant annet boken «Forbrytelse og straff» av Fjodor Dostojevskij (en russisk forfatter som blant annet skriver mye om psykologi i datidens russiske samfunn).

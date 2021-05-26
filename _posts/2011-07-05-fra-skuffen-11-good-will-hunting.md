@@ -109,7 +109,7 @@ content:
     <strong>Spilletid:</strong> </strong>2 timer og 6 minutter<strong>
     <strong>Regissør: </strong></strong>Gus Van Sant
     <strong>Med: </strong>Matt Damon, Robin Williams, Minnie Driver, Stellan Skarsgård og Ben Affleck
-    <a href="//filmbloggen.net/wp-content/uploads//2011/07/good_will_hunting.jpg"><img class="alignnone size-full wp-image-487" src="//filmbloggen.net/wp-content/uploads//2011/07/good_will_hunting.jpg" alt="" width="600" height="400" /></a>
+    <a href="/wp-content/uploads//2011/07/good_will_hunting.jpg"><img class="alignnone size-full wp-image-487" src="/wp-content/uploads//2011/07/good_will_hunting.jpg" alt="" width="600" height="400" /></a>
     <strong><strong></strong></strong>Will Hunting (Matt Damon) er en 20-årig vaskehjelp fra slummen som viser seg å være et matematisk geni. Matteprofessor Gerald Lambeau (Stellan Skarsgård) gir alt for å gjøre sin sjeldne oppdagelse til stjerne. Men gutten har en tøff bakgrunn, banket opp i fosterhjemmet sitt og har vært inn og ut av ungdomsfengsler og slåsskamper mer eller mindre hele livet. Sean Maguire (Robin Williams) får jobben på å prøve å rydde opp i det rotete livet og setter prioriteringene til unggutten i orden.
 
     Filmen handler rett og slett om at det viktigste i livet er å være lykkelig med seg selv. Uansett hva det betyr for deg. Filmen har mye god humor i seg og den er spilt av skuespillere som i dag er monsterstore. Men som den gangen ikke var veldig kjente fjes, med unntak av Robin Williams. Ben Affleck og Matt Damon står for manuset sammen og begge to gjorde på mange måter karrieren sin på denne filmen. Filmen vant to oscar, både for beste manus og for beste birolle.
@@ -199,7 +199,7 @@ post_content:
     <strong>Spilletid:</strong> </strong>2 timer og 6 minutter<strong>
     <strong>Regissør: </strong></strong>Gus Van Sant
     <strong>Med: </strong>Matt Damon, Robin Williams, Minnie Driver, Stellan Skarsgård og Ben Affleck
-    <a href="//filmbloggen.net/wp-content/uploads//2011/07/good_will_hunting.jpg"><img class="alignnone size-full wp-image-487" src="//filmbloggen.net/wp-content/uploads//2011/07/good_will_hunting.jpg" alt="" width="600" height="400" /></a>
+    <a href="/wp-content/uploads//2011/07/good_will_hunting.jpg"><img class="alignnone size-full wp-image-487" src="/wp-content/uploads//2011/07/good_will_hunting.jpg" alt="" width="600" height="400" /></a>
     <strong><strong></strong></strong>Will Hunting (Matt Damon) er en 20-årig vaskehjelp fra slummen som viser seg å være et matematisk geni. Matteprofessor Gerald Lambeau (Stellan Skarsgård) gir alt for å gjøre sin sjeldne oppdagelse til stjerne. Men gutten har en tøff bakgrunn, banket opp i fosterhjemmet sitt og har vært inn og ut av ungdomsfengsler og slåsskamper mer eller mindre hele livet. Sean Maguire (Robin Williams) får jobben på å prøve å rydde opp i det rotete livet og setter prioriteringene til unggutten i orden.
 
     Filmen handler rett og slett om at det viktigste i livet er å være lykkelig med seg selv. Uansett hva det betyr for deg. Filmen har mye god humor i seg og den er spilt av skuespillere som i dag er monsterstore. Men som den gangen ikke var veldig kjente fjes, med unntak av Robin Williams. Ben Affleck og Matt Damon står for manuset sammen og begge to gjorde på mange måter karrieren sin på denne filmen. Filmen vant to oscar, både for beste manus og for beste birolle.
@@ -248,7 +248,7 @@ Kategori:**** Drama**
 **Spilletid:**** 2 timer og 6 minutter**
 **Regissør:**** Gus Van Sant
 **Med: **Matt Damon, Robin Williams, Minnie Driver, Stellan Skarsgård og Ben Affleck
-[<img class="alignnone size-full wp-image-487" src="//filmbloggen.net/wp-content/uploads//2011/07/good_will_hunting.jpg" alt="" width="600" height="400" />](//filmbloggen.net/wp-content/uploads//2011/07/good_will_hunting.jpg)
+[<img class="alignnone size-full wp-image-487" src="/wp-content/uploads//2011/07/good_will_hunting.jpg" alt="" width="600" height="400" />](/wp-content/uploads//2011/07/good_will_hunting.jpg)
 ********Will Hunting (Matt Damon) er en 20-årig vaskehjelp fra slummen som viser seg å være et matematisk geni. Matteprofessor Gerald Lambeau (Stellan Skarsgård) gir alt for å gjøre sin sjeldne oppdagelse til stjerne. Men gutten har en tøff bakgrunn, banket opp i fosterhjemmet sitt og har vært inn og ut av ungdomsfengsler og slåsskamper mer eller mindre hele livet. Sean Maguire (Robin Williams) får jobben på å prøve å rydde opp i det rotete livet og setter prioriteringene til unggutten i orden.
 
 Filmen handler rett og slett om at det viktigste i livet er å være lykkelig med seg selv. Uansett hva det betyr for deg. Filmen har mye god humor i seg og den er spilt av skuespillere som i dag er monsterstore. Men som den gangen ikke var veldig kjente fjes, med unntak av Robin Williams. Ben Affleck og Matt Damon står for manuset sammen og begge to gjorde på mange måter karrieren sin på denne filmen. Filmen vant to oscar, både for beste manus og for beste birolle.

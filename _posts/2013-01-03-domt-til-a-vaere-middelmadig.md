@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Karl Urban, Olivia Thirlby, Rakie Ayola, Lena Headey, Joe Vaz, Domhnall Gleeson.
     <strong>Spilletid:</strong> 1 time og 35 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=9060" rel="attachment wp-att-9060"><img class="alignnone size-large wp-image-9060" src="//filmbloggen.net/wp-content/uploads//2013/01/DreddReview-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/?attachment_id=9060" rel="attachment wp-att-9060"><img class="alignnone size-large wp-image-9060" src="/wp-content/uploads//2013/01/DreddReview-620x412.jpg" alt="" width="620" height="412" /></a>
 
     <strong>Judge Dredd har eksistert i tegneserieformat siden 1977.</strong> Dens første filmatisering, Judge Dredd med Sylvester Stallone fra 1995, ble ikke godt mottatt av kritikerne. De mente den var vanskelig å ta på alvor. Nå er remaken her og den er unektelig bedre. Den heves noe nettopp pga sin mindre vellykkede forgjenger, men det betyr ikke at den bra i forhold til andre lignende Sci-Fi filmer. Den scorer lavt hos meg selv om universet er spennende og Karl Urbans tolkning er langt mer autentisk - ettersom han aldri tar av seg hjelmen og forblir et mysterium gjennom hele filmen. Remaken bringer mye nytt, men de nye innblikkene er ikke gode nok til å bedre filmen.
 
@@ -65,7 +65,7 @@ post_content:
     <strong>Skuespillere:</strong> Karl Urban, Olivia Thirlby, Rakie Ayola, Lena Headey, Joe Vaz, Domhnall Gleeson.
     <strong>Spilletid:</strong> 1 time og 35 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=9060" rel="attachment wp-att-9060"><img class="alignnone size-large wp-image-9060" src="//filmbloggen.net/wp-content/uploads//2013/01/DreddReview-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/?attachment_id=9060" rel="attachment wp-att-9060"><img class="alignnone size-large wp-image-9060" src="/wp-content/uploads//2013/01/DreddReview-620x412.jpg" alt="" width="620" height="412" /></a>
 
     <strong>Judge Dredd har eksistert i tegneserieformat siden 1977.</strong> Dens første filmatisering, Judge Dredd med Sylvester Stallone fra 1995, ble ikke godt mottatt av kritikerne. De mente den var vanskelig å ta på alvor. Nå er remaken her og den er unektelig bedre. Den heves noe nettopp pga sin mindre vellykkede forgjenger, men det betyr ikke at den bra i forhold til andre lignende Sci-Fi filmer. Den scorer lavt hos meg selv om universet er spennende og Karl Urbans tolkning er langt mer autentisk - ettersom han aldri tar av seg hjelmen og forblir et mysterium gjennom hele filmen. Remaken bringer mye nytt, men de nye innblikkene er ikke gode nok til å bedre filmen.
 
@@ -171,7 +171,7 @@ meta:
     <strong>Skuespillere:</strong> Karl Urban, Olivia Thirlby, Rakie Ayola, Lena Headey, Joe Vaz, Domhnall Gleeson.
     <strong>Spilletid:</strong> 1 time og 35 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=9060" rel="attachment wp-att-9060"><img class="alignnone size-large wp-image-9060" src="//filmbloggen.net/wp-content/uploads//2013/01/DreddReview-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/?attachment_id=9060" rel="attachment wp-att-9060"><img class="alignnone size-large wp-image-9060" src="/wp-content/uploads//2013/01/DreddReview-620x412.jpg" alt="" width="620" height="412" /></a>
 
     <strong>Judge Dredd har eksistert i tegneserieformat siden 1977.</strong> Dens første filmatisering, Judge Dredd med Sylvester Stallone fra 1995, ble ikke godt mottatt av kritikerne. De mente den var vanskelig å ta på alvor. Nå er remaken her og den er unektelig bedre. Den heves noe nettopp pga sin mindre vellykkede forgjenger, men det betyr ikke at den bra i forhold til andre lignende Sci-Fi filmer. Den scorer lavt hos meg selv om universet er spennende og Karl Urbans tolkning er langt mer autentisk - ettersom han aldri tar av seg hjelmen og forblir et mysterium gjennom hele filmen. Remaken bringer mye nytt, men de nye innblikkene er ikke gode nok til å bedre filmen.
 
@@ -194,7 +194,7 @@ meta:
     <strong>Skuespillere:</strong> Karl Urban, Olivia Thirlby, Rakie Ayola, Lena Headey, Joe Vaz, Domhnall Gleeson.
     <strong>Spilletid:</strong> 1 time og 35 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=9060" rel="attachment wp-att-9060"><img class="alignnone size-large wp-image-9060" src="//filmbloggen.net/wp-content/uploads//2013/01/DreddReview-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/?attachment_id=9060" rel="attachment wp-att-9060"><img class="alignnone size-large wp-image-9060" src="/wp-content/uploads//2013/01/DreddReview-620x412.jpg" alt="" width="620" height="412" /></a>
 
     <strong>Judge Dredd har eksistert i tegneserieformat siden 1977.</strong> Dens første filmatisering, Judge Dredd med Sylvester Stallone fra 1995, ble ikke godt mottatt av kritikerne. De mente den var vanskelig å ta på alvor. Nå er remaken her og den er unektelig bedre. Den heves noe nettopp pga sin mindre vellykkede forgjenger, men det betyr ikke at den bra i forhold til andre lignende Sci-Fi filmer. Den scorer lavt hos meg selv om universet er spennende og Karl Urbans tolkning er langt mer autentisk - ettersom han aldri tar av seg hjelmen og forblir et mysterium gjennom hele filmen. Remaken bringer mye nytt, men de nye innblikkene er ikke gode nok til å bedre filmen.
 
@@ -284,7 +284,7 @@ tags:
 **Skuespillere:** Karl Urban, Olivia Thirlby, Rakie Ayola, Lena Headey, Joe Vaz, Domhnall Gleeson.
 **Spilletid:** 1 time og 35 minutter
 
-<a href="//filmbloggen.net/2013/01/03/domt-til-a-vaere-middelmadig/dreddreview/" rel="attachment wp-att-9060"><img class="alignnone size-large wp-image-9060" src="//filmbloggen.net/wp-content/uploads//2013/01/DreddReview-620x412.jpg" alt="" width="620" height="412" /></a>
+<a href="//filmbloggen.net/2013/01/03/domt-til-a-vaere-middelmadig/dreddreview/" rel="attachment wp-att-9060"><img class="alignnone size-large wp-image-9060" src="/wp-content/uploads//2013/01/DreddReview-620x412.jpg" alt="" width="620" height="412" /></a>
 
 **Judge Dredd har eksistert i tegneserieformat siden 1977.** Dens første filmatisering, Judge Dredd med Sylvester Stallone fra 1995, ble ikke godt mottatt av kritikerne. De mente den var vanskelig å ta på alvor. Nå er remaken her og den er unektelig bedre. Den heves noe nettopp pga sin mindre vellykkede forgjenger, men det betyr ikke at den bra i forhold til andre lignende Sci-Fi filmer. Den scorer lavt hos meg selv om universet er spennende og Karl Urbans tolkning er langt mer autentisk – ettersom han aldri tar av seg hjelmen og forblir et mysterium gjennom hele filmen. Remaken bringer mye nytt, men de nye innblikkene er ikke gode nok til å bedre filmen.
 

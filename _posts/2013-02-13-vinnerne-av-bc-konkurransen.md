@@ -105,7 +105,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Her er vinnerne av Beautiful Creatures-konkurransen.<!--more--></strong>
-    <a href="//filmbloggen.net/2013/01/17/stor-beautiful-creatures-konkurranse/beautiful-creatures/" rel="attachment wp-att-9474"><img class="alignnone size-large wp-image-9474" title="Beautiful Creatures" src="//filmbloggen.net/wp-content/uploads//2013/01/vxabeny8-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2013/01/17/stor-beautiful-creatures-konkurranse/beautiful-creatures/" rel="attachment wp-att-9474"><img class="alignnone size-large wp-image-9474" title="Beautiful Creatures" src="/wp-content/uploads//2013/01/vxabeny8-620x412.jpg" alt="" width="620" height="412" /></a>
     I hvilken by ble filmen hovedsaklig filmet?
     Riktig svar: New Orleans
 
@@ -180,7 +180,7 @@ ID:
 post_content:
   - |
     <strong>Her er vinnerne av Beautiful Creatures-konkurransen.<!--more--></strong>
-    <a href="//filmbloggen.net/2013/01/17/stor-beautiful-creatures-konkurranse/beautiful-creatures/" rel="attachment wp-att-9474"><img class="alignnone size-large wp-image-9474" title="Beautiful Creatures" src="//filmbloggen.net/wp-content/uploads//2013/01/vxabeny8-620x412.jpg" alt="" width="620" height="412" /></a>
+    <a href="//filmbloggen.net/2013/01/17/stor-beautiful-creatures-konkurranse/beautiful-creatures/" rel="attachment wp-att-9474"><img class="alignnone size-large wp-image-9474" title="Beautiful Creatures" src="/wp-content/uploads//2013/01/vxabeny8-620x412.jpg" alt="" width="620" height="412" /></a>
     I hvilken by ble filmen hovedsaklig filmet?
     Riktig svar: New Orleans
 
@@ -208,7 +208,7 @@ categories:
 **Her er vinnerne av Beautiful Creatures-konkurransen.<!--more-->**
 
 
-<a href="//filmbloggen.net/2013/01/17/stor-beautiful-creatures-konkurranse/beautiful-creatures/" rel="attachment wp-att-9474"><img class="alignnone size-large wp-image-9474" src="//filmbloggen.net/wp-content/uploads//2013/01/vxabeny8-620x412.jpg" alt="" width="620" height="412" /></a>
+<a href="//filmbloggen.net/2013/01/17/stor-beautiful-creatures-konkurranse/beautiful-creatures/" rel="attachment wp-att-9474"><img class="alignnone size-large wp-image-9474" src="/wp-content/uploads//2013/01/vxabeny8-620x412.jpg" alt="" width="620" height="412" /></a>
 I hvilken by ble filmen hovedsaklig filmet?
 Riktig svar: New Orleans
 

@@ -106,7 +106,7 @@ content:
 
 
 
-    <img class="size-full wp-image-1441 alignnone" style="border-style: initial; border-color: initial;" src="//filmbloggen.net/wp-content/uploads//2011/10/337837-6-1270194458258.jpg" alt="" width="500" height="333" />
+    <img class="size-full wp-image-1441 alignnone" style="border-style: initial; border-color: initial;" src="/wp-content/uploads//2011/10/337837-6-1270194458258.jpg" alt="" width="500" height="333" />
 
     <span class="Apple-style-span" style="font-size: 26px; font-weight: bold;">Olsen tvillingene gjør det igjen!</span>
 
@@ -187,7 +187,7 @@ post_content:
 
 
 
-    <img class="size-full wp-image-1441 alignnone" style="border-style: initial; border-color: initial;" src="//filmbloggen.net/wp-content/uploads//2011/10/337837-6-1270194458258.jpg" alt="" width="500" height="333" />
+    <img class="size-full wp-image-1441 alignnone" style="border-style: initial; border-color: initial;" src="/wp-content/uploads//2011/10/337837-6-1270194458258.jpg" alt="" width="500" height="333" />
 
     <span class="Apple-style-span" style="font-size: 26px; font-weight: bold;">Olsen tvillingene gjør det igjen!</span>
 
@@ -226,7 +226,7 @@ meta:
 
 
 
-    <img class="size-full wp-image-1441 alignnone" style="border-style: initial; border-color: initial;" src="//filmbloggen.net/wp-content/uploads//2011/10/337837-6-1270194458258.jpg" alt="" width="500" height="333" />
+    <img class="size-full wp-image-1441 alignnone" style="border-style: initial; border-color: initial;" src="/wp-content/uploads//2011/10/337837-6-1270194458258.jpg" alt="" width="500" height="333" />
 
     <span class="Apple-style-span" style="font-size: 26px; font-weight: bold;">Olsen tvillingene gjør det igjen!</span>
 
@@ -252,7 +252,7 @@ meta:
 
 
 
-    <img class="size-full wp-image-1441 alignnone" style="border-style: initial; border-color: initial;" src="//filmbloggen.net/wp-content/uploads//2011/10/337837-6-1270194458258.jpg" alt="" width="500" height="333" />
+    <img class="size-full wp-image-1441 alignnone" style="border-style: initial; border-color: initial;" src="/wp-content/uploads//2011/10/337837-6-1270194458258.jpg" alt="" width="500" height="333" />
 
     <span class="Apple-style-span" style="font-size: 26px; font-weight: bold;">Olsen tvillingene gjør det igjen!</span>
 
@@ -292,7 +292,7 @@ Originaltittel:** New York Minute
 
 
 
-<img class="size-full wp-image-1441 alignnone" style="border-style: initial;border-color: initial" src="//filmbloggen.net/wp-content/uploads//2011/10/337837-6-1270194458258.jpg" alt="" width="500" height="333" />
+<img class="size-full wp-image-1441 alignnone" style="border-style: initial;border-color: initial" src="/wp-content/uploads//2011/10/337837-6-1270194458258.jpg" alt="" width="500" height="333" />
 
 <span class="Apple-style-span" style="font-size: 26px;font-weight: bold">Olsen tvillingene gjør det igjen!</span>
 

@@ -103,7 +103,7 @@ content:
     <strong>Rachel McAdams og Harrison Ford i en romantisk komedie. Utganspunktet er jo litt interessant.</strong>
     (Anmeldelse av Morning Glory)
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/morning-glory.jpg"><img class="alignnone size-large wp-image-130" title="Morning Glory" src="//filmbloggen.net/wp-content/uploads//2011/04/morning-glory-e1310639205692-620x400.jpg" alt="" width="620" height="400" /></a>
+    <a href="/wp-content/uploads//2011/04/morning-glory.jpg"><img class="alignnone size-large wp-image-130" title="Morning Glory" src="/wp-content/uploads//2011/04/morning-glory-e1310639205692-620x400.jpg" alt="" width="620" height="400" /></a>
 
     <strong>Originaltittel: </strong>Morning Glory<strong>
     Kategori:</strong> Romantisk komedie
@@ -184,7 +184,7 @@ post_content:
     <strong>Rachel McAdams og Harrison Ford i en romantisk komedie. Utganspunktet er jo litt interessant.</strong>
     (Anmeldelse av Morning Glory)
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/morning-glory.jpg"><img class="alignnone size-large wp-image-130" title="Morning Glory" src="//filmbloggen.net/wp-content/uploads//2011/04/morning-glory-e1310639205692-620x400.jpg" alt="" width="620" height="400" /></a>
+    <a href="/wp-content/uploads//2011/04/morning-glory.jpg"><img class="alignnone size-large wp-image-130" title="Morning Glory" src="/wp-content/uploads//2011/04/morning-glory-e1310639205692-620x400.jpg" alt="" width="620" height="400" /></a>
 
     <strong>Originaltittel: </strong>Morning Glory<strong>
     Kategori:</strong> Romantisk komedie
@@ -226,7 +226,7 @@ tags:
 **Rachel McAdams og Harrison Ford i en romantisk komedie. Utganspunktet er jo litt interessant.**
 (Anmeldelse av Morning Glory)
 
-[<img class="alignnone size-large wp-image-130" title="Morning Glory" src="//filmbloggen.net/wp-content/uploads//2011/04/morning-glory-e1310639205692-620x400.jpg" alt="" width="620" height="400" />](//filmbloggen.net/wp-content/uploads//2011/04/morning-glory.jpg)
+[<img class="alignnone size-large wp-image-130" title="Morning Glory" src="/wp-content/uploads//2011/04/morning-glory-e1310639205692-620x400.jpg" alt="" width="620" height="400" />](/wp-content/uploads//2011/04/morning-glory.jpg)
 
 **Originaltittel:** Morning Glory**
 Kategori:** Romantisk komedie

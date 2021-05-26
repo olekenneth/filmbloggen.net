@@ -106,7 +106,7 @@ content:
     <strong>Regi:</strong> Pablo Giorgelli
     <strong>Spilletid:</strong> 1 time og 43 minutter
     <strong>Skuespillere:</strong> Monica Coca, Germán de Silva, Hebe Duarte, Lili Lopez, Nayra Calle Mamani
-    <a href="//filmbloggen.net/2012/07/05/mye-kroppssprak/pa-veien-til-1/" rel="attachment wp-att-4902"><img class="alignnone size-large wp-image-4902" src="//filmbloggen.net/wp-content/uploads//2012/07/på-veien-til-1-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/05/mye-kroppssprak/pa-veien-til-1/" rel="attachment wp-att-4902"><img class="alignnone size-large wp-image-4902" src="/wp-content/uploads//2012/07/på-veien-til-1-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: Arthaus</em>
 
     «På veien til Buenos Aires» er en dramafilm som utspiller seg i Argentina. Filmen handler om den innadvente trailersjåføren, Rubén som jevnlig kjører mellom Buenos Aires og  Paraguays hovedstad, Asunción. En dag ber sjefen hans han om å ta med seg en kvinne på veien. Da kvinnen dukker opp, viser det seg at hun har med seg sin åtte måneder gamle datter. Rubén er alt annet enn fornøyd med situasjonen.  Ettersom han ikke har kontakt med sin egen sønn, har han et anstrengt forhold til barn. Men etterhvert som de nærmer seg Buenos Aires, åpner han seg opp – og det er tydelig at han etterhvert setter pris på reisefølge.
@@ -182,7 +182,7 @@ post_content:
     <strong>Regi:</strong> Pablo Giorgelli
     <strong>Spilletid:</strong> 1 time og 43 minutter
     <strong>Skuespillere:</strong> Monica Coca, Germán de Silva, Hebe Duarte, Lili Lopez, Nayra Calle Mamani
-    <a href="//filmbloggen.net/2012/07/05/mye-kroppssprak/pa-veien-til-1/" rel="attachment wp-att-4902"><img class="alignnone size-large wp-image-4902" src="//filmbloggen.net/wp-content/uploads//2012/07/på-veien-til-1-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/05/mye-kroppssprak/pa-veien-til-1/" rel="attachment wp-att-4902"><img class="alignnone size-large wp-image-4902" src="/wp-content/uploads//2012/07/på-veien-til-1-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: Arthaus</em>
 
     «På veien til Buenos Aires» er en dramafilm som utspiller seg i Argentina. Filmen handler om den innadvente trailersjåføren, Rubén som jevnlig kjører mellom Buenos Aires og  Paraguays hovedstad, Asunción. En dag ber sjefen hans han om å ta med seg en kvinne på veien. Da kvinnen dukker opp, viser det seg at hun har med seg sin åtte måneder gamle datter. Rubén er alt annet enn fornøyd med situasjonen.  Ettersom han ikke har kontakt med sin egen sønn, har han et anstrengt forhold til barn. Men etterhvert som de nærmer seg Buenos Aires, åpner han seg opp – og det er tydelig at han etterhvert setter pris på reisefølge.
@@ -210,7 +210,7 @@ meta:
     <strong>Regi:</strong> Pablo Giorgelli
     <strong>Spilletid:</strong> 1 time og 43 minutter
     <strong>Skuespillere:</strong> Monica Coca, Germán de Silva, Hebe Duarte, Lili Lopez, Nayra Calle Mamani
-    <a href="//filmbloggen.net/2012/07/05/mye-kroppssprak/pa-veien-til-1/" rel="attachment wp-att-4902"><img class="alignnone size-large wp-image-4902" src="//filmbloggen.net/wp-content/uploads//2012/07/på-veien-til-1-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/05/mye-kroppssprak/pa-veien-til-1/" rel="attachment wp-att-4902"><img class="alignnone size-large wp-image-4902" src="/wp-content/uploads//2012/07/på-veien-til-1-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: Arthaus</em>
 
     «På veien til Buenos Aires» er en dramafilm som utspiller seg i Argentina. Filmen handler om den innadvente trailersjåføren, Rubén som jevnlig kjører mellom Buenos Aires og  Paraguays hovedstad, Asunción. En dag ber sjefen hans han om å ta med seg en kvinne på veien. Da kvinnen dukker opp, viser det seg at hun har med seg sin åtte måneder gamle datter. Rubén er alt annet enn fornøyd med situasjonen.  Ettersom han ikke har kontakt med sin egen sønn, har han et anstrengt forhold til barn. Men etterhvert som de nærmer seg Buenos Aires, åpner han seg opp – og det er tydelig at han etterhvert setter pris på reisefølge.
@@ -229,7 +229,7 @@ meta:
     <strong>Regi:</strong> Pablo Giorgelli
     <strong>Spilletid:</strong> 1 time og 43 minutter
     <strong>Skuespillere:</strong> Monica Coca, Germán de Silva, Hebe Duarte, Lili Lopez, Nayra Calle Mamani
-    <a href="//filmbloggen.net/2012/07/05/mye-kroppssprak/pa-veien-til-1/" rel="attachment wp-att-4902"><img class="alignnone size-large wp-image-4902" src="//filmbloggen.net/wp-content/uploads//2012/07/på-veien-til-1-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/07/05/mye-kroppssprak/pa-veien-til-1/" rel="attachment wp-att-4902"><img class="alignnone size-large wp-image-4902" src="/wp-content/uploads//2012/07/på-veien-til-1-620x348.jpg" alt="" width="620" height="348" /></a>
     <em>Foto: Arthaus</em>
 
     «På veien til Buenos Aires» er en dramafilm som utspiller seg i Argentina. Filmen handler om den innadvente trailersjåføren, Rubén som jevnlig kjører mellom Buenos Aires og  Paraguays hovedstad, Asunción. En dag ber sjefen hans han om å ta med seg en kvinne på veien. Da kvinnen dukker opp, viser det seg at hun har med seg sin åtte måneder gamle datter. Rubén er alt annet enn fornøyd med situasjonen.  Ettersom han ikke har kontakt med sin egen sønn, har han et anstrengt forhold til barn. Men etterhvert som de nærmer seg Buenos Aires, åpner han seg opp – og det er tydelig at han etterhvert setter pris på reisefølge.
@@ -271,7 +271,7 @@ Originaltittel:** Las acacias
 **Regi:** Pablo Giorgelli
 **Spilletid:** 1 time og 43 minutter
 **Skuespillere:** Monica Coca, Germán de Silva, Hebe Duarte, Lili Lopez, Nayra Calle Mamani
-<a href="//filmbloggen.net/2012/07/05/mye-kroppssprak/pa-veien-til-1/" rel="attachment wp-att-4902"><img class="alignnone size-large wp-image-4902" src="//filmbloggen.net/wp-content/uploads//2012/07/på-veien-til-1-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2012/07/05/mye-kroppssprak/pa-veien-til-1/" rel="attachment wp-att-4902"><img class="alignnone size-large wp-image-4902" src="/wp-content/uploads//2012/07/på-veien-til-1-620x348.jpg" alt="" width="620" height="348" /></a>
 _Foto: Arthaus_
 
 «På veien til Buenos Aires» er en dramafilm som utspiller seg i Argentina. Filmen handler om den innadvente trailersjåføren, Rubén som jevnlig kjører mellom Buenos Aires og  Paraguays hovedstad, Asunción. En dag ber sjefen hans han om å ta med seg en kvinne på veien. Da kvinnen dukker opp, viser det seg at hun har med seg sin åtte måneder gamle datter. Rubén er alt annet enn fornøyd med situasjonen.  Ettersom han ikke har kontakt med sin egen sønn, har han et anstrengt forhold til barn. Men etterhvert som de nærmer seg Buenos Aires, åpner han seg opp – og det er tydelig at han etterhvert setter pris på reisefølge.

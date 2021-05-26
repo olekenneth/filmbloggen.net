@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> Edward Norton, Bruce Willis, Bill Murray, Kara Hayward, Tilda Swinton, Jason Schwartzman, Frances McDormand, Harvey Keitel, Jared Gilman.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/06/10/forbudt-ungdomskjaerlighet/moonrise-kingdom-prog/" rel="attachment wp-att-4035"><img class="alignnone size-large wp-image-4035" src="//filmbloggen.net/wp-content/uploads//2012/06/Moonrise-Kingdom-prog-620x375.jpg" alt="" width="620" height="375" /></a>
+    <a href="//filmbloggen.net/2012/06/10/forbudt-ungdomskjaerlighet/moonrise-kingdom-prog/" rel="attachment wp-att-4035"><img class="alignnone size-large wp-image-4035" src="/wp-content/uploads//2012/06/Moonrise-Kingdom-prog-620x375.jpg" alt="" width="620" height="375" /></a>
 
     Helt siden gjennombruddet med Rushmore fra 1998 har Wes Anderson laget mange fantasifulle og originale filmer med en fortellerglede ulikt mye annet i nåtidens Hollywood. Med Moonrise Kingdom utforsker han kjærlighetens makt blant ungdom og dens evne til å ta styring over menneskers livsavgjørelser.
 
@@ -63,7 +63,7 @@ post_content:
     <strong>Skuespillere:</strong> Edward Norton, Bruce Willis, Bill Murray, Kara Hayward, Tilda Swinton, Jason Schwartzman, Frances McDormand, Harvey Keitel, Jared Gilman.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/06/10/forbudt-ungdomskjaerlighet/moonrise-kingdom-prog/" rel="attachment wp-att-4035"><img class="alignnone size-large wp-image-4035" src="//filmbloggen.net/wp-content/uploads//2012/06/Moonrise-Kingdom-prog-620x375.jpg" alt="" width="620" height="375" /></a>
+    <a href="//filmbloggen.net/2012/06/10/forbudt-ungdomskjaerlighet/moonrise-kingdom-prog/" rel="attachment wp-att-4035"><img class="alignnone size-large wp-image-4035" src="/wp-content/uploads//2012/06/Moonrise-Kingdom-prog-620x375.jpg" alt="" width="620" height="375" /></a>
 
     Helt siden gjennombruddet med Rushmore fra 1998 har Wes Anderson laget mange fantasifulle og originale filmer med en fortellerglede ulikt mye annet i nåtidens Hollywood. Med Moonrise Kingdom utforsker han kjærlighetens makt blant ungdom og dens evne til å ta styring over menneskers livsavgjørelser.
 
@@ -168,7 +168,7 @@ meta:
     <strong>Skuespillere:</strong> Edward Norton, Bruce Willis, Bill Murray, Kara Hayward, Tilda Swinton, Jason Schwartzman, Frances McDormand, Harvey Keitel, Jared Gilman.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/06/10/forbudt-ungdomskjaerlighet/moonrise-kingdom-prog/" rel="attachment wp-att-4035"><img class="alignnone size-large wp-image-4035" src="//filmbloggen.net/wp-content/uploads//2012/06/Moonrise-Kingdom-prog-620x375.jpg" alt="" width="620" height="375" /></a>
+    <a href="//filmbloggen.net/2012/06/10/forbudt-ungdomskjaerlighet/moonrise-kingdom-prog/" rel="attachment wp-att-4035"><img class="alignnone size-large wp-image-4035" src="/wp-content/uploads//2012/06/Moonrise-Kingdom-prog-620x375.jpg" alt="" width="620" height="375" /></a>
 
     Helt siden gjennombruddet med Rushmore fra 1998 har Wes Anderson laget mange fantasifulle og originale filmer med en fortellerglede ulikt mye annet i nåtidens Hollywood. Med Moonrise Kingdom utforsker han kjærlighetens makt blant ungdom og dens evne til å ta styring over menneskers livsavgjørelser.
 
@@ -190,7 +190,7 @@ meta:
     <strong>Skuespillere:</strong> Edward Norton, Bruce Willis, Bill Murray, Kara Hayward, Tilda Swinton, Jason Schwartzman, Frances McDormand, Harvey Keitel, Jared Gilman.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/06/10/forbudt-ungdomskjaerlighet/moonrise-kingdom-prog/" rel="attachment wp-att-4035"><img class="alignnone size-large wp-image-4035" src="//filmbloggen.net/wp-content/uploads//2012/06/Moonrise-Kingdom-prog-620x375.jpg" alt="" width="620" height="375" /></a>
+    <a href="//filmbloggen.net/2012/06/10/forbudt-ungdomskjaerlighet/moonrise-kingdom-prog/" rel="attachment wp-att-4035"><img class="alignnone size-large wp-image-4035" src="/wp-content/uploads//2012/06/Moonrise-Kingdom-prog-620x375.jpg" alt="" width="620" height="375" /></a>
 
     Helt siden gjennombruddet med Rushmore fra 1998 har Wes Anderson laget mange fantasifulle og originale filmer med en fortellerglede ulikt mye annet i nåtidens Hollywood. Med Moonrise Kingdom utforsker han kjærlighetens makt blant ungdom og dens evne til å ta styring over menneskers livsavgjørelser.
 
@@ -293,7 +293,7 @@ tags:
 **Skuespillere:** Edward Norton, Bruce Willis, Bill Murray, Kara Hayward, Tilda Swinton, Jason Schwartzman, Frances McDormand, Harvey Keitel, Jared Gilman.
 **Spilletid:** 1 time og 34 minutter
 
-<a href="//filmbloggen.net/2012/06/10/forbudt-ungdomskjaerlighet/moonrise-kingdom-prog/" rel="attachment wp-att-4035"><img class="alignnone size-large wp-image-4035" src="//filmbloggen.net/wp-content/uploads//2012/06/Moonrise-Kingdom-prog-620x375.jpg" alt="" width="620" height="375" /></a>
+<a href="//filmbloggen.net/2012/06/10/forbudt-ungdomskjaerlighet/moonrise-kingdom-prog/" rel="attachment wp-att-4035"><img class="alignnone size-large wp-image-4035" src="/wp-content/uploads//2012/06/Moonrise-Kingdom-prog-620x375.jpg" alt="" width="620" height="375" /></a>
 
 Helt siden gjennombruddet med Rushmore fra 1998 har Wes Anderson laget mange fantasifulle og originale filmer med en fortellerglede ulikt mye annet i nåtidens Hollywood. Med Moonrise Kingdom utforsker han kjærlighetens makt blant ungdom og dens evne til å ta styring over menneskers livsavgjørelser.
 

@@ -107,7 +107,7 @@ content:
     <strong>Manus:</strong> Annie Mumolo og Kristen Wiig
     <strong>Med:</strong> Kristen Wiig, Rose Byrne, Jon Hamm, Maya Rudolph, Ellie Kemper, Melissa McCarthy, Wendi McLendon-Covey, Michael Hitchcock og Annie Mumolo. ­­­
 
-    <a href="//filmbloggen.net/2011/09/28/film-for-faen-3/cbygimx11/" rel="attachment wp-att-1143"><img class="alignnone size-large wp-image-1143" src="//filmbloggen.net/wp-content/uploads//2011/09/cbygimx11-620x411.jpg" alt="" width="620" height="411" />
+    <a href="//filmbloggen.net/2011/09/28/film-for-faen-3/cbygimx11/" rel="attachment wp-att-1143"><img class="alignnone size-large wp-image-1143" src="/wp-content/uploads//2011/09/cbygimx11-620x411.jpg" alt="" width="620" height="411" />
     </a>Denne filmen er den morsomste jentefilmen jeg noen gang har sett! Historien handler om Annie som blir utnevnt til forloveren til sin bestevenninne, Lillian, som hun har kjent siden hun var barn. På forlovelsesfesten møter Annie Lillians brudepiker, og det er spesielt én Annie legger merke til, nemlig Helen. Helen er alt hun ikke er; flink til å organisere, har originale ideer, er rik, pen og populær. De blir fort erkefiender og rivaler.
 
     Annie tar med seg den rødmende bruden og hennes brudepiker til en billig bortgjemt restaurant, for så å ta de med på jakt etter kjoler til brudepikene og seg selv. Da de ankommer brudebutikken slår konkurransen til mellom Annie og Helen, i en kamp om å finne en kjole som alle skal ha – for Annie sin del, en billig og fin. Dessverre opplever alle jentene, bortsett fra Helen som ikke spiste kjøtt på restauranten, en forferdelig matforgiftning, noe som ender i katastrofe blant brudekjoler og silke.
@@ -184,7 +184,7 @@ post_content:
     <strong>Manus:</strong> Annie Mumolo og Kristen Wiig
     <strong>Med:</strong> Kristen Wiig, Rose Byrne, Jon Hamm, Maya Rudolph, Ellie Kemper, Melissa McCarthy, Wendi McLendon-Covey, Michael Hitchcock og Annie Mumolo. ­­­
 
-    <a href="//filmbloggen.net/2011/09/28/film-for-faen-3/cbygimx11/" rel="attachment wp-att-1143"><img class="alignnone size-large wp-image-1143" src="//filmbloggen.net/wp-content/uploads//2011/09/cbygimx11-620x411.jpg" alt="" width="620" height="411" />
+    <a href="//filmbloggen.net/2011/09/28/film-for-faen-3/cbygimx11/" rel="attachment wp-att-1143"><img class="alignnone size-large wp-image-1143" src="/wp-content/uploads//2011/09/cbygimx11-620x411.jpg" alt="" width="620" height="411" />
     </a>Denne filmen er den morsomste jentefilmen jeg noen gang har sett! Historien handler om Annie som blir utnevnt til forloveren til sin bestevenninne, Lillian, som hun har kjent siden hun var barn. På forlovelsesfesten møter Annie Lillians brudepiker, og det er spesielt én Annie legger merke til, nemlig Helen. Helen er alt hun ikke er; flink til å organisere, har originale ideer, er rik, pen og populær. De blir fort erkefiender og rivaler.
 
     Annie tar med seg den rødmende bruden og hennes brudepiker til en billig bortgjemt restaurant, for så å ta de med på jakt etter kjoler til brudepikene og seg selv. Da de ankommer brudebutikken slår konkurransen til mellom Annie og Helen, i en kamp om å finne en kjole som alle skal ha – for Annie sin del, en billig og fin. Dessverre opplever alle jentene, bortsett fra Helen som ikke spiste kjøtt på restauranten, en forferdelig matforgiftning, noe som ender i katastrofe blant brudekjoler og silke.
@@ -213,7 +213,7 @@ meta:
     <strong>Manus:</strong> Annie Mumolo og Kristen Wiig
     <strong>Med:</strong> Kristen Wiig, Rose Byrne, Jon Hamm, Maya Rudolph, Ellie Kemper, Melissa McCarthy, Wendi McLendon-Covey, Michael Hitchcock og Annie Mumolo. ­­­
 
-    <a href="//filmbloggen.net/2011/09/28/film-for-faen-3/cbygimx11/" rel="attachment wp-att-1143"><img class="alignnone size-large wp-image-1143" src="//filmbloggen.net/wp-content/uploads//2011/09/cbygimx11-620x411.jpg" alt="" width="620" height="411" />
+    <a href="//filmbloggen.net/2011/09/28/film-for-faen-3/cbygimx11/" rel="attachment wp-att-1143"><img class="alignnone size-large wp-image-1143" src="/wp-content/uploads//2011/09/cbygimx11-620x411.jpg" alt="" width="620" height="411" />
     </a>Denne filmen er den morsomste jentefilmen jeg noen gang har sett! Historien handler om Annie som blir utnevnt til forloveren til sin bestevenninne, Lillian, som hun har kjent siden hun var barn. På forlovelsesfesten møter Annie Lillians brudepiker, og det er spesielt én Annie legger merke til, nemlig Helen. Helen er alt hun ikke er; flink til å organisere, har originale ideer, er rik, pen og populær. De blir fort erkefiender og rivaler.
 
     Annie tar med seg den rødmende bruden og hennes brudepiker til en billig bortgjemt restaurant, for så å ta de med på jakt etter kjoler til brudepikene og seg selv. Da de ankommer brudebutikken slår konkurransen til mellom Annie og Helen, i en kamp om å finne en kjole som alle skal ha – for Annie sin del, en billig og fin. Dessverre opplever alle jentene, bortsett fra Helen som ikke spiste kjøtt på restauranten, en forferdelig matforgiftning, noe som ender i katastrofe blant brudekjoler og silke.
@@ -235,7 +235,7 @@ meta:
     <strong>Manus:</strong> Annie Mumolo og Kristen Wiig
     <strong>Med:</strong> Kristen Wiig, Rose Byrne, Jon Hamm, Maya Rudolph, Ellie Kemper, Melissa McCarthy, Wendi McLendon-Covey, Michael Hitchcock og Annie Mumolo. ­­­
 
-    <a href="//filmbloggen.net/2011/09/28/film-for-faen-3/cbygimx11/" rel="attachment wp-att-1143"><img class="alignnone size-large wp-image-1143" src="//filmbloggen.net/wp-content/uploads//2011/09/cbygimx11-620x411.jpg" alt="" width="620" height="411" />
+    <a href="//filmbloggen.net/2011/09/28/film-for-faen-3/cbygimx11/" rel="attachment wp-att-1143"><img class="alignnone size-large wp-image-1143" src="/wp-content/uploads//2011/09/cbygimx11-620x411.jpg" alt="" width="620" height="411" />
     </a>Denne filmen er den morsomste jentefilmen jeg noen gang har sett! Historien handler om Annie som blir utnevnt til forloveren til sin bestevenninne, Lillian, som hun har kjent siden hun var barn. På forlovelsesfesten møter Annie Lillians brudepiker, og det er spesielt én Annie legger merke til, nemlig Helen. Helen er alt hun ikke er; flink til å organisere, har originale ideer, er rik, pen og populær. De blir fort erkefiender og rivaler.
 
     Annie tar med seg den rødmende bruden og hennes brudepiker til en billig bortgjemt restaurant, for så å ta de med på jakt etter kjoler til brudepikene og seg selv. Da de ankommer brudebutikken slår konkurransen til mellom Annie og Helen, i en kamp om å finne en kjole som alle skal ha – for Annie sin del, en billig og fin. Dessverre opplever alle jentene, bortsett fra Helen som ikke spiste kjøtt på restauranten, en forferdelig matforgiftning, noe som ender i katastrofe blant brudekjoler og silke.
@@ -279,7 +279,7 @@ tags:
 **Manus:** Annie Mumolo og Kristen Wiig
 **Med:** Kristen Wiig, Rose Byrne, Jon Hamm, Maya Rudolph, Ellie Kemper, Melissa McCarthy, Wendi McLendon-Covey, Michael Hitchcock og Annie Mumolo. ­­­
 
-<a href="//filmbloggen.net/2011/09/28/film-for-faen-3/cbygimx11/" rel="attachment wp-att-1143"><img class="alignnone size-large wp-image-1143" src="//filmbloggen.net/wp-content/uploads//2011/09/cbygimx11-620x411.jpg" alt="" width="620" height="411" /><br /> </a>Denne filmen er den morsomste jentefilmen jeg noen gang har sett! Historien handler om Annie som blir utnevnt til forloveren til sin bestevenninne, Lillian, som hun har kjent siden hun var barn. På forlovelsesfesten møter Annie Lillians brudepiker, og det er spesielt én Annie legger merke til, nemlig Helen. Helen er alt hun ikke er; flink til å organisere, har originale ideer, er rik, pen og populær. De blir fort erkefiender og rivaler.
+<a href="//filmbloggen.net/2011/09/28/film-for-faen-3/cbygimx11/" rel="attachment wp-att-1143"><img class="alignnone size-large wp-image-1143" src="/wp-content/uploads//2011/09/cbygimx11-620x411.jpg" alt="" width="620" height="411" /><br /> </a>Denne filmen er den morsomste jentefilmen jeg noen gang har sett! Historien handler om Annie som blir utnevnt til forloveren til sin bestevenninne, Lillian, som hun har kjent siden hun var barn. På forlovelsesfesten møter Annie Lillians brudepiker, og det er spesielt én Annie legger merke til, nemlig Helen. Helen er alt hun ikke er; flink til å organisere, har originale ideer, er rik, pen og populær. De blir fort erkefiender og rivaler.
 
 Annie tar med seg den rødmende bruden og hennes brudepiker til en billig bortgjemt restaurant, for så å ta de med på jakt etter kjoler til brudepikene og seg selv. Da de ankommer brudebutikken slår konkurransen til mellom Annie og Helen, i en kamp om å finne en kjole som alle skal ha – for Annie sin del, en billig og fin. Dessverre opplever alle jentene, bortsett fra Helen som ikke spiste kjøtt på restauranten, en forferdelig matforgiftning, noe som ender i katastrofe blant brudekjoler og silke.
 

@@ -106,7 +106,7 @@ content:
     <strong>Kategori:</strong> Action / Komedie / Romantikk
     <strong>Regi:</strong> McG
     <strong>Skuespillere:</strong> Angela Bassett, Reese Witherspoon, Til Schweiger, Tom Hardy, David Koechner, Abigail Spencer, Chris Pine, Warren Christie, Laura Vandervoort, Emilie Ullerup, Jenny Slate, Valin Shinyei
-    <strong>Spilletid:</strong> 1 time og 27 minutter <img class="alignnone size-large wp-image-4432" src="//filmbloggen.net/wp-content/uploads//2012/06/oadbdpq8-620x412.jpg" alt="" width="620" height="412" />
+    <strong>Spilletid:</strong> 1 time og 27 minutter <img class="alignnone size-large wp-image-4432" src="/wp-content/uploads//2012/06/oadbdpq8-620x412.jpg" alt="" width="620" height="412" />
     <strong><em>Alle foto: Twentieth Century Fox Norway</em></strong>
 
     FDR (Chris Pine) og Tuck (Tom Hardy) er to CIA-agenter som blir satt som kontorrotter etter at et oppdrag gikk skeis. For at kompisen skal komme seg over eks-kona foreslår FDR at Tuck må komme seg ut i datingverdenen igjen. Så begynner gutta å date Lauren (Reese Witherspoon). Etter at de finner ut av dette så bestemmer de seg for at Lauren skal få lov til å velge og det blir en skitten kamp om å vinne hennes hjerte.
@@ -179,7 +179,7 @@ post_content:
     <strong>Kategori:</strong> Action / Komedie / Romantikk
     <strong>Regi:</strong> McG
     <strong>Skuespillere:</strong> Angela Bassett, Reese Witherspoon, Til Schweiger, Tom Hardy, David Koechner, Abigail Spencer, Chris Pine, Warren Christie, Laura Vandervoort, Emilie Ullerup, Jenny Slate, Valin Shinyei
-    <strong>Spilletid:</strong> 1 time og 27 minutter <img class="alignnone size-large wp-image-4432" src="//filmbloggen.net/wp-content/uploads//2012/06/oadbdpq8-620x412.jpg" alt="" width="620" height="412" />
+    <strong>Spilletid:</strong> 1 time og 27 minutter <img class="alignnone size-large wp-image-4432" src="/wp-content/uploads//2012/06/oadbdpq8-620x412.jpg" alt="" width="620" height="412" />
     <strong><em>Alle foto: Twentieth Century Fox Norway</em></strong>
 
     FDR (Chris Pine) og Tuck (Tom Hardy) er to CIA-agenter som blir satt som kontorrotter etter at et oppdrag gikk skeis. For at kompisen skal komme seg over eks-kona foreslår FDR at Tuck må komme seg ut i datingverdenen igjen. Så begynner gutta å date Lauren (Reese Witherspoon). Etter at de finner ut av dette så bestemmer de seg for at Lauren skal få lov til å velge og det blir en skitten kamp om å vinne hennes hjerte.
@@ -204,7 +204,7 @@ meta:
     <strong>Kategori:</strong> Action / Komedie / Romantikk
     <strong>Regi:</strong> McG
     <strong>Skuespillere:</strong> Angela Bassett, Reese Witherspoon, Til Schweiger, Tom Hardy, David Koechner, Abigail Spencer, Chris Pine, Warren Christie, Laura Vandervoort, Emilie Ullerup, Jenny Slate, Valin Shinyei
-    <strong>Spilletid:</strong> 1 time og 27 minutter <img class="alignnone size-large wp-image-4432" src="//filmbloggen.net/wp-content/uploads//2012/06/oadbdpq8-620x412.jpg" alt="" width="620" height="412" />
+    <strong>Spilletid:</strong> 1 time og 27 minutter <img class="alignnone size-large wp-image-4432" src="/wp-content/uploads//2012/06/oadbdpq8-620x412.jpg" alt="" width="620" height="412" />
     <strong><em>Alle foto: Twentieth Century Fox Norway</em></strong>
 
     FDR (Chris Pine) og Tuck (Tom Hardy) er to CIA-agenter som blir satt som kontorrotter etter at et oppdrag gikk skeis. For at kompisen skal komme seg over eks-kona foreslår FDR at Tuck må komme seg ut i datingverdenen igjen. Så begynner gutta å date Lauren (Reese Witherspoon). Etter at de finner ut av dette så bestemmer de seg for at Lauren skal få lov til å velge og det blir en skitten kamp om å vinne hennes hjerte.
@@ -220,7 +220,7 @@ meta:
     <strong>Kategori:</strong> Action / Komedie / Romantikk
     <strong>Regi:</strong> McG
     <strong>Skuespillere:</strong> Angela Bassett, Reese Witherspoon, Til Schweiger, Tom Hardy, David Koechner, Abigail Spencer, Chris Pine, Warren Christie, Laura Vandervoort, Emilie Ullerup, Jenny Slate, Valin Shinyei
-    <strong>Spilletid:</strong> 1 time og 27 minutter <img class="alignnone size-large wp-image-4432" src="//filmbloggen.net/wp-content/uploads//2012/06/oadbdpq8-620x412.jpg" alt="" width="620" height="412" />
+    <strong>Spilletid:</strong> 1 time og 27 minutter <img class="alignnone size-large wp-image-4432" src="/wp-content/uploads//2012/06/oadbdpq8-620x412.jpg" alt="" width="620" height="412" />
     <strong><em>Alle foto: Twentieth Century Fox Norway</em></strong>
 
     FDR (Chris Pine) og Tuck (Tom Hardy) er to CIA-agenter som blir satt som kontorrotter etter at et oppdrag gikk skeis. For at kompisen skal komme seg over eks-kona foreslår FDR at Tuck må komme seg ut i datingverdenen igjen. Så begynner gutta å date Lauren (Reese Witherspoon). Etter at de finner ut av dette så bestemmer de seg for at Lauren skal få lov til å velge og det blir en skitten kamp om å vinne hennes hjerte.
@@ -266,7 +266,7 @@ tags:
 **Kategori:** Action / Komedie / Romantikk
 **Regi:** McG
 **Skuespillere:** Angela Bassett, Reese Witherspoon, Til Schweiger, Tom Hardy, David Koechner, Abigail Spencer, Chris Pine, Warren Christie, Laura Vandervoort, Emilie Ullerup, Jenny Slate, Valin Shinyei
-**Spilletid:** 1 time og 27 minutter <img class="alignnone size-large wp-image-4432" src="//filmbloggen.net/wp-content/uploads//2012/06/oadbdpq8-620x412.jpg" alt="" width="620" height="412" />
+**Spilletid:** 1 time og 27 minutter <img class="alignnone size-large wp-image-4432" src="/wp-content/uploads//2012/06/oadbdpq8-620x412.jpg" alt="" width="620" height="412" />
 **_Alle foto: Twentieth Century Fox Norway_**
 
 FDR (Chris Pine) og Tuck (Tom Hardy) er to CIA-agenter som blir satt som kontorrotter etter at et oppdrag gikk skeis. For at kompisen skal komme seg over eks-kona foreslår FDR at Tuck må komme seg ut i datingverdenen igjen. Så begynner gutta å date Lauren (Reese Witherspoon). Etter at de finner ut av dette så bestemmer de seg for at Lauren skal få lov til å velge og det blir en skitten kamp om å vinne hennes hjerte.

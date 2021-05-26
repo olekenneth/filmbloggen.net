@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Brad Pitt, Scoot McNairy, Ben Mendelsohn, James Gandolfini, Richard Jenkins, Vincent Curatola, Ray Liotta, Trevor Long, Max Casella, Sam Shepard.
     <strong>Spilletid:</strong> 1 time og 37 minutter
 
-    <a href="//filmbloggen.net/2013/01/12/brutalitet-gradighet-og-kapitalisme-som-hovedemner/cogans-trade/" rel="attachment wp-att-9079"><img class="alignnone size-large wp-image-9079" src="//filmbloggen.net/wp-content/uploads//2013/01/Killing-them-softly-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2013/01/12/brutalitet-gradighet-og-kapitalisme-som-hovedemner/cogans-trade/" rel="attachment wp-att-9079"><img class="alignnone size-large wp-image-9079" src="/wp-content/uploads//2013/01/Killing-them-softly-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>The Assassination of Jesse James by the Coward Robert Ford var Andrew Dominiks gjennommbruddsfilm.</strong> Den var stillferdig, men gjorde aliikevel inntrykk på kritikerne. Med Killing Them Softly velger Andrew å skildre menneskers liv under fortvilelse over nedgangstider i USA. Det er på tidspunktet da George W. Bush taler sine siste ord som president og verden introduseres for den karismatiske Barack Obama. Andrew bruker den økonomiske krisen som bakteppe for historien og det har sin sammenheng med hva rollene gjør og sier. Dette er mer enn bare en thriller, den kritiserer politikken og dens likegyldighet. Noen vil si at det er pretensiøst, men da har de ikke skjønt hva Andrew meddeler.
 
@@ -67,7 +67,7 @@ post_content:
     <strong>Skuespillere:</strong> Brad Pitt, Scoot McNairy, Ben Mendelsohn, James Gandolfini, Richard Jenkins, Vincent Curatola, Ray Liotta, Trevor Long, Max Casella, Sam Shepard.
     <strong>Spilletid:</strong> 1 time og 37 minutter
 
-    <a href="//filmbloggen.net/2013/01/12/brutalitet-gradighet-og-kapitalisme-som-hovedemner/cogans-trade/" rel="attachment wp-att-9079"><img class="alignnone size-large wp-image-9079" src="//filmbloggen.net/wp-content/uploads//2013/01/Killing-them-softly-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2013/01/12/brutalitet-gradighet-og-kapitalisme-som-hovedemner/cogans-trade/" rel="attachment wp-att-9079"><img class="alignnone size-large wp-image-9079" src="/wp-content/uploads//2013/01/Killing-them-softly-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>The Assassination of Jesse James by the Coward Robert Ford var Andrew Dominiks gjennommbruddsfilm.</strong> Den var stillferdig, men gjorde aliikevel inntrykk på kritikerne. Med Killing Them Softly velger Andrew å skildre menneskers liv under fortvilelse over nedgangstider i USA. Det er på tidspunktet da George W. Bush taler sine siste ord som president og verden introduseres for den karismatiske Barack Obama. Andrew bruker den økonomiske krisen som bakteppe for historien og det har sin sammenheng med hva rollene gjør og sier. Dette er mer enn bare en thriller, den kritiserer politikken og dens likegyldighet. Noen vil si at det er pretensiøst, men da har de ikke skjønt hva Andrew meddeler.
 
@@ -177,7 +177,7 @@ meta:
     <strong>Skuespillere:</strong> Brad Pitt, Scoot McNairy, Ben Mendelsohn, James Gandolfini, Richard Jenkins, Vincent Curatola, Ray Liotta, Trevor Long, Max Casella, Sam Shepard.
     <strong>Spilletid:</strong> 1 time og 37 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=9079" rel="attachment wp-att-9079"><img class="alignnone size-large wp-image-9079" src="//filmbloggen.net/wp-content/uploads//2013/01/Killing-them-softly-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=9079" rel="attachment wp-att-9079"><img class="alignnone size-large wp-image-9079" src="/wp-content/uploads//2013/01/Killing-them-softly-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>The Assassination of Jesse James by the Coward Robert Ford var Andrew Dominiks gjennommbruddsfilm.</strong> Den var stillferdig, men gjorde aliikevel inntrykk på kritikerne. Med Killing Them Softly velger Andrew å skildre menneskers liv under fortvilelse over nedgangstider i USA. Det er på tidspunktet da George W. Bush taler sine siste ord som president og verden introduseres for den karismatiske Barack Obama. Andrew bruker den økonomiske krisen som bakteppe for historien og det har sin sammenheng med hva rollene gjør og sier. Dette er mer enn bare en thriller, den kritiserer politikken og dens likegyldighet. Noen vil si at det er pretensiøst, men da har de ikke skjønt hva Andrew meddeler.
 
@@ -202,7 +202,7 @@ meta:
     <strong>Skuespillere:</strong> Brad Pitt, Scoot McNairy, Ben Mendelsohn, James Gandolfini, Richard Jenkins, Vincent Curatola, Ray Liotta, Trevor Long, Max Casella, Sam Shepard.
     <strong>Spilletid:</strong> 1 time og 37 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=9079" rel="attachment wp-att-9079"><img class="alignnone size-large wp-image-9079" src="//filmbloggen.net/wp-content/uploads//2013/01/Killing-them-softly-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=9079" rel="attachment wp-att-9079"><img class="alignnone size-large wp-image-9079" src="/wp-content/uploads//2013/01/Killing-them-softly-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>The Assassination of Jesse James by the Coward Robert Ford var Andrew Dominiks gjennommbruddsfilm.</strong> Den var stillferdig, men gjorde aliikevel inntrykk på kritikerne. Med Killing Them Softly velger Andrew å skildre menneskers liv under fortvilelse over nedgangstider i USA. Det er på tidspunktet da George W. Bush taler sine siste ord som president og verden introduseres for den karismatiske Barack Obama. Andrew bruker den økonomiske krisen som bakteppe for historien og det har sin sammenheng med hva rollene gjør og sier. Dette er mer enn bare en thriller, den kritiserer politikken og dens likegyldighet. Noen vil si at det er pretensiøst, men da har de ikke skjønt hva Andrew meddeler.
 
@@ -302,7 +302,7 @@ tags:
 **Skuespillere:** Brad Pitt, Scoot McNairy, Ben Mendelsohn, James Gandolfini, Richard Jenkins, Vincent Curatola, Ray Liotta, Trevor Long, Max Casella, Sam Shepard.
 **Spilletid:** 1 time og 37 minutter
 
-<a href="//filmbloggen.net/2013/01/12/brutalitet-gradighet-og-kapitalisme-som-hovedemner/cogans-trade/" rel="attachment wp-att-9079"><img class="alignnone size-large wp-image-9079" src="//filmbloggen.net/wp-content/uploads//2013/01/Killing-them-softly-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2013/01/12/brutalitet-gradighet-og-kapitalisme-som-hovedemner/cogans-trade/" rel="attachment wp-att-9079"><img class="alignnone size-large wp-image-9079" src="/wp-content/uploads//2013/01/Killing-them-softly-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
 
 **The Assassination of Jesse James by the Coward Robert Ford var Andrew Dominiks gjennommbruddsfilm.** Den var stillferdig, men gjorde aliikevel inntrykk på kritikerne. Med Killing Them Softly velger Andrew å skildre menneskers liv under fortvilelse over nedgangstider i USA. Det er på tidspunktet da George W. Bush taler sine siste ord som president og verden introduseres for den karismatiske Barack Obama. Andrew bruker den økonomiske krisen som bakteppe for historien og det har sin sammenheng med hva rollene gjør og sier. Dette er mer enn bare en thriller, den kritiserer politikken og dens likegyldighet. Noen vil si at det er pretensiøst, men da har de ikke skjønt hva Andrew meddeler.
 

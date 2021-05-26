@@ -45,7 +45,7 @@ content:
     <strong>Regissør: </strong>Sofia Coppola
     <strong style="font-size: 13px; line-height: 19px;">Skuespiller:</strong><span style="font-size: 13px; line-height: 19px;"> Israel Broussard, Katie Chang, Emma Watson, Claire Julien, Taissa Farmiga...</span>
 
-    <a href="//filmbloggen.net/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg"><img class="alignnone size-full wp-image-10699" alt="The Bling Ring 1" src="//filmbloggen.net/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg" width="640" height="320" />
+    <a href="/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg"><img class="alignnone size-full wp-image-10699" alt="The Bling Ring 1" src="/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg" width="640" height="320" />
     </a><em style="font-size: 13px; line-height: 19px;">Foto: SF Norge AS</em>
 
     <strong>Sofia Coppola er en mye omdiskutert regissør.</strong> Mange elsker hver eneste spillefilm hun har regissert, mens andre misliker de fleste. <em>Lost in Translation</em> er da den éne filmen de aller fleste anerkjenner som hennes beste film, meg inkludert. Verken <em>The Virgin Diaries, Marie Antoinette</em> eller<em> Somewhere</em> ligger spesielt nært mitt hjerte, og én av dem (<em>Marie Antoinette</em>) misliker jeg så sterkt at jeg forlater rommet i all hast under filmkvelder om den kommer på skjermen, for å slippe å pine meg selv mer enn et eneste sekund av Kirsten Dunsts ubegripelig kjedelige rolletolking. Av den grunn var det spennende å gå inn i <em>The Bling Ring</em> i år, både fordi Sofia Coppolas navn var klistret til plakaten, men også fordi de første trailerne hadde preg av trashy rikdoms-ungdomsportrettering. En slik subsjanger som har kommet mer til syne i år gjennom Spring Breakers, er såpass frittstående fra det konvensjonelle uten å egentlig ønske det. Det er slik som er moro.
@@ -182,7 +182,7 @@ post_content:
     <strong>Regissør: </strong>Sofia Coppola
     <strong style="font-size: 13px; line-height: 19px;">Skuespiller:</strong><span style="font-size: 13px; line-height: 19px;"> Israel Broussard, Katie Chang, Emma Watson, Claire Julien, Taissa Farmiga...</span>
 
-    <a href="//filmbloggen.net/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg"><img class="alignnone size-full wp-image-10699" alt="The Bling Ring 1" src="//filmbloggen.net/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg" width="640" height="320" />
+    <a href="/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg"><img class="alignnone size-full wp-image-10699" alt="The Bling Ring 1" src="/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg" width="640" height="320" />
     </a><em style="font-size: 13px; line-height: 19px;">Foto: SF Norge AS</em>
 
     <strong>Sofia Coppola er en mye omdiskutert regissør.</strong> Mange elsker hver eneste spillefilm hun har regissert, mens andre misliker de fleste. <em>Lost in Translation</em> er da den éne filmen de aller fleste anerkjenner som hennes beste film, meg inkludert. Verken <em>The Virgin Diaries, Marie Antoinette</em> eller<em> Somewhere</em> ligger spesielt nært mitt hjerte, og én av dem (<em>Marie Antoinette</em>) misliker jeg så sterkt at jeg forlater rommet i all hast under filmkvelder om den kommer på skjermen, for å slippe å pine meg selv mer enn et eneste sekund av Kirsten Dunsts ubegripelig kjedelige rolletolking. Av den grunn var det spennende å gå inn i <em>The Bling Ring</em> i år, både fordi Sofia Coppolas navn var klistret til plakaten, men også fordi de første trailerne hadde preg av trashy rikdoms-ungdomsportrettering. En slik subsjanger som har kommet mer til syne i år gjennom Spring Breakers, er såpass frittstående fra det konvensjonelle uten å egentlig ønske det. Det er slik som er moro.
@@ -215,7 +215,7 @@ meta:
     <strong>Regissør: </strong>Sofia Coppola
     <strong style="font-size: 13px; line-height: 19px;">Skuespiller:</strong><span style="font-size: 13px; line-height: 19px;"> Israel Broussard, Katie Chang, Emma Watson, Claire Julien, Taissa Farmiga...</span>
 
-    <a href="//filmbloggen.net/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg"><img class="alignnone size-full wp-image-10699" alt="The Bling Ring 1" src="//filmbloggen.net/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg" width="640" height="320" />
+    <a href="/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg"><img class="alignnone size-full wp-image-10699" alt="The Bling Ring 1" src="/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg" width="640" height="320" />
     </a><em style="font-size: 13px; line-height: 19px;">Foto: SF Norge AS</em>
 
     <strong>Sofia Coppola er en mye omdiskutert regissør.</strong> Mange elsker hver eneste spillefilm hun har regissert, mens andre misliker de fleste. <em>Lost in Translation</em> er da den éne filmen de aller fleste anerkjenner som hennes beste film, meg inkludert. Verken <em>The Virgin Diaries, Marie Antoinette</em> eller<em> Somewhere</em> ligger spesielt nært mitt hjerte, og én av dem (<em>Marie Antoinette</em>) misliker jeg så sterkt at jeg forlater rommet i all hast under filmkvelder om den kommer på skjermen, for å slippe å pine meg selv mer enn et eneste sekund av Kirsten Dunsts ubegripelig kjedelige rolletolking. Av den grunn var det spennende å gå inn i <em>The Bling Ring</em> i år, både fordi Sofia Coppolas navn var klistret til plakaten, men også fordi de første trailerne hadde preg av trashy rikdoms-ungdomsportrettering. En slik subsjanger som har kommet mer til syne i år gjennom Spring Breakers, er såpass frittstående fra det konvensjonelle uten å egentlig ønske det. Det er slik som er moro.
@@ -239,7 +239,7 @@ meta:
     <strong>Regissør: </strong>Sofia Coppola
     <strong style="font-size: 13px; line-height: 19px;">Skuespiller:</strong><span style="font-size: 13px; line-height: 19px;"> Israel Broussard, Katie Chang, Emma Watson, Claire Julien, Taissa Farmiga...</span>
 
-    <a href="//filmbloggen.net/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg"><img class="alignnone size-full wp-image-10699" alt="The Bling Ring 1" src="//filmbloggen.net/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg" width="640" height="320" />
+    <a href="/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg"><img class="alignnone size-full wp-image-10699" alt="The Bling Ring 1" src="/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg" width="640" height="320" />
     </a><em style="font-size: 13px; line-height: 19px;">Foto: SF Norge AS</em>
 
     <strong>Sofia Coppola er en mye omdiskutert regissør.</strong> Mange elsker hver eneste spillefilm hun har regissert, mens andre misliker de fleste. <em>Lost in Translation</em> er da den éne filmen de aller fleste anerkjenner som hennes beste film, meg inkludert. Verken <em>The Virgin Diaries, Marie Antoinette</em> eller<em> Somewhere</em> ligger spesielt nært mitt hjerte, og én av dem (<em>Marie Antoinette</em>) misliker jeg så sterkt at jeg forlater rommet i all hast under filmkvelder om den kommer på skjermen, for å slippe å pine meg selv mer enn et eneste sekund av Kirsten Dunsts ubegripelig kjedelige rolletolking. Av den grunn var det spennende å gå inn i <em>The Bling Ring</em> i år, både fordi Sofia Coppolas navn var klistret til plakaten, men også fordi de første trailerne hadde preg av trashy rikdoms-ungdomsportrettering. En slik subsjanger som har kommet mer til syne i år gjennom Spring Breakers, er såpass frittstående fra det konvensjonelle uten å egentlig ønske det. Det er slik som er moro.
@@ -287,8 +287,8 @@ tags:
 **Regissør: **Sofia Coppola
 <strong style="font-size: 13px; line-height: 19px;">Skuespiller:</strong><span style="font-size: 13px; line-height: 19px;"> Israel Broussard, Katie Chang, Emma Watson, Claire Julien, Taissa Farmiga…</span>
 
-[<img class="alignnone size-full wp-image-10699" alt="The Bling Ring 1" src="//filmbloggen.net/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg" width="640" height="320" />
-](//filmbloggen.net/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg) <em style="font-size: 13px; line-height: 19px;">Foto: SF Norge AS</em>
+[<img class="alignnone size-full wp-image-10699" alt="The Bling Ring 1" src="/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg" width="640" height="320" />
+](/wp-content/uploads/2013/06/The-Bling-Ring-1.jpg) <em style="font-size: 13px; line-height: 19px;">Foto: SF Norge AS</em>
 
 **Sofia Coppola er en mye omdiskutert regissør.** Mange elsker hver eneste spillefilm hun har regissert, mens andre misliker de fleste. _Lost in Translation_ er da den éne filmen de aller fleste anerkjenner som hennes beste film, meg inkludert. Verken _The Virgin Diaries, Marie Antoinette_ eller_ Somewhere_ ligger spesielt nært mitt hjerte, og én av dem (_Marie Antoinette_) misliker jeg så sterkt at jeg forlater rommet i all hast under filmkvelder om den kommer på skjermen, for å slippe å pine meg selv mer enn et eneste sekund av Kirsten Dunsts ubegripelig kjedelige rolletolking. Av den grunn var det spennende å gå inn i _The Bling Ring_ i år, både fordi Sofia Coppolas navn var klistret til plakaten, men også fordi de første trailerne hadde preg av trashy rikdoms-ungdomsportrettering. En slik subsjanger som har kommet mer til syne i år gjennom Spring Breakers, er såpass frittstående fra det konvensjonelle uten å egentlig ønske det. Det er slik som er moro.
 

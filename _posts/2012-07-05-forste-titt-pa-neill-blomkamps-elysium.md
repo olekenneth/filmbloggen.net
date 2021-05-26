@@ -100,7 +100,7 @@ content:
   - |
     I 2009 kom Neill Blomkamp med en uhyre sterk spillefilmdebut gjennom<em> District 9</em>, og siden han annonserte <em>Elysium</em> har forventningene mine steget i været. Blomkamp og co. har da holdt kortene ekstremt tett til brystet, men nå ser det ut til at de begynner å spille dem for å bygge opp forventningene til premieren i 2013.
 
-    <a href="//filmbloggen.net/2012/07/05/forste-titt-pa-neill-blomkamps-elysium/matt-damon-elysium-first-look-skip-crop-version-1/" rel="attachment wp-att-4820"><img class="alignnone size-full wp-image-4820" src="//filmbloggen.net/wp-content/uploads//2012/07/matt-damon-elysium-first-look-skip-crop-version-1.jpg" alt="" width="640" height="379" /></a>
+    <a href="//filmbloggen.net/2012/07/05/forste-titt-pa-neill-blomkamps-elysium/matt-damon-elysium-first-look-skip-crop-version-1/" rel="attachment wp-att-4820"><img class="alignnone size-full wp-image-4820" src="/wp-content/uploads//2012/07/matt-damon-elysium-first-look-skip-crop-version-1.jpg" alt="" width="640" height="379" /></a>
 
     <em>Matt Damon som en Gurilla </em>
 
@@ -173,7 +173,7 @@ post_content:
   - |
     I 2009 kom Neill Blomkamp med en uhyre sterk spillefilmdebut gjennom<em> District 9</em>, og siden han annonserte <em>Elysium</em> har forventningene mine steget i været. Blomkamp og co. har da holdt kortene ekstremt tett til brystet, men nå ser det ut til at de begynner å spille dem for å bygge opp forventningene til premieren i 2013.
 
-    <a href="//filmbloggen.net/2012/07/05/forste-titt-pa-neill-blomkamps-elysium/matt-damon-elysium-first-look-skip-crop-version-1/" rel="attachment wp-att-4820"><img class="alignnone size-full wp-image-4820" src="//filmbloggen.net/wp-content/uploads//2012/07/matt-damon-elysium-first-look-skip-crop-version-1.jpg" alt="" width="640" height="379" /></a>
+    <a href="//filmbloggen.net/2012/07/05/forste-titt-pa-neill-blomkamps-elysium/matt-damon-elysium-first-look-skip-crop-version-1/" rel="attachment wp-att-4820"><img class="alignnone size-full wp-image-4820" src="/wp-content/uploads//2012/07/matt-damon-elysium-first-look-skip-crop-version-1.jpg" alt="" width="640" height="379" /></a>
 
     <em>Matt Damon som en Gurilla </em>
 
@@ -198,7 +198,7 @@ meta:
   - |
     a:74:{i:25918;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:25897;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:25949;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:25906;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"276a2c0669";}i:25904;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:25908;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"221cdba19e";}i:25950;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:25942;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1874:"I 2009 kom Neill Blomkamp med en uhyre sterk spillefilmdebut gjennom<em> District 9</em>, og siden han annonserte <em>Elysium</em> har forventningene mine steget i været. Blomkamp og co. har da holdt kortene ekstremt tett til brystet, men nå ser det ut til at de begynner å spille dem for å bygge opp forventningene til premieren i 2013.
 
-    <a href="//filmbloggen.net/?attachment_id=4820" rel="attachment wp-att-4820"><img class="alignnone size-full wp-image-4820" src="//filmbloggen.net/wp-content/uploads//2012/07/matt-damon-elysium-first-look-skip-crop-version-1.jpg" alt="" width="640" height="379" /></a>
+    <a href="//filmbloggen.net/?attachment_id=4820" rel="attachment wp-att-4820"><img class="alignnone size-full wp-image-4820" src="/wp-content/uploads//2012/07/matt-damon-elysium-first-look-skip-crop-version-1.jpg" alt="" width="640" height="379" /></a>
 
     <em>Matt Damon som en Gurilla </em>
 
@@ -214,7 +214,7 @@ meta:
     </div>
     </div>";}i:25927;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:25929;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"15";}i:25925;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"05";}i:25923;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:25931;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"38";}i:25954;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:25943;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:25919;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"15";}i:25926;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:25928;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"15";}i:25924;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"05";}i:25922;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"07";}i:25930;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"38";}i:25912;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:25910;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:25913;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:25970;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"4817";}i:25916;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"05";}i:25907;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"79787cbe42";}i:25946;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:25945;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:25947;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:25917;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"07";}i:25920;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"38";}i:25935;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:25936;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:25898;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:25901;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:25932;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:25951;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:25899;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:3:"404";}i:25953;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:3:"404";}i:25972;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1874:"I 2009 kom Neill Blomkamp med en uhyre sterk spillefilmdebut gjennom<em> District 9</em>, og siden han annonserte <em>Elysium</em> har forventningene mine steget i været. Blomkamp og co. har da holdt kortene ekstremt tett til brystet, men nå ser det ut til at de begynner å spille dem for å bygge opp forventningene til premieren i 2013.
 
-    <a href="//filmbloggen.net/?attachment_id=4820" rel="attachment wp-att-4820"><img class="alignnone size-full wp-image-4820" src="//filmbloggen.net/wp-content/uploads//2012/07/matt-damon-elysium-first-look-skip-crop-version-1.jpg" alt="" width="640" height="379" /></a>
+    <a href="//filmbloggen.net/?attachment_id=4820" rel="attachment wp-att-4820"><img class="alignnone size-full wp-image-4820" src="/wp-content/uploads//2012/07/matt-damon-elysium-first-look-skip-crop-version-1.jpg" alt="" width="640" height="379" /></a>
 
     <em>Matt Damon som en Gurilla </em>
 
@@ -255,7 +255,7 @@ tags:
 ---
 I 2009 kom Neill Blomkamp med en uhyre sterk spillefilmdebut gjennom _District 9_, og siden han annonserte _Elysium_ har forventningene mine steget i været. Blomkamp og co. har da holdt kortene ekstremt tett til brystet, men nå ser det ut til at de begynner å spille dem for å bygge opp forventningene til premieren i 2013.
 
-<a href="//filmbloggen.net/2012/07/05/forste-titt-pa-neill-blomkamps-elysium/matt-damon-elysium-first-look-skip-crop-version-1/" rel="attachment wp-att-4820"><img class="alignnone size-full wp-image-4820" src="//filmbloggen.net/wp-content/uploads//2012/07/matt-damon-elysium-first-look-skip-crop-version-1.jpg" alt="" width="640" height="379" /></a>
+<a href="//filmbloggen.net/2012/07/05/forste-titt-pa-neill-blomkamps-elysium/matt-damon-elysium-first-look-skip-crop-version-1/" rel="attachment wp-att-4820"><img class="alignnone size-full wp-image-4820" src="/wp-content/uploads//2012/07/matt-damon-elysium-first-look-skip-crop-version-1.jpg" alt="" width="640" height="379" /></a>
 
 _Matt Damon som en Gurilla _
 

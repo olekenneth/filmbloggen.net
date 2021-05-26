@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Valgt meg ut A Knight's Tale denne uken!</strong>
-    <img class="alignnone size-large wp-image-354" title="a_knights_tale" src="//filmbloggen.net/wp-content/uploads//2011/05/a_knights_tale-1024x576.jpg" alt="" width="620" height="348" />
+    <img class="alignnone size-large wp-image-354" title="a_knights_tale" src="/wp-content/uploads//2011/05/a_knights_tale-1024x576.jpg" alt="" width="620" height="348" />
     <strong>Originaltittel: </strong>A Knight's Tale<strong>
     Kategori:</strong> Action/Komedie
     <strong>Spilletid:</strong> 2 timer og 12 minutter
@@ -110,7 +110,7 @@ content:
 
     A Knight's Tale er regissert, produsert og skrevet av Brian Helgeland som gir oss en langt fra historisk korrekt actionkomedie med mye humor. Den er velspilt, men til tider merkes det at dette ikke er en skikkelig blockbuster. Ikke det at det gjør meg noe, men du merker flere ganger at lyssettingen kunne vært bedre.
 
-    <img class="size-medium wp-image-353 alignleft" title="a knights tale 2" src="//filmbloggen.net/wp-content/uploads//2011/05/a-knights-tale-2-300x225.jpg" alt="" width="300" height="225" />
+    <img class="size-medium wp-image-353 alignleft" title="a knights tale 2" src="/wp-content/uploads//2011/05/a-knights-tale-2-300x225.jpg" alt="" width="300" height="225" />
 
     Det er hovedsaklig to ting som gjør denne filmen for meg. Den første er at jeg digger musikken i den, deriblant Queen - We Will Rock You, også er det Heath Ledger, Paul Bettany (kommer med ny film som blir lansert om 1 måned), Mark Addy og Alan Tudyk som alle spiller vanvittig bra og har i tillegg gode karakterer.
 
@@ -176,7 +176,7 @@ ID:
 post_content:
   - |
     <strong>Valgt meg ut A Knight's Tale denne uken!</strong>
-    <img class="alignnone size-large wp-image-354" title="a_knights_tale" src="//filmbloggen.net/wp-content/uploads//2011/05/a_knights_tale-1024x576.jpg" alt="" width="620" height="348" />
+    <img class="alignnone size-large wp-image-354" title="a_knights_tale" src="/wp-content/uploads//2011/05/a_knights_tale-1024x576.jpg" alt="" width="620" height="348" />
     <strong>Originaltittel: </strong>A Knight's Tale<strong>
     Kategori:</strong> Action/Komedie
     <strong>Spilletid:</strong> 2 timer og 12 minutter
@@ -185,7 +185,7 @@ post_content:
 
     A Knight's Tale er regissert, produsert og skrevet av Brian Helgeland som gir oss en langt fra historisk korrekt actionkomedie med mye humor. Den er velspilt, men til tider merkes det at dette ikke er en skikkelig blockbuster. Ikke det at det gjør meg noe, men du merker flere ganger at lyssettingen kunne vært bedre.
 
-    <img class="size-medium wp-image-353 alignleft" title="a knights tale 2" src="//filmbloggen.net/wp-content/uploads//2011/05/a-knights-tale-2-300x225.jpg" alt="" width="300" height="225" />
+    <img class="size-medium wp-image-353 alignleft" title="a knights tale 2" src="/wp-content/uploads//2011/05/a-knights-tale-2-300x225.jpg" alt="" width="300" height="225" />
 
     Det er hovedsaklig to ting som gjør denne filmen for meg. Den første er at jeg digger musikken i den, deriblant Queen - We Will Rock You, også er det Heath Ledger, Paul Bettany (kommer med ny film som blir lansert om 1 måned), Mark Addy og Alan Tudyk som alle spiller vanvittig bra og har i tillegg gode karakterer.
 
@@ -209,7 +209,7 @@ tags:
   - Rufus Sewell
 ---
 **Valgt meg ut A Knight’s Tale denne uken!**
-<img class="alignnone size-large wp-image-354" title="a_knights_tale" src="//filmbloggen.net/wp-content/uploads//2011/05/a_knights_tale-1024x576.jpg" alt="" width="620" height="348" />
+<img class="alignnone size-large wp-image-354" title="a_knights_tale" src="/wp-content/uploads//2011/05/a_knights_tale-1024x576.jpg" alt="" width="620" height="348" />
 **Originaltittel:** A Knight’s Tale**
 Kategori:** Action/Komedie
 **Spilletid:** 2 timer og 12 minutter
@@ -218,7 +218,7 @@ Kategori:** Action/Komedie
 
 A Knight’s Tale er regissert, produsert og skrevet av Brian Helgeland som gir oss en langt fra historisk korrekt actionkomedie med mye humor. Den er velspilt, men til tider merkes det at dette ikke er en skikkelig blockbuster. Ikke det at det gjør meg noe, men du merker flere ganger at lyssettingen kunne vært bedre.
 
-<img class="size-medium wp-image-353 alignleft" title="a knights tale 2" src="//filmbloggen.net/wp-content/uploads//2011/05/a-knights-tale-2-300x225.jpg" alt="" width="300" height="225" />
+<img class="size-medium wp-image-353 alignleft" title="a knights tale 2" src="/wp-content/uploads//2011/05/a-knights-tale-2-300x225.jpg" alt="" width="300" height="225" />
 
 Det er hovedsaklig to ting som gjør denne filmen for meg. Den første er at jeg digger musikken i den, deriblant Queen – We Will Rock You, også er det Heath Ledger, Paul Bettany (kommer med ny film som blir lansert om 1 måned), Mark Addy og Alan Tudyk som alle spiller vanvittig bra og har i tillegg gode karakterer.
 

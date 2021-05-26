@@ -100,7 +100,7 @@ samplepermalinknonce:
   - 123a763b29
 content:
   - |
-    <strong>Mark Ruffalo var fantastisk som Hulken i den nye Avengers-filmen. Han imponerte også studiosjefene og har nå signert en kontrakt som gjør han klar for potensiellt hele <em>seks</em> Hulken-filmer.<!--more--></strong><a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" src="//filmbloggen.net/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" /></a>
+    <strong>Mark Ruffalo var fantastisk som Hulken i den nye Avengers-filmen. Han imponerte også studiosjefene og har nå signert en kontrakt som gjør han klar for potensiellt hele <em>seks</em> Hulken-filmer.<!--more--></strong><a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" src="/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" /></a>
     - I The Avengers er Bruce Banner mer moden og er klar over ødeleggelsene og livene han har ødelagt. Han er lei av å løpe fra sine problemer og begynner å lure på om han har noen kontroll over dette beistet. Det har vært vanvittig morsomt å spille han, sier Mark Ruffalo til IMDb.
 
     Den første filmen vi så med Hulken var i 2003, der Eric Bana var i hovedrollen. En katastrofal film som ikke funket i det hele tatt. Bana var følelsesløs og kjedelig og animasjonen på Hulken var skremmende dårlig. I 2008 kom "The Incredible Hulk" med Edward Norton i hovedrollen. Den funket veldig mye bedre både med tanke på skuespill og manus. Mange ville nok se Norton tilbake i The Avengers, men etter å ha sett filmen er det ikke mange som vil diskutere for at Ruffalo ikke fortjener denne rollen.
@@ -162,7 +162,7 @@ ID:
   - "3263"
 post_content:
   - |
-    <strong>Mark Ruffalo var fantastisk som Hulken i den nye Avengers-filmen. Han imponerte også studiosjefene og har nå signert en kontrakt som gjør han klar for potensiellt hele <em>seks</em> Hulken-filmer.<!--more--></strong><a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" src="//filmbloggen.net/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" /></a>
+    <strong>Mark Ruffalo var fantastisk som Hulken i den nye Avengers-filmen. Han imponerte også studiosjefene og har nå signert en kontrakt som gjør han klar for potensiellt hele <em>seks</em> Hulken-filmer.<!--more--></strong><a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" src="/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" /></a>
     - I The Avengers er Bruce Banner mer moden og er klar over ødeleggelsene og livene han har ødelagt. Han er lei av å løpe fra sine problemer og begynner å lure på om han har noen kontroll over dette beistet. Det har vært vanvittig morsomt å spille han, sier Mark Ruffalo til IMDb.
 
     Den første filmen vi så med Hulken var i 2003, der Eric Bana var i hovedrollen. En katastrofal film som ikke funket i det hele tatt. Bana var følelsesløs og kjedelig og animasjonen på Hulken var skremmende dårlig. I 2008 kom "The Incredible Hulk" med Edward Norton i hovedrollen. Den funket veldig mye bedre både med tanke på skuespill og manus. Mange ville nok se Norton tilbake i The Avengers, men etter å ha sett filmen er det ikke mange som vil diskutere for at Ruffalo ikke fortjener denne rollen.
@@ -188,7 +188,7 @@ categories:
 ---
 **Mark Ruffalo var fantastisk som Hulken i den nye Avengers-filmen. Han imponerte også studiosjefene og har nå signert en kontrakt som gjør han klar for potensiellt hele _seks_ Hulken-filmer.<!--more-->**
 
-<a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" src="//filmbloggen.net/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/05/02/seks-hulken-filmer/hulken/" rel="attachment wp-att-3264"><img class="alignnone size-large wp-image-3264" src="/wp-content/uploads//2012/05/hulken-620x413.jpg" alt="" width="620" height="413" /></a>
 – I The Avengers er Bruce Banner mer moden og er klar over ødeleggelsene og livene han har ødelagt. Han er lei av å løpe fra sine problemer og begynner å lure på om han har noen kontroll over dette beistet. Det har vært vanvittig morsomt å spille han, sier Mark Ruffalo til IMDb.
 
 Den første filmen vi så med Hulken var i 2003, der Eric Bana var i hovedrollen. En katastrofal film som ikke funket i det hele tatt. Bana var følelsesløs og kjedelig og animasjonen på Hulken var skremmende dårlig. I 2008 kom «The Incredible Hulk» med Edward Norton i hovedrollen. Den funket veldig mye bedre både med tanke på skuespill og manus. Mange ville nok se Norton tilbake i The Avengers, men etter å ha sett filmen er det ikke mange som vil diskutere for at Ruffalo ikke fortjener denne rollen.

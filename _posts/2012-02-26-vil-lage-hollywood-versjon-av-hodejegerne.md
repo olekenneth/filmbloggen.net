@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Mark Wahlberg er helt frelst etter å ha sett «Hodejegerne», og er fast bestemt på å få spille i og produsere en amerikansk versjon.</strong> <!--more-->
-    <a href="//filmbloggen.net/2012/02/26/vil-lage-hollywood-versjon-av-hodejegerne/mark-wahlberg-poster-56b1b/" rel="attachment wp-att-2759"><img class="alignnone size-large wp-image-2759" src="//filmbloggen.net/wp-content/uploads//2012/02/mark-wahlberg-poster-56b1b-620x414.jpg" alt="" width="620" height="414" /></a>
+    <a href="//filmbloggen.net/2012/02/26/vil-lage-hollywood-versjon-av-hodejegerne/mark-wahlberg-poster-56b1b/" rel="attachment wp-att-2759"><img class="alignnone size-large wp-image-2759" src="/wp-content/uploads//2012/02/mark-wahlberg-poster-56b1b-620x414.jpg" alt="" width="620" height="414" /></a>
     Det forteller Wahlberg når VG treffer ham i London i forbindelse med lanseringen av den amerikanske skuespillerens nyeste actionfilm, «Contraband», som har vært en megahit i USA.
 
     - Jeg så nettopp «Hodejegerne». Det er nok den sykeste filmen jeg har sett på ti år, sier Wahlberg.
@@ -191,7 +191,7 @@ ID:
 post_content:
   - |
     <strong>Mark Wahlberg er helt frelst etter å ha sett «Hodejegerne», og er fast bestemt på å få spille i og produsere en amerikansk versjon.</strong> <!--more-->
-    <a href="//filmbloggen.net/2012/02/26/vil-lage-hollywood-versjon-av-hodejegerne/mark-wahlberg-poster-56b1b/" rel="attachment wp-att-2759"><img class="alignnone size-large wp-image-2759" src="//filmbloggen.net/wp-content/uploads//2012/02/mark-wahlberg-poster-56b1b-620x414.jpg" alt="" width="620" height="414" /></a>
+    <a href="//filmbloggen.net/2012/02/26/vil-lage-hollywood-versjon-av-hodejegerne/mark-wahlberg-poster-56b1b/" rel="attachment wp-att-2759"><img class="alignnone size-large wp-image-2759" src="/wp-content/uploads//2012/02/mark-wahlberg-poster-56b1b-620x414.jpg" alt="" width="620" height="414" /></a>
     Det forteller Wahlberg når VG treffer ham i London i forbindelse med lanseringen av den amerikanske skuespillerens nyeste actionfilm, «Contraband», som har vært en megahit i USA.
 
     - Jeg så nettopp «Hodejegerne». Det er nok den sykeste filmen jeg har sett på ti år, sier Wahlberg.
@@ -245,7 +245,7 @@ categories:
 **Mark Wahlberg er helt frelst etter å ha sett «Hodejegerne», og er fast bestemt på å få spille i og produsere en amerikansk versjon.** <!--more-->
 
 
-<a href="//filmbloggen.net/2012/02/26/vil-lage-hollywood-versjon-av-hodejegerne/mark-wahlberg-poster-56b1b/" rel="attachment wp-att-2759"><img class="alignnone size-large wp-image-2759" src="//filmbloggen.net/wp-content/uploads//2012/02/mark-wahlberg-poster-56b1b-620x414.jpg" alt="" width="620" height="414" /></a>
+<a href="//filmbloggen.net/2012/02/26/vil-lage-hollywood-versjon-av-hodejegerne/mark-wahlberg-poster-56b1b/" rel="attachment wp-att-2759"><img class="alignnone size-large wp-image-2759" src="/wp-content/uploads//2012/02/mark-wahlberg-poster-56b1b-620x414.jpg" alt="" width="620" height="414" /></a>
 Det forteller Wahlberg når VG treffer ham i London i forbindelse med lanseringen av den amerikanske skuespillerens nyeste actionfilm, «Contraband», som har vært en megahit i USA.
 
 – Jeg så nettopp «Hodejegerne». Det er nok den sykeste filmen jeg har sett på ti år, sier Wahlberg.

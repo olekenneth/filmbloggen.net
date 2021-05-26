@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Svar på tre enkle spørsmål og vinn en DVD av "Hamilton - I Nasjonens Interesse".</strong><!--more-->
-    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="//filmbloggen.net/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /></a>
+    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /></a>
     Hamilton - I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni da kan du allerede ha den i spilleren din hvis du er en av de heldige. Alt du trenger å gjøre er å svare på tre enkle spørsmål innen søndag 3. juni.
     <div>1. Hvem skrev bøkene om Carl Hamilton?
     2. Hvilken tv-serie slo hovedrolleinnehaver Mikael Persbrandt igjennom med i 1997?</div>
@@ -169,7 +169,7 @@ ID:
 post_content:
   - |
     <strong>Svar på tre enkle spørsmål og vinn en DVD av "Hamilton - I Nasjonens Interesse".</strong><!--more-->
-    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="//filmbloggen.net/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /></a>
+    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /></a>
     Hamilton - I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni da kan du allerede ha den i spilleren din hvis du er en av de heldige. Alt du trenger å gjøre er å svare på tre enkle spørsmål innen søndag 3. juni.
     <div>1. Hvem skrev bøkene om Carl Hamilton?
     2. Hvilken tv-serie slo hovedrolleinnehaver Mikael Persbrandt igjennom med i 1997?</div>
@@ -189,7 +189,7 @@ save:
 meta:
   - |
     a:75:{i:21339;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:21318;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:21371;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:21327;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"e7353c6aea";}i:21325;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:21329;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"04b4b898a0";}i:21372;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:21364;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1302:"<strong>Svar på tre enkle spørsmål og vinn en DVD av "Hamilton - I Nasjonens Interesse".</strong><!--more-->
-    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="//filmbloggen.net/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /></a>
+    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /></a>
     Hamilton - I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni da kan du allerede ha den i spilleren din hvis du er en av de heldige. Alt du trenger å gjøre er å svare på tre enkle spørsmål innen søndag 3. juni.
     <div>1. Hvem skrev bøkene om Carl Hamilton?
     2. Hvilken tv-serie slo hovedrolleinnehaver Mikael Persbrandt igjennom med i 1997?</div>
@@ -198,7 +198,7 @@ meta:
     Vi har tre eksemplarer av filmen som vi gir bort. Send ditt svar til hanskristian@rangnes.no og bli med i konkurransen. Husk å ta med navn og adresse. Som lovet kommer det også flere konkurranse. For å lettere følge med på ting som skjer her på Filmbloggen og også når vi har lagt ut vinneren følg oss på Twitter og/eller Facebook.
     www.facebook.com/Filmbloggen
     www.twitter.com/FilmbloggenLykke til alle sammen!</div>";}i:21348;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:21350;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"14";}i:21346;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"29";}i:21344;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"05";}i:21352;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"19";}i:21376;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:21365;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:21340;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"17";}i:21347;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:21349;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"17";}i:21345;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"28";}i:21343;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"05";}i:21351;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"03";}i:21333;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:21331;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:21334;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:21393;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"3828";}i:21337;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"28";}i:21328;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"bffa0da801";}i:21368;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:21367;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:21369;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:21338;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"05";}i:21341;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"03";}i:21356;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:21357;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:21319;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:21322;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:21353;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:21373;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:21320;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:21375;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:21394;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1302:"<strong>Svar på tre enkle spørsmål og vinn en DVD av "Hamilton - I Nasjonens Interesse".</strong><!--more-->
-    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="//filmbloggen.net/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /></a>
+    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /></a>
     Hamilton - I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni da kan du allerede ha den i spilleren din hvis du er en av de heldige. Alt du trenger å gjøre er å svare på tre enkle spørsmål innen søndag 3. juni.
     <div>1. Hvem skrev bøkene om Carl Hamilton?
     2. Hvilken tv-serie slo hovedrolleinnehaver Mikael Persbrandt igjennom med i 1997?</div>
@@ -213,7 +213,7 @@ categories:
 **Svar på tre enkle spørsmål og vinn en DVD av «Hamilton – I Nasjonens Interesse».**<!--more-->
 
 
-<a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="//filmbloggen.net/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /></a>
+<a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /></a>
 Hamilton – I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni da kan du allerede ha den i spilleren din hvis du er en av de heldige. Alt du trenger å gjøre er å svare på tre enkle spørsmål innen søndag 3. juni.
 
 <div>

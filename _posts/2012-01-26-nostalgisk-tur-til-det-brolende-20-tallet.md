@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Owen Wilson, Rachel McAdams, Kathy Bates, Michael Sheen, Kurt Fuller, Marion Cotillard, Mimi Kennedy, Adrien Brody, Tom Hiddleston.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/01/26/nostalgisk-tur-til-det-brolende-20-tallet/midnight_in_paris_219213a/" rel="attachment wp-att-2067"><img class="alignnone size-large wp-image-2067" src="//filmbloggen.net/wp-content/uploads//2012/01/Midnight_in_Paris_219213a-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/01/26/nostalgisk-tur-til-det-brolende-20-tallet/midnight_in_paris_219213a/" rel="attachment wp-att-2067"><img class="alignnone size-large wp-image-2067" src="/wp-content/uploads//2012/01/Midnight_in_Paris_219213a-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Woody Allen er etter min mening en av de beste regissørene verden er så heldig å ha. Kvaliteten og originaliteten på filmene hans er upåklagelige, historiemessig er de veldig nyskapende og nytenkende. Og det skal godt gjøres i nåtidens Hollywood. Cowboys & Aliens er et godt eksempel på hva Hollywood mener er nyansert absurd tenkning. Denne filmen er heldigvis ikke lik den på noen som helst måte.
 
@@ -61,7 +61,7 @@ post_content:
     <strong>Skuespillere:</strong> Owen Wilson, Rachel McAdams, Kathy Bates, Michael Sheen, Kurt Fuller, Marion Cotillard, Mimi Kennedy, Adrien Brody, Tom Hiddleston.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/01/26/nostalgisk-tur-til-det-brolende-20-tallet/midnight_in_paris_219213a/" rel="attachment wp-att-2067"><img class="alignnone size-large wp-image-2067" src="//filmbloggen.net/wp-content/uploads//2012/01/Midnight_in_Paris_219213a-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/01/26/nostalgisk-tur-til-det-brolende-20-tallet/midnight_in_paris_219213a/" rel="attachment wp-att-2067"><img class="alignnone size-large wp-image-2067" src="/wp-content/uploads//2012/01/Midnight_in_Paris_219213a-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Woody Allen er etter min mening en av de beste regissørene verden er så heldig å ha. Kvaliteten og originaliteten på filmene hans er upåklagelige, historiemessig er de veldig nyskapende og nytenkende. Og det skal godt gjøres i nåtidens Hollywood. Cowboys & Aliens er et godt eksempel på hva Hollywood mener er nyansert absurd tenkning. Denne filmen er heldigvis ikke lik den på noen som helst måte.
 
@@ -157,7 +157,7 @@ meta:
     <strong>Skuespillere:</strong> Owen Wilson, Rachel McAdams, Kathy Bates, Michael Sheen, Kurt Fuller, Marion Cotillard, Mimi Kennedy, Adrien Brody, Tom Hiddleston.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/01/26/nostalgisk-tur-til-det-brolende-20-tallet/midnight_in_paris_219213a/" rel="attachment wp-att-2067"><img class="alignnone size-large wp-image-2067" src="//filmbloggen.net/wp-content/uploads//2012/01/Midnight_in_Paris_219213a-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/01/26/nostalgisk-tur-til-det-brolende-20-tallet/midnight_in_paris_219213a/" rel="attachment wp-att-2067"><img class="alignnone size-large wp-image-2067" src="/wp-content/uploads//2012/01/Midnight_in_Paris_219213a-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Woody Allen er etter min mening en av de beste regissørene verden er så heldig å ha. Kvaliteten og originaliteten på filmene hans er upåklagelige, historiemessig er de veldig nyskapende og nytenkende. Og det skal godt gjøres i nåtidens Hollywood. Cowboys & Aliens er et godt eksempel på hva Hollywood mener er nyansert absurd tenkning. Denne filmen er heldigvis ikke lik den på noen som helst måte.
 
@@ -174,7 +174,7 @@ meta:
     <strong>Skuespillere:</strong> Owen Wilson, Rachel McAdams, Kathy Bates, Michael Sheen, Kurt Fuller, Marion Cotillard, Mimi Kennedy, Adrien Brody, Tom Hiddleston.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/01/26/nostalgisk-tur-til-det-brolende-20-tallet/midnight_in_paris_219213a/" rel="attachment wp-att-2067"><img class="alignnone size-large wp-image-2067" src="//filmbloggen.net/wp-content/uploads//2012/01/Midnight_in_Paris_219213a-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/01/26/nostalgisk-tur-til-det-brolende-20-tallet/midnight_in_paris_219213a/" rel="attachment wp-att-2067"><img class="alignnone size-large wp-image-2067" src="/wp-content/uploads//2012/01/Midnight_in_Paris_219213a-620x413.jpg" alt="" width="620" height="413" /></a>
 
     Woody Allen er etter min mening en av de beste regissørene verden er så heldig å ha. Kvaliteten og originaliteten på filmene hans er upåklagelige, historiemessig er de veldig nyskapende og nytenkende. Og det skal godt gjøres i nåtidens Hollywood. Cowboys & Aliens er et godt eksempel på hva Hollywood mener er nyansert absurd tenkning. Denne filmen er heldigvis ikke lik den på noen som helst måte.
 
@@ -268,7 +268,7 @@ tags:
 **Skuespillere:** Owen Wilson, Rachel McAdams, Kathy Bates, Michael Sheen, Kurt Fuller, Marion Cotillard, Mimi Kennedy, Adrien Brody, Tom Hiddleston.
 **Spilletid:** 1 time og 34 minutter
 
-<a href="//filmbloggen.net/2012/01/26/nostalgisk-tur-til-det-brolende-20-tallet/midnight_in_paris_219213a/" rel="attachment wp-att-2067"><img class="alignnone size-large wp-image-2067" src="//filmbloggen.net/wp-content/uploads//2012/01/Midnight_in_Paris_219213a-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/01/26/nostalgisk-tur-til-det-brolende-20-tallet/midnight_in_paris_219213a/" rel="attachment wp-att-2067"><img class="alignnone size-large wp-image-2067" src="/wp-content/uploads//2012/01/Midnight_in_Paris_219213a-620x413.jpg" alt="" width="620" height="413" /></a>
 
 Woody Allen er etter min mening en av de beste regissørene verden er så heldig å ha. Kvaliteten og originaliteten på filmene hans er upåklagelige, historiemessig er de veldig nyskapende og nytenkende. Og det skal godt gjøres i nåtidens Hollywood. Cowboys & Aliens er et godt eksempel på hva Hollywood mener er nyansert absurd tenkning. Denne filmen er heldigvis ikke lik den på noen som helst måte.
 

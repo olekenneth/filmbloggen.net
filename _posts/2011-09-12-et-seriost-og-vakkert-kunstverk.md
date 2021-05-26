@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Oslo 31. august er en film, som bruker alle de viktige filmkriteriene for å lage en god teknisk film, som dessuten tar opp et viktig tabubelagt tema om det norske narkomiljøet.</strong>
-    <a href="//filmbloggen.net/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg"><img class="alignnone size-full wp-image-835" title="oslo31august" src="//filmbloggen.net/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg" alt="" width="379" height="302" /></a>
+    <a href="/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg"><img class="alignnone size-full wp-image-835" title="oslo31august" src="/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg" alt="" width="379" height="302" /></a>
     <strong>Originaltittel:</strong> Oslo 31. august
     <strong>Sjanger:</strong> Drama
     <strong>Spilletid:</strong> 1 t 34 min
@@ -178,7 +178,7 @@ ID:
 post_content:
   - |
     <strong>Oslo 31. august er en film, som bruker alle de viktige filmkriteriene for å lage en god teknisk film, som dessuten tar opp et viktig tabubelagt tema om det norske narkomiljøet.</strong>
-    <a href="//filmbloggen.net/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg"><img class="alignnone size-full wp-image-835" title="oslo31august" src="//filmbloggen.net/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg" alt="" width="379" height="302" /></a>
+    <a href="/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg"><img class="alignnone size-full wp-image-835" title="oslo31august" src="/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg" alt="" width="379" height="302" /></a>
     <strong>Originaltittel:</strong> Oslo 31. august
     <strong>Sjanger:</strong> Drama
     <strong>Spilletid:</strong> 1 t 34 min
@@ -207,7 +207,7 @@ save:
 meta:
   - |
     a:80:{i:6201;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:6180;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:6233;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:6189;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"25402909ed";}i:6187;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:6191;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"d87366ceb6";}i:6234;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:6226;a:2:{s:3:"key";s:7:"content";s:5:"value";s:2761:"<strong>Oslo 31. august er en film, som bruker alle de viktige filmkriteriene for å lage en god teknisk film, som dessuten tar opp et viktig tabubelagt tema om det norske narkomiljøet.</strong>
-    <a href="//filmbloggen.net/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg"><img class="alignnone size-full wp-image-835" title="oslo31august" src="//filmbloggen.net/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg" alt="" width="379" height="302" /></a>
+    <a href="/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg"><img class="alignnone size-full wp-image-835" title="oslo31august" src="/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg" alt="" width="379" height="302" /></a>
     <strong>Originaltittel:</strong> Oslo 31. august
     <strong>Sjanger:</strong> Drama
     <strong>Spilletid:</strong> 1 t 34 min
@@ -227,7 +227,7 @@ meta:
     Må trekke noen poeng på avslutningen, for jeg ville selv ha valgt å avslutte filmen tidligere på en mye mer tragisk og sinnssyk måte. Men det er et stort pluss for starten, hvor regissøren tar publikum med på en rundtur i Oslos gater, hvor alt er helt forlatt. Voiceover i starten av filmen er dessuten gull verdt. Et seriøst, men vakkert kunstverk vil jeg kalle det.
 
     Skrevet av: Marthe Cecilie Skammelsrud Madsen";}i:6210;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:6212;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"22";}i:6208;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"12";}i:6206;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"09";}i:6214;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"52";}i:6382;a:2:{s:3:"key";s:9:"edit_date";s:5:"value";s:4:"true";}i:6238;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:6227;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:6202;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"15";}i:6209;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:6211;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"15";}i:6207;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"12";}i:6205;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"09";}i:6213;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"43";}i:6195;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:6193;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:6196;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:6255;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"834";}i:6199;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"12";}i:6190;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"4127dca506";}i:6230;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:6229;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:6231;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:6200;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"09";}i:6203;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"43";}i:6218;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:6219;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:6181;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:6184;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:6215;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:6235;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:6182;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:6237;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:6256;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:2761:"<strong>Oslo 31. august er en film, som bruker alle de viktige filmkriteriene for å lage en god teknisk film, som dessuten tar opp et viktig tabubelagt tema om det norske narkomiljøet.</strong>
-    <a href="//filmbloggen.net/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg"><img class="alignnone size-full wp-image-835" title="oslo31august" src="//filmbloggen.net/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg" alt="" width="379" height="302" /></a>
+    <a href="/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg"><img class="alignnone size-full wp-image-835" title="oslo31august" src="/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg" alt="" width="379" height="302" /></a>
     <strong>Originaltittel:</strong> Oslo 31. august
     <strong>Sjanger:</strong> Drama
     <strong>Spilletid:</strong> 1 t 34 min
@@ -268,7 +268,7 @@ tags:
   - Petter With
 ---
 **Oslo 31. august er en film, som bruker alle de viktige filmkriteriene for å lage en god teknisk film, som dessuten tar opp et viktig tabubelagt tema om det norske narkomiljøet.**
-[<img class="alignnone size-full wp-image-835" src="//filmbloggen.net/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg" alt="" width="379" height="302" />](//filmbloggen.net/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg)
+[<img class="alignnone size-full wp-image-835" src="/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg" alt="" width="379" height="302" />](/wp-content/uploads//2011/09/oslo31august-e1315860798560.jpg)
 **Originaltittel:** Oslo 31. august
 **Sjanger:** Drama
 **Spilletid:** 1 t 34 min

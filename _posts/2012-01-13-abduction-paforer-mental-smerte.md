@@ -107,7 +107,7 @@ content:
     Spilletid:</strong> 1 time og 42 minutter<strong>
     Regissør:</strong> John Singleton<strong>
     Med:</strong> Taylor Lautner, Lily Collins, Alfred Molina,Maria Bello, Michael Nyqvist
-    <a href="//filmbloggen.net/2012/01/13/abduction-paforer-mental-smerte/_dsc9708-nef/" rel="attachment wp-att-1848"><img class="alignnone size-large wp-image-1848" src="//filmbloggen.net/wp-content/uploads//2012/01/vsghehn5-620x412.jpg" alt="" width="620" height="412" />
+    <a href="//filmbloggen.net/2012/01/13/abduction-paforer-mental-smerte/_dsc9708-nef/" rel="attachment wp-att-1848"><img class="alignnone size-large wp-image-1848" src="/wp-content/uploads//2012/01/vsghehn5-620x412.jpg" alt="" width="620" height="412" />
     </a> Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
 
     I Abduction spiller Taylor Lautner en ung mann som ved et uhell snubler over ett bilde av seg selv på en nettside over savnede personer. Etter å ha oppdaget at hans foreldre ikke er hans biologiske og med viten om at livet hans er en løgn og i tillegg er nøye planlagt for å skjule mystiske hemmeligheter. Hans falske foreldre blir drept, og så starter jakten på å finne sannheten. Døden over foreldrene som har vært der for han hele livet kommer han over rimelig raskt og han har tre følelser i filmen: sinna, lei seg og glad.
@@ -180,7 +180,7 @@ post_content:
     Spilletid:</strong> 1 time og 42 minutter<strong>
     Regissør:</strong> John Singleton<strong>
     Med:</strong> Taylor Lautner, Lily Collins, Alfred Molina,Maria Bello, Michael Nyqvist
-    <a href="//filmbloggen.net/2012/01/13/abduction-paforer-mental-smerte/_dsc9708-nef/" rel="attachment wp-att-1848"><img class="alignnone size-large wp-image-1848" src="//filmbloggen.net/wp-content/uploads//2012/01/vsghehn5-620x412.jpg" alt="" width="620" height="412" />
+    <a href="//filmbloggen.net/2012/01/13/abduction-paforer-mental-smerte/_dsc9708-nef/" rel="attachment wp-att-1848"><img class="alignnone size-large wp-image-1848" src="/wp-content/uploads//2012/01/vsghehn5-620x412.jpg" alt="" width="620" height="412" />
     </a> Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
 
     I Abduction spiller Taylor Lautner en ung mann som ved et uhell snubler over ett bilde av seg selv på en nettside over savnede personer. Etter å ha oppdaget at hans foreldre ikke er hans biologiske og med viten om at livet hans er en løgn og i tillegg er nøye planlagt for å skjule mystiske hemmeligheter. Hans falske foreldre blir drept, og så starter jakten på å finne sannheten. Døden over foreldrene som har vært der for han hele livet kommer han over rimelig raskt og han har tre følelser i filmen: sinna, lei seg og glad.
@@ -205,7 +205,7 @@ meta:
     Spilletid:</strong> 1 time og 42 minutter<strong>
     Regissør:</strong> John Singleton<strong>
     Med:</strong> Taylor Lautner, Lily Collins, Alfred Molina,Maria Bello, Michael Nyqvist
-    <a href="//filmbloggen.net/2012/01/13/abduction-paforer-mental-smerte/_dsc9708-nef/" rel="attachment wp-att-1848"><img class="alignnone size-large wp-image-1848" src="//filmbloggen.net/wp-content/uploads//2012/01/vsghehn5-620x412.jpg" alt="" width="620" height="412" />
+    <a href="//filmbloggen.net/2012/01/13/abduction-paforer-mental-smerte/_dsc9708-nef/" rel="attachment wp-att-1848"><img class="alignnone size-large wp-image-1848" src="/wp-content/uploads//2012/01/vsghehn5-620x412.jpg" alt="" width="620" height="412" />
     </a> Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
 
     I Abduction spiller Taylor Lautner en ung mann som ved et uhell snubler over ett bilde av seg selv på en nettside over savnede personer. Etter å ha oppdaget at hans foreldre ikke er hans biologiske og med viten om at livet hans er en løgn og i tillegg er nøye planlagt for å skjule mystiske hemmeligheter. Hans falske foreldre blir drept, og så starter jakten på å finne sannheten. Døden over foreldrene som har vært der for han hele livet kommer han over rimelig raskt og han har tre følelser i filmen: sinna, lei seg og glad.
@@ -221,7 +221,7 @@ meta:
     Spilletid:</strong> 1 time og 42 minutter<strong>
     Regissør:</strong> John Singleton<strong>
     Med:</strong> Taylor Lautner, Lily Collins, Alfred Molina,Maria Bello, Michael Nyqvist
-    <a href="//filmbloggen.net/2012/01/13/abduction-paforer-mental-smerte/_dsc9708-nef/" rel="attachment wp-att-1848"><img class="alignnone size-large wp-image-1848" src="//filmbloggen.net/wp-content/uploads//2012/01/vsghehn5-620x412.jpg" alt="" width="620" height="412" />
+    <a href="//filmbloggen.net/2012/01/13/abduction-paforer-mental-smerte/_dsc9708-nef/" rel="attachment wp-att-1848"><img class="alignnone size-large wp-image-1848" src="/wp-content/uploads//2012/01/vsghehn5-620x412.jpg" alt="" width="620" height="412" />
     </a> Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
 
     I Abduction spiller Taylor Lautner en ung mann som ved et uhell snubler over ett bilde av seg selv på en nettside over savnede personer. Etter å ha oppdaget at hans foreldre ikke er hans biologiske og med viten om at livet hans er en løgn og i tillegg er nøye planlagt for å skjule mystiske hemmeligheter. Hans falske foreldre blir drept, og så starter jakten på å finne sannheten. Døden over foreldrene som har vært der for han hele livet kommer han over rimelig raskt og han har tre følelser i filmen: sinna, lei seg og glad.
@@ -247,7 +247,7 @@ Kategori:** Action**
 Spilletid:** 1 time og 42 minutter**
 Regissør:** John Singleton**
 Med:** Taylor Lautner, Lily Collins, Alfred Molina,Maria Bello, Michael Nyqvist
-<a href="//filmbloggen.net/2012/01/13/abduction-paforer-mental-smerte/_dsc9708-nef/" rel="attachment wp-att-1848"><img class="alignnone size-large wp-image-1848" src="//filmbloggen.net/wp-content/uploads//2012/01/vsghehn5-620x412.jpg" alt="" width="620" height="412" /><br /> </a> Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
+<a href="//filmbloggen.net/2012/01/13/abduction-paforer-mental-smerte/_dsc9708-nef/" rel="attachment wp-att-1848"><img class="alignnone size-large wp-image-1848" src="/wp-content/uploads//2012/01/vsghehn5-620x412.jpg" alt="" width="620" height="412" /><br /> </a> Taylor Lautner har gjort seg et navn via Twilight-filmene og har blitt en populær mann blant jentene etter sin rolle der. Men jeg bryr meg ikke om du har verdens største forelskelse på denne gutten. Du kan ikke synes at verken han eller hans motskuespillerinne Lily Collins spiller bra i denne forferdelige actionfilmen.
 
 I Abduction spiller Taylor Lautner en ung mann som ved et uhell snubler over ett bilde av seg selv på en nettside over savnede personer. Etter å ha oppdaget at hans foreldre ikke er hans biologiske og med viten om at livet hans er en løgn og i tillegg er nøye planlagt for å skjule mystiske hemmeligheter. Hans falske foreldre blir drept, og så starter jakten på å finne sannheten. Døden over foreldrene som har vært der for han hele livet kommer han over rimelig raskt og han har tre følelser i filmen: sinna, lei seg og glad.
 

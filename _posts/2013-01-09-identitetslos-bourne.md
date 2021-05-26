@@ -107,7 +107,7 @@ content:
     <strong>Varighet:</strong> 2 timer og 15 minutter
     <strong>Regi:</strong> Tony Gilroy
     <strong>Skuespillere:</strong> Jeremy Renner, Rachel Weisz, Edward Norton, Joan Allen, Donna Murphy, Scott Glenn,Oscar Isaac, Albert Finney
-    <a href="//filmbloggen.net/2013/01/09/identitetslos-bourne/xljyxdj1-2/" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" src="//filmbloggen.net/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2013/01/09/identitetslos-bourne/xljyxdj1-2/" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Tekst:</strong> Benjamin Brekken for <a href="//judgefudge.net">judgefudge.net</a>
     <strong>Foto: </strong>UIP
 
@@ -119,7 +119,7 @@ content:
 
     <strong>Men, apropo actionscener. Takk og lov! Det er noen av dem.</strong> Nærkampene i Jason Bourne Legacy minner om nærkampene med Matt Damon. Koreografien er kul! Likevel når de ikke helt opp til samme nivå som sine forgjengere. Den samme nærheten og intense eksplositviteten mangler. Jason Bourne-filmene har, etter min mening, gitt oss noen av de råeste mann-mot-mann-kampene noensinne. Det klarer ikke denne fjerde filmen å matche. At også filmen bygger opp til et heidundranes neveslagsmål med en forfølgelsessekvens på et kvarter, UTEN å gi deg klimakset. Det er utilgivelig!
 
-    <img class="alignnone size-large wp-image-9192" title="eqyfeua11" src="//filmbloggen.net/wp-content/uploads//2013/01/eqyfeua11-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-9192" title="eqyfeua11" src="/wp-content/uploads//2013/01/eqyfeua11-620x413.jpg" alt="" width="620" height="413" />
 
     <strong>Når det gjelder Jeremy Renner i rollen som Aaron Cross er jeg godt fornøyd.</strong> Personlig har jeg sansen for Renner og i Bourne Legacy gjør han en god prestasjon. Det til tross for at manuset ikke gir han allverden å spille på. Jeg tar meg selv i å spørre, hvorfor skal jeg egentlig bry meg om denne karen? Cross er ikke like abstrakt som det Bourne var. Der sistnevnte stilte spørsmål moral og identitet, er Cross bare opptatt av å skaffe nye forsyninger med medisiner. Blå pille til å øke intelligens og grønn til å bedre fysikken.  Det hele koker sammen til Cross sitt kappløp mot sin egen hjernesmelting. Da knyttes ikke de helt store båndene for meg.
 
@@ -192,7 +192,7 @@ post_content:
     <strong>Varighet:</strong> 2 timer og 15 minutter
     <strong>Regi:</strong> Tony Gilroy
     <strong>Skuespillere:</strong> Jeremy Renner, Rachel Weisz, Edward Norton, Joan Allen, Donna Murphy, Scott Glenn,Oscar Isaac, Albert Finney
-    <a href="//filmbloggen.net/2013/01/09/identitetslos-bourne/xljyxdj1-2/" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" src="//filmbloggen.net/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2013/01/09/identitetslos-bourne/xljyxdj1-2/" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Tekst:</strong> Benjamin Brekken for <a href="//judgefudge.net">judgefudge.net</a>
     <strong>Foto: </strong>UIP
 
@@ -204,7 +204,7 @@ post_content:
 
     <strong>Men, apropo actionscener. Takk og lov! Det er noen av dem.</strong> Nærkampene i Jason Bourne Legacy minner om nærkampene med Matt Damon. Koreografien er kul! Likevel når de ikke helt opp til samme nivå som sine forgjengere. Den samme nærheten og intense eksplositviteten mangler. Jason Bourne-filmene har, etter min mening, gitt oss noen av de råeste mann-mot-mann-kampene noensinne. Det klarer ikke denne fjerde filmen å matche. At også filmen bygger opp til et heidundranes neveslagsmål med en forfølgelsessekvens på et kvarter, UTEN å gi deg klimakset. Det er utilgivelig!
 
-    <img class="alignnone size-large wp-image-9192" title="eqyfeua11" src="//filmbloggen.net/wp-content/uploads//2013/01/eqyfeua11-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-9192" title="eqyfeua11" src="/wp-content/uploads//2013/01/eqyfeua11-620x413.jpg" alt="" width="620" height="413" />
 
     <strong>Når det gjelder Jeremy Renner i rollen som Aaron Cross er jeg godt fornøyd.</strong> Personlig har jeg sansen for Renner og i Bourne Legacy gjør han en god prestasjon. Det til tross for at manuset ikke gir han allverden å spille på. Jeg tar meg selv i å spørre, hvorfor skal jeg egentlig bry meg om denne karen? Cross er ikke like abstrakt som det Bourne var. Der sistnevnte stilte spørsmål moral og identitet, er Cross bare opptatt av å skaffe nye forsyninger med medisiner. Blå pille til å øke intelligens og grønn til å bedre fysikken.  Det hele koker sammen til Cross sitt kappløp mot sin egen hjernesmelting. Da knyttes ikke de helt store båndene for meg.
 
@@ -229,7 +229,7 @@ meta:
     <strong>Varighet:</strong> 2 timer og 15 minutter
     <strong>Regi:</strong> Tony Gilroy
     <strong>Skuespillere:</strong> Jeremy Renner, Rachel Weisz, Edward Norton, Joan Allen, Donna Murphy, Scott Glenn,Oscar Isaac, Albert Finney
-    <a href="//filmbloggen.net/?attachment_id=9189" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" title="xljyxdj1" src="//filmbloggen.net/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=9189" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" title="xljyxdj1" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Tekst:</strong> Benjamin Brekken for <a href="//judgefudge.net">judgefudge.net</a>
     <strong>Foto: </strong>UIP
 
@@ -254,7 +254,7 @@ meta:
     <strong>Varighet:</strong> 2 timer og 15 minutter
     <strong>Regi:</strong> Tony Gilroy
     <strong>Skuespillere:</strong> Jeremy Renner, Rachel Weisz, Edward Norton, Joan Allen, Donna Murphy, Scott Glenn,Oscar Isaac, Albert Finney
-    <a href="//filmbloggen.net/?attachment_id=9189" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" title="xljyxdj1" src="//filmbloggen.net/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=9189" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" title="xljyxdj1" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Tekst:</strong> Benjamin Brekken for <a href="//judgefudge.net">judgefudge.net</a>
     <strong>Foto: </strong>UIP
 
@@ -294,7 +294,7 @@ Originaltittel: The Bourne Legacy
 **Varighet:** 2 timer og 15 minutter
 **Regi:** Tony Gilroy
 **Skuespillere:** Jeremy Renner, Rachel Weisz, Edward Norton, Joan Allen, Donna Murphy, Scott Glenn,Oscar Isaac, Albert Finney
-<a href="//filmbloggen.net/2013/01/09/identitetslos-bourne/xljyxdj1-2/" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" src="//filmbloggen.net/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2013/01/09/identitetslos-bourne/xljyxdj1-2/" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
 **Tekst:** Benjamin Brekken for [judgefudge.net](//judgefudge.net)
 **Foto:** UIP
 
@@ -306,7 +306,7 @@ Originaltittel: The Bourne Legacy
 
 **Men, apropo actionscener. Takk og lov! Det er noen av dem.** Nærkampene i Jason Bourne Legacy minner om nærkampene med Matt Damon. Koreografien er kul! Likevel når de ikke helt opp til samme nivå som sine forgjengere. Den samme nærheten og intense eksplositviteten mangler. Jason Bourne-filmene har, etter min mening, gitt oss noen av de råeste mann-mot-mann-kampene noensinne. Det klarer ikke denne fjerde filmen å matche. At også filmen bygger opp til et heidundranes neveslagsmål med en forfølgelsessekvens på et kvarter, UTEN å gi deg klimakset. Det er utilgivelig!
 
-<img class="alignnone size-large wp-image-9192" src="//filmbloggen.net/wp-content/uploads//2013/01/eqyfeua11-620x413.jpg" alt="" width="620" height="413" />
+<img class="alignnone size-large wp-image-9192" src="/wp-content/uploads//2013/01/eqyfeua11-620x413.jpg" alt="" width="620" height="413" />
 
 **Når det gjelder Jeremy Renner i rollen som Aaron Cross er jeg godt fornøyd.** Personlig har jeg sansen for Renner og i Bourne Legacy gjør han en god prestasjon. Det til tross for at manuset ikke gir han allverden å spille på. Jeg tar meg selv i å spørre, hvorfor skal jeg egentlig bry meg om denne karen? Cross er ikke like abstrakt som det Bourne var. Der sistnevnte stilte spørsmål moral og identitet, er Cross bare opptatt av å skaffe nye forsyninger med medisiner. Blå pille til å øke intelligens og grønn til å bedre fysikken.  Det hele koker sammen til Cross sitt kappløp mot sin egen hjernesmelting. Da knyttes ikke de helt store båndene for meg.
 

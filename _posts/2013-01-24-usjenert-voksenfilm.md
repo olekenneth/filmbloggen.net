@@ -109,14 +109,14 @@ content:
     <strong>Kategori:</strong> Drama
     <strong>Regi:</strong> Ben Lewin
     <strong>Med:</strong> John Hawkes, Helen Hunt, William H. Macy og Moon Bloodgood
-    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="//filmbloggen.net/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Foto: Twentieth Century Fox Norway</strong>
 
     <strong>Religiøse Mark O'Brian (John Hawkes) ble rammet av polio som liten gutt og er praktisk talt lam fra halsen og ned.</strong> Han tilbringer store deler av livet i en pustemaskin, en såkalt jernlunge, hvor han bruker tiden på å skrive dikt og snakke med et bilde av jomfru Maria. Han er omgitt av assistenter som hjelper ham med praktiske gjøremål. Etter å ha forelsket seg i en av assistentene sine, fridd til henne og blitt avslått, bestemmer Mark seg, i en alder av 38, for at det er på tide å miste jomfrudommen sin.
 
     <strong>Etter å ha rådført seg med sin lokale prest (William H. Macy), oppsøker Mark profesjonell hjelp </strong>hos sexterapauten Cheryl (Helen Hunt). Denne filmen utspiller seg i et veldig uvanlig scenario og forteller en historie om to ting som mange av oss helst vi se vekk ifra, nemlig sex og handicap. Den er fortalt på en måte som gjør meg utrolig glad for at vi lever i en tid hvor nettopp disse to temaene kombinert kan tas opp i et så serkt medium som film. "The Sessions" er basert på en sann historie ut ifra de selvbiografiske tekstene til poeten og journalisten Mark O'Brian og hans reise til manndom sammen med "sexsurrogaten" Cheryl Cohen Greene. John Hawkes ("American Gangster", "Identity" og "Me, You and Everyone We Know" ) leverer en ekstremt troverdig karaktertolkning av hovedrollen. Han har et uttrykk som formidler karakterens humoristiske og elskverdige vesen godt på tross av at vi stort sett ser ham horisontalt på en slags båre.
 
-    <strong><img class="alignnone size-large wp-image-9636" src="//filmbloggen.net/wp-content/uploads//2013/01/jhyupqb12-620x402.jpg" alt="" width="620" height="402" /></strong>
+    <strong><img class="alignnone size-large wp-image-9636" src="/wp-content/uploads//2013/01/jhyupqb12-620x402.jpg" alt="" width="620" height="402" /></strong>
 
     <strong>Helen Hunt ("Twister", "As Good as it Gets", "What Women Want") er etter min mening veldig modig</strong> som har tatt på seg rollen som noe så kontroversielt som en sexsurrogat for handicappede. Hun fremstiller en dame som er veldig privat, men som samtidig kler seg naken i første møte med klientene sine og blir veldig kjapt intim med dem og hjelper dem med å utforske seksualiteten deres. Sexscenene mellom Hawkes og Hunt er så naturlige og rene som jeg aldri har sett på film før. Ingen sensuell dempet belysning, ingen forførende avkledning og helt blottet for klisjéer. Akkurat disse partiene i filmen kunne lett ha blitt pinlige og latterlige, men scenene er så velrgisserte og skuespillerne så trygge at selv en ungdomsskoleklasse hadde akseptert det.
 
@@ -191,14 +191,14 @@ post_content:
     <strong>Kategori:</strong> Drama
     <strong>Regi:</strong> Ben Lewin
     <strong>Med:</strong> John Hawkes, Helen Hunt, William H. Macy og Moon Bloodgood
-    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="//filmbloggen.net/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Foto: Twentieth Century Fox Norway</strong>
 
     <strong>Religiøse Mark O'Brian (John Hawkes) ble rammet av polio som liten gutt og er praktisk talt lam fra halsen og ned.</strong> Han tilbringer store deler av livet i en pustemaskin, en såkalt jernlunge, hvor han bruker tiden på å skrive dikt og snakke med et bilde av jomfru Maria. Han er omgitt av assistenter som hjelper ham med praktiske gjøremål. Etter å ha forelsket seg i en av assistentene sine, fridd til henne og blitt avslått, bestemmer Mark seg, i en alder av 38, for at det er på tide å miste jomfrudommen sin.
 
     <strong>Etter å ha rådført seg med sin lokale prest (William H. Macy), oppsøker Mark profesjonell hjelp </strong>hos sexterapauten Cheryl (Helen Hunt). Denne filmen utspiller seg i et veldig uvanlig scenario og forteller en historie om to ting som mange av oss helst vi se vekk ifra, nemlig sex og handicap. Den er fortalt på en måte som gjør meg utrolig glad for at vi lever i en tid hvor nettopp disse to temaene kombinert kan tas opp i et så serkt medium som film. "The Sessions" er basert på en sann historie ut ifra de selvbiografiske tekstene til poeten og journalisten Mark O'Brian og hans reise til manndom sammen med "sexsurrogaten" Cheryl Cohen Greene. John Hawkes ("American Gangster", "Identity" og "Me, You and Everyone We Know" ) leverer en ekstremt troverdig karaktertolkning av hovedrollen. Han har et uttrykk som formidler karakterens humoristiske og elskverdige vesen godt på tross av at vi stort sett ser ham horisontalt på en slags båre.
 
-    <strong><img class="alignnone size-large wp-image-9636" src="//filmbloggen.net/wp-content/uploads//2013/01/jhyupqb12-620x402.jpg" alt="" width="620" height="402" /></strong>
+    <strong><img class="alignnone size-large wp-image-9636" src="/wp-content/uploads//2013/01/jhyupqb12-620x402.jpg" alt="" width="620" height="402" /></strong>
 
     <strong>Helen Hunt ("Twister", "As Good as it Gets", "What Women Want") er etter min mening veldig modig</strong> som har tatt på seg rollen som noe så kontroversielt som en sexsurrogat for handicappede. Hun fremstiller en dame som er veldig privat, men som samtidig kler seg naken i første møte med klientene sine og blir veldig kjapt intim med dem og hjelper dem med å utforske seksualiteten deres. Sexscenene mellom Hawkes og Hunt er så naturlige og rene som jeg aldri har sett på film før. Ingen sensuell dempet belysning, ingen forførende avkledning og helt blottet for klisjéer. Akkurat disse partiene i filmen kunne lett ha blitt pinlige og latterlige, men scenene er så velrgisserte og skuespillerne så trygge at selv en ungdomsskoleklasse hadde akseptert det.
 
@@ -225,14 +225,14 @@ meta:
     <strong>Kategori:</strong> Drama
     <strong>Regi:</strong> Ben Lewin
     <strong>Med:</strong> John Hawkes, Helen Hunt, William H. Macy og Moon Bloodgood
-    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="//filmbloggen.net/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Foto: Twentieth Century Fox Norway</strong>
 
     <strong>Religiøse Mark O'Brian (John Hawkes) ble rammet av polio som liten gutt og er praktisk talt lam fra halsen og ned.</strong> Han tilbringer store deler av livet i en pustemaskin, en såkalt jernlunge, hvor han bruker tiden på å skrive dikt og snakke med et bilde av jomfru Maria. Han er omgitt av assistenter som hjelper ham med praktiske gjøremål. Etter å ha forelsket seg i en av assistentene sine, fridd til henne og blitt avslått, bestemmer Mark seg, i en alder av 38, for at det er på tide å miste jomfrudommen sin.
 
     <strong>Etter å ha rådført seg med sin lokale prest (William H. Macy), oppsøker Mark profesjonell hjelp </strong>hos sexterapauten Cheryl (Helen Hunt). Denne filmen utspiller seg i et veldig uvanlig scenario og forteller en historie om to ting som mange av oss helst vi se vekk ifra, nemlig sex og handicap. Den er fortalt på en måte som gjør meg utrolig glad for at vi lever i en tid hvor nettopp disse to temaene kombinert kan tas opp i et så serkt medium som film. "The Sessions" er basert på en sann historie ut ifra de selvbiografiske tekstene til poeten og journalisten Mark O'Brian og hans reise til manndom sammen med "sexsurrogaten" Cheryl Cohen Greene. John Hawkes ("American Gangster", "Identity" og "Me, You and Everyone We Know" ) leverer en ekstremt troverdig karaktertolkning av hovedrollen. Han har et uttrykk som formidler karakterens humoristiske og elskverdige vesen godt på tross av at vi stort sett ser ham horisontalt på en slags båre.
 
-    <strong><img class="alignnone size-large wp-image-9636" src="//filmbloggen.net/wp-content/uploads//2013/01/jhyupqb12-620x402.jpg" alt="" width="620" height="402" /></strong>
+    <strong><img class="alignnone size-large wp-image-9636" src="/wp-content/uploads//2013/01/jhyupqb12-620x402.jpg" alt="" width="620" height="402" /></strong>
 
     <strong>Helen Hunt ("Twister", "As Good as it Gets", "What Women Want") er etter min mening veldig modig</strong> som har tatt på seg rollen som noe så kontroversielt som en sexsurrogat for handicappede. Hun fremstiller en dame som er veldig privat, men som samtidig kler seg naken i første møte med klientene sine og blir veldig kjapt intim med dem og hjelper dem med å utforske seksualiteten deres. Sexscenene mellom Hawkes og Hunt er så naturlige og rene som jeg aldri har sett på film før. Ingen sensuell dempet belysning, ingen forførende avkledning og helt blottet for klisjéer. Akkurat disse partiene i filmen kunne lett ha blitt pinlige og latterlige, men scenene er så velrgisserte og skuespillerne så trygge at selv en ungdomsskoleklasse hadde akseptert det.
 
@@ -250,14 +250,14 @@ meta:
     <strong>Kategori:</strong> Drama
     <strong>Regi:</strong> Ben Lewin
     <strong>Med:</strong> John Hawkes, Helen Hunt, William H. Macy og Moon Bloodgood
-    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="//filmbloggen.net/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Foto: Twentieth Century Fox Norway</strong>
 
     <strong>Religiøse Mark O'Brian (John Hawkes) ble rammet av polio som liten gutt og er praktisk talt lam fra halsen og ned.</strong> Han tilbringer store deler av livet i en pustemaskin, en såkalt jernlunge, hvor han bruker tiden på å skrive dikt og snakke med et bilde av jomfru Maria. Han er omgitt av assistenter som hjelper ham med praktiske gjøremål. Etter å ha forelsket seg i en av assistentene sine, fridd til henne og blitt avslått, bestemmer Mark seg, i en alder av 38, for at det er på tide å miste jomfrudommen sin.
 
     <strong>Etter å ha rådført seg med sin lokale prest (William H. Macy), oppsøker Mark profesjonell hjelp </strong>hos sexterapauten Cheryl (Helen Hunt). Denne filmen utspiller seg i et veldig uvanlig scenario og forteller en historie om to ting som mange av oss helst vi se vekk ifra, nemlig sex og handicap. Den er fortalt på en måte som gjør meg utrolig glad for at vi lever i en tid hvor nettopp disse to temaene kombinert kan tas opp i et så serkt medium som film. "The Sessions" er basert på en sann historie ut ifra de selvbiografiske tekstene til poeten og journalisten Mark O'Brian og hans reise til manndom sammen med "sexsurrogaten" Cheryl Cohen Greene. John Hawkes ("American Gangster", "Identity" og "Me, You and Everyone We Know" ) leverer en ekstremt troverdig karaktertolkning av hovedrollen. Han har et uttrykk som formidler karakterens humoristiske og elskverdige vesen godt på tross av at vi stort sett ser ham horisontalt på en slags båre.
 
-    <strong><img class="alignnone size-large wp-image-9636" src="//filmbloggen.net/wp-content/uploads//2013/01/jhyupqb12-620x402.jpg" alt="" width="620" height="402" /></strong>
+    <strong><img class="alignnone size-large wp-image-9636" src="/wp-content/uploads//2013/01/jhyupqb12-620x402.jpg" alt="" width="620" height="402" /></strong>
 
     <strong>Helen Hunt ("Twister", "As Good as it Gets", "What Women Want") er etter min mening veldig modig</strong> som har tatt på seg rollen som noe så kontroversielt som en sexsurrogat for handicappede. Hun fremstiller en dame som er veldig privat, men som samtidig kler seg naken i første møte med klientene sine og blir veldig kjapt intim med dem og hjelper dem med å utforske seksualiteten deres. Sexscenene mellom Hawkes og Hunt er så naturlige og rene som jeg aldri har sett på film før. Ingen sensuell dempet belysning, ingen forførende avkledning og helt blottet for klisjéer. Akkurat disse partiene i filmen kunne lett ha blitt pinlige og latterlige, men scenene er så velrgisserte og skuespillerne så trygge at selv en ungdomsskoleklasse hadde akseptert det.
 
@@ -285,14 +285,14 @@ tags:
 **Kategori:** Drama
 **Regi:** Ben Lewin
 **Med:** John Hawkes, Helen Hunt, William H. Macy og Moon Bloodgood
-<a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="//filmbloggen.net/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
 **Foto: Twentieth Century Fox Norway**
 
 **Religiøse Mark O’Brian (John Hawkes) ble rammet av polio som liten gutt og er praktisk talt lam fra halsen og ned.** Han tilbringer store deler av livet i en pustemaskin, en såkalt jernlunge, hvor han bruker tiden på å skrive dikt og snakke med et bilde av jomfru Maria. Han er omgitt av assistenter som hjelper ham med praktiske gjøremål. Etter å ha forelsket seg i en av assistentene sine, fridd til henne og blitt avslått, bestemmer Mark seg, i en alder av 38, for at det er på tide å miste jomfrudommen sin.
 
 **Etter å ha rådført seg med sin lokale prest (William H. Macy), oppsøker Mark profesjonell hjelp **hos sexterapauten Cheryl (Helen Hunt). Denne filmen utspiller seg i et veldig uvanlig scenario og forteller en historie om to ting som mange av oss helst vi se vekk ifra, nemlig sex og handicap. Den er fortalt på en måte som gjør meg utrolig glad for at vi lever i en tid hvor nettopp disse to temaene kombinert kan tas opp i et så serkt medium som film. «The Sessions» er basert på en sann historie ut ifra de selvbiografiske tekstene til poeten og journalisten Mark O’Brian og hans reise til manndom sammen med «sexsurrogaten» Cheryl Cohen Greene. John Hawkes («American Gangster», «Identity» og «Me, You and Everyone We Know» ) leverer en ekstremt troverdig karaktertolkning av hovedrollen. Han har et uttrykk som formidler karakterens humoristiske og elskverdige vesen godt på tross av at vi stort sett ser ham horisontalt på en slags båre.
 
-**<img class="alignnone size-large wp-image-9636" src="//filmbloggen.net/wp-content/uploads//2013/01/jhyupqb12-620x402.jpg" alt="" width="620" height="402" />**
+**<img class="alignnone size-large wp-image-9636" src="/wp-content/uploads//2013/01/jhyupqb12-620x402.jpg" alt="" width="620" height="402" />**
 
 **Helen Hunt («Twister», «As Good as it Gets», «What Women Want») er etter min mening veldig modig** som har tatt på seg rollen som noe så kontroversielt som en sexsurrogat for handicappede. Hun fremstiller en dame som er veldig privat, men som samtidig kler seg naken i første møte med klientene sine og blir veldig kjapt intim med dem og hjelper dem med å utforske seksualiteten deres. Sexscenene mellom Hawkes og Hunt er så naturlige og rene som jeg aldri har sett på film før. Ingen sensuell dempet belysning, ingen forførende avkledning og helt blottet for klisjéer. Akkurat disse partiene i filmen kunne lett ha blitt pinlige og latterlige, men scenene er så velrgisserte og skuespillerne så trygge at selv en ungdomsskoleklasse hadde akseptert det.
 

@@ -107,7 +107,7 @@ content:
     <strong>Regi: </strong>Arild Andersen
     <strong>Skuespillere:</strong> Vebjørn Enger, Kristoffer Joner, Cecilie Mosli, Glenn André Viste Bø, Eili Harboe, Rolf Kristian Larsen, Henrik Mestad, Andreas Cappelen
     <strong>Spilletid:</strong> 1 time og 40 minutter
-    <a href="//filmbloggen.net/2012/03/07/joner-med-karrierebeste-i-kompani-orheim/kompani-orheim/" rel="attachment wp-att-2767"><img class="alignnone size-large wp-image-2767" src="//filmbloggen.net/wp-content/uploads//2012/03/kompani-orheim-620x409.jpg" alt="" width="620" height="409" /></a>
+    <a href="//filmbloggen.net/2012/03/07/joner-med-karrierebeste-i-kompani-orheim/kompani-orheim/" rel="attachment wp-att-2767"><img class="alignnone size-large wp-image-2767" src="/wp-content/uploads//2012/03/kompani-orheim-620x409.jpg" alt="" width="620" height="409" /></a>
     Kompani Orheim er den tredje filmadadapsjonen av Tore Reinberg sine bøker om Jarle Klepp. Og kanskje den beste og mest meningsfylte så langt. Filmen starter med at Jarle, nå student i Bergen, får en telefon fra moren med beskjed om at faren er død. Vi blir ført tilbake til 80-tallet, da Jarle hadde etternavnet Orheim.
 
     Vi følger han gjennom hans søken etter identitet på ungdomsskolen, samtidig som det problematiske forholdet til den alkoholiserte faren tilspisser seg. Han begynner også å få øynene opp for jenter og det er tydelig at regissør Arild Andersen har fått med seg erfaring fra Keepern til Liverpool. De unge skuespillerne på skjermen opptrer troverdig og godt.
@@ -184,7 +184,7 @@ post_content:
     <strong>Regi: </strong>Arild Andersen
     <strong>Skuespillere:</strong> Vebjørn Enger, Kristoffer Joner, Cecilie Mosli, Glenn André Viste Bø, Eili Harboe, Rolf Kristian Larsen, Henrik Mestad, Andreas Cappelen
     <strong>Spilletid:</strong> 1 time og 40 minutter
-    <a href="//filmbloggen.net/2012/03/07/joner-med-karrierebeste-i-kompani-orheim/kompani-orheim/" rel="attachment wp-att-2767"><img class="alignnone size-large wp-image-2767" src="//filmbloggen.net/wp-content/uploads//2012/03/kompani-orheim-620x409.jpg" alt="" width="620" height="409" /></a>
+    <a href="//filmbloggen.net/2012/03/07/joner-med-karrierebeste-i-kompani-orheim/kompani-orheim/" rel="attachment wp-att-2767"><img class="alignnone size-large wp-image-2767" src="/wp-content/uploads//2012/03/kompani-orheim-620x409.jpg" alt="" width="620" height="409" /></a>
     Kompani Orheim er den tredje filmadadapsjonen av Tore Reinberg sine bøker om Jarle Klepp. Og kanskje den beste og mest meningsfylte så langt. Filmen starter med at Jarle, nå student i Bergen, får en telefon fra moren med beskjed om at faren er død. Vi blir ført tilbake til 80-tallet, da Jarle hadde etternavnet Orheim.
 
     Vi følger han gjennom hans søken etter identitet på ungdomsskolen, samtidig som det problematiske forholdet til den alkoholiserte faren tilspisser seg. Han begynner også å få øynene opp for jenter og det er tydelig at regissør Arild Andersen har fått med seg erfaring fra Keepern til Liverpool. De unge skuespillerne på skjermen opptrer troverdig og godt.
@@ -214,7 +214,7 @@ meta:
     <strong>Regi: </strong>Arild Andersen
     <strong>Skuespillere:</strong> Vebjørn Enger, Kristoffer Joner, Cecilie Mosli, Glenn André Viste Bø, Eili Harboe, Rolf Kristian Larsen, Henrik Mestad, Andreas Cappelen
     <strong>Spilletid:</strong> 1 time og 40 minutter
-    <a href="//filmbloggen.net/2012/03/07/joner-med-karrierebeste-i-kompani-orheim/kompani-orheim/" rel="attachment wp-att-2767"><img class="alignnone size-large wp-image-2767" src="//filmbloggen.net/wp-content/uploads//2012/03/kompani-orheim-620x409.jpg" alt="" width="620" height="409" /></a>
+    <a href="//filmbloggen.net/2012/03/07/joner-med-karrierebeste-i-kompani-orheim/kompani-orheim/" rel="attachment wp-att-2767"><img class="alignnone size-large wp-image-2767" src="/wp-content/uploads//2012/03/kompani-orheim-620x409.jpg" alt="" width="620" height="409" /></a>
     Kompani Orheim er den tredje filmadadapsjonen av Tore Reinberg sine bøker om Jarle Klepp. Og kanskje den beste og mest meningsfylte så langt. Filmen starter med at Jarle, nå student i Bergen, får en telefon fra moren med beskjed om at faren er død. Vi blir ført tilbake til 80-tallet, da Jarle hadde etternavnet Orheim.
 
     Vi følger han gjennom hans søken etter identitet på ungdomsskolen, samtidig som det problematiske forholdet til den alkoholiserte faren tilspisser seg. Han begynner også å få øynene opp for jenter og det er tydelig at regissør Arild Andersen har fått med seg erfaring fra Keepern til Liverpool. De unge skuespillerne på skjermen opptrer troverdig og godt.
@@ -235,7 +235,7 @@ meta:
     <strong>Regi: </strong>Arild Andersen
     <strong>Skuespillere:</strong> Vebjørn Enger, Kristoffer Joner, Cecilie Mosli, Glenn André Viste Bø, Eili Harboe, Rolf Kristian Larsen, Henrik Mestad, Andreas Cappelen
     <strong>Spilletid:</strong> 1 time og 40 minutter
-    <a href="//filmbloggen.net/2012/03/07/joner-med-karrierebeste-i-kompani-orheim/kompani-orheim/" rel="attachment wp-att-2767"><img class="alignnone size-large wp-image-2767" src="//filmbloggen.net/wp-content/uploads//2012/03/kompani-orheim-620x409.jpg" alt="" width="620" height="409" /></a>
+    <a href="//filmbloggen.net/2012/03/07/joner-med-karrierebeste-i-kompani-orheim/kompani-orheim/" rel="attachment wp-att-2767"><img class="alignnone size-large wp-image-2767" src="/wp-content/uploads//2012/03/kompani-orheim-620x409.jpg" alt="" width="620" height="409" /></a>
     Kompani Orheim er den tredje filmadadapsjonen av Tore Reinberg sine bøker om Jarle Klepp. Og kanskje den beste og mest meningsfylte så langt. Filmen starter med at Jarle, nå student i Bergen, får en telefon fra moren med beskjed om at faren er død. Vi blir ført tilbake til 80-tallet, da Jarle hadde etternavnet Orheim.
 
     Vi følger han gjennom hans søken etter identitet på ungdomsskolen, samtidig som det problematiske forholdet til den alkoholiserte faren tilspisser seg. Han begynner også å få øynene opp for jenter og det er tydelig at regissør Arild Andersen har fått med seg erfaring fra Keepern til Liverpool. De unge skuespillerne på skjermen opptrer troverdig og godt.
@@ -279,7 +279,7 @@ tags:
 **Regi:** Arild Andersen
 **Skuespillere:** Vebjørn Enger, Kristoffer Joner, Cecilie Mosli, Glenn André Viste Bø, Eili Harboe, Rolf Kristian Larsen, Henrik Mestad, Andreas Cappelen
 **Spilletid:** 1 time og 40 minutter
-<a href="//filmbloggen.net/2012/03/07/joner-med-karrierebeste-i-kompani-orheim/kompani-orheim/" rel="attachment wp-att-2767"><img class="alignnone size-large wp-image-2767" src="//filmbloggen.net/wp-content/uploads//2012/03/kompani-orheim-620x409.jpg" alt="" width="620" height="409" /></a>
+<a href="//filmbloggen.net/2012/03/07/joner-med-karrierebeste-i-kompani-orheim/kompani-orheim/" rel="attachment wp-att-2767"><img class="alignnone size-large wp-image-2767" src="/wp-content/uploads//2012/03/kompani-orheim-620x409.jpg" alt="" width="620" height="409" /></a>
 Kompani Orheim er den tredje filmadadapsjonen av Tore Reinberg sine bøker om Jarle Klepp. Og kanskje den beste og mest meningsfylte så langt. Filmen starter med at Jarle, nå student i Bergen, får en telefon fra moren med beskjed om at faren er død. Vi blir ført tilbake til 80-tallet, da Jarle hadde etternavnet Orheim.
 
 Vi følger han gjennom hans søken etter identitet på ungdomsskolen, samtidig som det problematiske forholdet til den alkoholiserte faren tilspisser seg. Han begynner også å få øynene opp for jenter og det er tydelig at regissør Arild Andersen har fått med seg erfaring fra Keepern til Liverpool. De unge skuespillerne på skjermen opptrer troverdig og godt.

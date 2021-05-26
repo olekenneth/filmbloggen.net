@@ -230,7 +230,7 @@ tags:
   - Nicholas Hoult
 ---
 ****Jeg må ærlig innrømme at jeg misunner de som ikke har sett de foregående filmene, fordi hadde denne filmen stått for seg selv hadde den blitt skikkelig magisk.
-[<img class="alignnone size-large wp-image-433" title="X-men" src="//filmbloggen.net/wp-content/uploads//2011/06/x-men-first-class-1024x642.jpg" alt="" width="620" height="388" />](//filmbloggen.net/?attachment_id=433)
+[<img class="alignnone size-large wp-image-433" title="X-men" src="/wp-content/uploads//2011/06/x-men-first-class-1024x642.jpg" alt="" width="620" height="388" />](//filmbloggen.net/?attachment_id=433)
 Originaltittel:**** X-Men First Class****
 Kategori:**** Action**
 **Spilletid:**** 2 timer og 12 minutter**

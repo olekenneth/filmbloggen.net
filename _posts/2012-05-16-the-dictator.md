@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Sacha Baron Cohen, Megan Fox, Anna Faris, Ben Kingsley, John C. Reilly, Aasif Mandvi, Olivia Dudley.
     <strong>Spilletid:</strong> 1 time og 23 minutter
 
-    <a href="//filmbloggen.net/2012/05/16/the-dictator/the-dictator_07/" rel="attachment wp-att-3475"><img class="alignnone size-large wp-image-3475" src="//filmbloggen.net/wp-content/uploads//2012/05/The-Dictator_07-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/05/16/the-dictator/the-dictator_07/" rel="attachment wp-att-3475"><img class="alignnone size-large wp-image-3475" src="/wp-content/uploads//2012/05/The-Dictator_07-620x413.jpg" alt="" width="620" height="413" /></a>
 
     General Admiral Aladeen (Sacha Baron Cohen) styrer landet Wadiya som en storslått diktator, men en dag blir Aladeens atomprogram (som skal brukes til veldedige formål) satt under tvil av FNs komite. Da blir Admiralen nødt til å møte personlig til en høring i FN-bygget i New York. Etter en rekke uforutsette hendelser blir han fratatt rollen sin som diktator og da må han kjempe iherdig for å gjenvinne den.
 
@@ -69,7 +69,7 @@ post_content:
     <strong>Skuespillere:</strong> Sacha Baron Cohen, Megan Fox, Anna Faris, Ben Kingsley, John C. Reilly, Aasif Mandvi, Olivia Dudley.
     <strong>Spilletid:</strong> 1 time og 23 minutter
 
-    <a href="//filmbloggen.net/2012/05/16/the-dictator/the-dictator_07/" rel="attachment wp-att-3475"><img class="alignnone size-large wp-image-3475" src="//filmbloggen.net/wp-content/uploads//2012/05/The-Dictator_07-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/05/16/the-dictator/the-dictator_07/" rel="attachment wp-att-3475"><img class="alignnone size-large wp-image-3475" src="/wp-content/uploads//2012/05/The-Dictator_07-620x413.jpg" alt="" width="620" height="413" /></a>
 
     General Admiral Aladeen (Sacha Baron Cohen) styrer landet Wadiya som en storslått diktator, men en dag blir Aladeens atomprogram (som skal brukes til veldedige formål) satt under tvil av FNs komite. Da blir Admiralen nødt til å møte personlig til en høring i FN-bygget i New York. Etter en rekke uforutsette hendelser blir han fratatt rollen sin som diktator og da må han kjempe iherdig for å gjenvinne den.
 
@@ -181,7 +181,7 @@ meta:
     <strong>Skuespillere:</strong> Sacha Baron Cohen, Megan Fox, Anna Faris, Ben Kingsley, John C. Reilly, Aasif Mandvi, Olivia Dudley.
     <strong>Spilletid:</strong> 1 time og 23 minutter
 
-    <a href="//filmbloggen.net/2012/05/16/the-dictator/the-dictator_07/" rel="attachment wp-att-3475"><img class="alignnone size-large wp-image-3475" src="//filmbloggen.net/wp-content/uploads//2012/05/The-Dictator_07-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/05/16/the-dictator/the-dictator_07/" rel="attachment wp-att-3475"><img class="alignnone size-large wp-image-3475" src="/wp-content/uploads//2012/05/The-Dictator_07-620x413.jpg" alt="" width="620" height="413" /></a>
 
     General Admiral Aladeen (Sacha Baron Cohen) styrer landet Wadiya som en storslått diktator, men en dag blir Aladeens atomprogram (som skal brukes til veldedige formål) satt under tvil av FNs komite. Da blir Admiralen nødt til å møte personlig til en høring i FN-bygget i New York. Etter en rekke uforutsette hendelser blir han fratatt rollen sin som diktator og da må han kjempe iherdig for å gjenvinne den.
 
@@ -208,7 +208,7 @@ meta:
     <strong>Skuespillere:</strong> Sacha Baron Cohen, Megan Fox, Anna Faris, Ben Kingsley, John C. Reilly, Aasif Mandvi, Olivia Dudley.
     <strong>Spilletid:</strong> 1 time og 23 minutter
 
-    <a href="//filmbloggen.net/2012/05/16/the-dictator/the-dictator_07/" rel="attachment wp-att-3475"><img class="alignnone size-large wp-image-3475" src="//filmbloggen.net/wp-content/uploads//2012/05/The-Dictator_07-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/05/16/the-dictator/the-dictator_07/" rel="attachment wp-att-3475"><img class="alignnone size-large wp-image-3475" src="/wp-content/uploads//2012/05/The-Dictator_07-620x413.jpg" alt="" width="620" height="413" /></a>
 
     General Admiral Aladeen (Sacha Baron Cohen) styrer landet Wadiya som en storslått diktator, men en dag blir Aladeens atomprogram (som skal brukes til veldedige formål) satt under tvil av FNs komite. Da blir Admiralen nødt til å møte personlig til en høring i FN-bygget i New York. Etter en rekke uforutsette hendelser blir han fratatt rollen sin som diktator og da må han kjempe iherdig for å gjenvinne den.
 
@@ -312,7 +312,7 @@ tags:
 **Skuespillere:** Sacha Baron Cohen, Megan Fox, Anna Faris, Ben Kingsley, John C. Reilly, Aasif Mandvi, Olivia Dudley.
 **Spilletid:** 1 time og 23 minutter
 
-<a href="//filmbloggen.net/2012/05/16/the-dictator/the-dictator_07/" rel="attachment wp-att-3475"><img class="alignnone size-large wp-image-3475" src="//filmbloggen.net/wp-content/uploads//2012/05/The-Dictator_07-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/05/16/the-dictator/the-dictator_07/" rel="attachment wp-att-3475"><img class="alignnone size-large wp-image-3475" src="/wp-content/uploads//2012/05/The-Dictator_07-620x413.jpg" alt="" width="620" height="413" /></a>
 
 General Admiral Aladeen (Sacha Baron Cohen) styrer landet Wadiya som en storslått diktator, men en dag blir Aladeens atomprogram (som skal brukes til veldedige formål) satt under tvil av FNs komite. Da blir Admiralen nødt til å møte personlig til en høring i FN-bygget i New York. Etter en rekke uforutsette hendelser blir han fratatt rollen sin som diktator og da må han kjempe iherdig for å gjenvinne den.
 

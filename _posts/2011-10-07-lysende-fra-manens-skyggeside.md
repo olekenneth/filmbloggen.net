@@ -111,7 +111,7 @@ content:
     </strong><strong>Med: </strong>Sam Rockwell, Kevin Spacey
 
     <strong>
-    <a href="//filmbloggen.net/2011/10/07/lysende-fra-manens-skyggeside/7f4a8613674f0cb053355e01a634a5bd/" rel="attachment wp-att-1343"><img class="alignnone size-large wp-image-1343" src="//filmbloggen.net/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/2011/10/07/lysende-fra-manens-skyggeside/7f4a8613674f0cb053355e01a634a5bd/" rel="attachment wp-att-1343"><img class="alignnone size-large wp-image-1343" src="/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" />
     </a></strong>
 
     <strong>Av: </strong>Ole-Ottar Karlsen Høgstavoll
@@ -189,7 +189,7 @@ post_content:
     </strong><strong>Med: </strong>Sam Rockwell, Kevin Spacey
 
     <strong>
-    <a href="//filmbloggen.net/2011/10/07/lysende-fra-manens-skyggeside/7f4a8613674f0cb053355e01a634a5bd/" rel="attachment wp-att-1343"><img class="alignnone size-large wp-image-1343" src="//filmbloggen.net/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/2011/10/07/lysende-fra-manens-skyggeside/7f4a8613674f0cb053355e01a634a5bd/" rel="attachment wp-att-1343"><img class="alignnone size-large wp-image-1343" src="/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" />
     </a></strong>
 
     <strong>Av: </strong>Ole-Ottar Karlsen Høgstavoll
@@ -219,7 +219,7 @@ meta:
     </strong><strong>Med: </strong>Sam Rockwell, Kevin Spacey
 
     <strong>
-    <a href="//filmbloggen.net/2011/10/07/lysende-fra-manens-skyggeside/7f4a8613674f0cb053355e01a634a5bd/" rel="attachment wp-att-1343"><img class="alignnone size-large wp-image-1343" src="//filmbloggen.net/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/2011/10/07/lysende-fra-manens-skyggeside/7f4a8613674f0cb053355e01a634a5bd/" rel="attachment wp-att-1343"><img class="alignnone size-large wp-image-1343" src="/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" />
     </a></strong>
 
     <strong>Av: </strong>Ole-Ottar Karlsen Høgstavoll
@@ -240,7 +240,7 @@ meta:
     </strong><strong>Med: </strong>Sam Rockwell, Kevin Spacey
 
     <strong>
-    <a href="//filmbloggen.net/2011/10/07/lysende-fra-manens-skyggeside/7f4a8613674f0cb053355e01a634a5bd/" rel="attachment wp-att-1343"><img class="alignnone size-large wp-image-1343" src="//filmbloggen.net/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" />
+    <a href="//filmbloggen.net/2011/10/07/lysende-fra-manens-skyggeside/7f4a8613674f0cb053355e01a634a5bd/" rel="attachment wp-att-1343"><img class="alignnone size-large wp-image-1343" src="/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" />
     </a></strong>
 
     <strong>Av: </strong>Ole-Ottar Karlsen Høgstavoll
@@ -272,7 +272,7 @@ tags:
 ** **Med:** Sam Rockwell, Kevin Spacey
 
 **
-<a href="//filmbloggen.net/2011/10/07/lysende-fra-manens-skyggeside/7f4a8613674f0cb053355e01a634a5bd/" rel="attachment wp-att-1343"><img class="alignnone size-large wp-image-1343" src="//filmbloggen.net/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" /><br /> </a>**
+<a href="//filmbloggen.net/2011/10/07/lysende-fra-manens-skyggeside/7f4a8613674f0cb053355e01a634a5bd/" rel="attachment wp-att-1343"><img class="alignnone size-large wp-image-1343" src="/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" /><br /> </a>**
 
 **Av:** Ole-Ottar Karlsen Høgstavoll
 

@@ -105,7 +105,7 @@ content:
     <strong>Manus:</strong> Dennis Magnusson (med fler), etter en historie av Mette Marit Mølstad og Lars Saabye Christensen
     <strong>Med: </strong>Stellan Skarsgård, Benjamin Helstad, Kristoffer Joner og Trond Nilssen
 
-    <a href="//filmbloggen.net/2011/10/19/film-for-faen-kongen-av-bastoy/kongen-av-bastoy-bilde-4/" rel="attachment wp-att-1512"><img class="size-full wp-image-1512 alignnone" src="//filmbloggen.net/wp-content/uploads//2011/10/Kongen-av-Bastoy-bilde-4.jpg" alt="" width="620" height="420" /></a>
+    <a href="//filmbloggen.net/2011/10/19/film-for-faen-kongen-av-bastoy/kongen-av-bastoy-bilde-4/" rel="attachment wp-att-1512"><img class="size-full wp-image-1512 alignnone" src="/wp-content/uploads//2011/10/Kongen-av-Bastoy-bilde-4.jpg" alt="" width="620" height="420" /></a>
     Kongen av Bastøy er blitt prøvd produsert åtte ganger før den endelig ble ferdig produsert og kom på de norske kinoene i desember 2010. Jeg tenker at det kanskje er til sin plass. Filmen er veldig godt laget, og er utarbeidet på en ordentlig måte.
 
     Hele filmen har en kald atmosfære over seg, og det går kaldt nedover ryggen i mange av filmens grusomme scener.
@@ -185,7 +185,7 @@ post_content:
     <strong>Manus:</strong> Dennis Magnusson (med fler), etter en historie av Mette Marit Mølstad og Lars Saabye Christensen
     <strong>Med: </strong>Stellan Skarsgård, Benjamin Helstad, Kristoffer Joner og Trond Nilssen
 
-    <a href="//filmbloggen.net/2011/10/19/film-for-faen-kongen-av-bastoy/kongen-av-bastoy-bilde-4/" rel="attachment wp-att-1512"><img class="size-full wp-image-1512 alignnone" src="//filmbloggen.net/wp-content/uploads//2011/10/Kongen-av-Bastoy-bilde-4.jpg" alt="" width="620" height="420" /></a>
+    <a href="//filmbloggen.net/2011/10/19/film-for-faen-kongen-av-bastoy/kongen-av-bastoy-bilde-4/" rel="attachment wp-att-1512"><img class="size-full wp-image-1512 alignnone" src="/wp-content/uploads//2011/10/Kongen-av-Bastoy-bilde-4.jpg" alt="" width="620" height="420" /></a>
     Kongen av Bastøy er blitt prøvd produsert åtte ganger før den endelig ble ferdig produsert og kom på de norske kinoene i desember 2010. Jeg tenker at det kanskje er til sin plass. Filmen er veldig godt laget, og er utarbeidet på en ordentlig måte.
 
     Hele filmen har en kald atmosfære over seg, og det går kaldt nedover ryggen i mange av filmens grusomme scener.
@@ -219,7 +219,7 @@ meta:
     <strong>Manus:</strong> Dennis Magnusson (med fler), etter en historie av Mette Marit Mølstad og Lars Saabye Christensen
     <strong>Med: </strong>Stellan Skarsgård, Benjamin Helstad, Kristoffer Joner og Trond Nilssen
 
-    <a href="//filmbloggen.net/2011/10/19/film-for-faen-kongen-av-bastoy/kongen-av-bastoy-bilde-4/" rel="attachment wp-att-1512"><img class="size-full wp-image-1512 alignnone" src="//filmbloggen.net/wp-content/uploads//2011/10/Kongen-av-Bastoy-bilde-4.jpg" alt="" width="620" height="420" /></a>
+    <a href="//filmbloggen.net/2011/10/19/film-for-faen-kongen-av-bastoy/kongen-av-bastoy-bilde-4/" rel="attachment wp-att-1512"><img class="size-full wp-image-1512 alignnone" src="/wp-content/uploads//2011/10/Kongen-av-Bastoy-bilde-4.jpg" alt="" width="620" height="420" /></a>
     Kongen av Bastøy er blitt prøvd produsert åtte ganger før den endelig ble ferdig produsert og kom på de norske kinoene i desember 2010. Jeg tenker at det kanskje er til sin plass. Filmen er veldig godt laget, og er utarbeidet på en ordentlig måte.
 
     Hele filmen har en kald atmosfære over seg, og det går kaldt nedover ryggen i mange av filmens grusomme scener.
@@ -244,7 +244,7 @@ meta:
     <strong>Manus:</strong> Dennis Magnusson (med fler), etter en historie av Mette Marit Mølstad og Lars Saabye Christensen
     <strong>Med: </strong>Stellan Skarsgård, Benjamin Helstad, Kristoffer Joner og Trond Nilssen
 
-    <a href="//filmbloggen.net/2011/10/19/film-for-faen-kongen-av-bastoy/kongen-av-bastoy-bilde-4/" rel="attachment wp-att-1512"><img class="size-full wp-image-1512 alignnone" src="//filmbloggen.net/wp-content/uploads//2011/10/Kongen-av-Bastoy-bilde-4.jpg" alt="" width="620" height="420" /></a>
+    <a href="//filmbloggen.net/2011/10/19/film-for-faen-kongen-av-bastoy/kongen-av-bastoy-bilde-4/" rel="attachment wp-att-1512"><img class="size-full wp-image-1512 alignnone" src="/wp-content/uploads//2011/10/Kongen-av-Bastoy-bilde-4.jpg" alt="" width="620" height="420" /></a>
     Kongen av Bastøy er blitt prøvd produsert åtte ganger før den endelig ble ferdig produsert og kom på de norske kinoene i desember 2010. Jeg tenker at det kanskje er til sin plass. Filmen er veldig godt laget, og er utarbeidet på en ordentlig måte.
 
     Hele filmen har en kald atmosfære over seg, og det går kaldt nedover ryggen i mange av filmens grusomme scener.
@@ -284,7 +284,7 @@ tags:
 **Manus:** Dennis Magnusson (med fler), etter en historie av Mette Marit Mølstad og Lars Saabye Christensen
 **Med:** Stellan Skarsgård, Benjamin Helstad, Kristoffer Joner og Trond Nilssen
 
-<a href="//filmbloggen.net/2011/10/19/film-for-faen-kongen-av-bastoy/kongen-av-bastoy-bilde-4/" rel="attachment wp-att-1512"><img class="size-full wp-image-1512 alignnone" src="//filmbloggen.net/wp-content/uploads//2011/10/Kongen-av-Bastoy-bilde-4.jpg" alt="" width="620" height="420" /></a>
+<a href="//filmbloggen.net/2011/10/19/film-for-faen-kongen-av-bastoy/kongen-av-bastoy-bilde-4/" rel="attachment wp-att-1512"><img class="size-full wp-image-1512 alignnone" src="/wp-content/uploads//2011/10/Kongen-av-Bastoy-bilde-4.jpg" alt="" width="620" height="420" /></a>
 Kongen av Bastøy er blitt prøvd produsert åtte ganger før den endelig ble ferdig produsert og kom på de norske kinoene i desember 2010. Jeg tenker at det kanskje er til sin plass. Filmen er veldig godt laget, og er utarbeidet på en ordentlig måte.
 
 Hele filmen har en kald atmosfære over seg, og det går kaldt nedover ryggen i mange av filmens grusomme scener.

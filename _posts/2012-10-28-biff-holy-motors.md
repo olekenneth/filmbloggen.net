@@ -108,7 +108,7 @@ content:
     Manus: </strong>Leos Corax<strong>
     Skuespillere: </strong>Denis Lavant, Edith Scob, Eva Mendes, Kylie Minogue
 
-    <a href="//filmbloggen.net/2012/10/28/biff-holy-motors/holy-motors-21/" rel="attachment wp-att-7780"><img class="alignnone size-large wp-image-7780" src="//filmbloggen.net/wp-content/uploads//2012/10/holy-motors-21-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/10/28/biff-holy-motors/holy-motors-21/" rel="attachment wp-att-7780"><img class="alignnone size-large wp-image-7780" src="/wp-content/uploads//2012/10/holy-motors-21-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Da jeg hørte de første ordene om Leos Corax sin Holy Motors etter verdenspremieren i Cannes tidligere i år, var det klart at dette var en film som jeg bare måtte se.</strong> Nå kan jeg bekrefte alle de positive ordene dere har hørt fra Cannes, men også legge til at den er vanskelig å anmelde, kun fordi den er såpass annerledes som den er.
 
@@ -188,7 +188,7 @@ post_content:
     Manus: </strong>Leos Corax<strong>
     Skuespillere: </strong>Denis Lavant, Edith Scob, Eva Mendes, Kylie Minogue
 
-    <a href="//filmbloggen.net/2012/10/28/biff-holy-motors/holy-motors-21/" rel="attachment wp-att-7780"><img class="alignnone size-large wp-image-7780" src="//filmbloggen.net/wp-content/uploads//2012/10/holy-motors-21-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/10/28/biff-holy-motors/holy-motors-21/" rel="attachment wp-att-7780"><img class="alignnone size-large wp-image-7780" src="/wp-content/uploads//2012/10/holy-motors-21-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Da jeg hørte de første ordene om Leos Corax sin Holy Motors etter verdenspremieren i Cannes tidligere i år, var det klart at dette var en film som jeg bare måtte se.</strong> Nå kan jeg bekrefte alle de positive ordene dere har hørt fra Cannes, men også legge til at den er vanskelig å anmelde, kun fordi den er såpass annerledes som den er.
 
@@ -218,7 +218,7 @@ meta:
     Manus: </strong>Leos Corax<strong>
     Skuespillere: </strong>Denis Lavant, Edith Scob, Eva Mendes, Kylie Minogue
 
-    <a href="//filmbloggen.net/2012/10/28/biff-holy-motors/holy-motors-21/" rel="attachment wp-att-7780"><img class="alignnone size-large wp-image-7780" src="//filmbloggen.net/wp-content/uploads//2012/10/holy-motors-21-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/10/28/biff-holy-motors/holy-motors-21/" rel="attachment wp-att-7780"><img class="alignnone size-large wp-image-7780" src="/wp-content/uploads//2012/10/holy-motors-21-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Da jeg hørte de første ordene om Leos Corax sin Holy Motors etter verdenspremieren i Cannes tidligere i år, var det klart at dette var en film som jeg bare måtte se.</strong> Nå kan jeg bekrefte alle de positive ordene dere har hørt fra Cannes, men også legge til at den er vanskelig å anmelde, kun fordi den er såpass annerledes som den er.
 
@@ -241,7 +241,7 @@ meta:
     Manus: </strong>Leos Corax<strong>
     Skuespillere: </strong>Denis Lavant, Edith Scob, Eva Mendes, Kylie Minogue
 
-    <a href="//filmbloggen.net/2012/10/28/biff-holy-motors/holy-motors-21/" rel="attachment wp-att-7780"><img class="alignnone size-large wp-image-7780" src="//filmbloggen.net/wp-content/uploads//2012/10/holy-motors-21-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/10/28/biff-holy-motors/holy-motors-21/" rel="attachment wp-att-7780"><img class="alignnone size-large wp-image-7780" src="/wp-content/uploads//2012/10/holy-motors-21-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Da jeg hørte de første ordene om Leos Corax sin Holy Motors etter verdenspremieren i Cannes tidligere i år, var det klart at dette var en film som jeg bare måtte se.</strong> Nå kan jeg bekrefte alle de positive ordene dere har hørt fra Cannes, men også legge til at den er vanskelig å anmelde, kun fordi den er såpass annerledes som den er.
 
@@ -291,7 +291,7 @@ Regi:** Leos Corax**
 Manus:** Leos Corax**
 Skuespillere:** Denis Lavant, Edith Scob, Eva Mendes, Kylie Minogue
 
-<a href="//filmbloggen.net/2012/10/28/biff-holy-motors/holy-motors-21/" rel="attachment wp-att-7780"><img class="alignnone size-large wp-image-7780" src="//filmbloggen.net/wp-content/uploads//2012/10/holy-motors-21-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2012/10/28/biff-holy-motors/holy-motors-21/" rel="attachment wp-att-7780"><img class="alignnone size-large wp-image-7780" src="/wp-content/uploads//2012/10/holy-motors-21-620x348.jpg" alt="" width="620" height="348" /></a>
 
 **Da jeg hørte de første ordene om Leos Corax sin Holy Motors etter verdenspremieren i Cannes tidligere i år, var det klart at dette var en film som jeg bare måtte se.** Nå kan jeg bekrefte alle de positive ordene dere har hørt fra Cannes, men også legge til at den er vanskelig å anmelde, kun fordi den er såpass annerledes som den er.
 

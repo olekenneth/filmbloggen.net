@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Filmbloggens skribenter har satt opp sine tre beste filmer fra 2011. Hva er din toppliste?</strong><!--more-->
-    <a href="//filmbloggen.net/2012/01/31/filmbloggens-topp-5-beste-filmer-i-2011/topp3-test1-2/" rel="attachment wp-att-2144"><img class="alignnone size-large wp-image-2144" src="//filmbloggen.net/wp-content/uploads//2012/01/topp3-test11-620x377.jpg" alt="" width="620" height="377" /></a>
+    <a href="//filmbloggen.net/2012/01/31/filmbloggens-topp-5-beste-filmer-i-2011/topp3-test1-2/" rel="attachment wp-att-2144"><img class="alignnone size-large wp-image-2144" src="/wp-content/uploads//2012/01/topp3-test11-620x377.jpg" alt="" width="620" height="377" /></a>
     <strong>Hans-Kristian's topp 5 (trykk link for anmeldelse):</strong>
     1. <a href="//filmbloggen.net/2012/01/24/galgenhumor-og-kreft/">50 / 50</a>
     2. <a href="//wp.me/p1HlbS-xs">Warrior</a>
@@ -188,7 +188,7 @@ ID:
 post_content:
   - |
     <strong>Filmbloggens skribenter har satt opp sine tre beste filmer fra 2011. Hva er din toppliste?</strong><!--more-->
-    <a href="//filmbloggen.net/2012/01/31/filmbloggens-topp-5-beste-filmer-i-2011/topp3-test1-2/" rel="attachment wp-att-2144"><img class="alignnone size-large wp-image-2144" src="//filmbloggen.net/wp-content/uploads//2012/01/topp3-test11-620x377.jpg" alt="" width="620" height="377" /></a>
+    <a href="//filmbloggen.net/2012/01/31/filmbloggens-topp-5-beste-filmer-i-2011/topp3-test1-2/" rel="attachment wp-att-2144"><img class="alignnone size-large wp-image-2144" src="/wp-content/uploads//2012/01/topp3-test11-620x377.jpg" alt="" width="620" height="377" /></a>
     <strong>Hans-Kristian's topp 5 (trykk link for anmeldelse):</strong>
     1. <a href="//filmbloggen.net/2012/01/24/galgenhumor-og-kreft/">50 / 50</a>
     2. <a href="//wp.me/p1HlbS-xs">Warrior</a>
@@ -225,7 +225,7 @@ to_ping:
 meta:
   - |
     a:80:{i:14837;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:14815;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:14868;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:14824;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"446dfbd534";}i:14822;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:14826;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"0ff5d62c99";}i:14869;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:14861;a:2:{s:3:"key";s:7:"content";s:5:"value";s:4657:"<strong>Filmbloggens skribenter har satt opp sine tre beste filmer fra 2011. Hva er din toppliste?</strong><!--more-->
-    <a href="//filmbloggen.net/2012/01/31/filmbloggens-topp-5-beste-filmer-i-2011/topp3-test1-2/" rel="attachment wp-att-2144"><img class="alignnone size-large wp-image-2144" src="//filmbloggen.net/wp-content/uploads//2012/01/topp3-test11-620x377.jpg" alt="" width="620" height="377" /></a>
+    <a href="//filmbloggen.net/2012/01/31/filmbloggens-topp-5-beste-filmer-i-2011/topp3-test1-2/" rel="attachment wp-att-2144"><img class="alignnone size-large wp-image-2144" src="/wp-content/uploads//2012/01/topp3-test11-620x377.jpg" alt="" width="620" height="377" /></a>
     <strong>Hans-Kristian's topp 5 (trykk link for anmeldelse):</strong>
     1. <a href="//filmbloggen.net/2012/01/24/galgenhumor-og-kreft/">50 / 50</a>
     2. <a href="//wp.me/p1HlbS-xs">Warrior</a>
@@ -255,7 +255,7 @@ meta:
     Moneyball var den beste filmen jeg så i 2011. Idrett har sjelden vært skildret så godt før. Koden til en perfekt lagoppstilling og jakten på mesterskapsmedaljen er to av målene til hovedrolleinnhaver Brad Pitt. Filmen er så å si feilfri, historien er balansert mellom hva som er logisk og hva som ikke er logisk. Brad Pitt burde bli oscarbelønnet for sin prestasjon i denne filmen, og det samme gjelder Jonah Hill for beste birolle.
 
     Jeg er fornøyd med filmåret 2011 og jeg ser fram til mange fantastiske filmer i 2012. 2012 byr blant annet på "The Dark Knight Rises", "Moonrise Kingdom" og "The Hobbit: An Unexpected Journey". Så vi har mye å glede oss til!";}i:14846;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:14848;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"15";}i:14844;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"12";}i:14842;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"05";}i:14850;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"29";}i:15105;a:2:{s:3:"key";s:9:"edit_date";s:5:"value";s:4:"true";}i:14873;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:14862;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:14838;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"18";}i:14845;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:14847;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"18";}i:14843;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"31";}i:14841;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"01";}i:14849;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"05";}i:14831;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:14829;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:14832;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:14890;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"2137";}i:14835;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"31";}i:14825;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"bf41fa66bb";}i:14865;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:14864;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:14866;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:14836;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"01";}i:14839;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"05";}i:14853;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:14854;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:14816;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:14819;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:14851;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:14870;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:14817;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:14872;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:14891;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:4657:"<strong>Filmbloggens skribenter har satt opp sine tre beste filmer fra 2011. Hva er din toppliste?</strong><!--more-->
-    <a href="//filmbloggen.net/2012/01/31/filmbloggens-topp-5-beste-filmer-i-2011/topp3-test1-2/" rel="attachment wp-att-2144"><img class="alignnone size-large wp-image-2144" src="//filmbloggen.net/wp-content/uploads//2012/01/topp3-test11-620x377.jpg" alt="" width="620" height="377" /></a>
+    <a href="//filmbloggen.net/2012/01/31/filmbloggens-topp-5-beste-filmer-i-2011/topp3-test1-2/" rel="attachment wp-att-2144"><img class="alignnone size-large wp-image-2144" src="/wp-content/uploads//2012/01/topp3-test11-620x377.jpg" alt="" width="620" height="377" /></a>
     <strong>Hans-Kristian's topp 5 (trykk link for anmeldelse):</strong>
     1. <a href="//filmbloggen.net/2012/01/24/galgenhumor-og-kreft/">50 / 50</a>
     2. <a href="//wp.me/p1HlbS-xs">Warrior</a>
@@ -309,7 +309,7 @@ categories:
 **Filmbloggens skribenter har satt opp sine tre beste filmer fra 2011. Hva er din toppliste?**<!--more-->
 
 
-<a href="//filmbloggen.net/2012/01/31/filmbloggens-topp-5-beste-filmer-i-2011/topp3-test1-2/" rel="attachment wp-att-2144"><img class="alignnone size-large wp-image-2144" src="//filmbloggen.net/wp-content/uploads//2012/01/topp3-test11-620x377.jpg" alt="" width="620" height="377" /></a>
+<a href="//filmbloggen.net/2012/01/31/filmbloggens-topp-5-beste-filmer-i-2011/topp3-test1-2/" rel="attachment wp-att-2144"><img class="alignnone size-large wp-image-2144" src="/wp-content/uploads//2012/01/topp3-test11-620x377.jpg" alt="" width="620" height="377" /></a>
 **Hans-Kristian’s topp 5 (trykk link for anmeldelse):**
 1. [50 / 50](//filmbloggen.net/2012/01/24/galgenhumor-og-kreft/)
 2. [Warrior](//wp.me/p1HlbS-xs)

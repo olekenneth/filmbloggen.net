@@ -105,7 +105,7 @@ content:
     <strong>Spilletid:</strong> </strong>2 timer og 7 minutter<strong>
     <strong>Regissør: </strong></strong>Rupert Sanders
     <strong>Med: </strong>Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin, Ian McShane, Nick Frost, Eddie Marsan, Ray Winstone, Bob Hoskins, Toby Jones, Vincent Regan
-    <a href="//filmbloggen.net/2012/06/08/orgasmepreget-snohvit/snow-white/" rel="attachment wp-att-4050"><img class="alignnone size-large wp-image-4050" src="//filmbloggen.net/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" /></a>
+    <a href="//filmbloggen.net/2012/06/08/orgasmepreget-snohvit/snow-white/" rel="attachment wp-att-4050"><img class="alignnone size-large wp-image-4050" src="/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" /></a>
     <em><strong>Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.</strong>
     </em><strong>Alle foto: UIP</strong>
 
@@ -185,7 +185,7 @@ post_content:
     <strong>Spilletid:</strong> </strong>2 timer og 7 minutter<strong>
     <strong>Regissør: </strong></strong>Rupert Sanders
     <strong>Med: </strong>Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin, Ian McShane, Nick Frost, Eddie Marsan, Ray Winstone, Bob Hoskins, Toby Jones, Vincent Regan
-    <a href="//filmbloggen.net/2012/06/08/orgasmepreget-snohvit/snow-white/" rel="attachment wp-att-4050"><img class="alignnone size-large wp-image-4050" src="//filmbloggen.net/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" /></a>
+    <a href="//filmbloggen.net/2012/06/08/orgasmepreget-snohvit/snow-white/" rel="attachment wp-att-4050"><img class="alignnone size-large wp-image-4050" src="/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" /></a>
     <em><strong>Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.</strong>
     </em><strong>Alle foto: UIP</strong>
 
@@ -243,7 +243,7 @@ tags:
 **Spilletid:** **2 timer og 7 minutter**
 **Regissør: ****Rupert Sanders
 **Med: **Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin, Ian McShane, Nick Frost, Eddie Marsan, Ray Winstone, Bob Hoskins, Toby Jones, Vincent Regan
-<a href="//filmbloggen.net/2012/06/08/orgasmepreget-snohvit/snow-white/" rel="attachment wp-att-4050"><img class="alignnone size-large wp-image-4050" src="//filmbloggen.net/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" /></a>
+<a href="//filmbloggen.net/2012/06/08/orgasmepreget-snohvit/snow-white/" rel="attachment wp-att-4050"><img class="alignnone size-large wp-image-4050" src="/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" /></a>
 _**Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.**
 _ **Alle foto: UIP**
 

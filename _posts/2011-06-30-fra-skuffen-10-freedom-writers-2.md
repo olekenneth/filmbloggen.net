@@ -232,7 +232,7 @@ tags:
 ---
 **Den tårevåte sanne historien om the Freedom Writers fra ghettoen i USA.**
 
-[<img class="alignnone size-full wp-image-456" title="Film Title: Freedom Writers" src="//filmbloggen.net/wp-content/uploads//2011/06/freedom-writers-e1310569090809.jpg" alt="" width="600" height="400" />](//filmbloggen.net/wp-content/uploads//2011/06/freedom-writers-e1310569090809.jpg)
+[<img class="alignnone size-full wp-image-456" title="Film Title: Freedom Writers" src="/wp-content/uploads//2011/06/freedom-writers-e1310569090809.jpg" alt="" width="600" height="400" />](/wp-content/uploads//2011/06/freedom-writers-e1310569090809.jpg)
 ****Originaltittel:**** Freedom Writers****
 Kategori:**** Drama**
 **Spilletid:**** 2 timer og 2 minutter**

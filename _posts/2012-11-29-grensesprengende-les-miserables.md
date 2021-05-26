@@ -100,7 +100,7 @@ samplepermalinknonce:
   - b435443bf2
 content:
   - |
-    <strong>Les Misérables er en av de mest kjente franske musikalene gjennom tidene. Nå kommer det fram at all syngingen under filmen ble gjort live på sett. Ikke et nytt fenomen, men kjempespennende!</strong><!--more--><a href="//filmbloggen.net/2012/11/29/grensesprengende-les-miserables/lginvwj4/" rel="attachment wp-att-8239"><img class="alignnone size-large wp-image-8239" src="//filmbloggen.net/wp-content/uploads//2012/11/lginvwj4-620x413.jpg" alt="" width="620" height="413" /></a>
+    <strong>Les Misérables er en av de mest kjente franske musikalene gjennom tidene. Nå kommer det fram at all syngingen under filmen ble gjort live på sett. Ikke et nytt fenomen, men kjempespennende!</strong><!--more--><a href="//filmbloggen.net/2012/11/29/grensesprengende-les-miserables/lginvwj4/" rel="attachment wp-att-8239"><img class="alignnone size-large wp-image-8239" src="/wp-content/uploads//2012/11/lginvwj4-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Eddie Redmayne og Amanda Seyfried. FOTO: UIP</strong>
 
     I en promo for Les Misérables som kom ut for en tid tilbake så skryter regissør Tom Hooper og hans skuespillere av at all syngingen i denne filmen blir gjort live på sett. Alle skuespillerne har skjulte mikrofoner i øret som er koblet til en egen pianist som sitter å spiller sangen for de. Det er skuespillerne selv som setter tempoet og dette gir de en vanvittig frihet til å spille rollen og synge på den best mulige måten.
@@ -170,7 +170,7 @@ ID:
   - "8237"
 post_content:
   - |
-    <strong>Les Misérables er en av de mest kjente franske musikalene gjennom tidene. Nå kommer det fram at all syngingen under filmen ble gjort live på sett. Ikke et nytt fenomen, men kjempespennende!</strong><!--more--><a href="//filmbloggen.net/2012/11/29/grensesprengende-les-miserables/lginvwj4/" rel="attachment wp-att-8239"><img class="alignnone size-large wp-image-8239" src="//filmbloggen.net/wp-content/uploads//2012/11/lginvwj4-620x413.jpg" alt="" width="620" height="413" /></a>
+    <strong>Les Misérables er en av de mest kjente franske musikalene gjennom tidene. Nå kommer det fram at all syngingen under filmen ble gjort live på sett. Ikke et nytt fenomen, men kjempespennende!</strong><!--more--><a href="//filmbloggen.net/2012/11/29/grensesprengende-les-miserables/lginvwj4/" rel="attachment wp-att-8239"><img class="alignnone size-large wp-image-8239" src="/wp-content/uploads//2012/11/lginvwj4-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Eddie Redmayne og Amanda Seyfried. FOTO: UIP</strong>
 
     I en promo for Les Misérables som kom ut for en tid tilbake så skryter regissør Tom Hooper og hans skuespillere av at all syngingen i denne filmen blir gjort live på sett. Alle skuespillerne har skjulte mikrofoner i øret som er koblet til en egen pianist som sitter å spiller sangen for de. Det er skuespillerne selv som setter tempoet og dette gir de en vanvittig frihet til å spille rollen og synge på den best mulige måten.
@@ -222,7 +222,7 @@ tags:
 ---
 **Les Misérables er en av de mest kjente franske musikalene gjennom tidene. Nå kommer det fram at all syngingen under filmen ble gjort live på sett. Ikke et nytt fenomen, men kjempespennende!**<!--more-->
 
-<a href="//filmbloggen.net/2012/11/29/grensesprengende-les-miserables/lginvwj4/" rel="attachment wp-att-8239"><img class="alignnone size-large wp-image-8239" src="//filmbloggen.net/wp-content/uploads//2012/11/lginvwj4-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/11/29/grensesprengende-les-miserables/lginvwj4/" rel="attachment wp-att-8239"><img class="alignnone size-large wp-image-8239" src="/wp-content/uploads//2012/11/lginvwj4-620x413.jpg" alt="" width="620" height="413" /></a>
 **Eddie Redmayne og Amanda Seyfried. FOTO: UIP**
 
 I en promo for Les Misérables som kom ut for en tid tilbake så skryter regissør Tom Hooper og hans skuespillere av at all syngingen i denne filmen blir gjort live på sett. Alle skuespillerne har skjulte mikrofoner i øret som er koblet til en egen pianist som sitter å spiller sangen for de. Det er skuespillerne selv som setter tempoet og dette gir de en vanvittig frihet til å spille rollen og synge på den best mulige måten.

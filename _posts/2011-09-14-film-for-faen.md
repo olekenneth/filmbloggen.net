@@ -94,7 +94,7 @@ content:
   - |
     <strong>Velkommen til den nye spalten her på Filmbloggen. Den heter enkelt og greit bare: "Film for faen" og skrives av Marthe. Til sin første film har hun valgt Sønner av Norge. </strong><strong>Filmen er like sjokkerende som 70- og 80-tallet var i seg selv. Publikum ler seg gjennom scener som vi bare kunne drømme om - helt til de nå faktisk er å se på lerretet. </strong>
 
-    <a href="//filmbloggen.net/2011/09/14/film-for-faen/s_nner_av_norge_513895m/" rel="attachment wp-att-881"><img class="alignnone size-large wp-image-881" src="//filmbloggen.net/wp-content/uploads//2011/09/s_nner_av_norge_513895m-620x413.jpg" alt="" width="400" height="253" /></a>
+    <a href="//filmbloggen.net/2011/09/14/film-for-faen/s_nner_av_norge_513895m/" rel="attachment wp-att-881"><img class="alignnone size-large wp-image-881" src="/wp-content/uploads//2011/09/s_nner_av_norge_513895m-620x413.jpg" alt="" width="400" height="253" /></a>
     <h1><strong>Hippie møter punk</strong></h1>
     <strong>Originaltittel:</strong> Sønner av Norge
     <strong>Sjanger:</strong> Drama
@@ -169,7 +169,7 @@ post_content:
   - |
     <strong>Velkommen til den nye spalten her på Filmbloggen. Den heter enkelt og greit bare: "Film for faen" og skrives av Marthe. Til sin første film har hun valgt Sønner av Norge. </strong><strong>Filmen er like sjokkerende som 70- og 80-tallet var i seg selv. Publikum ler seg gjennom scener som vi bare kunne drømme om - helt til de nå faktisk er å se på lerretet. </strong>
 
-    <a href="//filmbloggen.net/2011/09/14/film-for-faen/s_nner_av_norge_513895m/" rel="attachment wp-att-881"><img class="alignnone size-large wp-image-881" src="//filmbloggen.net/wp-content/uploads//2011/09/s_nner_av_norge_513895m-620x413.jpg" alt="" width="400" height="253" /></a>
+    <a href="//filmbloggen.net/2011/09/14/film-for-faen/s_nner_av_norge_513895m/" rel="attachment wp-att-881"><img class="alignnone size-large wp-image-881" src="/wp-content/uploads//2011/09/s_nner_av_norge_513895m-620x413.jpg" alt="" width="400" height="253" /></a>
     <h1><strong>Hippie møter punk</strong></h1>
     <strong>Originaltittel:</strong> Sønner av Norge
     <strong>Sjanger:</strong> Drama
@@ -201,7 +201,7 @@ meta:
     a:74:{i:6527;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:6508;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:6555;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:6515;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"e538efe175";}i:6517;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"14c89bc118";}i:6556;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:6548;a:2:{s:3:"key";s:7:"content";s:5:"value";s:3023:"<strong>Velkommen til den nye spalten her på Filmbloggen. Den heter enkelt og greit bare: "Film for faen" og skrives av Marthe. Til sin første film har hun valgt Sønner av Norge. </strong>
 
     <strong>Filmen er like sjokkerende som 70- og 80-tallet var i seg selv. Publikum ler seg gjennom scener som vi bare kunne drømme om - helt til de nå faktisk er å se på lerretet. </strong>
-    <a href="//filmbloggen.net/2011/09/14/film-for-faen/s_nner_av_norge_513895m/" rel="attachment wp-att-881"><img class="alignnone size-large wp-image-881" src="//filmbloggen.net/wp-content/uploads//2011/09/s_nner_av_norge_513895m-620x413.jpg" alt="" width="400" height="253" /></a>
+    <a href="//filmbloggen.net/2011/09/14/film-for-faen/s_nner_av_norge_513895m/" rel="attachment wp-att-881"><img class="alignnone size-large wp-image-881" src="/wp-content/uploads//2011/09/s_nner_av_norge_513895m-620x413.jpg" alt="" width="400" height="253" /></a>
     <h1><strong>Hippie møter punk</strong></h1>
     <strong>Originaltittel:</strong> Sønner av Norge
     <strong>Sjanger:</strong> Drama
@@ -222,7 +222,7 @@ meta:
     Dette er absolutt Norges tøffeste film. Norge elsker Sven Nordin. Det gjør vi her også. Det er ufattelige skuespillprestasjoner som er verdt å få med seg! Aldri har et norsk produksjonsselskap skapt en så sinnssykt morsom, ekkel, sjokkerende og emosjonelt rørende film! Det er dessuten en viktig historisk film, der dagens ungdom kan se tilbake til foreldregenerasjonens barndom, og skjønne hvorfor de voksne er som de er i dag.";}i:6536;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:6538;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"10";}i:6534;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"14";}i:6532;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"09";}i:6540;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"59";}i:6559;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:6549;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:6528;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"00";}i:6535;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:6537;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"00";}i:6533;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"14";}i:6531;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"09";}i:6539;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"05";}i:6521;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:6519;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:6522;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:6575;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"866";}i:6525;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"14";}i:6516;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"092d7163d3";}i:6552;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:6551;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:6553;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:6526;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"09";}i:6529;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"05";}i:6594;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:6595;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:6509;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:6512;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:6541;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:6557;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:6510;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"4";}i:6597;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"4";}i:6577;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:3023:"<strong>Velkommen til den nye spalten her på Filmbloggen. Den heter enkelt og greit bare: "Film for faen" og skrives av Marthe. Til sin første film har hun valgt Sønner av Norge. </strong>
 
     <strong>Filmen er like sjokkerende som 70- og 80-tallet var i seg selv. Publikum ler seg gjennom scener som vi bare kunne drømme om - helt til de nå faktisk er å se på lerretet. </strong>
-    <a href="//filmbloggen.net/2011/09/14/film-for-faen/s_nner_av_norge_513895m/" rel="attachment wp-att-881"><img class="alignnone size-large wp-image-881" src="//filmbloggen.net/wp-content/uploads//2011/09/s_nner_av_norge_513895m-620x413.jpg" alt="" width="400" height="253" /></a>
+    <a href="//filmbloggen.net/2011/09/14/film-for-faen/s_nner_av_norge_513895m/" rel="attachment wp-att-881"><img class="alignnone size-large wp-image-881" src="/wp-content/uploads//2011/09/s_nner_av_norge_513895m-620x413.jpg" alt="" width="400" height="253" /></a>
     <h1><strong>Hippie møter punk</strong></h1>
     <strong>Originaltittel:</strong> Sønner av Norge
     <strong>Sjanger:</strong> Drama
@@ -257,7 +257,7 @@ tags:
 ---
 **Velkommen til den nye spalten her på Filmbloggen. Den heter enkelt og greit bare: «Film for faen» og skrives av Marthe. Til sin første film har hun valgt Sønner av Norge. ****Filmen er like sjokkerende som 70- og 80-tallet var i seg selv. Publikum ler seg gjennom scener som vi bare kunne drømme om – helt til de nå faktisk er å se på lerretet. **
 
-<a href="//filmbloggen.net/2011/09/14/film-for-faen/s_nner_av_norge_513895m/" rel="attachment wp-att-881"><img class="alignnone size-large wp-image-881" src="//filmbloggen.net/wp-content/uploads//2011/09/s_nner_av_norge_513895m-620x413.jpg" alt="" width="400" height="253" /></a>
+<a href="//filmbloggen.net/2011/09/14/film-for-faen/s_nner_av_norge_513895m/" rel="attachment wp-att-881"><img class="alignnone size-large wp-image-881" src="/wp-content/uploads//2011/09/s_nner_av_norge_513895m-620x413.jpg" alt="" width="400" height="253" /></a>
 
 # **Hippie møter punk**
 

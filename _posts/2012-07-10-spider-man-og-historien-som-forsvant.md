@@ -110,7 +110,7 @@ content:
     <strong>Manus:</strong> James Vanderbilt, Alvin Sargent, Steve Kloves
     <strong>Spilletid:</strong> 2 timer og 12 minutter
     <strong>Skuespillere:</strong> Andrew Garfield, Emma Stone, Rhys Ifans,Martin Sheen, Irrfan Khan, Denis Leary, Embeth Davidtz, Sally Field<strong>
-    </strong><a href="//filmbloggen.net/2012/07/10/spider-man-og-historien-som-forsvant/amazing-spider-man-2-2/" rel="attachment wp-att-5006"><img class="alignnone size-large wp-image-5006" src="//filmbloggen.net/wp-content/uploads//2012/07/amazing-spider-man-2-620x358.jpg" alt="" width="620" height="358" /></a>
+    </strong><a href="//filmbloggen.net/2012/07/10/spider-man-og-historien-som-forsvant/amazing-spider-man-2-2/" rel="attachment wp-att-5006"><img class="alignnone size-large wp-image-5006" src="/wp-content/uploads//2012/07/amazing-spider-man-2-620x358.jpg" alt="" width="620" height="358" /></a>
     <em>Skrevet av: Thomas Lien
     Foto: The Walt Disney Company</em>
 
@@ -194,7 +194,7 @@ post_content:
     <strong>Manus:</strong> James Vanderbilt, Alvin Sargent, Steve Kloves
     <strong>Spilletid:</strong> 2 timer og 12 minutter
     <strong>Skuespillere:</strong> Andrew Garfield, Emma Stone, Rhys Ifans,Martin Sheen, Irrfan Khan, Denis Leary, Embeth Davidtz, Sally Field<strong>
-    </strong><a href="//filmbloggen.net/2012/07/10/spider-man-og-historien-som-forsvant/amazing-spider-man-2-2/" rel="attachment wp-att-5006"><img class="alignnone size-large wp-image-5006" src="//filmbloggen.net/wp-content/uploads//2012/07/amazing-spider-man-2-620x358.jpg" alt="" width="620" height="358" /></a>
+    </strong><a href="//filmbloggen.net/2012/07/10/spider-man-og-historien-som-forsvant/amazing-spider-man-2-2/" rel="attachment wp-att-5006"><img class="alignnone size-large wp-image-5006" src="/wp-content/uploads//2012/07/amazing-spider-man-2-620x358.jpg" alt="" width="620" height="358" /></a>
     <em>Skrevet av: Thomas Lien
     Foto: The Walt Disney Company</em>
 
@@ -230,7 +230,7 @@ meta:
     <strong>Manus:</strong> James Vanderbilt, Alvin Sargent, Steve Kloves
     <strong>Spilletid:</strong> 2 timer og 12 minutter
     <strong>Skuespillere:</strong> Andrew Garfield, Emma Stone, Rhys Ifans,Martin Sheen, Irrfan Khan, Denis Leary, Embeth Davidtz, Sally Field<strong>
-    </strong><a href="//filmbloggen.net/2012/07/10/spider-man-og-historien-som-forsvant/amazing-spider-man-2-2/" rel="attachment wp-att-5006"><img class="alignnone size-large wp-image-5006" src="//filmbloggen.net/wp-content/uploads//2012/07/amazing-spider-man-2-620x358.jpg" alt="" width="620" height="358" /></a>
+    </strong><a href="//filmbloggen.net/2012/07/10/spider-man-og-historien-som-forsvant/amazing-spider-man-2-2/" rel="attachment wp-att-5006"><img class="alignnone size-large wp-image-5006" src="/wp-content/uploads//2012/07/amazing-spider-man-2-620x358.jpg" alt="" width="620" height="358" /></a>
     <em>Skrevet av: Thomas Lien
     Foto: The Walt Disney Company</em>
 
@@ -257,7 +257,7 @@ meta:
     <strong>Manus:</strong> James Vanderbilt, Alvin Sargent, Steve Kloves
     <strong>Spilletid:</strong> 2 timer og 12 minutter
     <strong>Skuespillere:</strong> Andrew Garfield, Emma Stone, Rhys Ifans,Martin Sheen, Irrfan Khan, Denis Leary, Embeth Davidtz, Sally Field<strong>
-    </strong><a href="//filmbloggen.net/2012/07/10/spider-man-og-historien-som-forsvant/amazing-spider-man-2-2/" rel="attachment wp-att-5006"><img class="alignnone size-large wp-image-5006" src="//filmbloggen.net/wp-content/uploads//2012/07/amazing-spider-man-2-620x358.jpg" alt="" width="620" height="358" /></a>
+    </strong><a href="//filmbloggen.net/2012/07/10/spider-man-og-historien-som-forsvant/amazing-spider-man-2-2/" rel="attachment wp-att-5006"><img class="alignnone size-large wp-image-5006" src="/wp-content/uploads//2012/07/amazing-spider-man-2-620x358.jpg" alt="" width="620" height="358" /></a>
     <em>Skrevet av: Thomas Lien
     Foto: The Walt Disney Company</em>
 
@@ -319,7 +319,7 @@ Regi:** Marc Webb
 **Manus:** James Vanderbilt, Alvin Sargent, Steve Kloves
 **Spilletid:** 2 timer og 12 minutter
 **Skuespillere:** Andrew Garfield, Emma Stone, Rhys Ifans,Martin Sheen, Irrfan Khan, Denis Leary, Embeth Davidtz, Sally Field**
-** <a href="//filmbloggen.net/2012/07/10/spider-man-og-historien-som-forsvant/amazing-spider-man-2-2/" rel="attachment wp-att-5006"><img class="alignnone size-large wp-image-5006" src="//filmbloggen.net/wp-content/uploads//2012/07/amazing-spider-man-2-620x358.jpg" alt="" width="620" height="358" /></a>
+** <a href="//filmbloggen.net/2012/07/10/spider-man-og-historien-som-forsvant/amazing-spider-man-2-2/" rel="attachment wp-att-5006"><img class="alignnone size-large wp-image-5006" src="/wp-content/uploads//2012/07/amazing-spider-man-2-620x358.jpg" alt="" width="620" height="358" /></a>
 _Skrevet av: Thomas Lien
 Foto: The Walt Disney Company_
 

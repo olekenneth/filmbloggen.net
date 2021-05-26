@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Nok en idrettsfilm til "Fra skuffen"-spalten. Denne uka er det Friday Night Lights med Billy Bob Thornton som senere ble en suksessfull tv-serie.
-    <a href="//filmbloggen.net/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg"><img class="alignnone size-full wp-image-863" title="friday-night-lights-2004-16-g" src="//filmbloggen.net/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg" alt="" width="400" height="295" /></a>
+    <a href="/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg"><img class="alignnone size-full wp-image-863" title="friday-night-lights-2004-16-g" src="/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg" alt="" width="400" height="295" /></a>
     Originaltittel: </strong>Friday Night Lights
     <strong>Kategori:</strong> Drama/Sport
     <strong>Spilletid:</strong> 1 time og 58 minutter
@@ -174,7 +174,7 @@ ID:
 post_content:
   - |
     <strong>Nok en idrettsfilm til "Fra skuffen"-spalten. Denne uka er det Friday Night Lights med Billy Bob Thornton som senere ble en suksessfull tv-serie.
-    <a href="//filmbloggen.net/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg"><img class="alignnone size-full wp-image-863" title="friday-night-lights-2004-16-g" src="//filmbloggen.net/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg" alt="" width="400" height="295" /></a>
+    <a href="/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg"><img class="alignnone size-full wp-image-863" title="friday-night-lights-2004-16-g" src="/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg" alt="" width="400" height="295" /></a>
     Originaltittel: </strong>Friday Night Lights
     <strong>Kategori:</strong> Drama/Sport
     <strong>Spilletid:</strong> 1 time og 58 minutter
@@ -199,7 +199,7 @@ save:
 meta:
   - |
     a:75:{i:6312;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:6291;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:6344;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:6300;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"25402909ed";}i:6298;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:6302;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"d87366ceb6";}i:6345;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:6337;a:2:{s:3:"key";s:7:"content";s:5:"value";s:3286:"<strong>Nok en idrettsfilm til "Fra skuffen"-spalten. Denne uka er det Friday Night Lights med Billy Bob Thornton som senere ble en suksessfull tv-serie.
-    <a href="//filmbloggen.net/wp-content/uploads//2011/09/friday-night-lights.jpg"><img class="alignnone size-full wp-image-861" title="friday-night-lights" src="//filmbloggen.net/wp-content/uploads//2011/09/friday-night-lights.jpg" alt="" width="485" height="325" /></a>
+    <a href="/wp-content/uploads//2011/09/friday-night-lights.jpg"><img class="alignnone size-full wp-image-861" title="friday-night-lights" src="/wp-content/uploads//2011/09/friday-night-lights.jpg" alt="" width="485" height="325" /></a>
     Originaltittel: </strong>Friday Night Lights
     <strong>Kategori:</strong> Drama/Sport
     <strong>Spilletid:</strong> 1 time og 58 minutter
@@ -215,7 +215,7 @@ meta:
     Fotballscenene i filmen er spektakulære og er sinnsykt godt gjennomført. Atmosfæren fra byen og innbyggerne er godt skildret og det er ikke mye å si på dybden til de forskjellige karakterene (derfor det ble tv-serie selvfølgelig). Problemet med filmen er kanskje det at liker du ikke amerikansk fotball, liker du ikke filmen. Her er det ingen dypere historie som i Remember the Titans eller Glory Road. Her er det fotballgalskap fra start til slutt. Og det er jo det som er sjarmen.
 
     Etter siste kamp så prater guttene om hva de skal gjøre resten av livet. Det er lenge igjen av skolen, men de vet at for de er det over. Ingen av de har gode nok karakterer til å komme seg videre i livet med noe annet enn fotball. Men man vet jo ikke helt om man skal le eller grine når filmen er slutt. Det er en av de guttene vi hører om som kom seg videre på college. Resten av gjengen ble værende i Texas og fikk seg drittjobber. Alt i alt en film som passer for deg som er glad i sportsfilmer.";}i:6321;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:6323;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"22";}i:6319;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"12";}i:6317;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"09";}i:6325;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"55";}i:6349;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:6338;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:6313;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"16";}i:6320;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:6322;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"16";}i:6318;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"12";}i:6316;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"09";}i:6324;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"53";}i:6306;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:6304;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:6307;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:6366;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"833";}i:6310;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"12";}i:6301;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"4127dca506";}i:6341;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:6340;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:6342;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:6311;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"09";}i:6314;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"53";}i:6329;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:6330;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:6292;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:6295;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:6326;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:6346;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:6293;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:6348;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:6367;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:3286:"<strong>Nok en idrettsfilm til "Fra skuffen"-spalten. Denne uka er det Friday Night Lights med Billy Bob Thornton som senere ble en suksessfull tv-serie.
-    <a href="//filmbloggen.net/wp-content/uploads//2011/09/friday-night-lights.jpg"><img class="alignnone size-full wp-image-861" title="friday-night-lights" src="//filmbloggen.net/wp-content/uploads//2011/09/friday-night-lights.jpg" alt="" width="485" height="325" /></a>
+    <a href="/wp-content/uploads//2011/09/friday-night-lights.jpg"><img class="alignnone size-full wp-image-861" title="friday-night-lights" src="/wp-content/uploads//2011/09/friday-night-lights.jpg" alt="" width="485" height="325" /></a>
     Originaltittel: </strong>Friday Night Lights
     <strong>Kategori:</strong> Drama/Sport
     <strong>Spilletid:</strong> 1 time og 58 minutter
@@ -244,7 +244,7 @@ tags:
   - Tim McGraw
 ---
 **Nok en idrettsfilm til «Fra skuffen»-spalten. Denne uka er det Friday Night Lights med Billy Bob Thornton som senere ble en suksessfull tv-serie.
-[<img class="alignnone size-full wp-image-863" title="friday-night-lights-2004-16-g" src="//filmbloggen.net/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg" alt="" width="400" height="295" />](//filmbloggen.net/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg)
+[<img class="alignnone size-full wp-image-863" title="friday-night-lights-2004-16-g" src="/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg" alt="" width="400" height="295" />](/wp-content/uploads//2011/09/friday-night-lights-2004-16-g-e1315861386618.jpg)
 Originaltittel: **Friday Night Lights
 **Kategori:** Drama/Sport
 **Spilletid:** 1 time og 58 minutter

@@ -103,7 +103,7 @@ content:
     <strong>Pensjonistaction i tusen. Morsom, tullete og ikke seriøs i det hele tatt. Rett og slett god underholdning!
     </strong><strong></strong>(Anmeldelse av RED)<strong></strong>
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/red.jpg"><img class="alignnone size-large wp-image-106" title="RED" src="//filmbloggen.net/wp-content/uploads//2011/04/red-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <a href="/wp-content/uploads//2011/04/red.jpg"><img class="alignnone size-large wp-image-106" title="RED" src="/wp-content/uploads//2011/04/red-1024x682.jpg" alt="" width="620" height="412" /></a>
 
     <strong>Originaltittel: </strong>RED<strong>
     Kategori:</strong> Action
@@ -111,7 +111,7 @@ content:
     <strong>Regissør: </strong>Robert Schwentke
     <strong>Med: </strong>Bruce Willis, Helen Mirren, Brian Cox, John Malkovich og Morgan Freeman
 
-    <img class="alignleft size-medium wp-image-105" title="RED" src="//filmbloggen.net/wp-content/uploads//2011/04/red2-e1310642639305-270x300.jpg" alt="" width="270" height="300" />
+    <img class="alignleft size-medium wp-image-105" title="RED" src="/wp-content/uploads//2011/04/red2-e1310642639305-270x300.jpg" alt="" width="270" height="300" />
 
     Bruce Willis spiller den aldrende og pensjonerte CIA-agenten Frank Moses. Frank kjeder seg og har ikke klart å legge pistolene på hylla for pensjonistlivet med bridge og alt det følger med seg. En dag så kommer et WET-team (utryddelsesteam) hjem til han for å ta livet av han og resten av hans gamle team.
 
@@ -179,7 +179,7 @@ post_content:
     <strong>Pensjonistaction i tusen. Morsom, tullete og ikke seriøs i det hele tatt. Rett og slett god underholdning!
     </strong><strong></strong>(Anmeldelse av RED)<strong></strong>
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/04/red.jpg"><img class="alignnone size-large wp-image-106" title="RED" src="//filmbloggen.net/wp-content/uploads//2011/04/red-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <a href="/wp-content/uploads//2011/04/red.jpg"><img class="alignnone size-large wp-image-106" title="RED" src="/wp-content/uploads//2011/04/red-1024x682.jpg" alt="" width="620" height="412" /></a>
 
     <strong>Originaltittel: </strong>RED<strong>
     Kategori:</strong> Action
@@ -187,7 +187,7 @@ post_content:
     <strong>Regissør: </strong>Robert Schwentke
     <strong>Med: </strong>Bruce Willis, Helen Mirren, Brian Cox, John Malkovich og Morgan Freeman
 
-    <img class="alignleft size-medium wp-image-105" title="RED" src="//filmbloggen.net/wp-content/uploads//2011/04/red2-e1310642639305-270x300.jpg" alt="" width="270" height="300" />
+    <img class="alignleft size-medium wp-image-105" title="RED" src="/wp-content/uploads//2011/04/red2-e1310642639305-270x300.jpg" alt="" width="270" height="300" />
 
     Bruce Willis spiller den aldrende og pensjonerte CIA-agenten Frank Moses. Frank kjeder seg og har ikke klart å legge pistolene på hylla for pensjonistlivet med bridge og alt det følger med seg. En dag så kommer et WET-team (utryddelsesteam) hjem til han for å ta livet av han og resten av hans gamle team.
 
@@ -211,7 +211,7 @@ tags:
 **Pensjonistaction i tusen. Morsom, tullete og ikke seriøs i det hele tatt. Rett og slett god underholdning!
 ** ****(Anmeldelse av RED)****
 
-[<img class="alignnone size-large wp-image-106" title="RED" src="//filmbloggen.net/wp-content/uploads//2011/04/red-1024x682.jpg" alt="" width="620" height="412" />](//filmbloggen.net/wp-content/uploads//2011/04/red.jpg)
+[<img class="alignnone size-large wp-image-106" title="RED" src="/wp-content/uploads//2011/04/red-1024x682.jpg" alt="" width="620" height="412" />](/wp-content/uploads//2011/04/red.jpg)
 
 **Originaltittel:** RED**
 Kategori:** Action
@@ -219,7 +219,7 @@ Kategori:** Action
 **Regissør:** Robert Schwentke
 **Med:** Bruce Willis, Helen Mirren, Brian Cox, John Malkovich og Morgan Freeman
 
-<img class="alignleft size-medium wp-image-105" title="RED" src="//filmbloggen.net/wp-content/uploads//2011/04/red2-e1310642639305-270x300.jpg" alt="" width="270" height="300" />
+<img class="alignleft size-medium wp-image-105" title="RED" src="/wp-content/uploads//2011/04/red2-e1310642639305-270x300.jpg" alt="" width="270" height="300" />
 
 Bruce Willis spiller den aldrende og pensjonerte CIA-agenten Frank Moses. Frank kjeder seg og har ikke klart å legge pistolene på hylla for pensjonistlivet med bridge og alt det følger med seg. En dag så kommer et WET-team (utryddelsesteam) hjem til han for å ta livet av han og resten av hans gamle team.
 

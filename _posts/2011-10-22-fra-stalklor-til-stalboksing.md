@@ -95,7 +95,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Hva får du når du blander "karate kid" og "transformers"? Jo, filmen REAL STEEL.</strong>
-    <a href="//filmbloggen.net/?attachment_id=1607" rel="attachment wp-att-1607"><img class="alignnone size-large wp-image-1607" title="Real Steel" src="//filmbloggen.net/wp-content/uploads//2011/10/xluvkuv1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=1607" rel="attachment wp-att-1607"><img class="alignnone size-large wp-image-1607" title="Real Steel" src="/wp-content/uploads//2011/10/xluvkuv1-620x413.jpg" alt="" width="620" height="413" /></a>
     Etter å ha spilt i filmer som Deception, Australia, X-Men origins og X-Men: first class de siste årene er Hugh Jackman tilbake i ny film, med bare et lite hint av barnevennlighet.
 
     <strong>Charlie Kenton er en tidligere proffbokser og sliter med å få pengene til å gå rundt</strong>, når verden har  utviklet seg fra menneskeboksing og videre over til robotboksing. Men når han finner ut at han har en 11 år gammel sønn og denne sønnen i tillegg finner en lovende sparrings-robot på skraphaugen, ser det ut til at vinder snur i rett retning for Kenton.
@@ -162,7 +162,7 @@ post_mime_type:
 post_content:
   - |
     <strong>Hva får du når du blander "karate kid" og "transformers"? Jo, filmen REAL STEEL.</strong>
-    <a href="//filmbloggen.net/?attachment_id=1607" rel="attachment wp-att-1607"><img class="alignnone size-large wp-image-1607" title="Real Steel" src="//filmbloggen.net/wp-content/uploads//2011/10/xluvkuv1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=1607" rel="attachment wp-att-1607"><img class="alignnone size-large wp-image-1607" title="Real Steel" src="/wp-content/uploads//2011/10/xluvkuv1-620x413.jpg" alt="" width="620" height="413" /></a>
     Etter å ha spilt i filmer som Deception, Australia, X-Men origins og X-Men: first class de siste årene er Hugh Jackman tilbake i ny film, med bare et lite hint av barnevennlighet.
 
     <strong>Charlie Kenton er en tidligere proffbokser og sliter med å få pengene til å gå rundt</strong>, når verden har  utviklet seg fra menneskeboksing og videre over til robotboksing. Men når han finner ut at han har en 11 år gammel sønn og denne sønnen i tillegg finner en lovende sparrings-robot på skraphaugen, ser det ut til at vinder snur i rett retning for Kenton.
@@ -230,7 +230,7 @@ tags:
 format: video
 ---
 **Hva får du når du blander «karate kid» og «transformers»? Jo, filmen REAL STEEL.**
-<a href="//filmbloggen.net/2011/10/22/fra-stalklor-til-stalboksing/real-steel/" rel="attachment wp-att-1607"><img class="alignnone size-large wp-image-1607" src="//filmbloggen.net/wp-content/uploads//2011/10/xluvkuv1-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2011/10/22/fra-stalklor-til-stalboksing/real-steel/" rel="attachment wp-att-1607"><img class="alignnone size-large wp-image-1607" src="/wp-content/uploads//2011/10/xluvkuv1-620x413.jpg" alt="" width="620" height="413" /></a>
 Etter å ha spilt i filmer som Deception, Australia, X-Men origins og X-Men: first class de siste årene er Hugh Jackman tilbake i ny film, med bare et lite hint av barnevennlighet.
 
 **Charlie Kenton er en tidligere proffbokser og sliter med å få pengene til å gå rundt**, når verden har  utviklet seg fra menneskeboksing og videre over til robotboksing. Men når han finner ut at han har en 11 år gammel sønn og denne sønnen i tillegg finner en lovende sparrings-robot på skraphaugen, ser det ut til at vinder snur i rett retning for Kenton.

@@ -107,7 +107,7 @@ content:
     <strong>Spilletid:</strong> 1 timer og 31 minutter
     <strong>Regissør:</strong> Ole Endresen
     <strong>Med:</strong> Atle Antonsen, Jon Øigarden, Ingar Helge Gimle, Kåre Conradi, Steinar Sagen, Jan Sælid, Linn Skåber, Ane Dahl Torp,Else Kåss Furuseth, Anne Marit Jacobsen, Ulf Brunnberg, Bård Tufte Johansen, Harald Eia, Hans Morten Hansen
-    <a href="//filmbloggen.net/2011/09/27/kong-skuffings/kong-curling/" rel="attachment wp-att-1121"><img class="alignnone size-large wp-image-1121" src="//filmbloggen.net/wp-content/uploads//2011/09/kong-curling-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2011/09/27/kong-skuffings/kong-curling/" rel="attachment wp-att-1121"><img class="alignnone size-large wp-image-1121" src="/wp-content/uploads//2011/09/kong-curling-620x413.jpg" alt="" width="620" height="413" /></a>
     Konkurransen mellom norske filmer er hard om dagen: Hodejegerne, Knerten, Sønner av Norge og Kong Curling er alle nye filmer som har fått stor nasjonal oppmerksomhet. Kong Curling kommer dårligst ut av konkurransen. Forventningene er store når man får se navn som Antonsen, Skåber, Eia, Conradi, Tufte Johansen og Dahl Thorp. Men Kong Curling er et tydelig eksempel på at det betyr likevel ikke at resultatet blir bra.
 
     Selve filmen kan fort oppfattes som en slags kopi av klassikeren «Dodgeball» med Ben Stiller og Vince Vaughn fra 2004. Kanonball er byttet ut med curling, det å få tilbake treningssenteret sitt er byttet ut med noen nye lunger til en gammel farsfigur og den fantastiske filmen «Dodgeball» er erstattet med en norsk film som ikke aner om den skal være renspikka komedie eller faktisk ha en god historie.
@@ -186,7 +186,7 @@ post_content:
     <strong>Spilletid:</strong> 1 timer og 31 minutter
     <strong>Regissør:</strong> Ole Endresen
     <strong>Med:</strong> Atle Antonsen, Jon Øigarden, Ingar Helge Gimle, Kåre Conradi, Steinar Sagen, Jan Sælid, Linn Skåber, Ane Dahl Torp,Else Kåss Furuseth, Anne Marit Jacobsen, Ulf Brunnberg, Bård Tufte Johansen, Harald Eia, Hans Morten Hansen
-    <a href="//filmbloggen.net/2011/09/27/kong-skuffings/kong-curling/" rel="attachment wp-att-1121"><img class="alignnone size-large wp-image-1121" src="//filmbloggen.net/wp-content/uploads//2011/09/kong-curling-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2011/09/27/kong-skuffings/kong-curling/" rel="attachment wp-att-1121"><img class="alignnone size-large wp-image-1121" src="/wp-content/uploads//2011/09/kong-curling-620x413.jpg" alt="" width="620" height="413" /></a>
     Konkurransen mellom norske filmer er hard om dagen: Hodejegerne, Knerten, Sønner av Norge og Kong Curling er alle nye filmer som har fått stor nasjonal oppmerksomhet. Kong Curling kommer dårligst ut av konkurransen. Forventningene er store når man får se navn som Antonsen, Skåber, Eia, Conradi, Tufte Johansen og Dahl Thorp. Men Kong Curling er et tydelig eksempel på at det betyr likevel ikke at resultatet blir bra.
 
     Selve filmen kan fort oppfattes som en slags kopi av klassikeren «Dodgeball» med Ben Stiller og Vince Vaughn fra 2004. Kanonball er byttet ut med curling, det å få tilbake treningssenteret sitt er byttet ut med noen nye lunger til en gammel farsfigur og den fantastiske filmen «Dodgeball» er erstattet med en norsk film som ikke aner om den skal være renspikka komedie eller faktisk ha en god historie.
@@ -217,7 +217,7 @@ meta:
     <strong>Spilletid:</strong> 1 timer og 31 minutter
     <strong>Regissør:</strong> Ole Endresen
     <strong>Med:</strong> Atle Antonsen, Jon Øigarden, Ingar Helge Gimle, Kåre Conradi, Steinar Sagen, Jan Sælid, Linn Skåber, Ane Dahl Torp,Else Kåss Furuseth, Anne Marit Jacobsen, Ulf Brunnberg, Bård Tufte Johansen, Harald Eia, Hans Morten Hansen
-    <a href="//filmbloggen.net/2011/09/27/kong-skuffings/kong-curling/" rel="attachment wp-att-1121"><img class="alignnone size-large wp-image-1121" src="//filmbloggen.net/wp-content/uploads//2011/09/kong-curling-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2011/09/27/kong-skuffings/kong-curling/" rel="attachment wp-att-1121"><img class="alignnone size-large wp-image-1121" src="/wp-content/uploads//2011/09/kong-curling-620x413.jpg" alt="" width="620" height="413" /></a>
     Konkurransen mellom norske filmer er hard om dagen: Hodejegerne, Knerten, Sønner av Norge og Kong Curling er alle nye filmer som har fått stor nasjonal oppmerksomhet. Kong Curling kommer dårligst ut av konkurransen. Forventningene er store når man får se navn som Antonsen, Skåber, Eia, Conradi, Tufte Johansen og Dahl Thorp, men dette er et tydelig eksempel på at det betyr likevel ikke at resultatet blir bra.
 
     Selve filmen kan fort oppfattes som en slags kopi av klassikeren «Dodgeball» med Ben Stiller og Vince Vaughn fra 2004. Kanonball er byttet ut med curling, det å få tilbake treningssenteret sitt er byttet ut med noen nye lunger til en gammel farsfigur og den fantastiske filmen «Dodgeball» er erstattet med en norsk film som ikke aner om den skal være renspikka komedie eller faktisk ha en god historie.
@@ -239,7 +239,7 @@ meta:
     <strong>Spilletid:</strong> 1 timer og 31 minutter
     <strong>Regissør:</strong> Ole Endresen
     <strong>Med:</strong> Atle Antonsen, Jon Øigarden, Ingar Helge Gimle, Kåre Conradi, Steinar Sagen, Jan Sælid, Linn Skåber, Ane Dahl Torp,Else Kåss Furuseth, Anne Marit Jacobsen, Ulf Brunnberg, Bård Tufte Johansen, Harald Eia, Hans Morten Hansen
-    <a href="//filmbloggen.net/2011/09/27/kong-skuffings/kong-curling/" rel="attachment wp-att-1121"><img class="alignnone size-large wp-image-1121" src="//filmbloggen.net/wp-content/uploads//2011/09/kong-curling-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2011/09/27/kong-skuffings/kong-curling/" rel="attachment wp-att-1121"><img class="alignnone size-large wp-image-1121" src="/wp-content/uploads//2011/09/kong-curling-620x413.jpg" alt="" width="620" height="413" /></a>
     Konkurransen mellom norske filmer er hard om dagen: Hodejegerne, Knerten, Sønner av Norge og Kong Curling er alle nye filmer som har fått stor nasjonal oppmerksomhet. Kong Curling kommer dårligst ut av konkurransen. Forventningene er store når man får se navn som Antonsen, Skåber, Eia, Conradi, Tufte Johansen og Dahl Thorp, men dette er et tydelig eksempel på at det betyr likevel ikke at resultatet blir bra.
 
     Selve filmen kan fort oppfattes som en slags kopi av klassikeren «Dodgeball» med Ben Stiller og Vince Vaughn fra 2004. Kanonball er byttet ut med curling, det å få tilbake treningssenteret sitt er byttet ut med noen nye lunger til en gammel farsfigur og den fantastiske filmen «Dodgeball» er erstattet med en norsk film som ikke aner om den skal være renspikka komedie eller faktisk ha en god historie.
@@ -281,7 +281,7 @@ tags:
 **Spilletid:** 1 timer og 31 minutter
 **Regissør:** Ole Endresen
 **Med:** Atle Antonsen, Jon Øigarden, Ingar Helge Gimle, Kåre Conradi, Steinar Sagen, Jan Sælid, Linn Skåber, Ane Dahl Torp,Else Kåss Furuseth, Anne Marit Jacobsen, Ulf Brunnberg, Bård Tufte Johansen, Harald Eia, Hans Morten Hansen
-<a href="//filmbloggen.net/2011/09/27/kong-skuffings/kong-curling/" rel="attachment wp-att-1121"><img class="alignnone size-large wp-image-1121" src="//filmbloggen.net/wp-content/uploads//2011/09/kong-curling-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2011/09/27/kong-skuffings/kong-curling/" rel="attachment wp-att-1121"><img class="alignnone size-large wp-image-1121" src="/wp-content/uploads//2011/09/kong-curling-620x413.jpg" alt="" width="620" height="413" /></a>
 Konkurransen mellom norske filmer er hard om dagen: Hodejegerne, Knerten, Sønner av Norge og Kong Curling er alle nye filmer som har fått stor nasjonal oppmerksomhet. Kong Curling kommer dårligst ut av konkurransen. Forventningene er store når man får se navn som Antonsen, Skåber, Eia, Conradi, Tufte Johansen og Dahl Thorp. Men Kong Curling er et tydelig eksempel på at det betyr likevel ikke at resultatet blir bra.
 
 Selve filmen kan fort oppfattes som en slags kopi av klassikeren «Dodgeball» med Ben Stiller og Vince Vaughn fra 2004. Kanonball er byttet ut med curling, det å få tilbake treningssenteret sitt er byttet ut med noen nye lunger til en gammel farsfigur og den fantastiske filmen «Dodgeball» er erstattet med en norsk film som ikke aner om den skal være renspikka komedie eller faktisk ha en god historie.

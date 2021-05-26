@@ -106,7 +106,7 @@ content:
     Sjanger: </strong>Komedie / Animasjon
     <strong>Regi: </strong>Steven Martino, Mike Thurmeier
     <strong>Skuespillere</strong> (Originalspråk)<strong>: </strong> Peter Dinklage, Dennis Leary, John Leguizamo, Queen Latifah, Nick Frost, Ray Romano
-    <a href="//filmbloggen.net/2012/07/01/fornoyelig-repetisjon-i-istid-4/ice-age-4/" rel="attachment wp-att-4601"><img class="alignnone size-large wp-image-4601" src="//filmbloggen.net/wp-content/uploads//2012/07/20-620x310.jpg" alt="" width="620" height="310" /></a>
+    <a href="//filmbloggen.net/2012/07/01/fornoyelig-repetisjon-i-istid-4/ice-age-4/" rel="attachment wp-att-4601"><img class="alignnone size-large wp-image-4601" src="/wp-content/uploads//2012/07/20-620x310.jpg" alt="" width="620" height="310" /></a>
     <strong><em>Foto: 20th Century Fox</em></strong>
 
     Den kjære trioen er tilbake; Manny, Diego og Sid blir kastet ut på en eventyrlig og actionfylt reise etter kontinentene drifter fra hverandre. Dessverre blir Ellie og datteren til Manny igjen på det ene kontinentet, mens Manny og co. drifter vek fra det. Nå skal Manny kjempe seg tilbake til dem, men ikke uten problemer. Det er ikke bare modernatur som er ute etter dem, men også en gjeng med utradisjonelle pirater som består av en håndfull forskjellige dyr, blant annet en kenguru og en ape.
@@ -179,7 +179,7 @@ post_content:
     Sjanger: </strong>Komedie / Animasjon
     <strong>Regi: </strong>Steven Martino, Mike Thurmeier
     <strong>Skuespillere</strong> (Originalspråk)<strong>: </strong> Peter Dinklage, Dennis Leary, John Leguizamo, Queen Latifah, Nick Frost, Ray Romano
-    <a href="//filmbloggen.net/2012/07/01/fornoyelig-repetisjon-i-istid-4/ice-age-4/" rel="attachment wp-att-4601"><img class="alignnone size-large wp-image-4601" src="//filmbloggen.net/wp-content/uploads//2012/07/20-620x310.jpg" alt="" width="620" height="310" /></a>
+    <a href="//filmbloggen.net/2012/07/01/fornoyelig-repetisjon-i-istid-4/ice-age-4/" rel="attachment wp-att-4601"><img class="alignnone size-large wp-image-4601" src="/wp-content/uploads//2012/07/20-620x310.jpg" alt="" width="620" height="310" /></a>
     <strong><em>Foto: 20th Century Fox</em></strong>
 
     Den kjære trioen er tilbake; Manny, Diego og Sid blir kastet ut på en eventyrlig og actionfylt reise etter kontinentene drifter fra hverandre. Dessverre blir Ellie og datteren til Manny igjen på det ene kontinentet, mens Manny og co. drifter vek fra det. Nå skal Manny kjempe seg tilbake til dem, men ikke uten problemer. Det er ikke bare modernatur som er ute etter dem, men også en gjeng med utradisjonelle pirater som består av en håndfull forskjellige dyr, blant annet en kenguru og en ape.
@@ -203,7 +203,7 @@ meta:
     Sjanger: </strong>Komedie / Animasjon
     <strong>Regi: </strong>Steven Martino, Mike Thurmeier
     <strong>Skuespillere</strong> (Originalspråk)<strong>: </strong> Peter Dinklage, Dennis Leary, John Leguizamo, Queen Latifah, Nick Frost, Ray Romano
-    <a href="//filmbloggen.net/2012/07/01/fornoyelig-repetisjon-i-istid-4/ice-age-4/" rel="attachment wp-att-4601"><img class="alignnone size-large wp-image-4601" title="Ice Age 4" src="//filmbloggen.net/wp-content/uploads//2012/07/20-620x310.jpg" alt="" width="620" height="310" /></a>
+    <a href="//filmbloggen.net/2012/07/01/fornoyelig-repetisjon-i-istid-4/ice-age-4/" rel="attachment wp-att-4601"><img class="alignnone size-large wp-image-4601" title="Ice Age 4" src="/wp-content/uploads//2012/07/20-620x310.jpg" alt="" width="620" height="310" /></a>
     <strong><em>Foto: 20th Century Fox</em></strong>
 
     Den kjære trioen er tilbake; Manny, Diego og Sid blir kastet ut på en eventyrlig og actionfylt reise etter kontinentene drifter fra hverandre. Dessverre blir Ellie og datteren til Manny igjen på det ene kontinentet, mens Manny og co. drifter vek fra det. Nå skal Manny kjempe seg tilbake til dem, men ikke uten problemer. Det er ikke bare modernatur som er ute etter dem, men også en gjeng med utradisjonelle pirater som består av en håndfull forskjellige dyr, blant annet en kenguru og en ape.
@@ -220,7 +220,7 @@ meta:
     Sjanger: </strong>Komedie / Animasjon
     <strong>Regi: </strong>Steven Martino, Mike Thurmeier
     <strong>Skuespillere</strong> (Originalspråk)<strong>: </strong> Peter Dinklage, Dennis Leary, John Leguizamo, Queen Latifah, Nick Frost, Ray Romano
-    <a href="//filmbloggen.net/2012/07/01/fornoyelig-repetisjon-i-istid-4/ice-age-4/" rel="attachment wp-att-4601"><img class="alignnone size-large wp-image-4601" title="Ice Age 4" src="//filmbloggen.net/wp-content/uploads//2012/07/20-620x310.jpg" alt="" width="620" height="310" /></a>
+    <a href="//filmbloggen.net/2012/07/01/fornoyelig-repetisjon-i-istid-4/ice-age-4/" rel="attachment wp-att-4601"><img class="alignnone size-large wp-image-4601" title="Ice Age 4" src="/wp-content/uploads//2012/07/20-620x310.jpg" alt="" width="620" height="310" /></a>
     <strong><em>Foto: 20th Century Fox</em></strong>
 
     Den kjære trioen er tilbake; Manny, Diego og Sid blir kastet ut på en eventyrlig og actionfylt reise etter kontinentene drifter fra hverandre. Dessverre blir Ellie og datteren til Manny igjen på det ene kontinentet, mens Manny og co. drifter vek fra det. Nå skal Manny kjempe seg tilbake til dem, men ikke uten problemer. Det er ikke bare modernatur som er ute etter dem, men også en gjeng med utradisjonelle pirater som består av en håndfull forskjellige dyr, blant annet en kenguru og en ape.
@@ -269,7 +269,7 @@ tags:
 Sjanger:** Komedie / Animasjon
 **Regi:** Steven Martino, Mike Thurmeier
 **Skuespillere** (Originalspråk)**: ** Peter Dinklage, Dennis Leary, John Leguizamo, Queen Latifah, Nick Frost, Ray Romano
-<a href="//filmbloggen.net/2012/07/01/fornoyelig-repetisjon-i-istid-4/ice-age-4/" rel="attachment wp-att-4601"><img class="alignnone size-large wp-image-4601" src="//filmbloggen.net/wp-content/uploads//2012/07/20-620x310.jpg" alt="" width="620" height="310" /></a>
+<a href="//filmbloggen.net/2012/07/01/fornoyelig-repetisjon-i-istid-4/ice-age-4/" rel="attachment wp-att-4601"><img class="alignnone size-large wp-image-4601" src="/wp-content/uploads//2012/07/20-620x310.jpg" alt="" width="620" height="310" /></a>
 **_Foto: 20th Century Fox_**
 
 Den kjære trioen er tilbake; Manny, Diego og Sid blir kastet ut på en eventyrlig og actionfylt reise etter kontinentene drifter fra hverandre. Dessverre blir Ellie og datteren til Manny igjen på det ene kontinentet, mens Manny og co. drifter vek fra det. Nå skal Manny kjempe seg tilbake til dem, men ikke uten problemer. Det er ikke bare modernatur som er ute etter dem, men også en gjeng med utradisjonelle pirater som består av en håndfull forskjellige dyr, blant annet en kenguru og en ape.

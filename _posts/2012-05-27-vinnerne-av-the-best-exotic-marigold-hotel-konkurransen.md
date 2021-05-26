@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Var du en av de heldige som vant t-skjorte? Klikk deg inn for å se!</strong><!--more-->
-    <img class="alignnone size-large wp-image-3657" src="//filmbloggen.net/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
     Vi startet med en lett konkurranse. Det var ingen som hadde nevneverdige problemer med å svare på våre to spørsmål.
 
     <strong>1. Hvilken mannlig skuespiller hadde en rolle både i The Best Exotic Marigold Hotel og i Love Actually (2003)?</strong>
@@ -178,7 +178,7 @@ ID:
 post_content:
   - |
     <strong>Var du en av de heldige som vant t-skjorte? Klikk deg inn for å se!</strong><!--more-->
-    <img class="alignnone size-large wp-image-3657" src="//filmbloggen.net/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
     Vi startet med en lett konkurranse. Det var ingen som hadde nevneverdige problemer med å svare på våre to spørsmål.
 
     <strong>1. Hvilken mannlig skuespiller hadde en rolle både i The Best Exotic Marigold Hotel og i Love Actually (2003)?</strong>
@@ -207,7 +207,7 @@ publish:
 meta:
   - |
     a:75:{i:21044;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:21022;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:21075;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:21031;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"9fb50bf508";}i:21029;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:21033;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"dba1b0c5b7";}i:21076;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:21068;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1006:"<strong>Var du en av de heldige som vant t-skjorte? Klikk deg inn for å se!</strong><!--more-->
-    <img class="alignnone size-large wp-image-3657" src="//filmbloggen.net/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
     Vi startet med en lett konkurranse. Det var ingen som hadde nevneverdige problemer med å svare på våre to spørsmål.
 
     <strong>1. Hvilken mannlig skuespiller hadde en rolle både i The Best Exotic Marigold Hotel og i Love Actually (2003)?</strong>
@@ -227,7 +227,7 @@ meta:
     Rikke Wiseth
     Helene Larsen
     Knut Andersen";}i:21053;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:21055;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"20";}i:21051;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"27";}i:21049;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"05";}i:21057;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"01";}i:21080;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:21069;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:21045;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"20";}i:21052;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:21054;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"20";}i:21050;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"27";}i:21048;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"05";}i:21056;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"01";}i:21038;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:21036;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:21039;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:21097;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"3782";}i:21042;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"27";}i:21032;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"de96a16a5d";}i:21072;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:21071;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:21073;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:21043;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"05";}i:21046;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"01";}i:21060;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:21061;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:21023;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:21026;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:21058;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:21077;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:21024;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:21079;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:21098;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1006:"<strong>Var du en av de heldige som vant t-skjorte? Klikk deg inn for å se!</strong><!--more-->
-    <img class="alignnone size-large wp-image-3657" src="//filmbloggen.net/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
+    <img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
     Vi startet med en lett konkurranse. Det var ingen som hadde nevneverdige problemer med å svare på våre to spørsmål.
 
     <strong>1. Hvilken mannlig skuespiller hadde en rolle både i The Best Exotic Marigold Hotel og i Love Actually (2003)?</strong>
@@ -253,7 +253,7 @@ categories:
 **Var du en av de heldige som vant t-skjorte? Klikk deg inn for å se!**<!--more-->
 
 
-<img class="alignnone size-large wp-image-3657" src="//filmbloggen.net/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
+<img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
 Vi startet med en lett konkurranse. Det var ingen som hadde nevneverdige problemer med å svare på våre to spørsmål.
 
 **1. Hvilken mannlig skuespiller hadde en rolle både i The Best Exotic Marigold Hotel og i Love Actually (2003)?**

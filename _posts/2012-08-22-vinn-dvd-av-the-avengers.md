@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Svar på tre enkle spørsmål og vinn en DVD fra den episke superheltfilmen The Avengers.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="//filmbloggen.net/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
     <em>Foto: Disney</em>
 
     The Avengers var en av de filmene jeg så mest fram til i 2012. Marvel gjorde en helt rå jobb på å bygge opp dette universet og alt hang sammen fint. Og filmen skuffet ikke på noen som helst måte. Nå er filmen ute på DVD og vi i Filmbloggen gir tre heldige vinnere et eksemplar av filmen som distribueres av Disney i Norge. Det eneste du må gjøre er å sende det riktige svarene på følgende tre spørsmål:
@@ -183,7 +183,7 @@ ID:
 post_content:
   - |
     <strong>Svar på tre enkle spørsmål og vinn en DVD fra den episke superheltfilmen The Avengers.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="//filmbloggen.net/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
     <em>Foto: Disney</em>
 
     The Avengers var en av de filmene jeg så mest fram til i 2012. Marvel gjorde en helt rå jobb på å bygge opp dette universet og alt hang sammen fint. Og filmen skuffet ikke på noen som helst måte. Nå er filmen ute på DVD og vi i Filmbloggen gir tre heldige vinnere et eksemplar av filmen som distribueres av Disney i Norge. Det eneste du må gjøre er å sende det riktige svarene på følgende tre spørsmål:
@@ -217,7 +217,7 @@ save:
 meta:
   - |
     a:76:{i:30544;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:30523;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:30627;a:2:{s:3:"key";s:17:"add_comment_nonce";s:5:"value";s:10:"c5845e008e";}i:30576;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:30532;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"554d5569e4";}i:30530;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:30534;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"17c2acaff6";}i:30577;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:30569;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1557:"<strong>Svar på tre enkle spørsmål og vinn en DVD fra den episke superheltfilmen The Avengers.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="//filmbloggen.net/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
     <em>Foto: Disney</em>
 
     The Avengers var en av de filmene jeg så mest fram til i 2012. Marvel gjorde en helt rå jobb på å bygge opp dette universet og alt hang sammen fint. Og filmen skuffet ikke på noen som helst måte. Nå er filmen ute på DVD og vi i Filmbloggen gir tre heldige vinnere et eksemplar av filmen som distribueres av Disney i Norge. Det eneste du må gjøre er å sende det riktige svarene på følgende tre spørsmål:
@@ -240,7 +240,7 @@ meta:
     - Thanor
 
     Send navn, adresse, postnummer og riktig svar til hanskristian@rangnes.no innen 10. september.";}i:30553;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:30555;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"12";}i:30551;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"23";}i:30549;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"08";}i:30557;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"00";}i:30581;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:30570;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:30545;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"13";}i:30552;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:30554;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"13";}i:30550;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"22";}i:30548;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"08";}i:30556;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"57";}i:30538;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:30536;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:30539;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:30598;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"6519";}i:30542;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"22";}i:30533;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"b787e5595d";}i:30573;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:30572;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:30574;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:30543;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"08";}i:30546;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"57";}i:30561;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:30562;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:30524;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:30527;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:30558;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:30578;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:30525;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:30580;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:30599;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1557:"<strong>Svar på tre enkle spørsmål og vinn en DVD fra den episke superheltfilmen The Avengers.</strong><!--more-->
-    <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="//filmbloggen.net/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
+    <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
     <em>Foto: Disney</em>
 
     The Avengers var en av de filmene jeg så mest fram til i 2012. Marvel gjorde en helt rå jobb på å bygge opp dette universet og alt hang sammen fint. Og filmen skuffet ikke på noen som helst måte. Nå er filmen ute på DVD og vi i Filmbloggen gir tre heldige vinnere et eksemplar av filmen som distribueres av Disney i Norge. Det eneste du må gjøre er å sende det riktige svarene på følgende tre spørsmål:
@@ -271,7 +271,7 @@ categories:
 **Svar på tre enkle spørsmål og vinn en DVD fra den episke superheltfilmen The Avengers.**<!--more-->
 
 
-<a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="//filmbloggen.net/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
+<a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
 _Foto: Disney_
 
 The Avengers var en av de filmene jeg så mest fram til i 2012. Marvel gjorde en helt rå jobb på å bygge opp dette universet og alt hang sammen fint. Og filmen skuffet ikke på noen som helst måte. Nå er filmen ute på DVD og vi i Filmbloggen gir tre heldige vinnere et eksemplar av filmen som distribueres av Disney i Norge. Det eneste du må gjøre er å sende det riktige svarene på følgende tre spørsmål:

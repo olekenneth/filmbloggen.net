@@ -244,7 +244,7 @@ tags:
   - Scott Charles Stewart
 ---
 ****En helt OK film med Paul Bettany som en krigerprest som beskytter menneskeheten mot vampyrene.
-[<img class="alignnone size-large wp-image-612" title="priest riktig" src="//filmbloggen.net/wp-content/uploads//2011/06/priest1-620x413.jpg" alt="" width="620" height="413" />](//filmbloggen.net/wp-content/uploads//2011/06/priest1.jpg)
+[<img class="alignnone size-large wp-image-612" title="priest riktig" src="/wp-content/uploads//2011/06/priest1-620x413.jpg" alt="" width="620" height="413" />](/wp-content/uploads//2011/06/priest1.jpg)
 Originaltittel:**** Priest****
 Kategori:**** Action**
 **Spilletid:**** 1 time og 28 minutter**

@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Det har vært en lang, død periode her på filmbloggen. Men tallene klarer på en eller annen syk måte å holde seg oppe. Nå har jeg flyttet til Volda og skal prøve å komme tilbake for fullt. Kommer også til å bli mye mer filmnyheter i tiden framover.
-    </strong><strong><a href="//filmbloggen.net/2011/08/26/fra-skuffen-12-any-given-sunday/any-given-sunday/" rel="attachment wp-att-767"><img class="alignnone size-large wp-image-767" src="//filmbloggen.net/wp-content/uploads//2011/08/Any-Given-Sunday-620x411.jpg" alt="" width="400" height=""253" /></a>
+    </strong><strong><a href="//filmbloggen.net/2011/08/26/fra-skuffen-12-any-given-sunday/any-given-sunday/" rel="attachment wp-att-767"><img class="alignnone size-large wp-image-767" src="/wp-content/uploads//2011/08/Any-Given-Sunday-620x411.jpg" alt="" width="400" height=""253" /></a>
     Originaltittel: </strong>Any Given Sunday
     <strong>Kategori:</strong> Sport
     <strong>Spilletid:</strong> 2 timer og 30 minutter
@@ -173,7 +173,7 @@ ID:
 post_content:
   - |
     <strong>Det har vært en lang, død periode her på filmbloggen. Men tallene klarer på en eller annen syk måte å holde seg oppe. Nå har jeg flyttet til Volda og skal prøve å komme tilbake for fullt. Kommer også til å bli mye mer filmnyheter i tiden framover.
-    </strong><strong><a href="//filmbloggen.net/2011/08/26/fra-skuffen-12-any-given-sunday/any-given-sunday/" rel="attachment wp-att-767"><img class="alignnone size-large wp-image-767" src="//filmbloggen.net/wp-content/uploads//2011/08/Any-Given-Sunday-620x411.jpg" alt="" width="400" height=""253" /></a>
+    </strong><strong><a href="//filmbloggen.net/2011/08/26/fra-skuffen-12-any-given-sunday/any-given-sunday/" rel="attachment wp-att-767"><img class="alignnone size-large wp-image-767" src="/wp-content/uploads//2011/08/Any-Given-Sunday-620x411.jpg" alt="" width="400" height=""253" /></a>
     Originaltittel: </strong>Any Given Sunday
     <strong>Kategori:</strong> Sport
     <strong>Spilletid:</strong> 2 timer og 30 minutter
@@ -197,7 +197,7 @@ save:
 meta:
   - |
     a:75:{i:5511;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:5490;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:5543;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:5499;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"448e443ee0";}i:5497;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:5501;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"6b9cc83b40";}i:5544;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:5536;a:2:{s:3:"key";s:7:"content";s:5:"value";s:3134:"<strong>Det har vært en lang, død periode her på filmbloggen. Men tallene klarer på en eller annen syk måte å holde seg oppe. Nå har jeg flyttet til Volda og skal prøve å komme tilbake for fullt. Kommer også til å bli mye mer filmnyheter i tiden framover.
-    </strong><strong><a href="//filmbloggen.net/2011/08/26/fra-skuffen-12-any-given-sunday/any-given-sunday/" rel="attachment wp-att-767"><img class="alignnone size-large wp-image-767" src="//filmbloggen.net/wp-content/uploads//2011/08/Any-Given-Sunday-620x411.jpg" alt="" width="400" height=""253" /></a>
+    </strong><strong><a href="//filmbloggen.net/2011/08/26/fra-skuffen-12-any-given-sunday/any-given-sunday/" rel="attachment wp-att-767"><img class="alignnone size-large wp-image-767" src="/wp-content/uploads//2011/08/Any-Given-Sunday-620x411.jpg" alt="" width="400" height=""253" /></a>
     Originaltittel: </strong>Any Given Sunday
     <strong>Kategori:</strong> Sport
     <strong>Spilletid:</strong> 2 timer og 30 minutter
@@ -212,7 +212,7 @@ meta:
     Problemet med filmen for min del er vel kanskje det at det blir litt for mange klisjèer til tider og Pacino spiller litt for mye på rutinen. Han tilfører ikke filmen så alt for mye før mot slutten. Jeg synes også det blir litt for mye unødvendig drama som vi godt kunne vært spart for.
 
     Det er ikke mange som ikke har hørt om eller sett Any Given Sunday. Men den har for meg blitt litt glemt og den er også blitt litt undervurdert på grunn av lengden sin. Det er mange, da tenker jeg spesielt på de som ikke takler sport, som synes to og en halv time med amerikansk fotball blir for mye. Jeg har sett denne filmen sikkert tjue ganger og jeg har aldri kikket på klokka. Den er underholdende i hvert eneste sekund.";}i:5520;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:5522;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"18";}i:5518;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"26";}i:5516;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"08";}i:5524;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"22";}i:5548;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:5537;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:5512;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"18";}i:5519;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:5521;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"18";}i:5517;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"26";}i:5515;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"08";}i:5523;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"20";}i:5505;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:5503;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:5506;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:5565;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"764";}i:5509;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"26";}i:5500;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"99335c46d2";}i:5540;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:5539;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:5541;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:5510;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"08";}i:5513;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"20";}i:5529;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:5530;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:5491;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:5494;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:5525;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:5545;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:5492;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:5547;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:5566;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:3134:"<strong>Det har vært en lang, død periode her på filmbloggen. Men tallene klarer på en eller annen syk måte å holde seg oppe. Nå har jeg flyttet til Volda og skal prøve å komme tilbake for fullt. Kommer også til å bli mye mer filmnyheter i tiden framover.
-    </strong><strong><a href="//filmbloggen.net/2011/08/26/fra-skuffen-12-any-given-sunday/any-given-sunday/" rel="attachment wp-att-767"><img class="alignnone size-large wp-image-767" src="//filmbloggen.net/wp-content/uploads//2011/08/Any-Given-Sunday-620x411.jpg" alt="" width="400" height=""253" /></a>
+    </strong><strong><a href="//filmbloggen.net/2011/08/26/fra-skuffen-12-any-given-sunday/any-given-sunday/" rel="attachment wp-att-767"><img class="alignnone size-large wp-image-767" src="/wp-content/uploads//2011/08/Any-Given-Sunday-620x411.jpg" alt="" width="400" height=""253" /></a>
     Originaltittel: </strong>Any Given Sunday
     <strong>Kategori:</strong> Sport
     <strong>Spilletid:</strong> 2 timer og 30 minutter
@@ -238,7 +238,7 @@ tags:
   - LL Cool J
 ---
 **Det har vært en lang, død periode her på filmbloggen. Men tallene klarer på en eller annen syk måte å holde seg oppe. Nå har jeg flyttet til Volda og skal prøve å komme tilbake for fullt. Kommer også til å bli mye mer filmnyheter i tiden framover.
-** **<a href="//filmbloggen.net/2011/08/26/fra-skuffen-12-any-given-sunday/any-given-sunday/" rel="attachment wp-att-767"><img class="alignnone size-large wp-image-767" src="//filmbloggen.net/wp-content/uploads//2011/08/Any-Given-Sunday-620x411.jpg" alt="" width="400" height=""253" /></a>
+** **<a href="//filmbloggen.net/2011/08/26/fra-skuffen-12-any-given-sunday/any-given-sunday/" rel="attachment wp-att-767"><img class="alignnone size-large wp-image-767" src="/wp-content/uploads//2011/08/Any-Given-Sunday-620x411.jpg" alt="" width="400" height=""253" /></a>
 Originaltittel: **Any Given Sunday
 **Kategori:** Sport
 **Spilletid:** 2 timer og 30 minutter

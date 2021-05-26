@@ -232,7 +232,7 @@ tags:
   - Tim McGraw
 ---
 **Ukas Idrettsfilm er en sann historie om ungdomstiden til Michael Oher. Oher ble seinere førstedrafta til NFL. Ikke mange visste at han i en periode levde på gata og hadde verken familie eller venner.**
-[<img class="alignnone size-full wp-image-463" title="the blind side" src="//filmbloggen.net/wp-content/uploads//2011/06/the-blind-side.jpg" alt="" width="550" height="367" />](//filmbloggen.net/wp-content/uploads//2011/06/the-blind-side.jpg)
+[<img class="alignnone size-full wp-image-463" title="the blind side" src="/wp-content/uploads//2011/06/the-blind-side.jpg" alt="" width="550" height="367" />](/wp-content/uploads//2011/06/the-blind-side.jpg)
 ****Originaltittel:**** The Blind Side****
 Kategori:**** Drama/Sport**
 **Spilletid:**** 2 timer og 19 minutter**

@@ -103,7 +103,7 @@ content:
     <strong>Å jeg elsker Russel Brand-humoren! Jeg ble nødt til å le skikkelig høyt ved flere anledninger!</strong>
     (Anmeldelse av Arthur)
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/05/arthur.jpg"><img class="alignnone size-large wp-image-291" title="Arthur" src="//filmbloggen.net/wp-content/uploads//2011/05/arthur-1024x681.jpg" alt="" width="620" height="412" /></a>
+    <a href="/wp-content/uploads//2011/05/arthur.jpg"><img class="alignnone size-large wp-image-291" title="Arthur" src="/wp-content/uploads//2011/05/arthur-1024x681.jpg" alt="" width="620" height="412" /></a>
     <strong>Originaltittel: </strong>Arthur<strong>
     Kategori:</strong> Komedie
     <strong>Spilletid:</strong> 1 time og 50 minutter
@@ -114,7 +114,7 @@ content:
 
     Det var i flere tilfeller under Arthur at det kom fem-seks one-linere etter hverandre og jeg fikk så sinnsykt latterkrampe at jeg vurderte å ta en kjapp tur ut for å samle meg. Jeg er også en av de første til å innrømme at jeg har en vanvittig dårlig humor og det skal som regel ikke mye til å underholde meg. Men i perioder var det faktisk helt krise.
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/05/arthur2.jpg"><img class="alignleft size-medium wp-image-312" title="Arthur" src="//filmbloggen.net/wp-content/uploads//2011/05/arthur2-300x199.jpg" alt="" width="300" height="199" /></a>«Arthur» er en modernisering av en film med samme navn fra 1981. Jeg synes det er meningsløst å sammenligne og jeg har sett begge uten at jeg vil dømme den ene mot den andre. Men plottet er nogenlunde det samme: En sanseløst og konstant full milliardærarving vil bare ha det gøy - koste hva det koste vil. Som å kjøpe «Batmobilen» og kræsje den i et landemerke.
+    <a href="/wp-content/uploads//2011/05/arthur2.jpg"><img class="alignleft size-medium wp-image-312" title="Arthur" src="/wp-content/uploads//2011/05/arthur2-300x199.jpg" alt="" width="300" height="199" /></a>«Arthur» er en modernisering av en film med samme navn fra 1981. Jeg synes det er meningsløst å sammenligne og jeg har sett begge uten at jeg vil dømme den ene mot den andre. Men plottet er nogenlunde det samme: En sanseløst og konstant full milliardærarving vil bare ha det gøy - koste hva det koste vil. Som å kjøpe «Batmobilen» og kræsje den i et landemerke.
 
     Arthur har aldri hatt et forhold til sin ekte mor da hun bare er interessert i å forvalte formuen sin, dermed blir Hobson som er hans barnepike det nærmeste Arthur kommer en morsfigur. I rollen som Hobson finner vi den legendariske Helen Mirren. Mirren leverer som alltid. Samtalene mellom Arthur og Hobson er vanvittig morsomme og Arthur omtaler sin barnepike som sin mor og det er tydelig at det er den eneste personen som han virkelig bryr seg om.
 
@@ -213,7 +213,7 @@ post_content:
     <strong>Å jeg elsker Russel Brand-humoren! Jeg ble nødt til å le skikkelig høyt ved flere anledninger!</strong>
     (Anmeldelse av Arthur)
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/05/arthur.jpg"><img class="alignnone size-large wp-image-291" title="Arthur" src="//filmbloggen.net/wp-content/uploads//2011/05/arthur-1024x681.jpg" alt="" width="620" height="412" /></a>
+    <a href="/wp-content/uploads//2011/05/arthur.jpg"><img class="alignnone size-large wp-image-291" title="Arthur" src="/wp-content/uploads//2011/05/arthur-1024x681.jpg" alt="" width="620" height="412" /></a>
     <strong>Originaltittel: </strong>Arthur<strong>
     Kategori:</strong> Komedie
     <strong>Spilletid:</strong> 1 time og 50 minutter
@@ -224,7 +224,7 @@ post_content:
 
     Det var i flere tilfeller under Arthur at det kom fem-seks one-linere etter hverandre og jeg fikk så sinnsykt latterkrampe at jeg vurderte å ta en kjapp tur ut for å samle meg. Jeg er også en av de første til å innrømme at jeg har en vanvittig dårlig humor og det skal som regel ikke mye til å underholde meg. Men i perioder var det faktisk helt krise.
 
-    <a href="//filmbloggen.net/wp-content/uploads//2011/05/arthur2.jpg"><img class="alignleft size-medium wp-image-312" title="Arthur" src="//filmbloggen.net/wp-content/uploads//2011/05/arthur2-300x199.jpg" alt="" width="300" height="199" /></a>«Arthur» er en modernisering av en film med samme navn fra 1981. Jeg synes det er meningsløst å sammenligne og jeg har sett begge uten at jeg vil dømme den ene mot den andre. Men plottet er nogenlunde det samme: En sanseløst og konstant full milliardærarving vil bare ha det gøy - koste hva det koste vil. Som å kjøpe «Batmobilen» og kræsje den i et landemerke.
+    <a href="/wp-content/uploads//2011/05/arthur2.jpg"><img class="alignleft size-medium wp-image-312" title="Arthur" src="/wp-content/uploads//2011/05/arthur2-300x199.jpg" alt="" width="300" height="199" /></a>«Arthur» er en modernisering av en film med samme navn fra 1981. Jeg synes det er meningsløst å sammenligne og jeg har sett begge uten at jeg vil dømme den ene mot den andre. Men plottet er nogenlunde det samme: En sanseløst og konstant full milliardærarving vil bare ha det gøy - koste hva det koste vil. Som å kjøpe «Batmobilen» og kræsje den i et landemerke.
 
     Arthur har aldri hatt et forhold til sin ekte mor da hun bare er interessert i å forvalte formuen sin, dermed blir Hobson som er hans barnepike det nærmeste Arthur kommer en morsfigur. I rollen som Hobson finner vi den legendariske Helen Mirren. Mirren leverer som alltid. Samtalene mellom Arthur og Hobson er vanvittig morsomme og Arthur omtaler sin barnepike som sin mor og det er tydelig at det er den eneste personen som han virkelig bryr seg om.
 
@@ -252,7 +252,7 @@ tags:
 **Å jeg elsker Russel Brand-humoren! Jeg ble nødt til å le skikkelig høyt ved flere anledninger!**
 (Anmeldelse av Arthur)
 
-[<img class="alignnone size-large wp-image-291" title="Arthur" src="//filmbloggen.net/wp-content/uploads//2011/05/arthur-1024x681.jpg" alt="" width="620" height="412" />](//filmbloggen.net/wp-content/uploads//2011/05/arthur.jpg)
+[<img class="alignnone size-large wp-image-291" title="Arthur" src="/wp-content/uploads//2011/05/arthur-1024x681.jpg" alt="" width="620" height="412" />](/wp-content/uploads//2011/05/arthur.jpg)
 **Originaltittel:** Arthur**
 Kategori:** Komedie
 **Spilletid:** 1 time og 50 minutter
@@ -263,7 +263,7 @@ Jeg skal ærlig innrømme at når jeg begynte å høre one-linerne til Russel Br
 
 Det var i flere tilfeller under Arthur at det kom fem-seks one-linere etter hverandre og jeg fikk så sinnsykt latterkrampe at jeg vurderte å ta en kjapp tur ut for å samle meg. Jeg er også en av de første til å innrømme at jeg har en vanvittig dårlig humor og det skal som regel ikke mye til å underholde meg. Men i perioder var det faktisk helt krise.
 
-[<img class="alignleft size-medium wp-image-312" title="Arthur" src="//filmbloggen.net/wp-content/uploads//2011/05/arthur2-300x199.jpg" alt="" width="300" height="199" />](//filmbloggen.net/wp-content/uploads//2011/05/arthur2.jpg)«Arthur» er en modernisering av en film med samme navn fra 1981. Jeg synes det er meningsløst å sammenligne og jeg har sett begge uten at jeg vil dømme den ene mot den andre. Men plottet er nogenlunde det samme: En sanseløst og konstant full milliardærarving vil bare ha det gøy – koste hva det koste vil. Som å kjøpe «Batmobilen» og kræsje den i et landemerke.
+[<img class="alignleft size-medium wp-image-312" title="Arthur" src="/wp-content/uploads//2011/05/arthur2-300x199.jpg" alt="" width="300" height="199" />](/wp-content/uploads//2011/05/arthur2.jpg)«Arthur» er en modernisering av en film med samme navn fra 1981. Jeg synes det er meningsløst å sammenligne og jeg har sett begge uten at jeg vil dømme den ene mot den andre. Men plottet er nogenlunde det samme: En sanseløst og konstant full milliardærarving vil bare ha det gøy – koste hva det koste vil. Som å kjøpe «Batmobilen» og kræsje den i et landemerke.
 
 Arthur har aldri hatt et forhold til sin ekte mor da hun bare er interessert i å forvalte formuen sin, dermed blir Hobson som er hans barnepike det nærmeste Arthur kommer en morsfigur. I rollen som Hobson finner vi den legendariske Helen Mirren. Mirren leverer som alltid. Samtalene mellom Arthur og Hobson er vanvittig morsomme og Arthur omtaler sin barnepike som sin mor og det er tydelig at det er den eneste personen som han virkelig bryr seg om.
 

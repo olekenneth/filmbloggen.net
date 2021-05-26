@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Suraj Sharma, Irrfan Khan, Ayush Tandon, Gautam Belur, Rafe Spall, Gérard Depardieu.
     <strong>Spilletid:</strong> 2 timer og 7 minutter
 
-    <a href="//filmbloggen.net/2013/01/11/visuelt-eventyr-som-drukner-i-sin-egen-prakt/8-film_-life-of-pi1/" rel="attachment wp-att-9149"><img class="alignnone size-large wp-image-9149" src="//filmbloggen.net/wp-content/uploads//2013/01/8.FILM_.Life-of-Pi1-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2013/01/11/visuelt-eventyr-som-drukner-i-sin-egen-prakt/8-film_-life-of-pi1/" rel="attachment wp-att-9149"><img class="alignnone size-large wp-image-9149" src="/wp-content/uploads//2013/01/8.FILM_.Life-of-Pi1-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Ang Lee har tidligere hatt stor suksess med filmene Brokeback Mountain og Snikende Tiger, Skjult Drage.</strong> Nå er han tilbake med Life of Pi (Basert på Yann Martels populære roman). En film som har mange flotte, detaljrike naturbilder og en dataanimasjon av dyr som får deg til å måpe. Det er en bra film hvis man lar seg villede av effekter. Den er lik Avatar - spekket med fantasifulle og fargerike bilder - men mangler nyanse og originalitet i historien. Som sagt så har den fantastiske effekter, men det er ikke nok til å skyggelegge den noe lunkne historien.
 
@@ -67,7 +67,7 @@ post_content:
     <strong>Skuespillere:</strong> Suraj Sharma, Irrfan Khan, Ayush Tandon, Gautam Belur, Rafe Spall, Gérard Depardieu.
     <strong>Spilletid:</strong> 2 timer og 7 minutter
 
-    <a href="//filmbloggen.net/2013/01/11/visuelt-eventyr-som-drukner-i-sin-egen-prakt/8-film_-life-of-pi1/" rel="attachment wp-att-9149"><img class="alignnone size-large wp-image-9149" src="//filmbloggen.net/wp-content/uploads//2013/01/8.FILM_.Life-of-Pi1-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2013/01/11/visuelt-eventyr-som-drukner-i-sin-egen-prakt/8-film_-life-of-pi1/" rel="attachment wp-att-9149"><img class="alignnone size-large wp-image-9149" src="/wp-content/uploads//2013/01/8.FILM_.Life-of-Pi1-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Ang Lee har tidligere hatt stor suksess med filmene Brokeback Mountain og Snikende Tiger, Skjult Drage.</strong> Nå er han tilbake med Life of Pi (Basert på Yann Martels populære roman). En film som har mange flotte, detaljrike naturbilder og en dataanimasjon av dyr som får deg til å måpe. Det er en bra film hvis man lar seg villede av effekter. Den er lik Avatar - spekket med fantasifulle og fargerike bilder - men mangler nyanse og originalitet i historien. Som sagt så har den fantastiske effekter, men det er ikke nok til å skyggelegge den noe lunkne historien.
 
@@ -177,7 +177,7 @@ meta:
     <strong>Skuespillere:</strong> Suraj Sharma, Irrfan Khan, Ayush Tandon, Gautam Belur, Rafe Spall, Gérard Depardieu.
     <strong>Spilletid:</strong> 2 timer og 7 minutter
 
-    <a href="//filmbloggen.net/2013/01/11/visuelt-eventyr-som-drukner-i-sin-egen-prakt/8-film_-life-of-pi1/" rel="attachment wp-att-9149"><img class="alignnone size-large wp-image-9149" src="//filmbloggen.net/wp-content/uploads//2013/01/8.FILM_.Life-of-Pi1-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2013/01/11/visuelt-eventyr-som-drukner-i-sin-egen-prakt/8-film_-life-of-pi1/" rel="attachment wp-att-9149"><img class="alignnone size-large wp-image-9149" src="/wp-content/uploads//2013/01/8.FILM_.Life-of-Pi1-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Ang Lee har tidligere hatt stor suksess med filmene Brokeback Mountain og Snikende Tiger, Skjult Drage.</strong> Nå er han tilbake med Life of Pi (Basert på Yann Martels populære roman). En film som har mange flotte, detaljrike naturbilder og en dataanimasjon av dyr som får deg til å måpe. Det er en bra film hvis man lar seg villede av effekter. Den er lik Avatar - spekket med fantasifulle og fargerike bilder - men mangler nyanse og originalitet i historien. Som sagt så har den fantastiske effekter, men det er ikke nok til å skyggelegge den noe lunkne historien.
 
@@ -202,7 +202,7 @@ meta:
     <strong>Skuespillere:</strong> Suraj Sharma, Irrfan Khan, Ayush Tandon, Gautam Belur, Rafe Spall, Gérard Depardieu.
     <strong>Spilletid:</strong> 2 timer og 7 minutter
 
-    <a href="//filmbloggen.net/2013/01/11/visuelt-eventyr-som-drukner-i-sin-egen-prakt/8-film_-life-of-pi1/" rel="attachment wp-att-9149"><img class="alignnone size-large wp-image-9149" src="//filmbloggen.net/wp-content/uploads//2013/01/8.FILM_.Life-of-Pi1-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2013/01/11/visuelt-eventyr-som-drukner-i-sin-egen-prakt/8-film_-life-of-pi1/" rel="attachment wp-att-9149"><img class="alignnone size-large wp-image-9149" src="/wp-content/uploads//2013/01/8.FILM_.Life-of-Pi1-620x348.jpg" alt="" width="620" height="348" /></a>
 
     <strong>Ang Lee har tidligere hatt stor suksess med filmene Brokeback Mountain og Snikende Tiger, Skjult Drage.</strong> Nå er han tilbake med Life of Pi (Basert på Yann Martels populære roman). En film som har mange flotte, detaljrike naturbilder og en dataanimasjon av dyr som får deg til å måpe. Det er en bra film hvis man lar seg villede av effekter. Den er lik Avatar - spekket med fantasifulle og fargerike bilder - men mangler nyanse og originalitet i historien. Som sagt så har den fantastiske effekter, men det er ikke nok til å skyggelegge den noe lunkne historien.
 
@@ -294,7 +294,7 @@ tags:
 **Skuespillere:** Suraj Sharma, Irrfan Khan, Ayush Tandon, Gautam Belur, Rafe Spall, Gérard Depardieu.
 **Spilletid:** 2 timer og 7 minutter
 
-<a href="//filmbloggen.net/2013/01/11/visuelt-eventyr-som-drukner-i-sin-egen-prakt/8-film_-life-of-pi1/" rel="attachment wp-att-9149"><img class="alignnone size-large wp-image-9149" src="//filmbloggen.net/wp-content/uploads//2013/01/8.FILM_.Life-of-Pi1-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2013/01/11/visuelt-eventyr-som-drukner-i-sin-egen-prakt/8-film_-life-of-pi1/" rel="attachment wp-att-9149"><img class="alignnone size-large wp-image-9149" src="/wp-content/uploads//2013/01/8.FILM_.Life-of-Pi1-620x348.jpg" alt="" width="620" height="348" /></a>
 
 **Ang Lee har tidligere hatt stor suksess med filmene Brokeback Mountain og Snikende Tiger, Skjult Drage.** Nå er han tilbake med Life of Pi (Basert på Yann Martels populære roman). En film som har mange flotte, detaljrike naturbilder og en dataanimasjon av dyr som får deg til å måpe. Det er en bra film hvis man lar seg villede av effekter. Den er lik Avatar – spekket med fantasifulle og fargerike bilder – men mangler nyanse og originalitet i historien. Som sagt så har den fantastiske effekter, men det er ikke nok til å skyggelegge den noe lunkne historien.
 

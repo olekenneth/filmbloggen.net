@@ -105,7 +105,7 @@ content:
     Sjanger: </strong>Drama / Familiefilm<strong>
     Regi og manus: </strong>Sean McNamara<strong>
     Skuespillere: </strong>Helen Hunt, Dennis Quaid, Craig T. Nelson,Kevin Sorbo, Jeremy Sumpter, Annasophia Robb,Ross Thomas, Lorraine Nicholson, Chris Brochu,Carrie Underwood, Sonya Balmores, Branscombe Richmond, Cody Gomes, Titus Kinimaka
-    <a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><img class="alignnone size-large wp-image-4669" src="//filmbloggen.net/wp-content/uploads//2012/07/Soul-Surfer-Film-620x342.jpg" alt="" width="620" height="342" /></a><a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669">
+    <a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><img class="alignnone size-large wp-image-4669" src="/wp-content/uploads//2012/07/Soul-Surfer-Film-620x342.jpg" alt="" width="620" height="342" /></a><a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669">
     </a><em>Foto: Walt Disney</em>
 
     Soul Surfer er basert på den sanne historien om Bethany Hamilton som mistet en arm etter et haiangrep. Jenta kjempet seg tilbake i vannet og ble en suksessfull surfer. Filmen handler mye om hvordan livet fort kan bli snudd opp/ned og det å aldri gi opp uansett hvor mye som står i mot. Det kommer litt for tydelig frem i filmen at denne er lagd for å melke en inspirerende historie og det blir litt for mange klisjèer.
@@ -179,7 +179,7 @@ post_content:
     Sjanger: </strong>Drama / Familiefilm<strong>
     Regi og manus: </strong>Sean McNamara<strong>
     Skuespillere: </strong>Helen Hunt, Dennis Quaid, Craig T. Nelson,Kevin Sorbo, Jeremy Sumpter, Annasophia Robb,Ross Thomas, Lorraine Nicholson, Chris Brochu,Carrie Underwood, Sonya Balmores, Branscombe Richmond, Cody Gomes, Titus Kinimaka
-    <a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><img class="alignnone size-large wp-image-4669" src="//filmbloggen.net/wp-content/uploads//2012/07/Soul-Surfer-Film-620x342.jpg" alt="" width="620" height="342" /></a><a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669">
+    <a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><img class="alignnone size-large wp-image-4669" src="/wp-content/uploads//2012/07/Soul-Surfer-Film-620x342.jpg" alt="" width="620" height="342" /></a><a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669">
     </a><em>Foto: Walt Disney</em>
 
     Soul Surfer er basert på den sanne historien om Bethany Hamilton som mistet en arm etter et haiangrep. Jenta kjempet seg tilbake i vannet og ble en suksessfull surfer. Filmen handler mye om hvordan livet fort kan bli snudd opp/ned og det å aldri gi opp uansett hvor mye som står i mot. Det kommer litt for tydelig frem i filmen at denne er lagd for å melke en inspirerende historie og det blir litt for mange klisjèer.
@@ -205,7 +205,7 @@ meta:
     Sjanger: </strong>Drama / Familiefilm<strong>
     Regi og manus: </strong>Sean McNamara<strong>
     Skuespillere: </strong>Helen Hunt, Dennis Quaid, Craig T. Nelson,Kevin Sorbo, Jeremy Sumpter, Annasophia Robb,Ross Thomas, Lorraine Nicholson, Chris Brochu,Carrie Underwood, Sonya Balmores, Branscombe Richmond, Cody Gomes, Titus Kinimaka
-    <a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><img class="alignnone size-large wp-image-4669" src="//filmbloggen.net/wp-content/uploads//2012/07/Soul-Surfer-Film-620x342.jpg" alt="" width="620" height="342" />
+    <a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><img class="alignnone size-large wp-image-4669" src="/wp-content/uploads//2012/07/Soul-Surfer-Film-620x342.jpg" alt="" width="620" height="342" />
     </a><em>Foto: Walt Disney</em>
 
     Soul Surfer er basert på den sanne historien om Bethany Hamilton som mistet en arm etter et haiangrep. Jenta kjempet seg tilbake i vannet og ble en suksessfull surfer. Filmen handler mye om hvordan livet fort kan bli snudd opp/ned og det å aldri gi opp uansett hvor mye som står i mot. Det kommer litt for tydelig frem i filmen at denne er lagd for å melke en inspirerende historie og det blir litt for mange klisjèer.
@@ -222,7 +222,7 @@ meta:
     Sjanger: </strong>Drama / Familiefilm<strong>
     Regi og manus: </strong>Sean McNamara<strong>
     Skuespillere: </strong>Helen Hunt, Dennis Quaid, Craig T. Nelson,Kevin Sorbo, Jeremy Sumpter, Annasophia Robb,Ross Thomas, Lorraine Nicholson, Chris Brochu,Carrie Underwood, Sonya Balmores, Branscombe Richmond, Cody Gomes, Titus Kinimaka
-    <a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><img class="alignnone size-large wp-image-4669" src="//filmbloggen.net/wp-content/uploads//2012/07/Soul-Surfer-Film-620x342.jpg" alt="" width="620" height="342" />
+    <a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><img class="alignnone size-large wp-image-4669" src="/wp-content/uploads//2012/07/Soul-Surfer-Film-620x342.jpg" alt="" width="620" height="342" />
     </a><em>Foto: Walt Disney</em>
 
     Soul Surfer er basert på den sanne historien om Bethany Hamilton som mistet en arm etter et haiangrep. Jenta kjempet seg tilbake i vannet og ble en suksessfull surfer. Filmen handler mye om hvordan livet fort kan bli snudd opp/ned og det å aldri gi opp uansett hvor mye som står i mot. Det kommer litt for tydelig frem i filmen at denne er lagd for å melke en inspirerende historie og det blir litt for mange klisjèer.
@@ -271,7 +271,7 @@ Originaltittel: **Soul Surfer**
 Sjanger: **Drama / Familiefilm**
 Regi og manus:** Sean McNamara**
 Skuespillere: **Helen Hunt, Dennis Quaid, Craig T. Nelson,Kevin Sorbo, Jeremy Sumpter, Annasophia Robb,Ross Thomas, Lorraine Nicholson, Chris Brochu,Carrie Underwood, Sonya Balmores, Branscombe Richmond, Cody Gomes, Titus Kinimaka
-<a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><img class="alignnone size-large wp-image-4669" src="//filmbloggen.net/wp-content/uploads//2012/07/Soul-Surfer-Film-620x342.jpg" alt="" width="620" height="342" /></a><a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><br /> </a>_Foto: Walt Disney_
+<a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><img class="alignnone size-large wp-image-4669" src="/wp-content/uploads//2012/07/Soul-Surfer-Film-620x342.jpg" alt="" width="620" height="342" /></a><a href="//filmbloggen.net/2012/07/04/god-nok-sjelesurfing/soul-surfer-film/" rel="attachment wp-att-4669"><br /> </a>_Foto: Walt Disney_
 
 Soul Surfer er basert på den sanne historien om Bethany Hamilton som mistet en arm etter et haiangrep. Jenta kjempet seg tilbake i vannet og ble en suksessfull surfer. Filmen handler mye om hvordan livet fort kan bli snudd opp/ned og det å aldri gi opp uansett hvor mye som står i mot. Det kommer litt for tydelig frem i filmen at denne er lagd for å melke en inspirerende historie og det blir litt for mange klisjèer.
 

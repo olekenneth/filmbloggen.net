@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Jeff Bridges, Garrett Hedlund, Olivia Wilde, Michael Sheen, Bruce Boxleitner, Beau Garrett, James Frain.
     <strong>Spilletid:</strong> 2 timer og 5 minutter
 
-    <a href="//filmbloggen.net/2012/02/01/inn-i-det-digitale-nettverket/2010_tron_legacy_048/" rel="attachment wp-att-2118"><img class="alignnone size-large wp-image-2118" src="//filmbloggen.net/wp-content/uploads//2012/01/2010_tron_legacy_048-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/02/01/inn-i-det-digitale-nettverket/2010_tron_legacy_048/" rel="attachment wp-att-2118"><img class="alignnone size-large wp-image-2118" src="/wp-content/uploads//2012/01/2010_tron_legacy_048-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Dette er Joseph Kosinskis første spillefilm. Han har tidligere laget bilreklamer, så han har på sett og vis litt erfaring. Men har han nok erfaring til å lage en film med et så stort omfang?
 
@@ -65,7 +65,7 @@ post_content:
     <strong>Skuespillere:</strong> Jeff Bridges, Garrett Hedlund, Olivia Wilde, Michael Sheen, Bruce Boxleitner, Beau Garrett, James Frain.
     <strong>Spilletid:</strong> 2 timer og 5 minutter
 
-    <a href="//filmbloggen.net/2012/02/01/inn-i-det-digitale-nettverket/2010_tron_legacy_048/" rel="attachment wp-att-2118"><img class="alignnone size-large wp-image-2118" src="//filmbloggen.net/wp-content/uploads//2012/01/2010_tron_legacy_048-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/2012/02/01/inn-i-det-digitale-nettverket/2010_tron_legacy_048/" rel="attachment wp-att-2118"><img class="alignnone size-large wp-image-2118" src="/wp-content/uploads//2012/01/2010_tron_legacy_048-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Dette er Joseph Kosinskis første spillefilm. Han har tidligere laget bilreklamer, så han har på sett og vis litt erfaring. Men har han nok erfaring til å lage en film med et så stort omfang?
 
@@ -167,7 +167,7 @@ meta:
     <strong>Skuespillere:</strong> Jeff Bridges, Garrett Hedlund, Olivia Wilde, Michael Sheen, Bruce Boxleitner, Beau Garrett, James Frain.
     <strong>Spilletid:</strong> 2 timer og 5 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=2118" rel="attachment wp-att-2118"><img class="alignnone size-large wp-image-2118" src="//filmbloggen.net/wp-content/uploads//2012/01/2010_tron_legacy_048-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=2118" rel="attachment wp-att-2118"><img class="alignnone size-large wp-image-2118" src="/wp-content/uploads//2012/01/2010_tron_legacy_048-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Dette er Joseph Kosinskis første spillefilm. Han har tidligere laget bilreklamer, så han har på sett og vis litt erfaring. Men har han nok erafring til å lage en film med et så stort omfang?
 
@@ -190,7 +190,7 @@ meta:
     <strong>Skuespillere:</strong> Jeff Bridges, Garrett Hedlund, Olivia Wilde, Michael Sheen, Bruce Boxleitner, Beau Garrett, James Frain.
     <strong>Spilletid:</strong> 2 timer og 5 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=2118" rel="attachment wp-att-2118"><img class="alignnone size-large wp-image-2118" src="//filmbloggen.net/wp-content/uploads//2012/01/2010_tron_legacy_048-620x348.jpg" alt="" width="620" height="348" /></a>
+    <a href="//filmbloggen.net/?attachment_id=2118" rel="attachment wp-att-2118"><img class="alignnone size-large wp-image-2118" src="/wp-content/uploads//2012/01/2010_tron_legacy_048-620x348.jpg" alt="" width="620" height="348" /></a>
 
     Dette er Joseph Kosinskis første spillefilm. Han har tidligere laget bilreklamer, så han har på sett og vis litt erfaring. Men har han nok erafring til å lage en film med et så stort omfang?
 
@@ -278,7 +278,7 @@ tags:
 **Skuespillere:** Jeff Bridges, Garrett Hedlund, Olivia Wilde, Michael Sheen, Bruce Boxleitner, Beau Garrett, James Frain.
 **Spilletid:** 2 timer og 5 minutter
 
-<a href="//filmbloggen.net/2012/02/01/inn-i-det-digitale-nettverket/2010_tron_legacy_048/" rel="attachment wp-att-2118"><img class="alignnone size-large wp-image-2118" src="//filmbloggen.net/wp-content/uploads//2012/01/2010_tron_legacy_048-620x348.jpg" alt="" width="620" height="348" /></a>
+<a href="//filmbloggen.net/2012/02/01/inn-i-det-digitale-nettverket/2010_tron_legacy_048/" rel="attachment wp-att-2118"><img class="alignnone size-large wp-image-2118" src="/wp-content/uploads//2012/01/2010_tron_legacy_048-620x348.jpg" alt="" width="620" height="348" /></a>
 
 Dette er Joseph Kosinskis første spillefilm. Han har tidligere laget bilreklamer, så han har på sett og vis litt erfaring. Men har han nok erfaring til å lage en film med et så stort omfang?
 

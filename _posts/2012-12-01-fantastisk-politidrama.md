@@ -109,7 +109,7 @@ content:
     <strong><strong>Spilletid:</strong> </strong>1 time og 49 minutter<strong>
     <strong>Skuespillere: </strong></strong>Jake Gyllenhaal, Anna Kendrick, America Ferrera, Michael Peña, Frank Grillo, Natalie Martinez, Cody Horn, David Harbour, Shondrella Avery, Maurice Compte, Kristy Wu, Cynthia Harmon, Candace Smith, Corina Calderon, Cle Shaheed Sloan, Ramon Camacho
 
-    <a href="//filmbloggen.net/2012/12/01/fantastisk-politidrama/end-of-watch/" rel="attachment wp-att-8301"><img class="alignnone size-large wp-image-8301" src="//filmbloggen.net/wp-content/uploads//2012/12/ichfaay3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/12/01/fantastisk-politidrama/end-of-watch/" rel="attachment wp-att-8301"><img class="alignnone size-large wp-image-8301" src="/wp-content/uploads//2012/12/ichfaay3-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Foto: Nordisk Film</strong>
 
     <strong>End of Watch handler om to politibetjenter med navn Brian Taylor (Jake Gyllenhaal) og Mike Zavala (Michael Peña) som er politibetjenter i South Central i Los Angeles.</strong> Filmen tar for seg disse to guttene sine gleder og problemer både på jobb og på hjemmefronten. Så langt så høres det ut som noe du har sett alt for mange ganger før, sant? Der tar du helt feil! Dette blir skildret helt fantastisk og Gyllenhaal/Peña har en fantastisk kjemi på sett. Jeg vil anta at mange av scenene er improvisert, fordi måten mange av de er gjennomført på er så naturlig og fint. Det er absolutt ikke vanskelig å tro på at disse to ikke bare er kollegaer, men bestekompiser. Her blir det diskutert damer, sex og annen morsom gutteprat innimellom jakten på dop, penger og kriminelle.
@@ -187,7 +187,7 @@ post_content:
     <strong><strong>Spilletid:</strong> </strong>1 time og 49 minutter<strong>
     <strong>Skuespillere: </strong></strong>Jake Gyllenhaal, Anna Kendrick, America Ferrera, Michael Peña, Frank Grillo, Natalie Martinez, Cody Horn, David Harbour, Shondrella Avery, Maurice Compte, Kristy Wu, Cynthia Harmon, Candace Smith, Corina Calderon, Cle Shaheed Sloan, Ramon Camacho
 
-    <a href="//filmbloggen.net/2012/12/01/fantastisk-politidrama/end-of-watch/" rel="attachment wp-att-8301"><img class="alignnone size-large wp-image-8301" src="//filmbloggen.net/wp-content/uploads//2012/12/ichfaay3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/2012/12/01/fantastisk-politidrama/end-of-watch/" rel="attachment wp-att-8301"><img class="alignnone size-large wp-image-8301" src="/wp-content/uploads//2012/12/ichfaay3-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Foto: Nordisk Film</strong>
 
     <strong>End of Watch handler om to politibetjenter med navn Brian Taylor (Jake Gyllenhaal) og Mike Zavala (Michael Peña) som er politibetjenter i South Central i Los Angeles.</strong> Filmen tar for seg disse to guttene sine gleder og problemer både på jobb og på hjemmefronten. Så langt så høres det ut som noe du har sett alt for mange ganger før, sant? Der tar du helt feil! Dette blir skildret helt fantastisk og Gyllenhaal/Peña har en fantastisk kjemi på sett. Jeg vil anta at mange av scenene er improvisert, fordi måten mange av de er gjennomført på er så naturlig og fint. Det er absolutt ikke vanskelig å tro på at disse to ikke bare er kollegaer, men bestekompiser. Her blir det diskutert damer, sex og annen morsom gutteprat innimellom jakten på dop, penger og kriminelle.
@@ -215,7 +215,7 @@ meta:
     <strong><strong>Spilletid:</strong> </strong>1 time og 49 minutter<strong>
     <strong>Skuespillere: </strong></strong>Jake Gyllenhaal, Anna Kendrick, America Ferrera, Michael Peña, Frank Grillo, Natalie Martinez, Cody Horn, David Harbour, Shondrella Avery, Maurice Compte, Kristy Wu, Cynthia Harmon, Candace Smith, Corina Calderon, Cle Shaheed Sloan, Ramon Camacho
 
-    <a href="//filmbloggen.net/?attachment_id=8301" rel="attachment wp-att-8301"><img class="alignnone size-large wp-image-8301" src="//filmbloggen.net/wp-content/uploads//2012/12/ichfaay3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=8301" rel="attachment wp-att-8301"><img class="alignnone size-large wp-image-8301" src="/wp-content/uploads//2012/12/ichfaay3-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Foto: Nordisk Film</strong>
 
     <strong>End of Watch handler om to politibetjenter med navn Brian Taylor (Jake Gyllenhaal) og Mike Zavala (Michael Peña) som er politibetjenter i South Central i Los Angeles.</strong> Filmen tar for seg disse to guttene sine gleder og problemer både på jobb og på hjemmefronten. Så langt så høres det ut som noe du har sett alt for mange ganger før, sant? Der tar du helt feil! Dette blir skildret helt fantastisk og Gyllenhaal/Peña har en fantastisk kjemi på sett. Jeg vil anta at mange av scenene er improvisert, fordi måten mange av de er gjennomført på er så naturlig og fint. Det er absolutt ikke vanskelig å tro på at disse to ikke bare er kollegaer, men bestekompiser. Her blir det diskutert damer, sex og annen morsom gutteprat innimellom jakten på dop, penger og kriminelle.
@@ -236,7 +236,7 @@ meta:
     <strong><strong>Spilletid:</strong> </strong>1 time og 49 minutter<strong>
     <strong>Skuespillere: </strong></strong>Jake Gyllenhaal, Anna Kendrick, America Ferrera, Michael Peña, Frank Grillo, Natalie Martinez, Cody Horn, David Harbour, Shondrella Avery, Maurice Compte, Kristy Wu, Cynthia Harmon, Candace Smith, Corina Calderon, Cle Shaheed Sloan, Ramon Camacho
 
-    <a href="//filmbloggen.net/?attachment_id=8301" rel="attachment wp-att-8301"><img class="alignnone size-large wp-image-8301" src="//filmbloggen.net/wp-content/uploads//2012/12/ichfaay3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <a href="//filmbloggen.net/?attachment_id=8301" rel="attachment wp-att-8301"><img class="alignnone size-large wp-image-8301" src="/wp-content/uploads//2012/12/ichfaay3-620x413.jpg" alt="" width="620" height="413" /></a>
     <strong>Foto: Nordisk Film</strong>
 
     <strong>End of Watch handler om to politibetjenter med navn Brian Taylor (Jake Gyllenhaal) og Mike Zavala (Michael Peña) som er politibetjenter i South Central i Los Angeles.</strong> Filmen tar for seg disse to guttene sine gleder og problemer både på jobb og på hjemmefronten. Så langt så høres det ut som noe du har sett alt for mange ganger før, sant? Der tar du helt feil! Dette blir skildret helt fantastisk og Gyllenhaal/Peña har en fantastisk kjemi på sett. Jeg vil anta at mange av scenene er improvisert, fordi måten mange av de er gjennomført på er så naturlig og fint. Det er absolutt ikke vanskelig å tro på at disse to ikke bare er kollegaer, men bestekompiser. Her blir det diskutert damer, sex og annen morsom gutteprat innimellom jakten på dop, penger og kriminelle.
@@ -293,7 +293,7 @@ Originaltittel:** End of Watch
 ****Spilletid:** **1 time og 49 minutter**
 **Skuespillere: ****Jake Gyllenhaal, Anna Kendrick, America Ferrera, Michael Peña, Frank Grillo, Natalie Martinez, Cody Horn, David Harbour, Shondrella Avery, Maurice Compte, Kristy Wu, Cynthia Harmon, Candace Smith, Corina Calderon, Cle Shaheed Sloan, Ramon Camacho
 
-<a href="//filmbloggen.net/2012/12/01/fantastisk-politidrama/end-of-watch/" rel="attachment wp-att-8301"><img class="alignnone size-large wp-image-8301" src="//filmbloggen.net/wp-content/uploads//2012/12/ichfaay3-620x413.jpg" alt="" width="620" height="413" /></a>
+<a href="//filmbloggen.net/2012/12/01/fantastisk-politidrama/end-of-watch/" rel="attachment wp-att-8301"><img class="alignnone size-large wp-image-8301" src="/wp-content/uploads//2012/12/ichfaay3-620x413.jpg" alt="" width="620" height="413" /></a>
 **Foto: Nordisk Film**
 
 **End of Watch handler om to politibetjenter med navn Brian Taylor (Jake Gyllenhaal) og Mike Zavala (Michael Peña) som er politibetjenter i South Central i Los Angeles.** Filmen tar for seg disse to guttene sine gleder og problemer både på jobb og på hjemmefronten. Så langt så høres det ut som noe du har sett alt for mange ganger før, sant? Der tar du helt feil! Dette blir skildret helt fantastisk og Gyllenhaal/Peña har en fantastisk kjemi på sett. Jeg vil anta at mange av scenene er improvisert, fordi måten mange av de er gjennomført på er så naturlig og fint. Det er absolutt ikke vanskelig å tro på at disse to ikke bare er kollegaer, men bestekompiser. Her blir det diskutert damer, sex og annen morsom gutteprat innimellom jakten på dop, penger og kriminelle.

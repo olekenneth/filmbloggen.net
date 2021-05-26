@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Klikk deg inn for å se hvem som vant konkurransen.<!--more--></strong>
-    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="//filmbloggen.net/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" />
+    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" />
     </a>Hamilton – I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni. Filmbloggen har nå trukket de tre heldige vinnerne.
 
     <strong>1. Hvem skrev bøkene om Carl Hamilton?</strong>
@@ -176,7 +176,7 @@ ID:
 post_content:
   - |
     <strong>Klikk deg inn for å se hvem som vant konkurransen.<!--more--></strong>
-    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="//filmbloggen.net/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" />
+    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" />
     </a>Hamilton – I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni. Filmbloggen har nå trukket de tre heldige vinnerne.
 
     <strong>1. Hvem skrev bøkene om Carl Hamilton?</strong>
@@ -201,7 +201,7 @@ to_ping:
 meta:
   - |
     a:74:{i:22054;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:22032;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:22085;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:22041;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"b31e6c3e5f";}i:22039;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:22043;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"07707dc7e3";}i:22086;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:22078;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1318:"<strong>Klikk deg inn for å se hvem som vant konkurransen.<!--more--></strong>
-    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="//filmbloggen.net/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" />
+    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" />
     </a>Hamilton – I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni. Filmbloggen har nå trukket de tre heldige vinnerne.
     <div><strong>1. Hvem skrev bøkene om Carl Hamilton?</strong>
     <em><em>Riktig svar: Jan Guillou
@@ -221,7 +221,7 @@ meta:
     </a>
 
     </div>";}i:22063;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:22065;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"11";}i:22061;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"04";}i:22059;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"06";}i:22067;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"31";}i:22090;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:22079;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:22055;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"11";}i:22062;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:22064;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"11";}i:22060;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"04";}i:22058;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"06";}i:22066;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"31";}i:22048;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:22046;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:22049;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:22107;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"3939";}i:22052;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"04";}i:22042;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"b711d116f7";}i:22082;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:22081;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:22083;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:22053;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"06";}i:22056;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"31";}i:22070;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:22071;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:22033;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:22036;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:22068;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:22087;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:22034;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:22089;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:22108;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1318:"<strong>Klikk deg inn for å se hvem som vant konkurransen.<!--more--></strong>
-    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="//filmbloggen.net/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" />
+    <a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" />
     </a>Hamilton – I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni. Filmbloggen har nå trukket de tre heldige vinnerne.
     <div><strong>1. Hvem skrev bøkene om Carl Hamilton?</strong>
     <em><em>Riktig svar: Jan Guillou
@@ -249,7 +249,7 @@ categories:
 **Klikk deg inn for å se hvem som vant konkurransen.<!--more-->**
 
 
-<a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="//filmbloggen.net/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /><br /> </a>Hamilton – I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni. Filmbloggen har nå trukket de tre heldige vinnerne.
+<a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /><br /> </a>Hamilton – I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni. Filmbloggen har nå trukket de tre heldige vinnerne.
 
 **1. Hvem skrev bøkene om Carl Hamilton?**
 _Riktig svar: Jan Guillou_

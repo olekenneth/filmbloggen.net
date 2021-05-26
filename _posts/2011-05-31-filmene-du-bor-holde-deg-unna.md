@@ -320,7 +320,7 @@ Jeg har ikke satt noen nummerering på de fordi alle sammen er smertefulle på h
 
 **American Pie Presents: The Book of Love**
 
-<a href="//filmbloggen.net/2011/05/31/filmene-du-bor-holde-deg-unna/american-pie-book-of-love3-900x598/" rel="attachment wp-att-387"><img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="//filmbloggen.net/wp-content/uploads//2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" /></a>
+<a href="//filmbloggen.net/2011/05/31/filmene-du-bor-holde-deg-unna/american-pie-book-of-love3-900x598/" rel="attachment wp-att-387"><img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="/wp-content/uploads//2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" /></a>
 ****Originaltittel:**** American Pie Presents: The Book of Love****
 Kategori:**** Komedie**
 **Spilletid:**** 1 time og 33 minutter**
@@ -332,7 +332,7 @@ Kategori:**** Komedie**
 Hvis du liker livet ditt, ikke se denne filmen. Du kommer til å angre, kanskje mister du troen din på menneskeheten. At det er mulig å lage noe så usannsynlig rævva.
 
 **Superbabies: Baby Geniuses 2**
-[<img class="alignnone size-full wp-image-389" title="superbabies" src="//filmbloggen.net/wp-content/uploads//2011/05/superbabies.jpg" alt="" width="600" height="450" />](//filmbloggen.net/?attachment_id=389)
+[<img class="alignnone size-full wp-image-389" title="superbabies" src="/wp-content/uploads//2011/05/superbabies.jpg" alt="" width="600" height="450" />](//filmbloggen.net/?attachment_id=389)
 ****Originaltittel:**** Superbabies: Baby Geniuses 2****
 Kategori:**** Komedie**
 **Spilletid:**** 1 time og 28 minutter**
@@ -345,7 +345,7 @@ Jeg orker faktisk ikke å skrive mer enn at det er voiceover (fordi babyer ikke 
 ****
 
 **Meet the Spartans**
-[<img class="alignnone size-large wp-image-390" title="meet the spartans" src="//filmbloggen.net/wp-content/uploads//2011/05/meet-the-spartans-e1310572166740-620x455.jpg" alt="" width="620" height="455" />](//filmbloggen.net/wp-content/uploads//2011/05/meet-the-spartans.jpg)
+[<img class="alignnone size-large wp-image-390" title="meet the spartans" src="/wp-content/uploads//2011/05/meet-the-spartans-e1310572166740-620x455.jpg" alt="" width="620" height="455" />](/wp-content/uploads//2011/05/meet-the-spartans.jpg)
 ****Originaltittel:**** Meet the Spartans****
 Kategori:**** Komedie**
 **Spilletid:**** 1 time og 28 minutter**
