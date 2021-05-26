@@ -1,0 +1,9 @@
+url: http://filmbloggen.net
+title: Filmbloggen
+description: >
+  I dont trust horses. Their shoes are
+  permanent. Who makes that sort of
+  commitment to a shoe?! – Arthur
+theme: minima
+paginate: 5
+plugins: [jekyll-paginate]

@@ -1,0 +1,37 @@
+---
+id: 8083
+title: Tingeling som ingeniør
+date: 2012-11-14T04:41:52+00:00
+author: Ingvild A. Jansen
+layout: revision
+guid: http://filmbloggen.net/2012/11/14/8079-revision-4/
+permalink: /2012/11/14/8079-revision-4/
+---
+**_Vingenes hemmelighet_ er den første av de fire _Tingeling_-filmene som går på kino i Norge.**  **Det er en kreativ, engasjerende fortelling om hva Tingeling drev med før hun møtte Peter Pan.**
+
+**Originaltittel:** _Tinker Bell: Secrets of The Wings_  
+**Kategori:**** **Komedie, Action, ****Drama, Animasjon  
+**Regi:** Roberts Gannaway, Peggy Holmes  
+**Skuespillere:** Mae Whitman, Anjelica Huston, Lucy Liu, Rob Paulsen, Jane Horrocks, Jeff Bennett  
+**Spilletid:** 1 time, 16 min.
+
+**Feen Tingeling er nysgjerrig på landet på den andre siden av elven, vinterlandet, men det er ulovlig å krysse grensen.** En dag da hun likevel sniker seg over landegrensen, oppdager hun en søster hun ikke visste om. Nå må Tingeling og tvillingsøsteren hennes, vinterfeen Periwinkle, finne ut hvordan de kan tilbringe tid sammen til tross for at det er ulovlig for dem å oppholde seg i hverandres land. Hvorfor oppsto egentlig denne tilsynelatende urettferdige loven, og går det ikke an å få den opphevet?  Dessverre ender deres vennskap opp med å true selve balansen mellom årstidene, og Tingeling må prøve å redde feenes verden.
+
+**_Secrets of the Wings_****, eller _Vingenes hemmelighet_, er den fjerde i serien av filmer om Tingeling og vennene hennes, men den første som har blitt satt opp på kino i Norge.** De som vet om Tingeling fra den første _Peter Pan_-filmen til Disney (1953), kjenner henne som svært lunefull. Hun var hissig, sjalu, hevngjerrig og leken. I denne rekken med filmer er hun derimot smart, hjelpsom, vennlig, nysgjerrig, eventyrlysten og litt rebelsk— i likhet med de fleste ”Disneykvinner” siden 1987. Hun har den velkjente korte lunten, men det føles iblant litt påtatt og lite konsistent, som om skribentene gjør henne temperamentsfull når de husker på det. På en annen side er det vennskap som står i fokus i _Tingeling_-filmene, til forskjell fra andre Disney-filmer med kvinnelige hovedpersoner, hvor det ofte er romantisk kjærlighet. I _Vingenes hemmelighet_ handler det om søskenkjærlighet.
+
+**Det engelske navnet til Tingeling er Tinker Bell.** Det engelske ordet ”tinker” beskriver en som reparerer gryter, glass og kjøkkenutstyr, eller en som er dyktig i ulike mekaniske jobber. Det var en slik type fe Tingeling var i den originale boken om Peter Pan av J.M. Barrie. I disse filmene har man bygget videre på dette, og i bunn og grunn gjort Tingeling til en ingeniør. Hun designer, planlegger og lager maskiner, klær, redskap og så videre. Hun er en real MacGyver som heltinne: Hun ser alle sammenhenger, improviserer, og løser de fleste problemer ved å bygge, reparere eller sabotere noe. Tingeling er rett og slett tøff. Samtidig er hun sympatisk fordi hun ikke er perfekt. Tingeling kan være sta, overentusiastisk og utålmodig. Siden hun helst vil klare alt selv og ofte ikke hører på vennene sine, fører det gjerne til problemer både for henne og andre.
+
+**Figurdesignet er dessverre ikke helt på topp.** Flere av feene ser rett og slett ser altfor like ut i ansiktet, og det hele blir litt Barbie-aktig. Til tross for dette, er mye av animasjonen imponerende. Det feltet hvor disse filmene virkelig gjør seg bemerket på er verdensbygging. Det vises et helt samfunn som er avhengig av at alle jobber sammen, slik som i gamle bygdesamfunn. Alle har sine talenter og arbeidsoppgaver. Ettersom feer blir født fullvoksne og man ikke trenger å føde eller oppdra barn, er det ikke rart at samfunnet har tid til å produsere så mye kunst og håndverk.
+
+**Det som virkelig gjør inntrykk er klærne til figurene og omgivelsene deres.** Landskapet, bygningene— og ikke minst maskinene og redskapene, som vannmøller, samlebånd og fartøy. I tillegg er det stilig at man har valgt å gi hver av de fire filmene i sin egen årstid. Mye av handlingen i _Vingenes hemmelighet_ befinner seg for eksempel i vinterlandet. Hvordan den vakre naturen og garderoben til feene forandrer seg fra sesong til sesong blir fint fremhevet. Det er også morsomt å se hvordan de bittesmå feene finner hverdagslige mennesketing og tilpasser dem til helt andre formål. Detaljrikdommen viser at noen har lagt mye tid og kjærlighet i hele _Tingeling_-prosjektet.
+
+**Når det gjelder stemmen til Tingeling, gjør Mae Whitman en helt grei jobb, men det hadde vært fint om hun var litt skarpere i kantene.** Tingeling trenger ikke nødvendigvis å gjøres så mye søtere og greiere bare fordi hun nå er hovedpersonen. Anjelica Huston er perfekt som fedronningen Clarion. Hun har en stemme som uttrykker varme, visdom og autoritet på samme tid. En av mine andre favoritter, Jane Horrocks, er sjarmerende som den stressede, men kapable Fairy Mary, lederen for ingeniørene. Dessverre er det bortkastet å ha med en stjerne som Lucy Liu her, ettersom de knapt gir henne noen replikker. Jeg er derimot glad for boyband-fløtepusen Jesse McCartney har en mindre rolle i _Secrets of The Wings_ enn i tidligere _Tingeling_-filmer. For meg spiser han og rollefigurens hans Terence bare opp tid som burde ha blitt brukt på andre, mer underholdende figurer. Den norske versjonen har jeg ikke sett, så jeg kan dessverre ikke kommentere på stemmearbeidet der. Når det gjelder musikken, hadde jeg egentlig foretrukket om lydsporet bare var instrumentalt. Man mister mye av den mystiske eventyrsjarmen når en eller annen popsanger plutselig gauler løs om hva filmen skal handle om og hva figurene skal føle.
+
+**Jeg tror det vil bli morsomt for barn å se disse filmene, fordi det kan gi dem en helt ny fantasiverden å leke i.** Her finnes det i tillegg feer med mange forskjellige slags hårfarger, hudfarger, kroppsbygning og dialekter, samt feer med eller uten fysiske handikapp. Med andre ord er det noe for alle barn å kunne identifisere seg med her. Jeg har dessuten sett flere blogger som foreslår Tingeling som inspirasjon for unge jenter, for å få flere kvinner inn i ingeniøryrket og lignende. Fortellingene omhandler gjerne ting som bygging og oppdagelsesferder, og det finnes feer av begge kjønn, så jeg tror filmene fint kan appellere til gutter også. De fleste vokser jo dessuten opp med eventyr, uavhengig av kjønn. Jeg skjønner at den brede appellen sikkert er et grep som i hovedsak har blitt gjort for å kunne selge flere Tingeling-leker, men jeg setter likevel pris på det.
+
+**For tenåringer tror jeg disse filmene kan bli litt for treige og klissete.** For voksne er nok filmene mest interessante å se på for Disney-nostalgiens skyld. Ingeniører, arkitekter, håndverkere, designere, kunstnere, animatører og animasjonstilhengere vil muligens beundre de mange og intrikate detaljene. Tilhengere av bygge-og-teste-program som _Mythbusters_ vil sikkert også få et kick ut av alle oppfinnelsene til Tingeling.
+
+Jeg anbefaler å begynne med den første _Tingeling_-filmen, ettersom hver film egentlig bare er en del av en pågående fortelling. Man kan fint se _Vingenes hemmelighet_ på kino først uten å bli forvirret, men jeg tror man får mer ut av det ved å se filmene i riktig rekkefølge. Alle de tre første _Tingeling_-filmene er tilgjengelig på DVD i Norge.
+
+<div class="video-shortcode">
+</div>
