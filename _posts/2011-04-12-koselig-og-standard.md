@@ -103,7 +103,7 @@ content:
     <strong>Rachel McAdams og Harrison Ford i en romantisk komedie. Utganspunktet er jo litt interessant.</strong>
     (Anmeldelse av Morning Glory)
 
-    <a href="/wp-content/uploads//2011/04/morning-glory.jpg"><img class="alignnone size-large wp-image-130" title="Morning Glory" src="/wp-content/uploads//2011/04/morning-glory-e1310639205692-620x400.jpg" alt="" width="620" height="400" /></a>
+    <img class="alignnone size-large wp-image-130" title="Morning Glory" src="/wp-content/uploads//2011/04/morning-glory-e1310639205692-620x400.jpg" alt="" width="620" height="400" />
 
     <strong>Originaltittel: </strong>Morning Glory<strong>
     Kategori:</strong> Romantisk komedie
@@ -184,7 +184,7 @@ post_content:
     <strong>Rachel McAdams og Harrison Ford i en romantisk komedie. Utganspunktet er jo litt interessant.</strong>
     (Anmeldelse av Morning Glory)
 
-    <a href="/wp-content/uploads//2011/04/morning-glory.jpg"><img class="alignnone size-large wp-image-130" title="Morning Glory" src="/wp-content/uploads//2011/04/morning-glory-e1310639205692-620x400.jpg" alt="" width="620" height="400" /></a>
+    <img class="alignnone size-large wp-image-130" title="Morning Glory" src="/wp-content/uploads//2011/04/morning-glory-e1310639205692-620x400.jpg" alt="" width="620" height="400" />
 
     <strong>Originaltittel: </strong>Morning Glory<strong>
     Kategori:</strong> Romantisk komedie

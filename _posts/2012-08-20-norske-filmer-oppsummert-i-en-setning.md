@@ -104,39 +104,39 @@ content:
 
     <h2>Uno:</h2>
 
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/uno-ferdig/" rel="attachment wp-att-6331"><img class="alignnone size-full wp-image-6331" src="/wp-content/uploads//2012/08/Uno-ferdig.jpg" alt="" width="635" height="423" /></a>
+    <img class="alignnone size-full wp-image-6331" src="/wp-content/uploads//2012/08/Uno-ferdig.jpg" alt="" width="635" height="423" />
 
 
     <h2>Trolljegeren:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/trolljegeren-ferdig/" rel="attachment wp-att-6330"><img class="alignnone size-full wp-image-6330" src="/wp-content/uploads//2012/08/Trolljegeren-ferdig.jpg" alt="" width="635" height="357" /></a>
+    <img class="alignnone size-full wp-image-6330" src="/wp-content/uploads//2012/08/Trolljegeren-ferdig.jpg" alt="" width="635" height="357" />
 
 
     <h2>Kautokeino-opprøret:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/kautokeino-opproret/" rel="attachment wp-att-6325"><img class="alignnone size-full wp-image-6325" src="/wp-content/uploads//2012/08/Kautokeino-opprøret.jpg" alt="" width="635" height="424" /></a>
+    <img class="alignnone size-full wp-image-6325" src="/wp-content/uploads//2012/08/Kautokeino-opprøret.jpg" alt="" width="635" height="424" />
 
 
     <h2>Fritt Vilt:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/fritt-vilt-ferdig/" rel="attachment wp-att-6324"><img class="alignnone size-full wp-image-6324" src="/wp-content/uploads//2012/08/Fritt-Vilt-ferdig.jpg" alt="" width="635" height="356" /></a>
+    <img class="alignnone size-full wp-image-6324" src="/wp-content/uploads//2012/08/Fritt-Vilt-ferdig.jpg" alt="" width="635" height="356" />
 
 
     <h2>Fatso:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/fatso-ferdig/" rel="attachment wp-att-6323"><img class="alignnone size-full wp-image-6323" src="/wp-content/uploads//2012/08/Fatso-ferdig.jpg" alt="" width="635" height="423" /></a>
+    <img class="alignnone size-full wp-image-6323" src="/wp-content/uploads//2012/08/Fatso-ferdig.jpg" alt="" width="635" height="423" />
 
 
     <h2>Max Manus:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/max-manus-ferdig/" rel="attachment wp-att-6327"><img class="alignnone size-full wp-image-6327" src="/wp-content/uploads//2012/08/Max-Manus-Ferdig.jpg" alt="" width="635" height="407" /></a>
+    <img class="alignnone size-full wp-image-6327" src="/wp-content/uploads//2012/08/Max-Manus-Ferdig.jpg" alt="" width="635" height="407" />
 
 
     <h2>Død Snø:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/dod-sno/" rel="attachment wp-att-6322"><img class="alignnone size-full wp-image-6322" src="/wp-content/uploads//2012/08/dod-sno.jpg" alt="" width="636" height="356" /></a>
+    <img class="alignnone size-full wp-image-6322" src="/wp-content/uploads//2012/08/dod-sno.jpg" alt="" width="636" height="356" />
 
 
     <h2>Mannen som elsket Yngve:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/mannen-som-elsket-yngve-ferdig/" rel="attachment wp-att-6326"><img class="alignnone size-full wp-image-6326" src="/wp-content/uploads//2012/08/Mannen-som-elsket-Yngve-ferdig.jpg" alt="" width="635" height="424" /></a>
+    <img class="alignnone size-full wp-image-6326" src="/wp-content/uploads//2012/08/Mannen-som-elsket-Yngve-ferdig.jpg" alt="" width="635" height="424" />
 
 
     <h2>Tomme Tønner:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/tomme-tonner-ferdig/" rel="attachment wp-att-6329"><img class="alignnone size-full wp-image-6329" src="/wp-content/uploads//2012/08/Tomme-tonner-ferdig.jpg" alt="" width="635" height="357" /> </a>
+    <img class="alignnone size-full wp-image-6329" src="/wp-content/uploads//2012/08/Tomme-tonner-ferdig.jpg" alt="" width="635" height="357" /> 
     <h2>Oslo 31. August:</h2>
     <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/oslo-31-august-ferdig/" rel="attachment wp-att-6328"><img class="alignnone size-full wp-image-6328" src="/wp-content/uploads//2012/08/Oslo-31.-august-Ferdig.jpg" alt="" width="635" height="447" />
     </a>
@@ -204,39 +204,39 @@ post_content:
 
     <h2>Uno:</h2>
 
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/uno-ferdig/" rel="attachment wp-att-6331"><img class="alignnone size-full wp-image-6331" src="/wp-content/uploads//2012/08/Uno-ferdig.jpg" alt="" width="635" height="423" /></a>
+    <img class="alignnone size-full wp-image-6331" src="/wp-content/uploads//2012/08/Uno-ferdig.jpg" alt="" width="635" height="423" />
 
 
     <h2>Trolljegeren:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/trolljegeren-ferdig/" rel="attachment wp-att-6330"><img class="alignnone size-full wp-image-6330" src="/wp-content/uploads//2012/08/Trolljegeren-ferdig.jpg" alt="" width="635" height="357" /></a>
+    <img class="alignnone size-full wp-image-6330" src="/wp-content/uploads//2012/08/Trolljegeren-ferdig.jpg" alt="" width="635" height="357" />
 
 
     <h2>Kautokeino-opprøret:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/kautokeino-opproret/" rel="attachment wp-att-6325"><img class="alignnone size-full wp-image-6325" src="/wp-content/uploads//2012/08/Kautokeino-opprøret.jpg" alt="" width="635" height="424" /></a>
+    <img class="alignnone size-full wp-image-6325" src="/wp-content/uploads//2012/08/Kautokeino-opprøret.jpg" alt="" width="635" height="424" />
 
 
     <h2>Fritt Vilt:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/fritt-vilt-ferdig/" rel="attachment wp-att-6324"><img class="alignnone size-full wp-image-6324" src="/wp-content/uploads//2012/08/Fritt-Vilt-ferdig.jpg" alt="" width="635" height="356" /></a>
+    <img class="alignnone size-full wp-image-6324" src="/wp-content/uploads//2012/08/Fritt-Vilt-ferdig.jpg" alt="" width="635" height="356" />
 
 
     <h2>Fatso:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/fatso-ferdig/" rel="attachment wp-att-6323"><img class="alignnone size-full wp-image-6323" src="/wp-content/uploads//2012/08/Fatso-ferdig.jpg" alt="" width="635" height="423" /></a>
+    <img class="alignnone size-full wp-image-6323" src="/wp-content/uploads//2012/08/Fatso-ferdig.jpg" alt="" width="635" height="423" />
 
 
     <h2>Max Manus:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/max-manus-ferdig/" rel="attachment wp-att-6327"><img class="alignnone size-full wp-image-6327" src="/wp-content/uploads//2012/08/Max-Manus-Ferdig.jpg" alt="" width="635" height="407" /></a>
+    <img class="alignnone size-full wp-image-6327" src="/wp-content/uploads//2012/08/Max-Manus-Ferdig.jpg" alt="" width="635" height="407" />
 
 
     <h2>Død Snø:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/dod-sno/" rel="attachment wp-att-6322"><img class="alignnone size-full wp-image-6322" src="/wp-content/uploads//2012/08/dod-sno.jpg" alt="" width="636" height="356" /></a>
+    <img class="alignnone size-full wp-image-6322" src="/wp-content/uploads//2012/08/dod-sno.jpg" alt="" width="636" height="356" />
 
 
     <h2>Mannen som elsket Yngve:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/mannen-som-elsket-yngve-ferdig/" rel="attachment wp-att-6326"><img class="alignnone size-full wp-image-6326" src="/wp-content/uploads//2012/08/Mannen-som-elsket-Yngve-ferdig.jpg" alt="" width="635" height="424" /></a>
+    <img class="alignnone size-full wp-image-6326" src="/wp-content/uploads//2012/08/Mannen-som-elsket-Yngve-ferdig.jpg" alt="" width="635" height="424" />
 
 
     <h2>Tomme Tønner:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/tomme-tonner-ferdig/" rel="attachment wp-att-6329"><img class="alignnone size-full wp-image-6329" src="/wp-content/uploads//2012/08/Tomme-tonner-ferdig.jpg" alt="" width="635" height="357" /> </a>
+    <img class="alignnone size-full wp-image-6329" src="/wp-content/uploads//2012/08/Tomme-tonner-ferdig.jpg" alt="" width="635" height="357" /> 
     <h2>Oslo 31. August:</h2>
     <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/oslo-31-august-ferdig/" rel="attachment wp-att-6328"><img class="alignnone size-full wp-image-6328" src="/wp-content/uploads//2012/08/Oslo-31.-august-Ferdig.jpg" alt="" width="635" height="447" />
     </a>
@@ -256,39 +256,39 @@ meta:
 
     Uno:
 
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/uno-ferdig/" rel="attachment wp-att-6331"><img class="alignnone size-full wp-image-6331" src="/wp-content/uploads//2012/08/Uno-ferdig.jpg" alt="" width="635" height="423" /></a>
+    <img class="alignnone size-full wp-image-6331" src="/wp-content/uploads//2012/08/Uno-ferdig.jpg" alt="" width="635" height="423" />
 
 
     <h2>Trolljegeren:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/trolljegeren-ferdig/" rel="attachment wp-att-6330"><img class="alignnone size-full wp-image-6330" src="/wp-content/uploads//2012/08/Trolljegeren-ferdig.jpg" alt="" width="635" height="357" /></a>
+    <img class="alignnone size-full wp-image-6330" src="/wp-content/uploads//2012/08/Trolljegeren-ferdig.jpg" alt="" width="635" height="357" />
 
 
     <h2>Kautokeino-opprøret:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/kautokeino-opproret/" rel="attachment wp-att-6325"><img class="alignnone size-full wp-image-6325" src="/wp-content/uploads//2012/08/Kautokeino-opprøret.jpg" alt="" width="635" height="424" /></a>
+    <img class="alignnone size-full wp-image-6325" src="/wp-content/uploads//2012/08/Kautokeino-opprøret.jpg" alt="" width="635" height="424" />
 
 
     <h2>Fritt Vilt:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/fritt-vilt-ferdig/" rel="attachment wp-att-6324"><img class="alignnone size-full wp-image-6324" src="/wp-content/uploads//2012/08/Fritt-Vilt-ferdig.jpg" alt="" width="635" height="356" /></a>
+    <img class="alignnone size-full wp-image-6324" src="/wp-content/uploads//2012/08/Fritt-Vilt-ferdig.jpg" alt="" width="635" height="356" />
 
 
     <h2>Fatso:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/fatso-ferdig/" rel="attachment wp-att-6323"><img class="alignnone size-full wp-image-6323" src="/wp-content/uploads//2012/08/Fatso-ferdig.jpg" alt="" width="635" height="423" /></a>
+    <img class="alignnone size-full wp-image-6323" src="/wp-content/uploads//2012/08/Fatso-ferdig.jpg" alt="" width="635" height="423" />
 
 
     <h2>Max Manus:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/max-manus-ferdig/" rel="attachment wp-att-6327"><img class="alignnone size-full wp-image-6327" src="/wp-content/uploads//2012/08/Max-Manus-Ferdig.jpg" alt="" width="635" height="407" /></a>
+    <img class="alignnone size-full wp-image-6327" src="/wp-content/uploads//2012/08/Max-Manus-Ferdig.jpg" alt="" width="635" height="407" />
 
 
     <h2>Død Snø:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/dod-sno/" rel="attachment wp-att-6322"><img class="alignnone size-full wp-image-6322" src="/wp-content/uploads//2012/08/dod-sno.jpg" alt="" width="636" height="356" /></a>
+    <img class="alignnone size-full wp-image-6322" src="/wp-content/uploads//2012/08/dod-sno.jpg" alt="" width="636" height="356" />
 
 
     <h2>Mannen som elsket Yngve:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/mannen-som-elsket-yngve-ferdig/" rel="attachment wp-att-6326"><img class="alignnone size-full wp-image-6326" src="/wp-content/uploads//2012/08/Mannen-som-elsket-Yngve-ferdig.jpg" alt="" width="635" height="424" /></a>
+    <img class="alignnone size-full wp-image-6326" src="/wp-content/uploads//2012/08/Mannen-som-elsket-Yngve-ferdig.jpg" alt="" width="635" height="424" />
 
 
     <h2>Tomme Tønner:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/tomme-tonner-ferdig/" rel="attachment wp-att-6329"><img class="alignnone size-full wp-image-6329" src="/wp-content/uploads//2012/08/Tomme-tonner-ferdig.jpg" alt="" width="635" height="357" /> </a>
+    <img class="alignnone size-full wp-image-6329" src="/wp-content/uploads//2012/08/Tomme-tonner-ferdig.jpg" alt="" width="635" height="357" /> 
     <h2>Oslo 31. August:</h2>
     <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/oslo-31-august-ferdig/" rel="attachment wp-att-6328"><img class="alignnone size-full wp-image-6328" src="/wp-content/uploads//2012/08/Oslo-31.-august-Ferdig.jpg" alt="" width="635" height="447" />
     </a>
@@ -299,39 +299,39 @@ meta:
 
     Uno:
 
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/uno-ferdig/" rel="attachment wp-att-6331"><img class="alignnone size-full wp-image-6331" src="/wp-content/uploads//2012/08/Uno-ferdig.jpg" alt="" width="635" height="423" /></a>
+    <img class="alignnone size-full wp-image-6331" src="/wp-content/uploads//2012/08/Uno-ferdig.jpg" alt="" width="635" height="423" />
 
 
     <h2>Trolljegeren:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/trolljegeren-ferdig/" rel="attachment wp-att-6330"><img class="alignnone size-full wp-image-6330" src="/wp-content/uploads//2012/08/Trolljegeren-ferdig.jpg" alt="" width="635" height="357" /></a>
+    <img class="alignnone size-full wp-image-6330" src="/wp-content/uploads//2012/08/Trolljegeren-ferdig.jpg" alt="" width="635" height="357" />
 
 
     <h2>Kautokeino-opprøret:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/kautokeino-opproret/" rel="attachment wp-att-6325"><img class="alignnone size-full wp-image-6325" src="/wp-content/uploads//2012/08/Kautokeino-opprøret.jpg" alt="" width="635" height="424" /></a>
+    <img class="alignnone size-full wp-image-6325" src="/wp-content/uploads//2012/08/Kautokeino-opprøret.jpg" alt="" width="635" height="424" />
 
 
     <h2>Fritt Vilt:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/fritt-vilt-ferdig/" rel="attachment wp-att-6324"><img class="alignnone size-full wp-image-6324" src="/wp-content/uploads//2012/08/Fritt-Vilt-ferdig.jpg" alt="" width="635" height="356" /></a>
+    <img class="alignnone size-full wp-image-6324" src="/wp-content/uploads//2012/08/Fritt-Vilt-ferdig.jpg" alt="" width="635" height="356" />
 
 
     <h2>Fatso:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/fatso-ferdig/" rel="attachment wp-att-6323"><img class="alignnone size-full wp-image-6323" src="/wp-content/uploads//2012/08/Fatso-ferdig.jpg" alt="" width="635" height="423" /></a>
+    <img class="alignnone size-full wp-image-6323" src="/wp-content/uploads//2012/08/Fatso-ferdig.jpg" alt="" width="635" height="423" />
 
 
     <h2>Max Manus:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/max-manus-ferdig/" rel="attachment wp-att-6327"><img class="alignnone size-full wp-image-6327" src="/wp-content/uploads//2012/08/Max-Manus-Ferdig.jpg" alt="" width="635" height="407" /></a>
+    <img class="alignnone size-full wp-image-6327" src="/wp-content/uploads//2012/08/Max-Manus-Ferdig.jpg" alt="" width="635" height="407" />
 
 
     <h2>Død Snø:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/dod-sno/" rel="attachment wp-att-6322"><img class="alignnone size-full wp-image-6322" src="/wp-content/uploads//2012/08/dod-sno.jpg" alt="" width="636" height="356" /></a>
+    <img class="alignnone size-full wp-image-6322" src="/wp-content/uploads//2012/08/dod-sno.jpg" alt="" width="636" height="356" />
 
 
     <h2>Mannen som elsket Yngve:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/mannen-som-elsket-yngve-ferdig/" rel="attachment wp-att-6326"><img class="alignnone size-full wp-image-6326" src="/wp-content/uploads//2012/08/Mannen-som-elsket-Yngve-ferdig.jpg" alt="" width="635" height="424" /></a>
+    <img class="alignnone size-full wp-image-6326" src="/wp-content/uploads//2012/08/Mannen-som-elsket-Yngve-ferdig.jpg" alt="" width="635" height="424" />
 
 
     <h2>Tomme Tønner:</h2>
-    <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/tomme-tonner-ferdig/" rel="attachment wp-att-6329"><img class="alignnone size-full wp-image-6329" src="/wp-content/uploads//2012/08/Tomme-tonner-ferdig.jpg" alt="" width="635" height="357" /> </a>
+    <img class="alignnone size-full wp-image-6329" src="/wp-content/uploads//2012/08/Tomme-tonner-ferdig.jpg" alt="" width="635" height="357" /> 
     <h2>Oslo 31. August:</h2>
     <a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/oslo-31-august-ferdig/" rel="attachment wp-att-6328"><img class="alignnone size-full wp-image-6328" src="/wp-content/uploads//2012/08/Oslo-31.-august-Ferdig.jpg" alt="" width="635" height="447" />
     </a>
@@ -364,59 +364,59 @@ tags:
 
 ## Uno:
 
-<a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/uno-ferdig/" rel="attachment wp-att-6331"><img class="alignnone size-full wp-image-6331" src="/wp-content/uploads//2012/08/Uno-ferdig.jpg" alt="" width="635" height="423" /></a>
+<img class="alignnone size-full wp-image-6331" src="/wp-content/uploads//2012/08/Uno-ferdig.jpg" alt="" width="635" height="423" />
 
 
 
 ## Trolljegeren:
 
-<a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/trolljegeren-ferdig/" rel="attachment wp-att-6330"><img class="alignnone size-full wp-image-6330" src="/wp-content/uploads//2012/08/Trolljegeren-ferdig.jpg" alt="" width="635" height="357" /></a>
+<img class="alignnone size-full wp-image-6330" src="/wp-content/uploads//2012/08/Trolljegeren-ferdig.jpg" alt="" width="635" height="357" />
 
 
 
 ## Kautokeino-opprøret:
 
-<a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/kautokeino-opproret/" rel="attachment wp-att-6325"><img class="alignnone size-full wp-image-6325" src="/wp-content/uploads//2012/08/Kautokeino-opprøret.jpg" alt="" width="635" height="424" /></a>
+<img class="alignnone size-full wp-image-6325" src="/wp-content/uploads//2012/08/Kautokeino-opprøret.jpg" alt="" width="635" height="424" />
 
 
 
 ## Fritt Vilt:
 
-<a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/fritt-vilt-ferdig/" rel="attachment wp-att-6324"><img class="alignnone size-full wp-image-6324" src="/wp-content/uploads//2012/08/Fritt-Vilt-ferdig.jpg" alt="" width="635" height="356" /></a>
+<img class="alignnone size-full wp-image-6324" src="/wp-content/uploads//2012/08/Fritt-Vilt-ferdig.jpg" alt="" width="635" height="356" />
 
 
 
 ## Fatso:
 
-<a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/fatso-ferdig/" rel="attachment wp-att-6323"><img class="alignnone size-full wp-image-6323" src="/wp-content/uploads//2012/08/Fatso-ferdig.jpg" alt="" width="635" height="423" /></a>
+<img class="alignnone size-full wp-image-6323" src="/wp-content/uploads//2012/08/Fatso-ferdig.jpg" alt="" width="635" height="423" />
 
 
 
 ## Max Manus:
 
-<a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/max-manus-ferdig/" rel="attachment wp-att-6327"><img class="alignnone size-full wp-image-6327" src="/wp-content/uploads//2012/08/Max-Manus-Ferdig.jpg" alt="" width="635" height="407" /></a>
+<img class="alignnone size-full wp-image-6327" src="/wp-content/uploads//2012/08/Max-Manus-Ferdig.jpg" alt="" width="635" height="407" />
 
 
 
 ## Død Snø:
 
-<a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/dod-sno/" rel="attachment wp-att-6322"><img class="alignnone size-full wp-image-6322" src="/wp-content/uploads//2012/08/dod-sno.jpg" alt="" width="636" height="356" /></a>
+<img class="alignnone size-full wp-image-6322" src="/wp-content/uploads//2012/08/dod-sno.jpg" alt="" width="636" height="356" />
 
 
 
 ## Mannen som elsket Yngve:
 
-<a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/mannen-som-elsket-yngve-ferdig/" rel="attachment wp-att-6326"><img class="alignnone size-full wp-image-6326" src="/wp-content/uploads//2012/08/Mannen-som-elsket-Yngve-ferdig.jpg" alt="" width="635" height="424" /></a>
+<img class="alignnone size-full wp-image-6326" src="/wp-content/uploads//2012/08/Mannen-som-elsket-Yngve-ferdig.jpg" alt="" width="635" height="424" />
 
 
 
 ## Tomme Tønner:
 
-<a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/tomme-tonner-ferdig/" rel="attachment wp-att-6329"><img class="alignnone size-full wp-image-6329" src="/wp-content/uploads//2012/08/Tomme-tonner-ferdig.jpg" alt="" width="635" height="357" /> </a>
+<img class="alignnone size-full wp-image-6329" src="/wp-content/uploads//2012/08/Tomme-tonner-ferdig.jpg" alt="" width="635" height="357" /> 
 
 ## Oslo 31. August:
 
-<a href="//filmbloggen.net/2012/08/20/norske-filmer-oppsummert-i-en-setning/oslo-31-august-ferdig/" rel="attachment wp-att-6328"><img class="alignnone size-full wp-image-6328" src="/wp-content/uploads//2012/08/Oslo-31.-august-Ferdig.jpg" alt="" width="635" height="447" /><br /> </a>
+<img class="alignnone size-full wp-image-6328" src="/wp-content/uploads//2012/08/Oslo-31.-august-Ferdig.jpg" alt="" width="635" height="447" /><br /> 
 
 ### Galleri:</p>
 

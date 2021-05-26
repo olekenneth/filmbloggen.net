@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> Odd Magnus Williamson, Henrik Thodesen, Else Kåss Furuseth, Ingar Helge Gimle, Bjørn Gustafsson, Triana Iglesias Holten, Nils Jørgen Kaalstad.
     <strong>Spilletid:</strong> 1 time og 21 minutter
 
-    <a href="//filmbloggen.net/2012/10/06/videobloggernes-rykte-star-pa-spill/trianaogelse772/" rel="attachment wp-att-7371"><img class="alignnone size-large wp-image-7371" src="/wp-content/uploads//2012/09/TrianaogElse772-620x321.jpg" alt="" width="620" height="321" /></a>
+    <img class="alignnone size-large wp-image-7371" src="/wp-content/uploads//2012/09/TrianaogElse772-620x321.jpg" alt="" width="620" height="321" />
 
     <strong>Videobloggerne Tina (Odd Magnus Williamson) og Bettina (Henrik Thodesen) lever det glade liv på Smestad i Oslo-vest.</strong> De er ledere av elevrådet og blir ansett som store ikoner på Smestad ungdomsskole. Skolestart og tiendeklasse skulle bli en hyggelig fornøyelse, men så dukker den nye eleven Synøve Risnes (Triana Iglesias) opp. Hun viser seg å være mer populær enn de selverklærte prinsessene Tina og Bettina, da bruker de skitne midler for å kave seg til toppen av makthierarkiet igjen. Det blir psykologisk krigføring mellom de to partene og når alt virker som verst bestemmer begge parter seg for å arrangere Halloweenfest. Men hvilken fest blir best?
 
@@ -63,7 +63,7 @@ post_content:
     <strong>Skuespillere:</strong> Odd Magnus Williamson, Henrik Thodesen, Else Kåss Furuseth, Ingar Helge Gimle, Bjørn Gustafsson, Triana Iglesias Holten, Nils Jørgen Kaalstad.
     <strong>Spilletid:</strong> 1 time og 21 minutter
 
-    <a href="//filmbloggen.net/2012/10/06/videobloggernes-rykte-star-pa-spill/trianaogelse772/" rel="attachment wp-att-7371"><img class="alignnone size-large wp-image-7371" src="/wp-content/uploads//2012/09/TrianaogElse772-620x321.jpg" alt="" width="620" height="321" /></a>
+    <img class="alignnone size-large wp-image-7371" src="/wp-content/uploads//2012/09/TrianaogElse772-620x321.jpg" alt="" width="620" height="321" />
 
     <strong>Videobloggerne Tina (Odd Magnus Williamson) og Bettina (Henrik Thodesen) lever det glade liv på Smestad i Oslo-vest.</strong> De er ledere av elevrådet og blir ansett som store ikoner på Smestad ungdomsskole. Skolestart og tiendeklasse skulle bli en hyggelig fornøyelse, men så dukker den nye eleven Synøve Risnes (Triana Iglesias) opp. Hun viser seg å være mer populær enn de selverklærte prinsessene Tina og Bettina, da bruker de skitne midler for å kave seg til toppen av makthierarkiet igjen. Det blir psykologisk krigføring mellom de to partene og når alt virker som verst bestemmer begge parter seg for å arrangere Halloweenfest. Men hvilken fest blir best?
 
@@ -166,7 +166,7 @@ meta:
     <strong>Skuespillere:</strong> Odd Magnus Williamson, Henrik Thodesen, Else Kåss Furuseth, Ingar Helge Gimle, Bjørn Gustafsson, Triana Iglesias Holten, Nils Jørgen Kaalstad.
     <strong>Spilletid:</strong> 1 time og 21 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=7371" rel="attachment wp-att-7371"><img class="alignnone size-large wp-image-7371" src="/wp-content/uploads//2012/09/TrianaogElse772-620x321.jpg" alt="" width="620" height="321" /></a>
+    <img class="alignnone size-large wp-image-7371" src="/wp-content/uploads//2012/09/TrianaogElse772-620x321.jpg" alt="" width="620" height="321" />
 
     <strong>Videobloggerne Tina (Odd Magnus Williamson) og Bettina (Henrik Thodesen) lever det glade liv på Smestad i Oslo-vest.</strong> De er ledere av elevrådet og blir ansett som store ikoner på Smestad ungdomsskole. Skolestart og tiendeklasse skulle bli en hyggelig fornøyelse, men så dukker den nye eleven Synøve Risnes (Triana Iglesias) opp. Hun viser seg å være mer populær enn de selverklærte prinsessene Tina og Bettina, da bruker de skitne midler for å kave seg til toppen av makthierarkiet igjen. Det blir psykologisk krigføring mellom de to partene og når alt virker som verst bestemmer begge parter seg for å arrangere Halloweenfest. Men hvilken fest blir best?
 
@@ -186,7 +186,7 @@ meta:
     <strong>Skuespillere:</strong> Odd Magnus Williamson, Henrik Thodesen, Else Kåss Furuseth, Ingar Helge Gimle, Bjørn Gustafsson, Triana Iglesias Holten, Nils Jørgen Kaalstad.
     <strong>Spilletid:</strong> 1 time og 21 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=7371" rel="attachment wp-att-7371"><img class="alignnone size-large wp-image-7371" src="/wp-content/uploads//2012/09/TrianaogElse772-620x321.jpg" alt="" width="620" height="321" /></a>
+    <img class="alignnone size-large wp-image-7371" src="/wp-content/uploads//2012/09/TrianaogElse772-620x321.jpg" alt="" width="620" height="321" />
 
     <strong>Videobloggerne Tina (Odd Magnus Williamson) og Bettina (Henrik Thodesen) lever det glade liv på Smestad i Oslo-vest.</strong> De er ledere av elevrådet og blir ansett som store ikoner på Smestad ungdomsskole. Skolestart og tiendeklasse skulle bli en hyggelig fornøyelse, men så dukker den nye eleven Synøve Risnes (Triana Iglesias) opp. Hun viser seg å være mer populær enn de selverklærte prinsessene Tina og Bettina, da bruker de skitne midler for å kave seg til toppen av makthierarkiet igjen. Det blir psykologisk krigføring mellom de to partene og når alt virker som verst bestemmer begge parter seg for å arrangere Halloweenfest. Men hvilken fest blir best?
 
@@ -281,7 +281,7 @@ tags:
 **Skuespillere:** Odd Magnus Williamson, Henrik Thodesen, Else Kåss Furuseth, Ingar Helge Gimle, Bjørn Gustafsson, Triana Iglesias Holten, Nils Jørgen Kaalstad.
 **Spilletid:** 1 time og 21 minutter
 
-<a href="//filmbloggen.net/2012/10/06/videobloggernes-rykte-star-pa-spill/trianaogelse772/" rel="attachment wp-att-7371"><img class="alignnone size-large wp-image-7371" src="/wp-content/uploads//2012/09/TrianaogElse772-620x321.jpg" alt="" width="620" height="321" /></a>
+<img class="alignnone size-large wp-image-7371" src="/wp-content/uploads//2012/09/TrianaogElse772-620x321.jpg" alt="" width="620" height="321" />
 
 **Videobloggerne Tina (Odd Magnus Williamson) og Bettina (Henrik Thodesen) lever det glade liv på Smestad i Oslo-vest.** De er ledere av elevrådet og blir ansett som store ikoner på Smestad ungdomsskole. Skolestart og tiendeklasse skulle bli en hyggelig fornøyelse, men så dukker den nye eleven Synøve Risnes (Triana Iglesias) opp. Hun viser seg å være mer populær enn de selverklærte prinsessene Tina og Bettina, da bruker de skitne midler for å kave seg til toppen av makthierarkiet igjen. Det blir psykologisk krigføring mellom de to partene og når alt virker som verst bestemmer begge parter seg for å arrangere Halloweenfest. Men hvilken fest blir best?
 

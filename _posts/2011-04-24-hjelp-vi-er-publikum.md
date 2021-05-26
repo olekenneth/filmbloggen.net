@@ -102,7 +102,7 @@ content:
   - |
     <strong>Ja, det var faktisk en tanke som streifet meg mens jeg satt i salen på Klingenberg Kino.</strong>
     (Anmeldelse av Hjelp, vi er russ!)
-    <a href="/wp-content/uploads//2011/04/hjelp-vi-er-russ.jpg"><img class="alignnone size-large wp-image-229" title="hjelp vi er russ" src="/wp-content/uploads//2011/04/hjelp-vi-er-russ-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-229" title="hjelp vi er russ" src="/wp-content/uploads//2011/04/hjelp-vi-er-russ-1024x682.jpg" alt="" width="620" height="412" />
 
     <strong>Originaltittel: </strong>Hjelp, vi er russ!<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
@@ -118,7 +118,7 @@ content:
 
     Det er en standard historie med en gjeng festklare og kåte ungdommer som har diverse mål med russeferingen; drikke seg drita og pule. Kanskje ikke ulikt realiteten, men filmen er altså en norsk versjon av de såkalte amerikanske «high school»-filmene, som vi dessverre har sett så altfor mange ganger før.
 
-    <a href="/wp-content/uploads//2011/04/hjelp-vi-er-russ2.jpg"><img class="alignleft size-medium wp-image-228" title="hjelp vi er russ2" src="/wp-content/uploads//2011/04/hjelp-vi-er-russ2-300x199.jpg" alt="" width="300" height="199" /></a>Målet med hele historien er landstreffet i Stavanger, og for å komme seg dit trenger de penger og en bil. Truls, Kjell Arne og Vigdis blir med på lasset, i tillegg til den kinesiske utvekslingsstudenten Yao Ming, som står for det økonomiske bidraget. Sammen fikser de opp en gammel van, og drar ut på ferden mot landstreffet. Caroline, den fineste dama på skolen, blir også med, noe Markus blir veldig glad for.
+    <img class="alignleft size-medium wp-image-228" title="hjelp vi er russ2" src="/wp-content/uploads//2011/04/hjelp-vi-er-russ2-300x199.jpg" alt="" width="300" height="199" />Målet med hele historien er landstreffet i Stavanger, og for å komme seg dit trenger de penger og en bil. Truls, Kjell Arne og Vigdis blir med på lasset, i tillegg til den kinesiske utvekslingsstudenten Yao Ming, som står for det økonomiske bidraget. Sammen fikser de opp en gammel van, og drar ut på ferden mot landstreffet. Caroline, den fineste dama på skolen, blir også med, noe Markus blir veldig glad for.
 
     For min del nådde aldri filmen helt opp. At de har fått med seg Are Kalvø som den onde rektoren og Kristoffer Joner som den litt småpedofile lensmannen i bygda (begge avbildet), løfter filmen litt. Hadde det ikke vært for de to dyktige guttene der, hadde dette vært en gjennomført amatørfilm. Skuespillprestasjonene er ikke akkurat de beste. Alt som kan gå galt pleier jo å gå galt i slike filmer, denne er selvfølgelig inget unntak.
 
@@ -189,7 +189,7 @@ post_content:
   - |
     <strong>Ja, det var faktisk en tanke som streifet meg mens jeg satt i salen på Klingenberg Kino.</strong>
     (Anmeldelse av Hjelp, vi er russ!)
-    <a href="/wp-content/uploads//2011/04/hjelp-vi-er-russ.jpg"><img class="alignnone size-large wp-image-229" title="hjelp vi er russ" src="/wp-content/uploads//2011/04/hjelp-vi-er-russ-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-229" title="hjelp vi er russ" src="/wp-content/uploads//2011/04/hjelp-vi-er-russ-1024x682.jpg" alt="" width="620" height="412" />
 
     <strong>Originaltittel: </strong>Hjelp, vi er russ!<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
@@ -205,7 +205,7 @@ post_content:
 
     Det er en standard historie med en gjeng festklare og kåte ungdommer som har diverse mål med russeferingen; drikke seg drita og pule. Kanskje ikke ulikt realiteten, men filmen er altså en norsk versjon av de såkalte amerikanske «high school»-filmene, som vi dessverre har sett så altfor mange ganger før.
 
-    <a href="/wp-content/uploads//2011/04/hjelp-vi-er-russ2.jpg"><img class="alignleft size-medium wp-image-228" title="hjelp vi er russ2" src="/wp-content/uploads//2011/04/hjelp-vi-er-russ2-300x199.jpg" alt="" width="300" height="199" /></a>Målet med hele historien er landstreffet i Stavanger, og for å komme seg dit trenger de penger og en bil. Truls, Kjell Arne og Vigdis blir med på lasset, i tillegg til den kinesiske utvekslingsstudenten Yao Ming, som står for det økonomiske bidraget. Sammen fikser de opp en gammel van, og drar ut på ferden mot landstreffet. Caroline, den fineste dama på skolen, blir også med, noe Markus blir veldig glad for.
+    <img class="alignleft size-medium wp-image-228" title="hjelp vi er russ2" src="/wp-content/uploads//2011/04/hjelp-vi-er-russ2-300x199.jpg" alt="" width="300" height="199" />Målet med hele historien er landstreffet i Stavanger, og for å komme seg dit trenger de penger og en bil. Truls, Kjell Arne og Vigdis blir med på lasset, i tillegg til den kinesiske utvekslingsstudenten Yao Ming, som står for det økonomiske bidraget. Sammen fikser de opp en gammel van, og drar ut på ferden mot landstreffet. Caroline, den fineste dama på skolen, blir også med, noe Markus blir veldig glad for.
 
     For min del nådde aldri filmen helt opp. At de har fått med seg Are Kalvø som den onde rektoren og Kristoffer Joner som den litt småpedofile lensmannen i bygda (begge avbildet), løfter filmen litt. Hadde det ikke vært for de to dyktige guttene der, hadde dette vært en gjennomført amatørfilm. Skuespillprestasjonene er ikke akkurat de beste. Alt som kan gå galt pleier jo å gå galt i slike filmer, denne er selvfølgelig inget unntak.
 

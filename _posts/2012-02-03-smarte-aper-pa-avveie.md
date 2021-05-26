@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> James Franco, Andy Serkis, Freida Pinto, John Lithgow, Brian Cox, Tom Felton, David Oyelowo, Tyler Labine, Jamie Harris.
     <strong>Spilletid:</strong> 1 time og 45 minutter
 
-    <a href="//filmbloggen.net/2012/02/03/smarte-aper-pa-avveie/rise-of-the-planet-of-the-apes/" rel="attachment wp-att-2241"><img class="alignnone size-large wp-image-2241" src="/wp-content/uploads//2012/01/apes-rise-620x349.jpg" alt="" width="620" height="349" /></a>
+    <img class="alignnone size-large wp-image-2241" src="/wp-content/uploads//2012/01/apes-rise-620x349.jpg" alt="" width="620" height="349" />
 
     Først og fremst må jeg bare si at dette ikke er en direkte oppfølger. Denne filmen er ikke koblet opp mot Tim Burtons film fra 2001 eller noen av de andre versjonene som er blitt laget siden 1968. Den står med andre ord alene. Vil den klare seg på egenhånd?
 
@@ -59,7 +59,7 @@ post_content:
     <strong>Skuespillere:</strong> James Franco, Andy Serkis, Freida Pinto, John Lithgow, Brian Cox, Tom Felton, David Oyelowo, Tyler Labine, Jamie Harris.
     <strong>Spilletid:</strong> 1 time og 45 minutter
 
-    <a href="//filmbloggen.net/2012/02/03/smarte-aper-pa-avveie/rise-of-the-planet-of-the-apes/" rel="attachment wp-att-2241"><img class="alignnone size-large wp-image-2241" src="/wp-content/uploads//2012/01/apes-rise-620x349.jpg" alt="" width="620" height="349" /></a>
+    <img class="alignnone size-large wp-image-2241" src="/wp-content/uploads//2012/01/apes-rise-620x349.jpg" alt="" width="620" height="349" />
 
     Først og fremst må jeg bare si at dette ikke er en direkte oppfølger. Denne filmen er ikke koblet opp mot Tim Burtons film fra 2001 eller noen av de andre versjonene som er blitt laget siden 1968. Den står med andre ord alene. Vil den klare seg på egenhånd?
 
@@ -158,7 +158,7 @@ meta:
     <strong>Skuespillere:</strong> James Franco, Andy Serkis, Freida Pinto, John Lithgow, Brian Cox, Tom Felton, David Oyelowo, Tyler Labine, Jamie Harris.
     <strong>Spilletid:</strong> 1 time og 45 minutter
 
-    <a href="//filmbloggen.net/2012/02/03/smarte-aper-pa-avveie/rise-of-the-planet-of-the-apes/" rel="attachment wp-att-2241"><img class="alignnone size-large wp-image-2241" src="/wp-content/uploads//2012/01/apes-rise-620x349.jpg" alt="" width="620" height="349" /></a>
+    <img class="alignnone size-large wp-image-2241" src="/wp-content/uploads//2012/01/apes-rise-620x349.jpg" alt="" width="620" height="349" />
 
     Først og fremst må jeg bare si at dette ikke er en direkte oppfølger. Denne filmen er ikke koblet opp mot Tim Burtons film fra 2001 eller noen av de andre versjonene som er blitt laget siden 1968. Den står med andre ord alene. Vil den klare seg på egenhånd?
 
@@ -176,7 +176,7 @@ meta:
     <strong>Skuespillere:</strong> James Franco, Andy Serkis, Freida Pinto, John Lithgow, Brian Cox, Tom Felton, David Oyelowo, Tyler Labine, Jamie Harris.
     <strong>Spilletid:</strong> 1 time og 45 minutter
 
-    <a href="//filmbloggen.net/2012/02/03/smarte-aper-pa-avveie/rise-of-the-planet-of-the-apes/" rel="attachment wp-att-2241"><img class="alignnone size-large wp-image-2241" src="/wp-content/uploads//2012/01/apes-rise-620x349.jpg" alt="" width="620" height="349" /></a>
+    <img class="alignnone size-large wp-image-2241" src="/wp-content/uploads//2012/01/apes-rise-620x349.jpg" alt="" width="620" height="349" />
 
     Først og fremst må jeg bare si at dette ikke er en direkte oppfølger. Denne filmen er ikke koblet opp mot Tim Burtons film fra 2001 eller noen av de andre versjonene som er blitt laget siden 1968. Den står med andre ord alene. Vil den klare seg på egenhånd?
 
@@ -259,7 +259,7 @@ tags:
 **Skuespillere:** James Franco, Andy Serkis, Freida Pinto, John Lithgow, Brian Cox, Tom Felton, David Oyelowo, Tyler Labine, Jamie Harris.
 **Spilletid:** 1 time og 45 minutter
 
-<a href="//filmbloggen.net/2012/02/03/smarte-aper-pa-avveie/rise-of-the-planet-of-the-apes/" rel="attachment wp-att-2241"><img class="alignnone size-large wp-image-2241" src="/wp-content/uploads//2012/01/apes-rise-620x349.jpg" alt="" width="620" height="349" /></a>
+<img class="alignnone size-large wp-image-2241" src="/wp-content/uploads//2012/01/apes-rise-620x349.jpg" alt="" width="620" height="349" />
 
 Først og fremst må jeg bare si at dette ikke er en direkte oppfølger. Denne filmen er ikke koblet opp mot Tim Burtons film fra 2001 eller noen av de andre versjonene som er blitt laget siden 1968. Den står med andre ord alene. Vil den klare seg på egenhånd?
 

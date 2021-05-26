@@ -109,7 +109,7 @@ content:
     <strong>Kategori:</strong> Drama
     <strong>Regi:</strong> Ben Lewin
     <strong>Med:</strong> John Hawkes, Helen Hunt, William H. Macy og Moon Bloodgood
-    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto: Twentieth Century Fox Norway</strong>
 
     <strong>Religiøse Mark O'Brian (John Hawkes) ble rammet av polio som liten gutt og er praktisk talt lam fra halsen og ned.</strong> Han tilbringer store deler av livet i en pustemaskin, en såkalt jernlunge, hvor han bruker tiden på å skrive dikt og snakke med et bilde av jomfru Maria. Han er omgitt av assistenter som hjelper ham med praktiske gjøremål. Etter å ha forelsket seg i en av assistentene sine, fridd til henne og blitt avslått, bestemmer Mark seg, i en alder av 38, for at det er på tide å miste jomfrudommen sin.
@@ -191,7 +191,7 @@ post_content:
     <strong>Kategori:</strong> Drama
     <strong>Regi:</strong> Ben Lewin
     <strong>Med:</strong> John Hawkes, Helen Hunt, William H. Macy og Moon Bloodgood
-    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto: Twentieth Century Fox Norway</strong>
 
     <strong>Religiøse Mark O'Brian (John Hawkes) ble rammet av polio som liten gutt og er praktisk talt lam fra halsen og ned.</strong> Han tilbringer store deler av livet i en pustemaskin, en såkalt jernlunge, hvor han bruker tiden på å skrive dikt og snakke med et bilde av jomfru Maria. Han er omgitt av assistenter som hjelper ham med praktiske gjøremål. Etter å ha forelsket seg i en av assistentene sine, fridd til henne og blitt avslått, bestemmer Mark seg, i en alder av 38, for at det er på tide å miste jomfrudommen sin.
@@ -225,7 +225,7 @@ meta:
     <strong>Kategori:</strong> Drama
     <strong>Regi:</strong> Ben Lewin
     <strong>Med:</strong> John Hawkes, Helen Hunt, William H. Macy og Moon Bloodgood
-    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto: Twentieth Century Fox Norway</strong>
 
     <strong>Religiøse Mark O'Brian (John Hawkes) ble rammet av polio som liten gutt og er praktisk talt lam fra halsen og ned.</strong> Han tilbringer store deler av livet i en pustemaskin, en såkalt jernlunge, hvor han bruker tiden på å skrive dikt og snakke med et bilde av jomfru Maria. Han er omgitt av assistenter som hjelper ham med praktiske gjøremål. Etter å ha forelsket seg i en av assistentene sine, fridd til henne og blitt avslått, bestemmer Mark seg, i en alder av 38, for at det er på tide å miste jomfrudommen sin.
@@ -250,7 +250,7 @@ meta:
     <strong>Kategori:</strong> Drama
     <strong>Regi:</strong> Ben Lewin
     <strong>Med:</strong> John Hawkes, Helen Hunt, William H. Macy og Moon Bloodgood
-    <a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto: Twentieth Century Fox Norway</strong>
 
     <strong>Religiøse Mark O'Brian (John Hawkes) ble rammet av polio som liten gutt og er praktisk talt lam fra halsen og ned.</strong> Han tilbringer store deler av livet i en pustemaskin, en såkalt jernlunge, hvor han bruker tiden på å skrive dikt og snakke med et bilde av jomfru Maria. Han er omgitt av assistenter som hjelper ham med praktiske gjøremål. Etter å ha forelsket seg i en av assistentene sine, fridd til henne og blitt avslått, bestemmer Mark seg, i en alder av 38, for at det er på tide å miste jomfrudommen sin.
@@ -285,7 +285,7 @@ tags:
 **Kategori:** Drama
 **Regi:** Ben Lewin
 **Med:** John Hawkes, Helen Hunt, William H. Macy og Moon Bloodgood
-<a href="//filmbloggen.net/2013/01/24/usjenert-voksenfilm/052011_surrogatej_10-dng/" rel="attachment wp-att-9634"><img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-9634" src="/wp-content/uploads//2013/01/xpyvdpp3-620x413.jpg" alt="" width="620" height="413" />
 **Foto: Twentieth Century Fox Norway**
 
 **Religiøse Mark O’Brian (John Hawkes) ble rammet av polio som liten gutt og er praktisk talt lam fra halsen og ned.** Han tilbringer store deler av livet i en pustemaskin, en såkalt jernlunge, hvor han bruker tiden på å skrive dikt og snakke med et bilde av jomfru Maria. Han er omgitt av assistenter som hjelper ham med praktiske gjøremål. Etter å ha forelsket seg i en av assistentene sine, fridd til henne og blitt avslått, bestemmer Mark seg, i en alder av 38, for at det er på tide å miste jomfrudommen sin.

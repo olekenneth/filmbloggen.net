@@ -112,7 +112,7 @@ content:
     <strong>Spilletid:</strong> </strong>1 time og 35 minutter<strong>
     <strong>Skuespillere: </strong></strong>Ben Stiller, David Schwimmer, Jada Pinkett Smith, Chris Rock, Frances McDormand, Bryan Cranston.
 
-    <strong><a href="//filmbloggen.net/2012/08/03/uventet-full-rulle/madagaskar/" rel="attachment wp-att-5660"><img class="alignnone size-large wp-image-5660" src="/wp-content/uploads//2012/08/madagaskar-620x340.jpg" alt="" width="620" height="340" /></a>
+    <strong><img class="alignnone size-large wp-image-5660" src="/wp-content/uploads//2012/08/madagaskar-620x340.jpg" alt="" width="620" height="340" />
     Foto: UIP</strong>
 
     <strong>Bare tittelen «Madagaskar 3: Full rulle i Europa» tilsier at dette vil bli en fæl filmopplevelse: Madagaskar, tallet 3, «full rulle», og tydeligvis norske stemmer. Grøss. Likevel er dette morsomt, og kanskje en av de mest kreative animasjonsfilmer jeg noensinne har sett.</strong>
@@ -200,7 +200,7 @@ post_content:
     <strong>Spilletid:</strong> </strong>1 time og 35 minutter<strong>
     <strong>Skuespillere: </strong></strong>Ben Stiller, David Schwimmer, Jada Pinkett Smith, Chris Rock, Frances McDormand, Bryan Cranston.
 
-    <strong><a href="//filmbloggen.net/2012/08/03/uventet-full-rulle/madagaskar/" rel="attachment wp-att-5660"><img class="alignnone size-large wp-image-5660" src="/wp-content/uploads//2012/08/madagaskar-620x340.jpg" alt="" width="620" height="340" /></a>
+    <strong><img class="alignnone size-large wp-image-5660" src="/wp-content/uploads//2012/08/madagaskar-620x340.jpg" alt="" width="620" height="340" />
     Foto: UIP</strong>
 
     <strong>Bare tittelen «Madagaskar 3: Full rulle i Europa» tilsier at dette vil bli en fæl filmopplevelse: Madagaskar, tallet 3, «full rulle», og tydeligvis norske stemmer. Grøss. Likevel er dette morsomt, og kanskje en av de mest kreative animasjonsfilmer jeg noensinne har sett.</strong>
@@ -240,7 +240,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 35 minutter<strong>
     <strong>Skuespillere: </strong></strong>Ben Stiller, David Schwimmer, Jada Pinkett Smith, Chris Rock, Frances McDormand, Bryan Cranston.
 
-    <strong><a href="//filmbloggen.net/2012/08/03/uventet-full-rulle/madagaskar/" rel="attachment wp-att-5660"><img class="alignnone size-large wp-image-5660" src="/wp-content/uploads//2012/08/madagaskar-620x340.jpg" alt="" width="620" height="340" /></a>
+    <strong><img class="alignnone size-large wp-image-5660" src="/wp-content/uploads//2012/08/madagaskar-620x340.jpg" alt="" width="620" height="340" />
     Foto: UIP</strong>
 
     <strong>Bare tittelen «Madagaskar 3: Full rulle i Europa» tilsier at dette vil bli en fæl filmopplevelse: Madagaskar, tallet 3, «full rulle», og tydeligvis norske stemmer. Grøss. Likevel er dette morsomt, og kanskje en av de mest kreative animasjonsfilmer jeg noensinne har sett.</strong>
@@ -271,7 +271,7 @@ meta:
     <strong>Spilletid:</strong> </strong>1 time og 35 minutter<strong>
     <strong>Skuespillere: </strong></strong>Ben Stiller, David Schwimmer, Jada Pinkett Smith, Chris Rock, Frances McDormand, Bryan Cranston.
 
-    <strong><a href="//filmbloggen.net/2012/08/03/uventet-full-rulle/madagaskar/" rel="attachment wp-att-5660"><img class="alignnone size-large wp-image-5660" src="/wp-content/uploads//2012/08/madagaskar-620x340.jpg" alt="" width="620" height="340" /></a>
+    <strong><img class="alignnone size-large wp-image-5660" src="/wp-content/uploads//2012/08/madagaskar-620x340.jpg" alt="" width="620" height="340" />
     Foto: UIP</strong>
 
     <strong>Bare tittelen «Madagaskar 3: Full rulle i Europa» tilsier at dette vil bli en fæl filmopplevelse: Madagaskar, tallet 3, «full rulle», og tydeligvis norske stemmer. Grøss. Likevel er dette morsomt, og kanskje en av de mest kreative animasjonsfilmer jeg noensinne har sett.</strong>
@@ -325,7 +325,7 @@ tags:
 **Spilletid:** **1 time og 35 minutter**
 **Skuespillere: ****Ben Stiller, David Schwimmer, Jada Pinkett Smith, Chris Rock, Frances McDormand, Bryan Cranston.
 
-**<a href="//filmbloggen.net/2012/08/03/uventet-full-rulle/madagaskar/" rel="attachment wp-att-5660"><img class="alignnone size-large wp-image-5660" src="/wp-content/uploads//2012/08/madagaskar-620x340.jpg" alt="" width="620" height="340" /></a>
+**<img class="alignnone size-large wp-image-5660" src="/wp-content/uploads//2012/08/madagaskar-620x340.jpg" alt="" width="620" height="340" />
 Foto: UIP**
 
 **Bare tittelen «Madagaskar 3: Full rulle i Europa» tilsier at dette vil bli en fæl filmopplevelse: Madagaskar, tallet 3, «full rulle», og tydeligvis norske stemmer. Grøss. Likevel er dette morsomt, og kanskje en av de mest kreative animasjonsfilmer jeg noensinne har sett.**

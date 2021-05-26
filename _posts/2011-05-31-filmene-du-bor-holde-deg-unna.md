@@ -106,7 +106,7 @@ content:
 
     <strong>American Pie Presents: The Book of Love</strong>
 
-    <a href="//filmbloggen.webalive.no/2011/05/31/filmene-du-bor-holde-deg-unna/american-pie-book-of-love3-900x598/" rel="attachment wp-att-387"><img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="//filmbloggen.webalive.no/files/2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" /></a>
+    <img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="//filmbloggen.webalive.no/files/2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" />
     <strong><strong>Originaltittel: </strong></strong>American Pie Presents: The Book of Love<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 33 minutter<strong>
@@ -118,7 +118,7 @@ content:
     Hvis du liker livet ditt, ikke se denne filmen. Du kommer til å angre, kanskje mister du troen din på menneskeheten. At det er mulig å lage noe så usannsynlig rævva.
 
     <strong>Superbabies: Baby Geniuses 2</strong>
-    <a href="//filmbloggen.webalive.no/?attachment_id=389"><img class="alignnone size-full wp-image-389" title="superbabies" src="//filmbloggen.webalive.no/files/2011/05/superbabies.jpg" alt="" width="600" height="450" /></a>
+    <img class="alignnone size-full wp-image-389" title="superbabies" src="//filmbloggen.webalive.no/files/2011/05/superbabies.jpg" alt="" width="600" height="450" />
     <strong><strong>Originaltittel: </strong></strong>Superbabies: Baby Geniuses 2<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>
@@ -131,7 +131,7 @@ content:
     <strong></strong>
 
     <strong>Meet the Spartans</strong>
-    <a href="//filmbloggen.webalive.no/files/2011/05/meet-the-spartans.jpg"><img class="alignnone size-large wp-image-390" title="meet the spartans" src="//filmbloggen.webalive.no/files/2011/05/meet-the-spartans-e1310572166740-620x455.jpg" alt="" width="620" height="455" /></a>
+    <img class="alignnone size-large wp-image-390" title="meet the spartans" src="//filmbloggen.webalive.no/files/2011/05/meet-the-spartans-e1310572166740-620x455.jpg" alt="" width="620" height="455" />
     <strong><strong>Originaltittel: </strong></strong>Meet the Spartans<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>
@@ -149,7 +149,7 @@ meta:
 
     <strong>American Pie Presents: The Book of Love</strong>
 
-    <a href="//filmbloggen.webalive.no/2011/05/31/filmene-du-bor-holde-deg-unna/american-pie-book-of-love3-900x598/" rel="attachment wp-att-387"><img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="//filmbloggen.webalive.no/files/2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" /></a>
+    <img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="//filmbloggen.webalive.no/files/2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" />
     <strong><strong>Originaltittel: </strong></strong>American Pie Presents: The Book of Love<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 33 minutter<strong>
@@ -161,7 +161,7 @@ meta:
     Hvis du liker livet ditt, ikke se denne filmen. Du kommer til å angre, kanskje mister du troen din på menneskeheten. At det er mulig å lage noe så usannsynlig rævva.
 
     <strong>Superbabies: Baby Geniuses 2</strong>
-    <a href="//filmbloggen.webalive.no/?attachment_id=389"><img class="alignnone size-full wp-image-389" title="superbabies" src="//filmbloggen.webalive.no/files/2011/05/superbabies.jpg" alt="" width="600" height="450" /></a>
+    <img class="alignnone size-full wp-image-389" title="superbabies" src="//filmbloggen.webalive.no/files/2011/05/superbabies.jpg" alt="" width="600" height="450" />
     <strong><strong>Originaltittel: </strong></strong>Superbabies: Baby Geniuses 2<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>
@@ -174,7 +174,7 @@ meta:
     <strong></strong>
 
     <strong>Meet the Spartans</strong>
-    <a href="//filmbloggen.webalive.no/?attachment_id=390"><img class="alignnone size-large wp-image-390" title="meet the spartans" src="//filmbloggen.webalive.no/files/2011/05/meet-the-spartans-1024x757.jpg" alt="" width="620" height="458" /></a>
+    <img class="alignnone size-large wp-image-390" title="meet the spartans" src="//filmbloggen.webalive.no/files/2011/05/meet-the-spartans-1024x757.jpg" alt="" width="620" height="458" />
     <strong><strong>Originaltittel: </strong></strong>Meet the Spartans<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>
@@ -187,7 +187,7 @@ meta:
 
     <strong>American Pie Presents: The Book of Love</strong>
 
-    <a href="//filmbloggen.webalive.no/2011/05/31/filmene-du-bor-holde-deg-unna/american-pie-book-of-love3-900x598/" rel="attachment wp-att-387"><img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="//filmbloggen.webalive.no/files/2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" /></a>
+    <img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="//filmbloggen.webalive.no/files/2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" />
     <strong><strong>Originaltittel: </strong></strong>American Pie Presents: The Book of Love<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 33 minutter<strong>
@@ -199,7 +199,7 @@ meta:
     Hvis du liker livet ditt, ikke se denne filmen. Du kommer til å angre, kanskje mister du troen din på menneskeheten. At det er mulig å lage noe så usannsynlig rævva.
 
     <strong>Superbabies: Baby Geniuses 2</strong>
-    <a href="//filmbloggen.webalive.no/?attachment_id=389"><img class="alignnone size-full wp-image-389" title="superbabies" src="//filmbloggen.webalive.no/files/2011/05/superbabies.jpg" alt="" width="600" height="450" /></a>
+    <img class="alignnone size-full wp-image-389" title="superbabies" src="//filmbloggen.webalive.no/files/2011/05/superbabies.jpg" alt="" width="600" height="450" />
     <strong><strong>Originaltittel: </strong></strong>Superbabies: Baby Geniuses 2<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>
@@ -212,7 +212,7 @@ meta:
     <strong></strong>
 
     <strong>Meet the Spartans</strong>
-    <a href="//filmbloggen.webalive.no/?attachment_id=390"><img class="alignnone size-large wp-image-390" title="meet the spartans" src="//filmbloggen.webalive.no/files/2011/05/meet-the-spartans-1024x757.jpg" alt="" width="620" height="458" /></a>
+    <img class="alignnone size-large wp-image-390" title="meet the spartans" src="//filmbloggen.webalive.no/files/2011/05/meet-the-spartans-1024x757.jpg" alt="" width="620" height="458" />
     <strong><strong>Originaltittel: </strong></strong>Meet the Spartans<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>
@@ -274,7 +274,7 @@ post_content:
 
     <strong>American Pie Presents: The Book of Love</strong>
 
-    <a href="//filmbloggen.webalive.no/2011/05/31/filmene-du-bor-holde-deg-unna/american-pie-book-of-love3-900x598/" rel="attachment wp-att-387"><img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="//filmbloggen.webalive.no/files/2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" /></a>
+    <img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="//filmbloggen.webalive.no/files/2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" />
     <strong><strong>Originaltittel: </strong></strong>American Pie Presents: The Book of Love<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 33 minutter<strong>
@@ -286,7 +286,7 @@ post_content:
     Hvis du liker livet ditt, ikke se denne filmen. Du kommer til å angre, kanskje mister du troen din på menneskeheten. At det er mulig å lage noe så usannsynlig rævva.
 
     <strong>Superbabies: Baby Geniuses 2</strong>
-    <a href="//filmbloggen.webalive.no/?attachment_id=389"><img class="alignnone size-full wp-image-389" title="superbabies" src="//filmbloggen.webalive.no/files/2011/05/superbabies.jpg" alt="" width="600" height="450" /></a>
+    <img class="alignnone size-full wp-image-389" title="superbabies" src="//filmbloggen.webalive.no/files/2011/05/superbabies.jpg" alt="" width="600" height="450" />
     <strong><strong>Originaltittel: </strong></strong>Superbabies: Baby Geniuses 2<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>
@@ -299,7 +299,7 @@ post_content:
     <strong></strong>
 
     <strong>Meet the Spartans</strong>
-    <a href="//filmbloggen.webalive.no/files/2011/05/meet-the-spartans.jpg"><img class="alignnone size-large wp-image-390" title="meet the spartans" src="//filmbloggen.webalive.no/files/2011/05/meet-the-spartans-e1310572166740-620x455.jpg" alt="" width="620" height="455" /></a>
+    <img class="alignnone size-large wp-image-390" title="meet the spartans" src="//filmbloggen.webalive.no/files/2011/05/meet-the-spartans-e1310572166740-620x455.jpg" alt="" width="620" height="455" />
     <strong><strong>Originaltittel: </strong></strong>Meet the Spartans<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>
@@ -320,7 +320,7 @@ Jeg har ikke satt noen nummerering på de fordi alle sammen er smertefulle på h
 
 **American Pie Presents: The Book of Love**
 
-<a href="//filmbloggen.net/2011/05/31/filmene-du-bor-holde-deg-unna/american-pie-book-of-love3-900x598/" rel="attachment wp-att-387"><img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="/wp-content/uploads//2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" /></a>
+<img class="alignnone size-full wp-image-387" title="American-Pie-Book-of-Love3-900x598" src="/wp-content/uploads//2011/05/american-pie-book-of-love3-900x598-e1310571932338.jpg" alt="" width="600" height="398" />
 ****Originaltittel:**** American Pie Presents: The Book of Love****
 Kategori:**** Komedie**
 **Spilletid:**** 1 time og 33 minutter**

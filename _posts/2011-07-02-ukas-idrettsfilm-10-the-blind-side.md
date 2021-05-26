@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Ukas Idrettsfilm er en sann historie om ungdomstiden til Michael Oher. Oher ble seinere førstedrafta til NFL. Ikke mange visste at han i en periode levde på gata og hadde verken familie eller venner.</strong>
-    <a href="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg"><img class="alignnone size-full wp-image-463" title="the blind side" src="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg" alt="" width="550" height="367" /></a>
+    <img class="alignnone size-full wp-image-463" title="the blind side" src="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg" alt="" width="550" height="367" />
     <strong><strong>Originaltittel: </strong></strong>The Blind Side<strong><strong>
     Kategori:</strong> </strong>Drama/Sport<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 19 minutter<strong>
@@ -119,7 +119,7 @@ trackback_url:
 meta:
   - |
     a:72:{i:1323;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:1303;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:1357;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:1311;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"eebd2a973e";}i:1313;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"a515428b97";}i:1358;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:1348;a:2:{s:3:"key";s:7:"content";s:5:"value";s:2230:"<strong>Ukas Idrettsfilm er en sann historie om ungdomstiden til Michael Oher. Oher ble seinere førstedrafta til NFL. Ikke mange visste at han i en periode levde på gata og hadde verken familie eller venner.</strong>
-    <a href="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg"><img class="alignnone size-full wp-image-463" title="the blind side" src="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg" alt="" width="550" height="367" /></a>
+    <img class="alignnone size-full wp-image-463" title="the blind side" src="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg" alt="" width="550" height="367" />
     <strong><strong>Originaltittel: </strong></strong>The Blind Side<strong><strong>
     Kategori:</strong> </strong>Drama/Sport<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 19 minutter<strong>
@@ -132,7 +132,7 @@ meta:
 
     En koselig historie om en familie som finner det i hjertet sitt til å hjelpe en gutt ingen hadde troen på og gir han den selvtillitten han trengte for å bli noe skikkelig stort<strong>. </strong>Filmen byr på søte historier og flere vendepunkter filmen igjennom og den er absolutt verdt en titt.<strong>
     </strong>";}i:1332;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:1334;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"22";}i:1330;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"13";}i:1328;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:1336;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"05";}i:1349;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:1324;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"11";}i:1331;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:1333;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"11";}i:1329;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"02";}i:1327;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"07";}i:1335;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"30";}i:1317;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:1315;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:1318;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:1375;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"462";}i:640;a:2:{s:3:"key";s:16:"jabber_published";s:5:"value";s:10:"1309558996";}i:1321;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"02";}i:1312;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"1d95b3a192";}i:1354;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:1353;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:1355;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:1322;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"07";}i:1325;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"30";}i:1341;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:1342;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:1304;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:1307;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:1337;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:1359;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:1305;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:1361;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:1376;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:2230:"<strong>Ukas Idrettsfilm er en sann historie om ungdomstiden til Michael Oher. Oher ble seinere førstedrafta til NFL. Ikke mange visste at han i en periode levde på gata og hadde verken familie eller venner.</strong>
-    <a href="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg"><img class="alignnone size-full wp-image-463" title="the blind side" src="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg" alt="" width="550" height="367" /></a>
+    <img class="alignnone size-full wp-image-463" title="the blind side" src="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg" alt="" width="550" height="367" />
     <strong><strong>Originaltittel: </strong></strong>The Blind Side<strong><strong>
     Kategori:</strong> </strong>Drama/Sport<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 19 minutter<strong>
@@ -192,7 +192,7 @@ ID:
 post_content:
   - |
     <strong>Ukas Idrettsfilm er en sann historie om ungdomstiden til Michael Oher. Oher ble seinere førstedrafta til NFL. Ikke mange visste at han i en periode levde på gata og hadde verken familie eller venner.</strong>
-    <a href="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg"><img class="alignnone size-full wp-image-463" title="the blind side" src="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg" alt="" width="550" height="367" /></a>
+    <img class="alignnone size-full wp-image-463" title="the blind side" src="//filmbloggen.webalive.no/files/2011/06/the-blind-side.jpg" alt="" width="550" height="367" />
     <strong><strong>Originaltittel: </strong></strong>The Blind Side<strong><strong>
     Kategori:</strong> </strong>Drama/Sport<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 19 minutter<strong>

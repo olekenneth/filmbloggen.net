@@ -108,7 +108,7 @@ content:
     <strong>Manus: </strong>Rian Johnson<strong>
     Skuespillere: </strong>Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano, Noah Segan, Jeff Daniels...
 
-    <a href="//filmbloggen.net/2012/10/18/science-fiction-briljanse-i-looper/joseph-gordon-levitt/" rel="attachment wp-att-7534"><img class="alignnone size-large wp-image-7534" src="/wp-content/uploads//2012/10/2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7534" src="/wp-content/uploads//2012/10/2-620x413.jpg" alt="" width="620" height="413" />
 
     <em>Blilde: Norsk filmdistribusjon </em>
 
@@ -191,7 +191,7 @@ post_content:
     <strong>Manus: </strong>Rian Johnson<strong>
     Skuespillere: </strong>Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano, Noah Segan, Jeff Daniels...
 
-    <a href="//filmbloggen.net/2012/10/18/science-fiction-briljanse-i-looper/joseph-gordon-levitt/" rel="attachment wp-att-7534"><img class="alignnone size-large wp-image-7534" src="/wp-content/uploads//2012/10/2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7534" src="/wp-content/uploads//2012/10/2-620x413.jpg" alt="" width="620" height="413" />
 
     <em>Blilde: Norsk filmdistribusjon </em>
 
@@ -224,7 +224,7 @@ meta:
     <strong>Manus: </strong>Rian Johnson<strong>
     Skuespillere: </strong>Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano, Noah Segan, Jeff Daniels...
 
-    <a href="//filmbloggen.net/?attachment_id=7534" rel="attachment wp-att-7534"><img class="alignnone size-large wp-image-7534" src="/wp-content/uploads//2012/10/2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7534" src="/wp-content/uploads//2012/10/2-620x413.jpg" alt="" width="620" height="413" />
 
     <em>Blilde: Norsk filmdistribusjon </em>
 
@@ -250,7 +250,7 @@ meta:
     <strong>Manus: </strong>Rian Johnson<strong>
     Skuespillere: </strong>Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano, Noah Segan, Jeff Daniels...
 
-    <a href="//filmbloggen.net/?attachment_id=7534" rel="attachment wp-att-7534"><img class="alignnone size-large wp-image-7534" src="/wp-content/uploads//2012/10/2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7534" src="/wp-content/uploads//2012/10/2-620x413.jpg" alt="" width="620" height="413" />
 
     <em>Blilde: Norsk filmdistribusjon </em>
 
@@ -301,7 +301,7 @@ Regi:** Rian Johnson
 **Manus:** Rian Johnson**
 Skuespillere:** Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano, Noah Segan, Jeff Daniels…
 
-<a href="//filmbloggen.net/2012/10/18/science-fiction-briljanse-i-looper/joseph-gordon-levitt/" rel="attachment wp-att-7534"><img class="alignnone size-large wp-image-7534" src="/wp-content/uploads//2012/10/2-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-7534" src="/wp-content/uploads//2012/10/2-620x413.jpg" alt="" width="620" height="413" />
 
 _Blilde: Norsk filmdistribusjon _
 

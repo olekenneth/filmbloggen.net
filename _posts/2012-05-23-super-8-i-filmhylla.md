@@ -108,7 +108,7 @@ content:
     <strong>Skuespillere:</strong> Joel Courtney, Kyle Chandler, Elle Fanning, Ron Eldard, Ryan Lee, Zach Mills, Riley Griffiths, Gabriel Basso, David Gallagher.
     <strong>Spilletid:</strong> 1 time og 52 minutter
 
-    <a href="//filmbloggen.net/2012/05/23/super-8-i-filmhylla/super-8/" rel="attachment wp-att-3684"><img class="alignnone size-large wp-image-3684" src="/wp-content/uploads//2012/05/super-8-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3684" src="/wp-content/uploads//2012/05/super-8-620x413.jpg" alt="" width="620" height="413" />
 
     Filmen tar oss med tilbake i tid til året 1979. En gjeng med unger er i gang med å filme en zombiefilm og en kveld, mens de er ute ved en gammel jernbanestasjon, blir de vitne til en togavsporing som gjengen såvidt kommer seg levende ut av. I alt kaoset har også filmkameraet stått og gått, og fått med seg at godstoget ikke flyttet på vanlig gods.
 
@@ -191,7 +191,7 @@ post_content:
     <strong>Skuespillere:</strong> Joel Courtney, Kyle Chandler, Elle Fanning, Ron Eldard, Ryan Lee, Zach Mills, Riley Griffiths, Gabriel Basso, David Gallagher.
     <strong>Spilletid:</strong> 1 time og 52 minutter
 
-    <a href="//filmbloggen.net/2012/05/23/super-8-i-filmhylla/super-8/" rel="attachment wp-att-3684"><img class="alignnone size-large wp-image-3684" src="/wp-content/uploads//2012/05/super-8-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3684" src="/wp-content/uploads//2012/05/super-8-620x413.jpg" alt="" width="620" height="413" />
 
     Filmen tar oss med tilbake i tid til året 1979. En gjeng med unger er i gang med å filme en zombiefilm og en kveld, mens de er ute ved en gammel jernbanestasjon, blir de vitne til en togavsporing som gjengen såvidt kommer seg levende ut av. I alt kaoset har også filmkameraet stått og gått, og fått med seg at godstoget ikke flyttet på vanlig gods.
 
@@ -224,7 +224,7 @@ meta:
     <strong>Skuespillere:</strong> Joel Courtney, Kyle Chandler, Elle Fanning, Ron Eldard, Ryan Lee, Zach Mills, Riley Griffiths, Gabriel Basso, David Gallagher.
     <strong>Spilletid:</strong> 1 time og 52 minutter
 
-    <a href="//filmbloggen.net/2012/05/23/super-8-i-filmhylla/super-8/" rel="attachment wp-att-3684"><img class="alignnone size-large wp-image-3684" src="/wp-content/uploads//2012/05/super-8-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3684" src="/wp-content/uploads//2012/05/super-8-620x413.jpg" alt="" width="620" height="413" />
 
     Filmen tar oss med tilbake i tid til året 1979. En gjeng med unger er i gang med å filme en zombiefilm og en kveld, mens de er ute ved en gammel jernbanestasjon, blir de vitne til en togavsporing som gjengen såvidt kommer seg levende ut av. I alt kaoset har også filmkameraet stått og gått, og fått med seg at godstoget ikke flyttet på vanlig gods.
 
@@ -250,7 +250,7 @@ meta:
     <strong>Skuespillere:</strong> Joel Courtney, Kyle Chandler, Elle Fanning, Ron Eldard, Ryan Lee, Zach Mills, Riley Griffiths, Gabriel Basso, David Gallagher.
     <strong>Spilletid:</strong> 1 time og 52 minutter
 
-    <a href="//filmbloggen.net/2012/05/23/super-8-i-filmhylla/super-8/" rel="attachment wp-att-3684"><img class="alignnone size-large wp-image-3684" src="/wp-content/uploads//2012/05/super-8-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3684" src="/wp-content/uploads//2012/05/super-8-620x413.jpg" alt="" width="620" height="413" />
 
     Filmen tar oss med tilbake i tid til året 1979. En gjeng med unger er i gang med å filme en zombiefilm og en kveld, mens de er ute ved en gammel jernbanestasjon, blir de vitne til en togavsporing som gjengen såvidt kommer seg levende ut av. I alt kaoset har også filmkameraet stått og gått, og fått med seg at godstoget ikke flyttet på vanlig gods.
 
@@ -308,7 +308,7 @@ tags:
 **Skuespillere:** Joel Courtney, Kyle Chandler, Elle Fanning, Ron Eldard, Ryan Lee, Zach Mills, Riley Griffiths, Gabriel Basso, David Gallagher.
 **Spilletid:** 1 time og 52 minutter
 
-<a href="//filmbloggen.net/2012/05/23/super-8-i-filmhylla/super-8/" rel="attachment wp-att-3684"><img class="alignnone size-large wp-image-3684" src="/wp-content/uploads//2012/05/super-8-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-3684" src="/wp-content/uploads//2012/05/super-8-620x413.jpg" alt="" width="620" height="413" />
 
 Filmen tar oss med tilbake i tid til året 1979. En gjeng med unger er i gang med å filme en zombiefilm og en kveld, mens de er ute ved en gammel jernbanestasjon, blir de vitne til en togavsporing som gjengen såvidt kommer seg levende ut av. I alt kaoset har også filmkameraet stått og gått, og fått med seg at godstoget ikke flyttet på vanlig gods.
 

@@ -102,7 +102,7 @@ content:
   - |
     <strong>The Hangover hadde ENDELIG premiere på fredag. Og den holder virkelig nivået oppe!!</strong>
 
-    <a href="//filmbloggen.webalive.no/files/2011/05/hangover-2.jpg"><img class="alignnone size-large wp-image-614" title="The Hangover Part II" src="//filmbloggen.webalive.no/files/2011/05/hangover-2-e1310576095397-620x463.jpg" alt="" width="620" height="463" /></a>
+    <img class="alignnone size-large wp-image-614" title="The Hangover Part II" src="//filmbloggen.webalive.no/files/2011/05/hangover-2-e1310576095397-620x463.jpg" alt="" width="620" height="463" />
     <strong><strong>Originaltittel: </strong></strong>The Hangover Part 2<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 41 minutter<strong>
@@ -123,7 +123,7 @@ meta:
   - |
     a:70:{i:2461;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:2441;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:2495;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:2449;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"eebd2a973e";}i:2451;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"a515428b97";}i:2496;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:2486;a:2:{s:3:"key";s:7:"content";s:5:"value";s:2437:"<strong>The Hangover hadde ENDELIG premiere på fredag. Og den holder virkelig nivået oppe!!</strong>
 
-    <a href="//filmbloggen.webalive.no/files/2011/05/hangover-2.jpg"><img class="alignnone size-large wp-image-614" title="The Hangover Part II" src="//filmbloggen.webalive.no/files/2011/05/hangover-2-e1310576095397-620x463.jpg" alt="" width="620" height="463" /></a>
+    <img class="alignnone size-large wp-image-614" title="The Hangover Part II" src="//filmbloggen.webalive.no/files/2011/05/hangover-2-e1310576095397-620x463.jpg" alt="" width="620" height="463" />
     <strong><strong>Originaltittel: </strong></strong>The Hangover Part 2<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 41 minutter<strong>
@@ -139,7 +139,7 @@ meta:
 
     Jeg forventet ikke at ting skulle være logisk og jeg forventet ikke en sinnsykt overraskelse på slutten, herr Selås. Jeg forventet at jeg skulle le. Og jeg lo, noe så sinnsykt også. Og når filmen roet seg ned mot slutten og de skulle prøve å redde brullypet fikk jeg slappet av litt før jeg gapskratta de siste 5 minuttene og under rulleteksten. Herregud, for en film. Løp å se NÅ!";}i:2470;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:2472;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"18";}i:2468;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"13";}i:2466;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:2474;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"55";}i:2487;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:2462;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"13";}i:2469;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:2471;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"13";}i:2467;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"30";}i:2465;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"05";}i:2473;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"47";}i:2455;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:2453;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:2456;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:2513;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"376";}i:596;a:2:{s:3:"key";s:16:"jabber_published";s:5:"value";s:10:"1306756040";}i:2459;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"30";}i:2450;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"1d95b3a192";}i:2492;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:2491;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:2493;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:2460;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"05";}i:2463;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"47";}i:2479;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:2480;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:2442;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:2445;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:2475;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:2497;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:2443;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:2499;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:2514;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:2437:"<strong>The Hangover hadde ENDELIG premiere på fredag. Og den holder virkelig nivået oppe!!</strong>
 
-    <a href="//filmbloggen.webalive.no/files/2011/05/hangover-2.jpg"><img class="alignnone size-large wp-image-614" title="The Hangover Part II" src="//filmbloggen.webalive.no/files/2011/05/hangover-2-e1310576095397-620x463.jpg" alt="" width="620" height="463" /></a>
+    <img class="alignnone size-large wp-image-614" title="The Hangover Part II" src="//filmbloggen.webalive.no/files/2011/05/hangover-2-e1310576095397-620x463.jpg" alt="" width="620" height="463" />
     <strong><strong>Originaltittel: </strong></strong>The Hangover Part 2<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 41 minutter<strong>
@@ -202,7 +202,7 @@ post_content:
   - |
     <strong>The Hangover hadde ENDELIG premiere på fredag. Og den holder virkelig nivået oppe!!</strong>
 
-    <a href="//filmbloggen.webalive.no/files/2011/05/hangover-2.jpg"><img class="alignnone size-large wp-image-614" title="The Hangover Part II" src="//filmbloggen.webalive.no/files/2011/05/hangover-2-e1310576095397-620x463.jpg" alt="" width="620" height="463" /></a>
+    <img class="alignnone size-large wp-image-614" title="The Hangover Part II" src="//filmbloggen.webalive.no/files/2011/05/hangover-2-e1310576095397-620x463.jpg" alt="" width="620" height="463" />
     <strong><strong>Originaltittel: </strong></strong>The Hangover Part 2<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>1 time og 41 minutter<strong>

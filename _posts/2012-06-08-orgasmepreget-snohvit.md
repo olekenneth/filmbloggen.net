@@ -105,14 +105,14 @@ content:
     <strong>Spilletid:</strong> </strong>2 timer og 7 minutter<strong>
     <strong>Regissør: </strong></strong>Rupert Sanders
     <strong>Med: </strong>Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin, Ian McShane, Nick Frost, Eddie Marsan, Ray Winstone, Bob Hoskins, Toby Jones, Vincent Regan
-    <a href="//filmbloggen.net/2012/06/08/orgasmepreget-snohvit/snow-white/" rel="attachment wp-att-4050"><img class="alignnone size-large wp-image-4050" src="/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" /></a>
+    <img class="alignnone size-large wp-image-4050" src="/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" />
     <em><strong>Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.</strong>
     </em><strong>Alle foto: UIP</strong>
 
     Historien er nokså lik den kjente og kjære. Snøhvit er i ferd med å gro seg vakrere enn den heite, onde dronninga (Charlize Theron), så nå iverksetter sistnevnte tiltak for å stagnere Snøhvits faretruende utvikling – eller med andre, enklere ord; bare drepe henne. Det vil selvfølgelig ikke Snøhvit ha noe av, så hun flykter ut i den skumle, mørke skauen.
     <div>
 
-    <a href="//myoscaropinion.files.wordpress.com/2012/06/11.jpg"><img class="alignright" src="//myoscaropinion.files.wordpress.com/2012/06/11.jpg?w=300&h=150" alt="" width="300" height="150" /></a>Der møter hun barske “Home and Away”-Chris (Hemsworth) og syv velcastede dverger – og det er disse som redder filmen fra å være en temmelig stor skuffelse. Ian McShane, Nick Frost, Bob Hoskins, Eddie Marsan, Toby Jones og Ray Winstone er tidenes filmdverger og burde fått langt mer tid på lerretet. Vi får se om “Hobbiten”-dvergene klarer å overgå dette til vinteren.
+    <img class="alignright" src="//myoscaropinion.files.wordpress.com/2012/06/11.jpg?w=300&h=150" alt="" width="300" height="150" />Der møter hun barske “Home and Away”-Chris (Hemsworth) og syv velcastede dverger – og det er disse som redder filmen fra å være en temmelig stor skuffelse. Ian McShane, Nick Frost, Bob Hoskins, Eddie Marsan, Toby Jones og Ray Winstone er tidenes filmdverger og burde fått langt mer tid på lerretet. Vi får se om “Hobbiten”-dvergene klarer å overgå dette til vinteren.
 
     Ved første øyekast er bildene i “Snow White and the Huntsman” svært lovende, men det som i et og annet øyeblikk kan minne om en Zach Snyder-finger med i spillet, viser seg etter hvert å bare være flaks. Fotograf Greig Fraser har ikke klart å fange den lekre scenografien ordentlig – noen ganger forsvinner til og med fokuset litt. En bedre regissør kunne trolig holdt Fraser i ørene, og sørget for at den visuelle opplevelsen ble noe mer minneverdig.
 
@@ -185,14 +185,14 @@ post_content:
     <strong>Spilletid:</strong> </strong>2 timer og 7 minutter<strong>
     <strong>Regissør: </strong></strong>Rupert Sanders
     <strong>Med: </strong>Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin, Ian McShane, Nick Frost, Eddie Marsan, Ray Winstone, Bob Hoskins, Toby Jones, Vincent Regan
-    <a href="//filmbloggen.net/2012/06/08/orgasmepreget-snohvit/snow-white/" rel="attachment wp-att-4050"><img class="alignnone size-large wp-image-4050" src="/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" /></a>
+    <img class="alignnone size-large wp-image-4050" src="/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" />
     <em><strong>Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.</strong>
     </em><strong>Alle foto: UIP</strong>
 
     Historien er nokså lik den kjente og kjære. Snøhvit er i ferd med å gro seg vakrere enn den heite, onde dronninga (Charlize Theron), så nå iverksetter sistnevnte tiltak for å stagnere Snøhvits faretruende utvikling – eller med andre, enklere ord; bare drepe henne. Det vil selvfølgelig ikke Snøhvit ha noe av, så hun flykter ut i den skumle, mørke skauen.
     <div>
 
-    <a href="//myoscaropinion.files.wordpress.com/2012/06/11.jpg"><img class="alignright" src="//myoscaropinion.files.wordpress.com/2012/06/11.jpg?w=300&h=150" alt="" width="300" height="150" /></a>Der møter hun barske “Home and Away”-Chris (Hemsworth) og syv velcastede dverger – og det er disse som redder filmen fra å være en temmelig stor skuffelse. Ian McShane, Nick Frost, Bob Hoskins, Eddie Marsan, Toby Jones og Ray Winstone er tidenes filmdverger og burde fått langt mer tid på lerretet. Vi får se om “Hobbiten”-dvergene klarer å overgå dette til vinteren.
+    <img class="alignright" src="//myoscaropinion.files.wordpress.com/2012/06/11.jpg?w=300&h=150" alt="" width="300" height="150" />Der møter hun barske “Home and Away”-Chris (Hemsworth) og syv velcastede dverger – og det er disse som redder filmen fra å være en temmelig stor skuffelse. Ian McShane, Nick Frost, Bob Hoskins, Eddie Marsan, Toby Jones og Ray Winstone er tidenes filmdverger og burde fått langt mer tid på lerretet. Vi får se om “Hobbiten”-dvergene klarer å overgå dette til vinteren.
 
     Ved første øyekast er bildene i “Snow White and the Huntsman” svært lovende, men det som i et og annet øyeblikk kan minne om en Zach Snyder-finger med i spillet, viser seg etter hvert å bare være flaks. Fotograf Greig Fraser har ikke klart å fange den lekre scenografien ordentlig – noen ganger forsvinner til og med fokuset litt. En bedre regissør kunne trolig holdt Fraser i ørene, og sørget for at den visuelle opplevelsen ble noe mer minneverdig.
 
@@ -243,7 +243,7 @@ tags:
 **Spilletid:** **2 timer og 7 minutter**
 **Regissør: ****Rupert Sanders
 **Med: **Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin, Ian McShane, Nick Frost, Eddie Marsan, Ray Winstone, Bob Hoskins, Toby Jones, Vincent Regan
-<a href="//filmbloggen.net/2012/06/08/orgasmepreget-snohvit/snow-white/" rel="attachment wp-att-4050"><img class="alignnone size-large wp-image-4050" src="/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" /></a>
+<img class="alignnone size-large wp-image-4050" src="/wp-content/uploads//2012/06/snow-white-620x263.jpg" alt="" width="620" height="263" />
 _**Teksten er skrevet av Sindre Grading for <a href="//filmsnakk.com" target="_blank">filmsnakk.com</a>. Gjengitt med tillatelse.**
 _ **Alle foto: UIP**
 
@@ -251,7 +251,7 @@ Historien er nokså lik den kjente og kjære. Snøhvit er i ferd med å gro seg 
 
 <div>
   <p>
-    <a href="//myoscaropinion.files.wordpress.com/2012/06/11.jpg"><img class="alignright" src="//myoscaropinion.files.wordpress.com/2012/06/11.jpg?w=300&h=150" alt="" width="300" height="150" /></a>Der møter hun barske “Home and Away”-Chris (Hemsworth) og syv velcastede dverger – og det er disse som redder filmen fra å være en temmelig stor skuffelse. Ian McShane, Nick Frost, Bob Hoskins, Eddie Marsan, Toby Jones og Ray Winstone er tidenes filmdverger og burde fått langt mer tid på lerretet. Vi får se om “Hobbiten”-dvergene klarer å overgå dette til vinteren.
+    <img class="alignright" src="//myoscaropinion.files.wordpress.com/2012/06/11.jpg?w=300&h=150" alt="" width="300" height="150" />Der møter hun barske “Home and Away”-Chris (Hemsworth) og syv velcastede dverger – og det er disse som redder filmen fra å være en temmelig stor skuffelse. Ian McShane, Nick Frost, Bob Hoskins, Eddie Marsan, Toby Jones og Ray Winstone er tidenes filmdverger og burde fått langt mer tid på lerretet. Vi får se om “Hobbiten”-dvergene klarer å overgå dette til vinteren.
   </p>
 
   <p>

@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Captain America: The First Avenger er på mange måter bare noe for å gi fansen noe å vente på fram til The Avengers i 2012. Men jeg koste meg jeg.
-    <a href="//filmbloggen.net/2011/08/28/bygger-bra-opp-til-the-avengers/captain-america/" rel="attachment wp-att-783"><img class="alignnone size-full wp-image-783" src="/wp-content/uploads//2011/08/captain-america.jpg" alt="" width="400" height="253" /></a>
+    <img class="alignnone size-full wp-image-783" src="/wp-content/uploads//2011/08/captain-america.jpg" alt="" width="400" height="253" />
     Originaltittel: </strong>Captain America: The First Avenger<strong>
     <strong>Kategori: </strong></strong>Action<strong><strong>
     Spilletid: </strong></strong>2 timer og 4 minutter<strong><strong>
@@ -174,7 +174,7 @@ ID:
 post_content:
   - |
     <strong>Captain America: The First Avenger er på mange måter bare noe for å gi fansen noe å vente på fram til The Avengers i 2012. Men jeg koste meg jeg.
-    <a href="//filmbloggen.net/2011/08/28/bygger-bra-opp-til-the-avengers/captain-america/" rel="attachment wp-att-783"><img class="alignnone size-full wp-image-783" src="/wp-content/uploads//2011/08/captain-america.jpg" alt="" width="400" height="253" /></a>
+    <img class="alignnone size-full wp-image-783" src="/wp-content/uploads//2011/08/captain-america.jpg" alt="" width="400" height="253" />
     Originaltittel: </strong>Captain America: The First Avenger<strong>
     <strong>Kategori: </strong></strong>Action<strong><strong>
     Spilletid: </strong></strong>2 timer og 4 minutter<strong><strong>
@@ -199,14 +199,14 @@ publish:
 meta:
   - |
     a:80:{i:5611;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:5589;a:2:{s:3:"key";s:6:"action";s:5:"value";s:11:"inline-save";}i:5642;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:5598;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"5b67db1298";}i:5596;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:5600;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"0b750f4a89";}i:5643;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:5635;a:2:{s:3:"key";s:7:"content";s:5:"value";s:602:"<strong>Captain America: The First Avenger er på mange måter bare noe for å gi fansen noe å vente på fram til The Avengers i 2012. Men jeg koste meg jeg.
-    <a href="//filmbloggen.net/?attachment_id=783" rel="attachment wp-att-783"><img class="alignnone size-full wp-image-783" src="/wp-content/uploads//2011/08/captain-america.jpg" alt="" width="400" height="253" /></a>
+    <img class="alignnone size-full wp-image-783" src="/wp-content/uploads//2011/08/captain-america.jpg" alt="" width="400" height="253" />
     Originaltittel: </strong>Captain America: The First Avenger<strong>
     Kategori: </strong>Action<strong>
     Spilletid: </strong>2 timer og 4 minutter<strong>
     Regissør: </strong>Joe Johnston
 
      ";}i:5620;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:5622;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"21";}i:5618;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"28";}i:5616;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"08";}i:5624;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"58";}i:5941;a:2:{s:3:"key";s:9:"edit_date";s:5:"value";s:4:"true";}i:5647;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:5636;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:5612;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"21";}i:5619;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:5621;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"21";}i:5617;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"28";}i:5615;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"08";}i:5623;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"01";}i:5605;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:5603;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:5606;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:5664;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"775";}i:5609;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"28";}i:5599;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"48c28e3883";}i:5639;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:5638;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:5640;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:5610;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"08";}i:5613;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"01";}i:5628;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:5629;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:5590;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:5593;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:5625;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:5644;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:5591;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:5646;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:5665;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:602:"<strong>Captain America: The First Avenger er på mange måter bare noe for å gi fansen noe å vente på fram til The Avengers i 2012. Men jeg koste meg jeg.
-    <a href="//filmbloggen.net/?attachment_id=783" rel="attachment wp-att-783"><img class="alignnone size-full wp-image-783" src="/wp-content/uploads//2011/08/captain-america.jpg" alt="" width="400" height="253" /></a>
+    <img class="alignnone size-full wp-image-783" src="/wp-content/uploads//2011/08/captain-america.jpg" alt="" width="400" height="253" />
     Originaltittel: </strong>Captain America: The First Avenger<strong>
     Kategori: </strong>Action<strong>
     Spilletid: </strong>2 timer og 4 minutter<strong>
@@ -240,7 +240,7 @@ tags:
   - Tommy Lee Jones
 ---
 **Captain America: The First Avenger er på mange måter bare noe for å gi fansen noe å vente på fram til The Avengers i 2012. Men jeg koste meg jeg.
-<a href="//filmbloggen.net/2011/08/28/bygger-bra-opp-til-the-avengers/captain-america/" rel="attachment wp-att-783"><img class="alignnone size-full wp-image-783" src="/wp-content/uploads//2011/08/captain-america.jpg" alt="" width="400" height="253" /></a>
+<img class="alignnone size-full wp-image-783" src="/wp-content/uploads//2011/08/captain-america.jpg" alt="" width="400" height="253" />
 Originaltittel:** Captain America: The First Avenger**
 **Kategori: ****Action****
 Spilletid: ****2 timer og 4 minutter****

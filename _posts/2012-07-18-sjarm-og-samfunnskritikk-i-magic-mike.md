@@ -302,7 +302,7 @@ Regi:** Steven Soderbergh**
 Manus:** Reid Carolin**
 Skuespillere:** Channing Tatum, Alex Pettyfer, Olivia Munn, Matthew McConaughey, Cody Horn, Joe Manganiello, Matt Bomer, Adam Rodriguez
 
-<a href="//filmbloggen.net/2012/07/18/sjarm-og-samfunnskritikk-i-magic-mike/mm-cb-01319r/" rel="attachment wp-att-5116"><img class="alignnone size-large wp-image-5116" src="/wp-content/uploads//2012/07/4-001-620x412.jpg" alt="" width="620" height="412" /><br /> </a>_Foto: Norsk Filmdistribusjon_
+<img class="alignnone size-large wp-image-5116" src="/wp-content/uploads//2012/07/4-001-620x412.jpg" alt="" width="620" height="412" /><br /> _Foto: Norsk Filmdistribusjon_
 
 Magic Mike er strippernavnet til entreprenøren Mike (Channing Tatum) og er hovedattraksjonen på den mannlige strippeklubben. Før vi blir introdusert for Mikes strippetilværelse får vi vite at hans store drøm er å selge hjemmelagde og unike møbler. Dette krever penger og det er slik Soderbergh har valgt å kommentere finanskrisen igjen.
 

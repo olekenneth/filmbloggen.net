@@ -103,7 +103,7 @@ content:
     <strong>Mads Mikkelsen har fått hovedrollen i en ny tv-serie om Hannibal the Cannibal.<!--more--></strong>
     <img class="alignnone size-large wp-image-4046" src="/wp-content/uploads//2012/06/hannibal-lecter-620x331.jpg" alt="" width="620" height="331" />
     Anthony Hopkins som Hannibal Lecter er en av mine favorittkarakterer i oppveksten og tro det eller ei, så var Red Dragon og Silence of the Lambs mye av grunnen til at min filminteresse ble så stor som den er. Jeg er absolutt nysgjerrig på hva Fuller klarer å få til med denne serien, men det kan fort også bli en total katastrofe.
-    <a href="//filmbloggen.net/2012/06/08/tv-serie-om-hannibal-lecter/mads-mikkelsen/" rel="attachment wp-att-4072"><img class="alignright size-thumbnail wp-image-4072" src="/wp-content/uploads//2012/06/mads-mikkelsen-150x150.jpg" alt="" width="150" height="150" /></a>
+    <img class="alignright size-thumbnail wp-image-4072" src="/wp-content/uploads//2012/06/mads-mikkelsen-150x150.jpg" alt="" width="150" height="150" />
     Det har jo vært kjent ganske lenge at det skal lages en tv-serie om Hannibal Lecter. Skaperen av serien er Bryan Fuller og nå er det bestemt at Hannibal skal spilles av Mads Mikkelsen (lille bildet) som er mest kjent fra King Arthur, Clash of The Titans og Casino Royale. Jeg må si meg enig med Thor Joachim Haga i <a href="//montages.no">montages.no</a>. Han sier:
     Det er selvfølgelig ingen tvil om at Mikkelsen er en kapabel skuespiller, men igjen ble jeg slått av hvor aparte valget virket. Han ligner overhodet ikke på <a href="//montages.no/filmfolk/anthony-hopkins">Anthony Hopkins</a> (i den grad slikt er viktig) og er allerede 46 år. Det er med andre ord begrenset hvor langt tilbake i tid man kan gå.
 
@@ -169,7 +169,7 @@ post_content:
     <strong>Mads Mikkelsen har fått hovedrollen i en ny tv-serie om Hannibal the Cannibal.<!--more--></strong>
     <img class="alignnone size-large wp-image-4046" src="/wp-content/uploads//2012/06/hannibal-lecter-620x331.jpg" alt="" width="620" height="331" />
     Anthony Hopkins som Hannibal Lecter er en av mine favorittkarakterer i oppveksten og tro det eller ei, så var Red Dragon og Silence of the Lambs mye av grunnen til at min filminteresse ble så stor som den er. Jeg er absolutt nysgjerrig på hva Fuller klarer å få til med denne serien, men det kan fort også bli en total katastrofe.
-    <a href="//filmbloggen.net/2012/06/08/tv-serie-om-hannibal-lecter/mads-mikkelsen/" rel="attachment wp-att-4072"><img class="alignright size-thumbnail wp-image-4072" src="/wp-content/uploads//2012/06/mads-mikkelsen-150x150.jpg" alt="" width="150" height="150" /></a>
+    <img class="alignright size-thumbnail wp-image-4072" src="/wp-content/uploads//2012/06/mads-mikkelsen-150x150.jpg" alt="" width="150" height="150" />
     Det har jo vært kjent ganske lenge at det skal lages en tv-serie om Hannibal Lecter. Skaperen av serien er Bryan Fuller og nå er det bestemt at Hannibal skal spilles av Mads Mikkelsen (lille bildet) som er mest kjent fra King Arthur, Clash of The Titans og Casino Royale. Jeg må si meg enig med Thor Joachim Haga i <a href="//montages.no">montages.no</a>. Han sier:
     Det er selvfølgelig ingen tvil om at Mikkelsen er en kapabel skuespiller, men igjen ble jeg slått av hvor aparte valget virket. Han ligner overhodet ikke på <a href="//montages.no/filmfolk/anthony-hopkins">Anthony Hopkins</a> (i den grad slikt er viktig) og er allerede 46 år. Det er med andre ord begrenset hvor langt tilbake i tid man kan gå.
 
@@ -227,7 +227,7 @@ categories:
 
 <img class="alignnone size-large wp-image-4046" src="/wp-content/uploads//2012/06/hannibal-lecter-620x331.jpg" alt="" width="620" height="331" />
 Anthony Hopkins som Hannibal Lecter er en av mine favorittkarakterer i oppveksten og tro det eller ei, så var Red Dragon og Silence of the Lambs mye av grunnen til at min filminteresse ble så stor som den er. Jeg er absolutt nysgjerrig på hva Fuller klarer å få til med denne serien, men det kan fort også bli en total katastrofe.
-<a href="//filmbloggen.net/2012/06/08/tv-serie-om-hannibal-lecter/mads-mikkelsen/" rel="attachment wp-att-4072"><img class="alignright size-thumbnail wp-image-4072" src="/wp-content/uploads//2012/06/mads-mikkelsen-150x150.jpg" alt="" width="150" height="150" /></a>
+<img class="alignright size-thumbnail wp-image-4072" src="/wp-content/uploads//2012/06/mads-mikkelsen-150x150.jpg" alt="" width="150" height="150" />
 Det har jo vært kjent ganske lenge at det skal lages en tv-serie om Hannibal Lecter. Skaperen av serien er Bryan Fuller og nå er det bestemt at Hannibal skal spilles av Mads Mikkelsen (lille bildet) som er mest kjent fra King Arthur, Clash of The Titans og Casino Royale. Jeg må si meg enig med Thor Joachim Haga i [montages.no](//montages.no). Han sier:
 «Det er selvfølgelig ingen tvil om at Mikkelsen er en kapabel skuespiller, men igjen ble jeg slått av hvor aparte valget virket. Han ligner overhodet ikke på [Anthony Hopkins](//montages.no/filmfolk/anthony-hopkins) (i den grad slikt er viktig) og er allerede 46 år. Det er med andre ord begrenset hvor langt tilbake i tid man kan gå.»
 

@@ -289,13 +289,13 @@ tags:
 **Regissør:** Jonathan Levine
 **Skuespillere:** Teresa Palmer, Nicholas Hoult, Dave Franco, Analeigh Tipton, John Malkovich, Rob Corddry, Cory Hardrict
 
-<a href="//filmbloggen.net/2013/05/06/apokalyptisk-romanse/warm-bodies-2/" rel="attachment wp-att-10241"><img class="alignnone size-full wp-image-10241" src="/wp-content/uploads//2013/04/5-11.jpg" alt="" width="497" height="331" /><br /> </a>**Foto:** Summit Entertainment
+<img class="alignnone size-full wp-image-10241" src="/wp-content/uploads//2013/04/5-11.jpg" alt="" width="497" height="331" /><br /> **Foto:** Summit Entertainment
 
 **I filmen basert på Isaac Marions novelle ”Warm Bodies” møter vi R (Nicholas Hoult),** en tilsynelatende normal zombie med stor apetitt for hjerner og en konfliktpreget holdning til sin egen livsstil. I denne post-apokalyptiske verden er det mennesker mot zombier og skjeletter, som spiser alt med hjerteslag. Når R møter Julie (Teresa Palmer), faller han pladask og redder henne fra å bli en del av menyen til zombie-vennene. R sine følelser blir satt i sving når han og Julie tilbringer flere dager sammen i et forlatt fly. Følelsene til R vokser seg sterkere for Julie over tid og han får etter hvert noe som minner om en menneskelig forelskelse. Det hjelper kanskje også at han i mellomtiden har småspist på hjernen til Julies eks, som han går rundt med i lommen på hettegenseren sin, for å oppleve minner.
 
 **Nicholas Hoult, som også spiller helt i ”Jack the Giant Slayer” tilfredsstiller som zombie.** Hans gradvise overgang fra en haltende kannibal til en forelsket tenåring er overbevisende, selv om manuset ikke er av det krevende slaget. Det er mye grynting og stønning, men ved god beherskelse av blikk og kroppsspråk blir han i mine øyne en temmelig sjarmerende zombie. Teresa Palmer blir dessverre litt anonym og det må mer til enn et pent ansikt og pappaproblemer for at jeg skal bli overbevist.
 
-<a href="//filmbloggen.net/2013/05/06/apokalyptisk-romanse/warm-bodies-3/" rel="attachment wp-att-10246"><img class="alignnone size-full wp-image-10246" src="/wp-content/uploads//2013/04/6-2.jpg" alt="" width="497" height="331" /><br /> </a>**Foto:** Summit Entertainment
+<img class="alignnone size-full wp-image-10246" src="/wp-content/uploads//2013/04/6-2.jpg" alt="" width="497" height="331" /><br /> **Foto:** Summit Entertainment
 
 **Regissør Jonathan Levine (50/50, How to Make It in America)** har valgt å legge mye vekt på mellommenneskelige relasjoner i en hverdag hvor kampen for å overleve er daglig kost. Hendelsesforløpet i filmen går i et behagelig tempo og veksler akkurat nok mellom action og rolig samspill. Vi blir kjent med karakterene gjennom kreative metoder, enten ved at zombiene spiser noens hjerne for tilgang på minner og drømmer eller at vi får innblikk i hovedkarakterens tanker. Marco Beltrami og Buck Sanders har også gjort en fabelaktig jobb med musikken. Den er høyst varierende, men passer som hånd i hanske til det som utspiller seg på skjermen.
 

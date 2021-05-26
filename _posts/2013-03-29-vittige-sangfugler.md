@@ -299,7 +299,7 @@ tags:
 **Sjanger:** Komedie, romantikk, musikk
 **Skuespillere:** Anna Kendrick, Brittany Snow, Rebel Wilson, Christopher Mintz-Plasse, Anna Camp, Adam DeVine, Alexis Knapp, Freddie Stroma, Skylar Astin, Brittney Alger, Jacob Wysocki
 
-**<a href="//filmbloggen.net/2013/03/29/vittige-sangfugler/3-5/" rel="attachment wp-att-10203"><img class="alignnone size-large wp-image-10203" src="/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" /><br /> </a>Foto: UIP**
+**<img class="alignnone size-large wp-image-10203" src="/wp-content/uploads//2013/03/32-620x310.jpg" alt="Foto: UIP" width="620" height="310" /><br /> Foto: UIP**
 
 **Beca (spilt av Anna Kendrick) er en tenåring som skal begynne på universitet,** selv om hennes egentlige planer er å flytte til Los Angeles for å produsere musikk. Etter streng beskjed fra hennes far, skal Beca prøve å engasjere seg i universitetslivet for å få venner og nye opplevelser. Hun blir etter hvert medlem i et kvinnelig a cappella kor kalt The Barden Bellas, ledet av perfeksjonisten Aubrey (Anna Camp).
 

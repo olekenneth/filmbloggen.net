@@ -107,7 +107,7 @@ content:
     Kategori: </strong>Drama<strong>
     Regissør:</strong> Thomas Cappelen Malling
     <strong>Med:</strong> Mads Ousdal, Jon Øigarden, Linn Stokke,Amund Maarud, Dean Erik Andersen, Terje Strømdahl, Martinus Grimstad Olsen, Øyvind Venstad Kjeksrud, Henrik Horge, Emil Johnsen,Trond Viggo Torgersen
-    <a href="//filmbloggen.net/2011/10/09/kommandor-treholt-ninjatroppen/hogxrjr48/" rel="attachment wp-att-1369"><img class="alignnone size-large wp-image-1369" src="/wp-content/uploads//2011/10/hogxrjr48-620x386.jpg" alt="" width="620" height="386" /></a><strong></strong>
+    <img class="alignnone size-large wp-image-1369" src="/wp-content/uploads//2011/10/hogxrjr48-620x386.jpg" alt="" width="620" height="386" /><strong></strong>
 
     Kommandør Treholt & Ninjatroppen ble til takket være en bok ved navn: "Ninjateknikk II - Usynlig Strid i 1978". Dette var en bok regissør Malling ga ut, og som senere ble gjort om til film. Filmen gir oss et alternativt blikk på historien bak arrestasjonen av Arne Treholt i 1985, hvor han ble tatt for spionasje til fordel for Sovjetunionen. Filmen driver med reinspikka historieforfalskning, men på et godt og noen ganger humoristisk vis.
 
@@ -181,7 +181,7 @@ post_content:
     Kategori: </strong>Drama<strong>
     Regissør:</strong> Thomas Cappelen Malling
     <strong>Med:</strong> Mads Ousdal, Jon Øigarden, Linn Stokke,Amund Maarud, Dean Erik Andersen, Terje Strømdahl, Martinus Grimstad Olsen, Øyvind Venstad Kjeksrud, Henrik Horge, Emil Johnsen,Trond Viggo Torgersen
-    <a href="//filmbloggen.net/2011/10/09/kommandor-treholt-ninjatroppen/hogxrjr48/" rel="attachment wp-att-1369"><img class="alignnone size-large wp-image-1369" src="/wp-content/uploads//2011/10/hogxrjr48-620x386.jpg" alt="" width="620" height="386" /></a><strong></strong>
+    <img class="alignnone size-large wp-image-1369" src="/wp-content/uploads//2011/10/hogxrjr48-620x386.jpg" alt="" width="620" height="386" /><strong></strong>
 
     Kommandør Treholt & Ninjatroppen ble til takket være en bok ved navn: "Ninjateknikk II - Usynlig Strid i 1978". Dette var en bok regissør Malling ga ut, og som senere ble gjort om til film. Filmen gir oss et alternativt blikk på historien bak arrestasjonen av Arne Treholt i 1985, hvor han ble tatt for spionasje til fordel for Sovjetunionen. Filmen driver med reinspikka historieforfalskning, men på et godt og noen ganger humoristisk vis.
 
@@ -207,7 +207,7 @@ meta:
     Kategori: </strong>Drama<strong>
     Regissør:</strong> Thomas Cappelen Malling
     <strong>Med:</strong> Mads Ousdal, Jon Øigarden, Linn Stokke,Amund Maarud, Dean Erik Andersen, Terje Strømdahl, Martinus Grimstad Olsen, Øyvind Venstad Kjeksrud, Henrik Horge, Emil Johnsen,Trond Viggo Torgersen
-    <a href="//filmbloggen.net/2011/10/09/kommandor-treholt-ninjatroppen/hogxrjr48/" rel="attachment wp-att-1369"><img class="alignnone size-large wp-image-1369" src="/wp-content/uploads//2011/10/hogxrjr48-620x386.jpg" alt="" width="620" height="386" /></a>
+    <img class="alignnone size-large wp-image-1369" src="/wp-content/uploads//2011/10/hogxrjr48-620x386.jpg" alt="" width="620" height="386" />
     <strong>Skrevet av:</strong> Øyvind Vøllo Brennum
 
     Kommandør Treholt & Ninjatroppen ble til takket være en bok ved navn: "Ninjateknikk II - Usynlig Strid i 1978". Dette var en bok regissør Malling ga ut, og som senere ble gjort om til film. Filmen gir oss et alternativt blikk på historien bak arrestasjonen av Arne Treholt i 1985, hvor han ble tatt for spionasje til fordel for Sovjetunionen. Filmen driver med reinspikka historieforfalskning, men på et godt og noen ganger humoristisk vis.
@@ -225,7 +225,7 @@ meta:
     Kategori: </strong>Drama<strong>
     Regissør:</strong> Thomas Cappelen Malling
     <strong>Med:</strong> Mads Ousdal, Jon Øigarden, Linn Stokke,Amund Maarud, Dean Erik Andersen, Terje Strømdahl, Martinus Grimstad Olsen, Øyvind Venstad Kjeksrud, Henrik Horge, Emil Johnsen,Trond Viggo Torgersen
-    <a href="//filmbloggen.net/2011/10/09/kommandor-treholt-ninjatroppen/hogxrjr48/" rel="attachment wp-att-1369"><img class="alignnone size-large wp-image-1369" src="/wp-content/uploads//2011/10/hogxrjr48-620x386.jpg" alt="" width="620" height="386" /></a>
+    <img class="alignnone size-large wp-image-1369" src="/wp-content/uploads//2011/10/hogxrjr48-620x386.jpg" alt="" width="620" height="386" />
     <strong>Skrevet av:</strong> Øyvind Vøllo Brennum
 
     Kommandør Treholt & Ninjatroppen ble til takket være en bok ved navn: "Ninjateknikk II - Usynlig Strid i 1978". Dette var en bok regissør Malling ga ut, og som senere ble gjort om til film. Filmen gir oss et alternativt blikk på historien bak arrestasjonen av Arne Treholt i 1985, hvor han ble tatt for spionasje til fordel for Sovjetunionen. Filmen driver med reinspikka historieforfalskning, men på et godt og noen ganger humoristisk vis.
@@ -260,7 +260,7 @@ Spilletid:** 1 time og 20 minutter**
 Kategori:** Drama**
 Regissør:** Thomas Cappelen Malling
 **Med:** Mads Ousdal, Jon Øigarden, Linn Stokke,Amund Maarud, Dean Erik Andersen, Terje Strømdahl, Martinus Grimstad Olsen, Øyvind Venstad Kjeksrud, Henrik Horge, Emil Johnsen,Trond Viggo Torgersen
-<a href="//filmbloggen.net/2011/10/09/kommandor-treholt-ninjatroppen/hogxrjr48/" rel="attachment wp-att-1369"><img class="alignnone size-large wp-image-1369" src="/wp-content/uploads//2011/10/hogxrjr48-620x386.jpg" alt="" width="620" height="386" /></a>****
+<img class="alignnone size-large wp-image-1369" src="/wp-content/uploads//2011/10/hogxrjr48-620x386.jpg" alt="" width="620" height="386" />****
 
 Kommandør Treholt & Ninjatroppen ble til takket være en bok ved navn: «Ninjateknikk II – Usynlig Strid i 1978». Dette var en bok regissør Malling ga ut, og som senere ble gjort om til film. Filmen gir oss et alternativt blikk på historien bak arrestasjonen av Arne Treholt i 1985, hvor han ble tatt for spionasje til fordel for Sovjetunionen. Filmen driver med reinspikka historieforfalskning, men på et godt og noen ganger humoristisk vis.
 

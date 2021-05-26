@@ -291,7 +291,7 @@ tags:
 **Skuespillere:** Denzel Washington, Ryan Reynolds, Robert Patrick, Vera Farmiga, Brendan Gleeson, Sam Shepard, Nora Arnezeder, Liam Cunningham og Fares Fares.
 **Spilletid:** 1 time og 55 minutter
 
-<a href="//filmbloggen.net/2012/06/29/actionfylt-safe-house/reynolds/" rel="attachment wp-att-4489"><img class="alignnone size-large wp-image-4489" src="/wp-content/uploads//2012/06/reynolds-620x310.jpg" alt="" width="620" height="310" /><br /> </a>Filmen begynner med at vi får møte CIA rookien og «the keeper of the safe house», **Matt Weston (Ryan Reynolds)**. Vi får vite at han har dame, lyver om jobben og jobber halvveis undercover alene i et lavstatus såkalt «Safe House» i Cape Town i Sør-Afrika.
+<img class="alignnone size-large wp-image-4489" src="/wp-content/uploads//2012/06/reynolds-620x310.jpg" alt="" width="620" height="310" /><br /> Filmen begynner med at vi får møte CIA rookien og «the keeper of the safe house», **Matt Weston (Ryan Reynolds)**. Vi får vite at han har dame, lyver om jobben og jobber halvveis undercover alene i et lavstatus såkalt «Safe House» i Cape Town i Sør-Afrika.
 
 Samtidig et annet sted i byen, blir vi kjent med **Tobin Frost (Denzel Washington)**, som man med en gang skjønner er i gang med et farlig spill. Vi følger hans sniking, løping og gjemselslek med sorte firhjulstrekkere og snikskytere rundt i Cape Towns gater, før Frost tilslutt klarer å lirke seg inn til det Amerikanske konsulat i byen, ute av fare. Foreløpig.
 

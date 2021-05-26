@@ -98,7 +98,7 @@ content:
   - |
     <strong>Året er 2149, jorda er overbefolket og når planeten holder på å dø finner forskere en måte å reise tilbake i tid, for å bygge en ny sivilisasjon.<!--more--></strong>
 
-    <a href="//filmbloggen.net/2011/10/04/terra-nova-spielbergs-dinosaur-serie/terranova2/" rel="attachment wp-att-1299"><img class="alignnone size-large wp-image-1299" src="/wp-content/uploads//2011/10/TerraNova2-620x387.jpg" alt="" width="620" height="387" /></a>
+    <img class="alignnone size-large wp-image-1299" src="/wp-content/uploads//2011/10/TerraNova2-620x387.jpg" alt="" width="620" height="387" />
 
     I denne serien følger vi familien Shannons, en helt vanlig familie som sammen med andre <strong>transporteres 85 millioner år bakover i tid</strong> til dinosaurene tid, hvor de bosetter seg i kolonien Terra Nova for å starte ett nytt liv. Alt er bare fryd og gammen helt til ting begynner å skje rundt leiren.
 
@@ -165,7 +165,7 @@ post_content:
   - |
     <strong>Året er 2149, jorda er overbefolket og når planeten holder på å dø finner forskere en måte å reise tilbake i tid, for å bygge en ny sivilisasjon.<!--more--></strong>
 
-    <a href="//filmbloggen.net/2011/10/04/terra-nova-spielbergs-dinosaur-serie/terranova2/" rel="attachment wp-att-1299"><img class="alignnone size-large wp-image-1299" src="/wp-content/uploads//2011/10/TerraNova2-620x387.jpg" alt="" width="620" height="387" /></a>
+    <img class="alignnone size-large wp-image-1299" src="/wp-content/uploads//2011/10/TerraNova2-620x387.jpg" alt="" width="620" height="387" />
 
     I denne serien følger vi familien Shannons, en helt vanlig familie som sammen med andre <strong>transporteres 85 millioner år bakover i tid</strong> til dinosaurene tid, hvor de bosetter seg i kolonien Terra Nova for å starte ett nytt liv. Alt er bare fryd og gammen helt til ting begynner å skje rundt leiren.
 
@@ -184,7 +184,7 @@ meta:
   - |
     a:75:{i:9589;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:9567;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:9617;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:9576;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"be57850b5c";}i:9574;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:9578;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"045a9bb66b";}i:9618;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:9610;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1826:"<strong>Året er 2149, jorda er overbefolket og når planeten holder på å dø finner forskere en måte å reise tilbake i tid, for å bygge en ny sivilisasjon.</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=1299" rel="attachment wp-att-1299"><img class="alignnone size-large wp-image-1299" src="/wp-content/uploads//2011/10/TerraNova2-620x387.jpg" alt="" width="620" height="387" /></a>
+    <img class="alignnone size-large wp-image-1299" src="/wp-content/uploads//2011/10/TerraNova2-620x387.jpg" alt="" width="620" height="387" />
 
     I denne serien følger vi familien Shannons, en helt vanlig familie som sammen med andre <strong>transporteres 85 millioner år bakover i tid</strong> til dinosaurene tid, hvor de bosetter seg i kolonien Terra Nova for å starte ett nytt liv. Alt er bare fryd og gammen helt til ting begynner å skje rundt leiren.
 
@@ -196,7 +196,7 @@ meta:
 
     [youtube id="Qo-X7Ih3ut4" width="620" height="350"]";}i:9598;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:9600;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"10";}i:9596;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"04";}i:9594;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"10";}i:9602;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"48";}i:9621;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:9611;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:9590;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"10";}i:9597;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:9599;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"10";}i:9595;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"04";}i:9593;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"10";}i:9601;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"48";}i:9583;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:9581;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:9584;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:9638;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"1289";}i:9587;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"04";}i:9577;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"3c0d1db3f7";}i:9614;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:9613;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:9615;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:9588;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"10";}i:9591;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"48";}i:9652;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:9653;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:9568;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:9571;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:9603;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:9619;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:9569;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"9";}i:9655;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"9";}i:9639;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1826:"<strong>Året er 2149, jorda er overbefolket og når planeten holder på å dø finner forskere en måte å reise tilbake i tid, for å bygge en ny sivilisasjon.</strong>
 
-    <a href="//filmbloggen.net/?attachment_id=1299" rel="attachment wp-att-1299"><img class="alignnone size-large wp-image-1299" src="/wp-content/uploads//2011/10/TerraNova2-620x387.jpg" alt="" width="620" height="387" /></a>
+    <img class="alignnone size-large wp-image-1299" src="/wp-content/uploads//2011/10/TerraNova2-620x387.jpg" alt="" width="620" height="387" />
 
     I denne serien følger vi familien Shannons, en helt vanlig familie som sammen med andre <strong>transporteres 85 millioner år bakover i tid</strong> til dinosaurene tid, hvor de bosetter seg i kolonien Terra Nova for å starte ett nytt liv. Alt er bare fryd og gammen helt til ting begynner å skje rundt leiren.
 
@@ -227,7 +227,7 @@ format: video
 ---
 **Året er 2149, jorda er overbefolket og når planeten holder på å dø finner forskere en måte å reise tilbake i tid, for å bygge en ny sivilisasjon.<!--more-->**
 
-<a href="//filmbloggen.net/2011/10/04/terra-nova-spielbergs-dinosaur-serie/terranova2/" rel="attachment wp-att-1299"><img class="alignnone size-large wp-image-1299" src="/wp-content/uploads//2011/10/TerraNova2-620x387.jpg" alt="" width="620" height="387" /></a>
+<img class="alignnone size-large wp-image-1299" src="/wp-content/uploads//2011/10/TerraNova2-620x387.jpg" alt="" width="620" height="387" />
 
 I denne serien følger vi familien Shannons, en helt vanlig familie som sammen med andre **transporteres 85 millioner år bakover i tid** til dinosaurene tid, hvor de bosetter seg i kolonien Terra Nova for å starte ett nytt liv. Alt er bare fryd og gammen helt til ting begynner å skje rundt leiren.
 

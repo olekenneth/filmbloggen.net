@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong><strong>En helt OK film med Paul Bettany som en krigerprest som beskytter menneskeheten mot vampyrene.
-    <a href="//filmbloggen.webalive.no/files/2011/06/priest1.jpg"><img class="alignnone size-large wp-image-612" title="priest riktig" src="//filmbloggen.webalive.no/files/2011/06/priest1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-612" title="priest riktig" src="//filmbloggen.webalive.no/files/2011/06/priest1-620x413.jpg" alt="" width="620" height="413" />
     Originaltittel: </strong></strong>Priest<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>
@@ -122,7 +122,7 @@ trackback_url:
 meta:
   - |
     a:70:{i:2286;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:2266;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:2320;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:2274;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"eebd2a973e";}i:2276;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"a515428b97";}i:2321;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:2311;a:2:{s:3:"key";s:7:"content";s:5:"value";s:3189:"<strong><strong>En helt OK film med Paul Bettany som en krigerprest som beskytter menneskeheten mot vampyrene.
-    <a href="//filmbloggen.webalive.no/files/2011/06/priest.jpg"><img class="alignnone size-large wp-image-397" title="priest" src="//filmbloggen.webalive.no/files/2011/06/priest-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-397" title="priest" src="//filmbloggen.webalive.no/files/2011/06/priest-1024x682.jpg" alt="" width="620" height="412" />
     Originaltittel: </strong></strong>Priest<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>
@@ -138,7 +138,7 @@ meta:
     I norske medier har filmen fått hard medfart. I fire nasjonale aviser har filmen fått 2 og den røde tråden er at dette ikke er originalt og noe vi har sett før. Og hvis du har lest så langt som til hit så er jo jeg egentlig enig i det. Men ærlig talt, så mye søppel som kommer ut fra Hollywood så klager jeg ikke så mye.
 
     Men ikke se den i 3D, vær så snill. Priest er laget i 2D og omgjort til 3D som så vanvittig mange andre filmer (fordi alle filmer må jo være i 3D????). Den gir deg egentlig ingenting mer i 3D. Men for å oppsummere. Om du liker vampyrer, western-filmer og/eller post-apokalypse-filmer? Da er dette filmen for deg. Bare ikke fortell det til noen, fordi dette er absolutt ikke noe mesterverk!";}i:2295;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:2297;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"17";}i:2293;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"13";}i:2291;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:2299;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"26";}i:2312;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:2287;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"00";}i:2294;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:2296;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"00";}i:2292;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"10";}i:2290;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"06";}i:2298;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"41";}i:2280;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:2278;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:2281;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:2338;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"404";}i:606;a:2:{s:3:"key";s:16:"jabber_published";s:5:"value";s:10:"1307659286";}i:2284;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"10";}i:2275;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"1d95b3a192";}i:2317;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:2316;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:2318;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:2285;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"06";}i:2288;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"41";}i:2304;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:2305;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:2267;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:2270;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:2300;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:2322;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:2268;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:2324;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:2339;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:3189:"<strong><strong>En helt OK film med Paul Bettany som en krigerprest som beskytter menneskeheten mot vampyrene.
-    <a href="//filmbloggen.webalive.no/files/2011/06/priest.jpg"><img class="alignnone size-large wp-image-397" title="priest" src="//filmbloggen.webalive.no/files/2011/06/priest-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-397" title="priest" src="//filmbloggen.webalive.no/files/2011/06/priest-1024x682.jpg" alt="" width="620" height="412" />
     Originaltittel: </strong></strong>Priest<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>
@@ -201,7 +201,7 @@ ID:
 post_content:
   - |
     <strong><strong>En helt OK film med Paul Bettany som en krigerprest som beskytter menneskeheten mot vampyrene.
-    <a href="//filmbloggen.webalive.no/files/2011/06/priest1.jpg"><img class="alignnone size-large wp-image-612" title="priest riktig" src="//filmbloggen.webalive.no/files/2011/06/priest1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-612" title="priest riktig" src="//filmbloggen.webalive.no/files/2011/06/priest1-620x413.jpg" alt="" width="620" height="413" />
     Originaltittel: </strong></strong>Priest<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>1 time og 28 minutter<strong>

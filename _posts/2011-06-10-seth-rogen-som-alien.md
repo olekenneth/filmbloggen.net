@@ -102,7 +102,7 @@ content:
   - |
     <strong>Jeg vet at de aller fleste har sett på Seth Rogen som et Alien i mange år allerede. Han er jo tross alt såpass hårete at han umulig kan være fra jorda. Men i denne filmen har han bare stemmen til "Paul" som prøver å rømme tilbake til sin verden etter over 50 år i fangenskap på jorda.</strong>
 
-    <a href="//filmbloggen.webalive.no/files/2011/06/paul.jpg"><img class="alignnone size-large wp-image-396" title="Film Title: PAUL" src="//filmbloggen.webalive.no/files/2011/06/paul-1024x576.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-396" title="Film Title: PAUL" src="//filmbloggen.webalive.no/files/2011/06/paul-1024x576.jpg" alt="" width="620" height="348" />
     <strong><strong>Originaltittel: </strong></strong>Paul<strong><strong>
     Kategori:</strong> </strong>Komedie/Sci-fi<strong>
     <strong>Spilletid:</strong> </strong>1 time og 47 minutter<strong>
@@ -120,7 +120,7 @@ meta:
   - |
     a:71:{i:2201;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:2181;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:2238;a:2:{s:3:"key";s:17:"add_comment_nonce";s:5:"value";s:10:"cc0e7135e8";}i:2235;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:2189;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"eebd2a973e";}i:2191;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"a515428b97";}i:2236;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:2226;a:2:{s:3:"key";s:7:"content";s:5:"value";s:3127:"<strong>Jeg vet at de aller fleste har sett på Seth Rogen som et Alien i mange år allerede. Han er jo tross alt såpass hårete at han umulig kan være fra jorda. Men i denne filmen har han bare stemmen til "Paul" som prøver å rømme tilbake til sin verden etter over 50 år i fangenskap på jorda.</strong>
 
-    <a href="//filmbloggen.webalive.no/files/2011/06/paul.jpg"><img class="alignnone size-large wp-image-396" title="Film Title: PAUL" src="//filmbloggen.webalive.no/files/2011/06/paul-1024x576.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-396" title="Film Title: PAUL" src="//filmbloggen.webalive.no/files/2011/06/paul-1024x576.jpg" alt="" width="620" height="348" />
     <strong><strong>Originaltittel: </strong></strong>Paul<strong><strong>
     Kategori:</strong> </strong>Komedie/Sci-fi<strong>
     <strong>Spilletid:</strong> </strong>1 time og 47 minutter<strong>
@@ -133,7 +133,7 @@ meta:
 
     Filmen er regissert av Greg Mottola som står bak blant annet Superbad. Så om du ikke er overbevist at det er mange morsomme folk bak denne filmen så tror jeg ikke du liker komedier! Filmen er også veldig godt animert (blant annet en norsk animatør som står bak) og jeg vil si til slutt at dette nok ikke er en film som du ler så du detter ut av stolen av. Mer enn film som får deg til å smile og småle og som du fort får lyst til å se igjen. Det har i hvert fall jeg.";}i:2210;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:2212;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"17";}i:2208;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"13";}i:2206;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:2214;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"26";}i:2227;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:2202;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"15";}i:2209;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:2211;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"15";}i:2207;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"10";}i:2205;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"06";}i:2213;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"06";}i:2195;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:2193;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:2196;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:2255;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"408";}i:609;a:2:{s:3:"key";s:16:"jabber_published";s:5:"value";s:10:"1307711218";}i:2199;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"10";}i:2190;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"1d95b3a192";}i:2232;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:2231;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:2233;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:2200;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"06";}i:2203;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"06";}i:2219;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:2220;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:2182;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:2185;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:2215;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:2237;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:2183;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:2241;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:2256;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:3127:"<strong>Jeg vet at de aller fleste har sett på Seth Rogen som et Alien i mange år allerede. Han er jo tross alt såpass hårete at han umulig kan være fra jorda. Men i denne filmen har han bare stemmen til "Paul" som prøver å rømme tilbake til sin verden etter over 50 år i fangenskap på jorda.</strong>
 
-    <a href="//filmbloggen.webalive.no/files/2011/06/paul.jpg"><img class="alignnone size-large wp-image-396" title="Film Title: PAUL" src="//filmbloggen.webalive.no/files/2011/06/paul-1024x576.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-396" title="Film Title: PAUL" src="//filmbloggen.webalive.no/files/2011/06/paul-1024x576.jpg" alt="" width="620" height="348" />
     <strong><strong>Originaltittel: </strong></strong>Paul<strong><strong>
     Kategori:</strong> </strong>Komedie/Sci-fi<strong>
     <strong>Spilletid:</strong> </strong>1 time og 47 minutter<strong>
@@ -195,7 +195,7 @@ post_content:
   - |
     <strong>Jeg vet at de aller fleste har sett på Seth Rogen som et Alien i mange år allerede. Han er jo tross alt såpass hårete at han umulig kan være fra jorda. Men i denne filmen har han bare stemmen til "Paul" som prøver å rømme tilbake til sin verden etter over 50 år i fangenskap på jorda.</strong>
 
-    <a href="//filmbloggen.webalive.no/files/2011/06/paul.jpg"><img class="alignnone size-large wp-image-396" title="Film Title: PAUL" src="//filmbloggen.webalive.no/files/2011/06/paul-1024x576.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-396" title="Film Title: PAUL" src="//filmbloggen.webalive.no/files/2011/06/paul-1024x576.jpg" alt="" width="620" height="348" />
     <strong><strong>Originaltittel: </strong></strong>Paul<strong><strong>
     Kategori:</strong> </strong>Komedie/Sci-fi<strong>
     <strong>Spilletid:</strong> </strong>1 time og 47 minutter<strong>

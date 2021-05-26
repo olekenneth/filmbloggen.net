@@ -40,7 +40,7 @@ content:
 
     <!--more-->
 
-    <a href="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy.png"><img class="alignnone size-large wp-image-10912" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" /></a>
+    <img class="alignnone size-large wp-image-10912" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" />
 
     Marvel har dedikert flere år på å skape et stort og imponerende filmunivers, med superhelter som <em>Iron Man, Thor, Captain America</em> og en håndfull andre, som alt akkumulerte i <em>The Avengers</em> fra 2012. <em>Guardians of the Galaxy</em> er deres seneste ny-introduksjon, og det fungerer eksepsjonelt bra.
 
@@ -52,7 +52,7 @@ content:
 
     Det høres absurd ut, og til tross for at undertegnede er en stor vaskebjørn-fanatiker i virkeligheten - av uforklarlige årsaker - er det ikke akkurat en gjeng med samme salgspotensialet som Iron Man, Thor og resten av gjengen i The Avengers. Noe Marvel innså selv, ettersom mange av disse karakterene lå død i tegneserie-universet i flere tiår, før de fikk nytt liv tidlig i 00-tallet. Heldigvis har Marvel Studios vist seg å være flinke til å velge ut regissører (bare se Josh Whedon i <em>The Avengers</em>, og Russo-brødrene i <em>Captain America: The Winter Soldier</em>), for ved å bringe inn James Gunn til å gi liv til denne gjengen, har de skapt gull.
 
-    <a href="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1.png"><img class="alignnone size-large wp-image-10926" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" /></a>
+    <img class="alignnone size-large wp-image-10926" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" />
 
     Gunn - som også har regissert den hysterisk morsomme, <em>Super</em> - har en unik evne til å regissere skuespillerne sine i ulike situasjoner. Hver eneste Marvel-film har en slags løssluppen humor i sitt ytterste skal. Tony Starks personlighet i <em>Iron Man</em>-filmene, Thors uvitenhet om jorden i <em>Thor</em>-filmene og mye annet. I <em>Thor</em>-filmene spiller Kat Dennings den unge assistenten til Natalie Portmans karakter, og skal på papiret fungere som det morsomme leddet, men i hennes sko blir alt flatt og uinspirert. Det er gjort utallige ganger før, og er som oftest frekk i sine antakelser om hva publikum mener er morsomt. Dette skjer sjeldent i <em>Guardians of the Galaxy</em>.
 
@@ -193,7 +193,7 @@ post_content:
 
     <!--more-->
 
-    <a href="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy.png"><img class="alignnone size-large wp-image-10912" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" /></a>
+    <img class="alignnone size-large wp-image-10912" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" />
 
     Marvel har dedikert flere år på å skape et stort og imponerende filmunivers, med superhelter som <em>Iron Man, Thor, Captain America</em> og en håndfull andre, som alt akkumulerte i <em>The Avengers</em> fra 2012. <em>Guardians of the Galaxy</em> er deres seneste ny-introduksjon, og det fungerer eksepsjonelt bra.
 
@@ -205,7 +205,7 @@ post_content:
 
     Det høres absurd ut, og til tross for at undertegnede er en stor vaskebjørn-fanatiker i virkeligheten - av uforklarlige årsaker - er det ikke akkurat en gjeng med samme salgspotensialet som Iron Man, Thor og resten av gjengen i The Avengers. Noe Marvel innså selv, ettersom mange av disse karakterene lå død i tegneserie-universet i flere tiår, før de fikk nytt liv tidlig i 00-tallet. Heldigvis har Marvel Studios vist seg å være flinke til å velge ut regissører (bare se Josh Whedon i <em>The Avengers</em>, og Russo-brødrene i <em>Captain America: The Winter Soldier</em>), for ved å bringe inn James Gunn til å gi liv til denne gjengen, har de skapt gull.
 
-    <a href="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1.png"><img class="alignnone size-large wp-image-10926" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" /></a>
+    <img class="alignnone size-large wp-image-10926" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" />
 
     Gunn - som også har regissert den hysterisk morsomme, <em>Super</em> - har en unik evne til å regissere skuespillerne sine i ulike situasjoner. Hver eneste Marvel-film har en slags løssluppen humor i sitt ytterste skal. Tony Starks personlighet i <em>Iron Man</em>-filmene, Thors uvitenhet om jorden i <em>Thor</em>-filmene og mye annet. I <em>Thor</em>-filmene spiller Kat Dennings den unge assistenten til Natalie Portmans karakter, og skal på papiret fungere som det morsomme leddet, men i hennes sko blir alt flatt og uinspirert. Det er gjort utallige ganger før, og er som oftest frekk i sine antakelser om hva publikum mener er morsomt. Dette skjer sjeldent i <em>Guardians of the Galaxy</em>.
 
@@ -234,7 +234,7 @@ meta:
 
     <!--more-->
 
-    <a href="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy.png"><img class="alignnone size-large wp-image-10912" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" /></a>
+    <img class="alignnone size-large wp-image-10912" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" />
 
     Marvel har dedikert flere år på å skape et stort og imponerende filmunivers, med superhelter som <em>Iron Man, Thor, Captain America</em> og en håndfull andre, som alt akkumulerte i <em>The Avengers</em> fra 2012. <em>Guardians of the Galaxy</em> er deres seneste ny-introduksjon, og det fungerer eksepsjonelt bra.
 
@@ -246,7 +246,7 @@ meta:
 
     Det høres absurd ut, og til tross for at undertegnede er en stor vaskebjørn-fanatiker i virkeligheten - av uforklarlige årsaker - er det ikke akkurat en gjeng med samme salgspotensialet som Iron Man, Thor og resten av gjengen i The Avengers. Noe Marvel innså selv, ettersom mange av disse karakterene lå død i tegneserie-universet i flere tiår, før de fikk nytt liv tidlig i 00-tallet. Heldigvis har Marvel Studios vist seg å være flinke til å velge ut regissører (bare se Josh Whedon i <em>The Avengers</em>, og Russo-brødrene i <em>Captain America: The Winter Soldier</em>), for ved å bringe inn James Gunn til å gi liv til denne gjengen, har de skapt gull.
 
-    <a href="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1.png"><img class="alignnone size-large wp-image-10926" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" /></a>
+    <img class="alignnone size-large wp-image-10926" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" />
 
     Gunn - som også har regissert den hysterisk morsomme, <em>Super</em> - har en unik evne til å regissere skuespillerne sine i ulike situasjoner. Hver eneste Marvel-film har en slags løssluppen humor i sitt ytterste skal. Tony Starks personlighet i <em>Iron Man</em>-filmene, Thors uvitenhet om jorden i <em>Thor</em>-filmene og mye annet. I <em>Thor</em>-filmene spiller Kat Dennings den unge assistenten til Natalie Portmans karakter, og skal på papiret fungere som det morsomme leddet, men i hennes sko blir alt flatt og uinspirert. Det er gjort utallige ganger før, og er som oftest frekk i sine antakelser om hva publikum mener er morsomt. Dette skjer sjeldent i <em>Guardians of the Galaxy</em>.
 
@@ -270,7 +270,7 @@ meta:
 
     <!--more-->
 
-    <a href="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy.png"><img class="alignnone size-large wp-image-10912" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" /></a>
+    <img class="alignnone size-large wp-image-10912" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" />
 
     Marvel har dedikert flere år på å skape et stort og imponerende filmunivers, med superhelter som <em>Iron Man, Thor, Captain America</em> og en håndfull andre, som alt akkumulerte i <em>The Avengers</em> fra 2012. <em>Guardians of the Galaxy</em> er deres seneste ny-introduksjon, og det fungerer eksepsjonelt bra.
 
@@ -282,7 +282,7 @@ meta:
 
     Det høres absurd ut, og til tross for at undertegnede er en stor vaskebjørn-fanatiker i virkeligheten - av uforklarlige årsaker - er det ikke akkurat en gjeng med samme salgspotensialet som Iron Man, Thor og resten av gjengen i The Avengers. Noe Marvel innså selv, ettersom mange av disse karakterene lå død i tegneserie-universet i flere tiår, før de fikk nytt liv tidlig i 00-tallet. Heldigvis har Marvel Studios vist seg å være flinke til å velge ut regissører (bare se Josh Whedon i <em>The Avengers</em>, og Russo-brødrene i <em>Captain America: The Winter Soldier</em>), for ved å bringe inn James Gunn til å gi liv til denne gjengen, har de skapt gull.
 
-    <a href="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1.png"><img class="alignnone size-large wp-image-10926" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" /></a>
+    <img class="alignnone size-large wp-image-10926" src="/wp-content/uploads/2014/07/Guardians-of-the-Galaxy1-620x351.png" alt="Guardians of the Galaxy" width="620" height="351" />
 
     Gunn - som også har regissert den hysterisk morsomme, <em>Super</em> - har en unik evne til å regissere skuespillerne sine i ulike situasjoner. Hver eneste Marvel-film har en slags løssluppen humor i sitt ytterste skal. Tony Starks personlighet i <em>Iron Man</em>-filmene, Thors uvitenhet om jorden i <em>Thor</em>-filmene og mye annet. I <em>Thor</em>-filmene spiller Kat Dennings den unge assistenten til Natalie Portmans karakter, og skal på papiret fungere som det morsomme leddet, men i hennes sko blir alt flatt og uinspirert. Det er gjort utallige ganger før, og er som oftest frekk i sine antakelser om hva publikum mener er morsomt. Dette skjer sjeldent i <em>Guardians of the Galaxy</em>.
 

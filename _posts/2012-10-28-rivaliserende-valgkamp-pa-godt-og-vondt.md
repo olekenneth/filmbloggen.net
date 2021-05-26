@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Will Ferrell,  Zach Galifianakis, Jason Sudeikis, Dylan McDermott, Katherine LaNasa, Sarah Baker, John Lithgow, Dan Aykroyd, Brian Cox.
     <strong>Spilletid:</strong> 1 time og 25 minutter
 
-    <a href="//filmbloggen.net/2012/10/28/rivaliserende-valgkamp-pa-godt-og-vondt/film-review-the-campaign-jp/" rel="attachment wp-att-7635"><img class="alignnone size-large wp-image-7635" src="/wp-content/uploads//2012/10/Film-Review-The-Campaign.JP_-620x416.jpg" alt="" width="620" height="416" /></a>
+    <img class="alignnone size-large wp-image-7635" src="/wp-content/uploads//2012/10/Film-Review-The-Campaign.JP_-620x416.jpg" alt="" width="620" height="416" />
 
     <strong>Regissør Jay Roach (kjent for Meet the Fockers og Austin Powers-filmene) harsjelerer med valgkampkonvensjonene i USA</strong>. Han bruker sin velkjente evne til å lage komiske situasjoner og knytter det opp mot det aktuelle temaet: Valgkamp 2012.
 
@@ -67,7 +67,7 @@ post_content:
     <strong>Skuespillere:</strong> Will Ferrell,  Zach Galifianakis, Jason Sudeikis, Dylan McDermott, Katherine LaNasa, Sarah Baker, John Lithgow, Dan Aykroyd, Brian Cox.
     <strong>Spilletid:</strong> 1 time og 25 minutter
 
-    <a href="//filmbloggen.net/2012/10/28/rivaliserende-valgkamp-pa-godt-og-vondt/film-review-the-campaign-jp/" rel="attachment wp-att-7635"><img class="alignnone size-large wp-image-7635" src="/wp-content/uploads//2012/10/Film-Review-The-Campaign.JP_-620x416.jpg" alt="" width="620" height="416" /></a>
+    <img class="alignnone size-large wp-image-7635" src="/wp-content/uploads//2012/10/Film-Review-The-Campaign.JP_-620x416.jpg" alt="" width="620" height="416" />
 
     <strong>Regissør Jay Roach (kjent for Meet the Fockers og Austin Powers-filmene) harsjelerer med valgkampkonvensjonene i USA</strong>. Han bruker sin velkjente evne til å lage komiske situasjoner og knytter det opp mot det aktuelle temaet: Valgkamp 2012.
 
@@ -177,7 +177,7 @@ meta:
     <strong>Skuespillere:</strong> Will Ferrell,  Zach Galifianakis, Jason Sudeikis, Dylan McDermott, Katherine LaNasa, Sarah Baker, John Lithgow, Dan Aykroyd, Brian Cox.
     <strong>Spilletid:</strong> 1 time og 25 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=7635" rel="attachment wp-att-7635"><img class="alignnone size-large wp-image-7635" src="/wp-content/uploads//2012/10/Film-Review-The-Campaign.JP_-620x416.jpg" alt="" width="620" height="416" /></a>
+    <img class="alignnone size-large wp-image-7635" src="/wp-content/uploads//2012/10/Film-Review-The-Campaign.JP_-620x416.jpg" alt="" width="620" height="416" />
 
     <strong>Regissør Jay Roach (kjent for Meet the Fockers og Austin Powers-filmene) harsjelerer med valgkampkonvensjonene i USA</strong>. Han bruker sin velkjente evne til å lage komiske situasjoner og knytter det opp mot det aktuelle temaet: Valgkamp 2012.
 
@@ -200,7 +200,7 @@ meta:
     <strong>Skuespillere:</strong> Will Ferrell,  Zach Galifianakis, Jason Sudeikis, Dylan McDermott, Katherine LaNasa, Sarah Baker, John Lithgow, Dan Aykroyd, Brian Cox.
     <strong>Spilletid:</strong> 1 time og 25 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=7635" rel="attachment wp-att-7635"><img class="alignnone size-large wp-image-7635" src="/wp-content/uploads//2012/10/Film-Review-The-Campaign.JP_-620x416.jpg" alt="" width="620" height="416" /></a>
+    <img class="alignnone size-large wp-image-7635" src="/wp-content/uploads//2012/10/Film-Review-The-Campaign.JP_-620x416.jpg" alt="" width="620" height="416" />
 
     <strong>Regissør Jay Roach (kjent for Meet the Fockers og Austin Powers-filmene) harsjelerer med valgkampkonvensjonene i USA</strong>. Han bruker sin velkjente evne til å lage komiske situasjoner og knytter det opp mot det aktuelle temaet: Valgkamp 2012.
 
@@ -302,7 +302,7 @@ tags:
 **Skuespillere:** Will Ferrell,  Zach Galifianakis, Jason Sudeikis, Dylan McDermott, Katherine LaNasa, Sarah Baker, John Lithgow, Dan Aykroyd, Brian Cox.
 **Spilletid:** 1 time og 25 minutter
 
-<a href="//filmbloggen.net/2012/10/28/rivaliserende-valgkamp-pa-godt-og-vondt/film-review-the-campaign-jp/" rel="attachment wp-att-7635"><img class="alignnone size-large wp-image-7635" src="/wp-content/uploads//2012/10/Film-Review-The-Campaign.JP_-620x416.jpg" alt="" width="620" height="416" /></a>
+<img class="alignnone size-large wp-image-7635" src="/wp-content/uploads//2012/10/Film-Review-The-Campaign.JP_-620x416.jpg" alt="" width="620" height="416" />
 
 **Regissør Jay Roach (kjent for Meet the Fockers og Austin Powers-filmene) harsjelerer med valgkampkonvensjonene i USA**. Han bruker sin velkjente evne til å lage komiske situasjoner og knytter det opp mot det aktuelle temaet: Valgkamp 2012.
 

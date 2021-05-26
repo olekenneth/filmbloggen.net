@@ -112,7 +112,7 @@ content:
     </strong><strong>Regissør:</strong> Sam Raimi<strong>
     Manus:</strong> Mitchell Kapner og David Lindsay-Abaire<strong>
     Skuespillere: </strong>Mila Kunis, James Franco, Rachel Weisz,Michelle Williams, Abigail Spencer, Zach Braff,Joey King, Bill Cobbs, Tony Cox, Ted Raimi,Martin Klebba og Toni Wynne.<strong>
-    </strong><a href="//filmbloggen.net/2013/03/24/undervurderer-barna/vwypked7/" rel="attachment wp-att-10072"><img class="alignnone size-large wp-image-10072" src="/wp-content/uploads//2013/03/vwypked7-620x310.jpg" alt="" width="620" height="310" /></a>
+    </strong><img class="alignnone size-large wp-image-10072" src="/wp-content/uploads//2013/03/vwypked7-620x310.jpg" alt="" width="620" height="310" />
     <strong>Alle foto: </strong>The Walt Disney Company Nordic<strong></strong>
 
     Oz the Great and Powerful forteller forhistorien til Trollmannen fra Oz.Regissør Sam Raimi gjør absolutt ikke skam på en av de mest elskede filmklassikerne vi har. Den har en kul storyline, men blir sterkt svekket av flate karakterer og til tider veldig dårlig skuespill. James Franco har alltid vært en personlig favoritt, men han skuffer meg stort sammen med Mila Kunis og Rachel Weisz. Alle tre ser uengasjerte ut og når de da i tillegg spiller kjedelige karakterer, er det vanskelig å ikke være kritisk.
@@ -189,7 +189,7 @@ post_content:
     </strong><strong>Regissør:</strong> Sam Raimi<strong>
     Manus:</strong> Mitchell Kapner og David Lindsay-Abaire<strong>
     Skuespillere: </strong>Mila Kunis, James Franco, Rachel Weisz,Michelle Williams, Abigail Spencer, Zach Braff,Joey King, Bill Cobbs, Tony Cox, Ted Raimi,Martin Klebba og Toni Wynne.<strong>
-    </strong><a href="//filmbloggen.net/2013/03/24/undervurderer-barna/vwypked7/" rel="attachment wp-att-10072"><img class="alignnone size-large wp-image-10072" src="/wp-content/uploads//2013/03/vwypked7-620x310.jpg" alt="" width="620" height="310" /></a>
+    </strong><img class="alignnone size-large wp-image-10072" src="/wp-content/uploads//2013/03/vwypked7-620x310.jpg" alt="" width="620" height="310" />
     <strong>Alle foto: </strong>The Walt Disney Company Nordic<strong></strong>
 
     Oz the Great and Powerful forteller forhistorien til Trollmannen fra Oz.Regissør Sam Raimi gjør absolutt ikke skam på en av de mest elskede filmklassikerne vi har. Den har en kul storyline, men blir sterkt svekket av flate karakterer og til tider veldig dårlig skuespill. James Franco har alltid vært en personlig favoritt, men han skuffer meg stort sammen med Mila Kunis og Rachel Weisz. Alle tre ser uengasjerte ut og når de da i tillegg spiller kjedelige karakterer, er det vanskelig å ikke være kritisk.
@@ -218,7 +218,7 @@ meta:
     </strong><strong>Regissør:</strong> Sam Raimi<strong>
     Manus:</strong> Mitchell Kapner og David Lindsay-Abaire<strong>
     Skuespillere: </strong>Mila Kunis, James Franco, Rachel Weisz,Michelle Williams, Abigail Spencer, Zach Braff,Joey King, Bill Cobbs, Tony Cox, Ted Raimi,Martin Klebba og Toni Wynne.<strong>
-    </strong><a href="//filmbloggen.net/2013/03/24/undervurderer-barna/vwypked7/" rel="attachment wp-att-10072"><img class="alignnone size-large wp-image-10072" src="/wp-content/uploads//2013/03/vwypked7-620x310.jpg" alt="" width="620" height="310" /></a>
+    </strong><img class="alignnone size-large wp-image-10072" src="/wp-content/uploads//2013/03/vwypked7-620x310.jpg" alt="" width="620" height="310" />
     <strong>Alle foto: </strong>The Walt Disney Company Nordic<strong></strong>
 
     Oz the Great and Powerful forteller forhistorien til Trollmannen fra Oz.Regissør Sam Raimi gjør absolutt ikke skam på en av de mest elskede filmklassikerne vi har. Den har en kul storyline, men blir sterkt svekket av flate karakterer og til tider veldig dårlig skuespill. James Franco har alltid vært en personlig favoritt, men han skuffer meg stort sammen med Mila Kunis og Rachel Weisz. Alle tre ser uengasjerte ut og når de da i tillegg spiller kjedelige karakterer, er det vanskelig å ikke være kritisk.
@@ -238,7 +238,7 @@ meta:
     </strong><strong>Regissør:</strong> Sam Raimi<strong>
     Manus:</strong> Mitchell Kapner og David Lindsay-Abaire<strong>
     Skuespillere: </strong>Mila Kunis, James Franco, Rachel Weisz,Michelle Williams, Abigail Spencer, Zach Braff,Joey King, Bill Cobbs, Tony Cox, Ted Raimi,Martin Klebba og Toni Wynne.<strong>
-    </strong><a href="//filmbloggen.net/2013/03/24/undervurderer-barna/vwypked7/" rel="attachment wp-att-10072"><img class="alignnone size-large wp-image-10072" src="/wp-content/uploads//2013/03/vwypked7-620x310.jpg" alt="" width="620" height="310" /></a>
+    </strong><img class="alignnone size-large wp-image-10072" src="/wp-content/uploads//2013/03/vwypked7-620x310.jpg" alt="" width="620" height="310" />
     <strong>Alle foto: </strong>The Walt Disney Company Nordic<strong></strong>
 
     Oz the Great and Powerful forteller forhistorien til Trollmannen fra Oz.Regissør Sam Raimi gjør absolutt ikke skam på en av de mest elskede filmklassikerne vi har. Den har en kul storyline, men blir sterkt svekket av flate karakterer og til tider veldig dårlig skuespill. James Franco har alltid vært en personlig favoritt, men han skuffer meg stort sammen med Mila Kunis og Rachel Weisz. Alle tre ser uengasjerte ut og når de da i tillegg spiller kjedelige karakterer, er det vanskelig å ikke være kritisk.
@@ -263,7 +263,7 @@ Sjanger:** Eventyr**
 ** **Regissør:** Sam Raimi**
 Manus:** Mitchell Kapner og David Lindsay-Abaire**
 Skuespillere: **Mila Kunis, James Franco, Rachel Weisz,Michelle Williams, Abigail Spencer, Zach Braff,Joey King, Bill Cobbs, Tony Cox, Ted Raimi,Martin Klebba og Toni Wynne.**
-** <a href="//filmbloggen.net/2013/03/24/undervurderer-barna/vwypked7/" rel="attachment wp-att-10072"><img class="alignnone size-large wp-image-10072" src="/wp-content/uploads//2013/03/vwypked7-620x310.jpg" alt="" width="620" height="310" /></a>
+** <img class="alignnone size-large wp-image-10072" src="/wp-content/uploads//2013/03/vwypked7-620x310.jpg" alt="" width="620" height="310" />
 **Alle foto:** The Walt Disney Company Nordic****
 
 Oz the Great and Powerful forteller forhistorien til Trollmannen fra Oz.Regissør Sam Raimi gjør absolutt ikke skam på en av de mest elskede filmklassikerne vi har. Den har en kul storyline, men blir sterkt svekket av flate karakterer og til tider veldig dårlig skuespill. James Franco har alltid vært en personlig favoritt, men han skuffer meg stort sammen med Mila Kunis og Rachel Weisz. Alle tre ser uengasjerte ut og når de da i tillegg spiller kjedelige karakterer, er det vanskelig å ikke være kritisk.

@@ -272,7 +272,7 @@ tags:
 ** **Med:** Sam Rockwell, Kevin Spacey
 
 **
-<a href="//filmbloggen.net/2011/10/07/lysende-fra-manens-skyggeside/7f4a8613674f0cb053355e01a634a5bd/" rel="attachment wp-att-1343"><img class="alignnone size-large wp-image-1343" src="/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" /><br /> </a>**
+<img class="alignnone size-large wp-image-1343" src="/wp-content/uploads//2011/10/7f4a8613674f0cb053355e01a634a5bd-620x413.jpg" alt="" width="620" height="413" /><br /> **
 
 **Av:** Ole-Ottar Karlsen Høgstavoll
 

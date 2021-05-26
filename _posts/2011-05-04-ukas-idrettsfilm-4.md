@@ -102,7 +102,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Magiske Miracle er Ukas Idrettsfilm!</strong>
-    <a href="/wp-content/uploads//2011/05/miracle3.jpg"><img class="alignnone size-medium wp-image-274" src="/wp-content/uploads//2011/05/miracle3.jpg?w=300" alt="" width="522" height="354" /></a>
+    <img class="alignnone size-medium wp-image-274" src="/wp-content/uploads//2011/05/miracle3.jpg?w=300" alt="" width="522" height="354" />
     <strong>Originaltittel: </strong>Miracle<strong>
     Kategori:</strong> Sport/Drama/Historie
     <strong>Spilletid:</strong> 2 timer og 15 minutter
@@ -176,7 +176,7 @@ ID:
 post_content:
   - |
     <strong>Magiske Miracle er Ukas Idrettsfilm!</strong>
-    <a href="/wp-content/uploads//2011/05/miracle3.jpg"><img class="alignnone size-medium wp-image-274" src="/wp-content/uploads//2011/05/miracle3.jpg?w=300" alt="" width="522" height="354" /></a>
+    <img class="alignnone size-medium wp-image-274" src="/wp-content/uploads//2011/05/miracle3.jpg?w=300" alt="" width="522" height="354" />
     <strong>Originaltittel: </strong>Miracle<strong>
     Kategori:</strong> Sport/Drama/Historie
     <strong>Spilletid:</strong> 2 timer og 15 minutter

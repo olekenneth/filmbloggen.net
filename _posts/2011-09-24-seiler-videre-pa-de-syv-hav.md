@@ -97,7 +97,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Jack Sparrow blir igjen å se på kinolerretet i 2013</strong> om alt går som det skal.
-    <!--more--> <a href="//filmbloggen.net/2011/05/19/piratene-taper-seg/pirates-of-the-caribbean-on-stranger-tides-2/" rel="attachment wp-att-340"><img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <!--more--> <img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" />
 
     Som om det ikke var nok med en film nr 4, så meldes det nå om at enda en Pirates of the caribbean film er i anmars, så lenge alt går som det skal. Johnny Depp skal allerede hadde takket ja til rollen som Jack Sparrow igjen og fire manusforfattere skal være på plass for å utforme Sparrows nyeste eventyr. Med seg i rollene går det også rykter om at mr Depp ønsker seg skuespiller Russell Brand (Arthur) som kollega, noe som kanskje kan være bra for piratfilmen, men om det i det hele tatt blir noen film i 2013 (noe det foreløpig tyder på) gjenstår og se.
 
@@ -157,7 +157,7 @@ ID:
 post_content:
   - |
     <strong>Jack Sparrow blir igjen å se på kinolerretet i 2013</strong> om alt går som det skal.
-    <!--more--> <a href="//filmbloggen.net/2011/05/19/piratene-taper-seg/pirates-of-the-caribbean-on-stranger-tides-2/" rel="attachment wp-att-340"><img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <!--more--> <img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" />
 
     Som om det ikke var nok med en film nr 4, så meldes det nå om at enda en Pirates of the caribbean film er i anmars, så lenge alt går som det skal. Johnny Depp skal allerede hadde takket ja til rollen som Jack Sparrow igjen og fire manusforfattere skal være på plass for å utforme Sparrows nyeste eventyr. Med seg i rollene går det også rykter om at mr Depp ønsker seg skuespiller Russell Brand (Arthur) som kollega, noe som kanskje kan være bra for piratfilmen, men om det i det hele tatt blir noen film i 2013 (noe det foreløpig tyder på) gjenstår og se.
 
@@ -205,7 +205,7 @@ tags:
 **Jack Sparrow blir igjen å se på kinolerretet i 2013** om alt går som det skal.
 <!--more-->
 
-<a href="//filmbloggen.net/2011/05/19/piratene-taper-seg/pirates-of-the-caribbean-on-stranger-tides-2/" rel="attachment wp-att-340"><img class="alignnone size-large wp-image-340" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" /></a>
+<img class="alignnone size-large wp-image-340" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" />
 
 Som om det ikke var nok med en film nr 4, så meldes det nå om at enda en Pirates of the caribbean film er i anmars, så lenge alt går som det skal. Johnny Depp skal allerede hadde takket ja til rollen som Jack Sparrow igjen og fire manusforfattere skal være på plass for å utforme Sparrows nyeste eventyr. Med seg i rollene går det også rykter om at mr Depp ønsker seg skuespiller Russell Brand (Arthur) som kollega, noe som kanskje kan være bra for piratfilmen, men om det i det hele tatt blir noen film i 2013 (noe det foreløpig tyder på) gjenstår og se.
 

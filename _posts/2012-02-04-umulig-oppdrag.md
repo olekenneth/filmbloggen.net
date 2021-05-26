@@ -19,7 +19,7 @@ content:
     <strong>Regi:</strong> Brad Bird
     <strong>Skuespillere:</strong> Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton, Michael Nyqvist, Josh Holloway, Léa Seydoux, Samuli Edelmann.
     <strong>Spilletid:</strong> 2 timer og 13 minutter
-    <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/mission-impossible-ghost-protocol/" rel="attachment wp-att-2325"><img class="alignnone size-large wp-image-2325" src="/wp-content/uploads//2012/02/mission-impossible-ghost-protocol-620x442.jpg" alt="" width="620" height="442" /></a>
+    <img class="alignnone size-large wp-image-2325" src="/wp-content/uploads//2012/02/mission-impossible-ghost-protocol-620x442.jpg" alt="" width="620" height="442" />
     Brad Bird står for regien i den fjerde installasjonen av Mission: Impossible. "The Incredibles" og "Ratatouille" er noen av filmene han er mest kjent for. Men kan en som vanligvis pleier å forholde seg til animasjonsfilmer lykkes med å lage en fullspekket actionfilm?
 
     Ethan Hunt (Tom Cruise) må i denne filmen stanse en atomkrig av episke proporsjoner. Anarkisten Kurt Hendricks (Michael Nyqvist) spår en fremtid der atomkrig er uunngåelig. Oppdraget innebærer å stoppe en svensktalende terrorist før han destruerer hele planeten. Plottet virker enkelt, nesten for enkelt. På det nye oppdraget har Ethan med seg en ny gjeng med spesialagenter. Benji (Simon Pegg) er dataeksperten som ordner opp i kinkige situasjoner ved hjelp av sin enorme datakunnskap. Jane Carter (Paula Patton) derimot, bruker sitt vakre ytre for å sjarmere seg gjennom hvert oppdrag. De slår seg også sammen med William Brandt (Jeremy Renner), en analytiker med mange skjulte talenter. Sammen utgjør de et uslåelig lag.
@@ -60,7 +60,7 @@ post_content:
     <strong>Regi:</strong> Brad Bird
     <strong>Skuespillere:</strong> Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton, Michael Nyqvist, Josh Holloway, Léa Seydoux, Samuli Edelmann.
     <strong>Spilletid:</strong> 2 timer og 13 minutter
-    <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/mission-impossible-ghost-protocol/" rel="attachment wp-att-2325"><img class="alignnone size-large wp-image-2325" src="/wp-content/uploads//2012/02/mission-impossible-ghost-protocol-620x442.jpg" alt="" width="620" height="442" /></a>
+    <img class="alignnone size-large wp-image-2325" src="/wp-content/uploads//2012/02/mission-impossible-ghost-protocol-620x442.jpg" alt="" width="620" height="442" />
     Brad Bird står for regien i den fjerde installasjonen av Mission: Impossible. "The Incredibles" og "Ratatouille" er noen av filmene han er mest kjent for. Men kan en som vanligvis pleier å forholde seg til animasjonsfilmer lykkes med å lage en fullspekket actionfilm?
 
     Ethan Hunt (Tom Cruise) må i denne filmen stanse en atomkrig av episke proporsjoner. Anarkisten Kurt Hendricks (Michael Nyqvist) spår en fremtid der atomkrig er uunngåelig. Oppdraget innebærer å stoppe en svensktalende terrorist før han destruerer hele planeten. Plottet virker enkelt, nesten for enkelt. På det nye oppdraget har Ethan med seg en ny gjeng med spesialagenter. Benji (Simon Pegg) er dataeksperten som ordner opp i kinkige situasjoner ved hjelp av sin enorme datakunnskap. Jane Carter (Paula Patton) derimot, bruker sitt vakre ytre for å sjarmere seg gjennom hvert oppdrag. De slår seg også sammen med William Brandt (Jeremy Renner), en analytiker med mange skjulte talenter. Sammen utgjør de et uslåelig lag.
@@ -159,7 +159,7 @@ meta:
     <strong>Regi:</strong> Brad Bird
     <strong>Skuespillere:</strong> Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton, Michael Nyqvist, Josh Holloway, Léa Seydoux, Samuli Edelmann.
     <strong>Spilletid:</strong> 2 timer og 13 minutter
-    <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/mission-impossible-ghost-protocol/" rel="attachment wp-att-2325"><img class="alignnone size-large wp-image-2325" src="/wp-content/uploads//2012/02/mission-impossible-ghost-protocol-620x442.jpg" alt="" width="620" height="442" /></a>
+    <img class="alignnone size-large wp-image-2325" src="/wp-content/uploads//2012/02/mission-impossible-ghost-protocol-620x442.jpg" alt="" width="620" height="442" />
     Brad Bird står for regien i den fjerde installasjonen av Mission: Impossible. "The Incredibles" og "Ratatouille" er noen av filmene han er mest kjent for. Men kan en som vanligvis pleier å forholde seg til animasjonsfilmer lykkes med å lage en fullspekket actionfilm?
 
     Ethan Hunt (Tom Cruise) må i denne filmen stanse en atomkrig av episke proporsjoner. Anarkisten Kurt Hendricks (Michael Nyqvist) spår en fremtid der atomkrig er uunngåelig. Oppdraget innebærer å stoppe en svensktalende terrorist før han destruerer hele planeten. Plottet virker enkelt, nesten for enkelt. På det nye oppdraget har Ethan med seg en ny gjeng med spesialagenter. Benji (Simon Pegg) er dataeksperten som ordner opp i kinkige situasjoner ved hjelp av sin enorme datakunnskap. Jane Carter (Paula Patton) derimot, bruker sitt vakre ytre for å sjarmere seg gjennom hvert oppdrag. De slår seg også sammen med William Brandt (Jeremy Renner), en analytiker med mange skjulte talenter. Sammen utgjør de et uslåelig lag.
@@ -179,7 +179,7 @@ meta:
     <strong>Regi:</strong> Brad Bird
     <strong>Skuespillere:</strong> Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton, Michael Nyqvist, Josh Holloway, Léa Seydoux, Samuli Edelmann.
     <strong>Spilletid:</strong> 2 timer og 13 minutter
-    <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/mission-impossible-ghost-protocol/" rel="attachment wp-att-2325"><img class="alignnone size-large wp-image-2325" src="/wp-content/uploads//2012/02/mission-impossible-ghost-protocol-620x442.jpg" alt="" width="620" height="442" /></a>
+    <img class="alignnone size-large wp-image-2325" src="/wp-content/uploads//2012/02/mission-impossible-ghost-protocol-620x442.jpg" alt="" width="620" height="442" />
     Brad Bird står for regien i den fjerde installasjonen av Mission: Impossible. "The Incredibles" og "Ratatouille" er noen av filmene han er mest kjent for. Men kan en som vanligvis pleier å forholde seg til animasjonsfilmer lykkes med å lage en fullspekket actionfilm?
 
     Ethan Hunt (Tom Cruise) må i denne filmen stanse en atomkrig av episke proporsjoner. Anarkisten Kurt Hendricks (Michael Nyqvist) spår en fremtid der atomkrig er uunngåelig. Oppdraget innebærer å stoppe en svensktalende terrorist før han destruerer hele planeten. Plottet virker enkelt, nesten for enkelt. På det nye oppdraget har Ethan med seg en ny gjeng med spesialagenter. Benji (Simon Pegg) er dataeksperten som ordner opp i kinkige situasjoner ved hjelp av sin enorme datakunnskap. Jane Carter (Paula Patton) derimot, bruker sitt vakre ytre for å sjarmere seg gjennom hvert oppdrag. De slår seg også sammen med William Brandt (Jeremy Renner), en analytiker med mange skjulte talenter. Sammen utgjør de et uslåelig lag.
@@ -271,7 +271,7 @@ tags:
 **Regi:** Brad Bird
 **Skuespillere:** Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton, Michael Nyqvist, Josh Holloway, Léa Seydoux, Samuli Edelmann.
 **Spilletid:** 2 timer og 13 minutter
-<a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/mission-impossible-ghost-protocol/" rel="attachment wp-att-2325"><img class="alignnone size-large wp-image-2325" src="/wp-content/uploads//2012/02/mission-impossible-ghost-protocol-620x442.jpg" alt="" width="620" height="442" /></a>
+<img class="alignnone size-large wp-image-2325" src="/wp-content/uploads//2012/02/mission-impossible-ghost-protocol-620x442.jpg" alt="" width="620" height="442" />
 Brad Bird står for regien i den fjerde installasjonen av Mission: Impossible. «The Incredibles» og «Ratatouille» er noen av filmene han er mest kjent for. Men kan en som vanligvis pleier å forholde seg til animasjonsfilmer lykkes med å lage en fullspekket actionfilm?
 
 Ethan Hunt (Tom Cruise) må i denne filmen stanse en atomkrig av episke proporsjoner. Anarkisten Kurt Hendricks (Michael Nyqvist) spår en fremtid der atomkrig er uunngåelig. Oppdraget innebærer å stoppe en svensktalende terrorist før han destruerer hele planeten. Plottet virker enkelt, nesten for enkelt. På det nye oppdraget har Ethan med seg en ny gjeng med spesialagenter. Benji (Simon Pegg) er dataeksperten som ordner opp i kinkige situasjoner ved hjelp av sin enorme datakunnskap. Jane Carter (Paula Patton) derimot, bruker sitt vakre ytre for å sjarmere seg gjennom hvert oppdrag. De slår seg også sammen med William Brandt (Jeremy Renner), en analytiker med mange skjulte talenter. Sammen utgjør de et uslåelig lag.

@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Denne uken har jeg valgt ut den legendariske Mrs. Doubtfire med Robin Williams i hovedrollen.</strong>
-    <a href="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg"><img class="alignnone size-full wp-image-236" title="Mrs-Doubtfire" src="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg" alt="" width="618" height="400" /></a>
+    <img class="alignnone size-full wp-image-236" title="Mrs-Doubtfire" src="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg" alt="" width="618" height="400" />
     <strong>Originaltittel:</strong> Mrs. Doubtfire<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 5 minutter<strong>
@@ -118,7 +118,7 @@ trackback_url:
 meta:
   - |
     a:74:{i:3660;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:3640;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:3694;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:3648;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"ee12e8309c";}i:3650;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"beca5ef2ab";}i:3695;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:3685;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1898:"<strong>Denne uken har jeg valgt ut den legendariske Mrs. Doubtfire med Robin Williams i hovedrollen.</strong>
-    <a href="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg"><img class="alignnone size-full wp-image-236" title="Mrs-Doubtfire" src="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg" alt="" width="618" height="400" /></a>
+    <img class="alignnone size-full wp-image-236" title="Mrs-Doubtfire" src="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg" alt="" width="618" height="400" />
     <strong>Originaltittel:</strong> Mrs. Doubtfire<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 5 minutter<strong>
@@ -130,7 +130,7 @@ meta:
     Mrs. Doubtfire blir ansatt som barnepike for ungene og Hillard får lov til å tilbringe hver eneste dag sammen med barna sine. Dette er en varm film om familien og den tar opp viktige temaer. Temaene var nok mer aktuelle i 1993, enn de er i dag men fortsatt er det en kjempefilm.
 
     Jeg har ikke lyst til å dra denne veldig langt fordi jeg vil rett og slett bare anbefale denne filmen til de som ikke har sett den enda og de som ikke har sett den på en stund bør tørke støv av de gamle VHS-filmene!";}i:3669;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:3671;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"12";}i:3667;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"14";}i:3665;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:3673;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"35";}i:3699;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:3686;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:3661;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"11";}i:3668;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:3670;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"11";}i:3666;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"26";}i:3664;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"04";}i:3672;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"37";}i:3654;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:3652;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:3655;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:3716;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"235";}i:537;a:2:{s:3:"key";s:16:"jabber_published";s:5:"value";s:10:"1303810684";}i:3658;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"26";}i:3649;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"bfc034257c";}i:3691;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:3690;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:3692;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:3659;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"04";}i:3662;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"37";}i:3678;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:3679;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:3641;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:3644;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:3674;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:3696;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:3642;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:3698;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:3717;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1898:"<strong>Denne uken har jeg valgt ut den legendariske Mrs. Doubtfire med Robin Williams i hovedrollen.</strong>
-    <a href="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg"><img class="alignnone size-full wp-image-236" title="Mrs-Doubtfire" src="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg" alt="" width="618" height="400" /></a>
+    <img class="alignnone size-full wp-image-236" title="Mrs-Doubtfire" src="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg" alt="" width="618" height="400" />
     <strong>Originaltittel:</strong> Mrs. Doubtfire<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 5 minutter<strong>
@@ -197,7 +197,7 @@ ID:
 post_content:
   - |
     <strong>Denne uken har jeg valgt ut den legendariske Mrs. Doubtfire med Robin Williams i hovedrollen.</strong>
-    <a href="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg"><img class="alignnone size-full wp-image-236" title="Mrs-Doubtfire" src="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg" alt="" width="618" height="400" /></a>
+    <img class="alignnone size-full wp-image-236" title="Mrs-Doubtfire" src="/wp-content/uploads//2011/04/mrs-doubtfire-e1310639808344.jpg" alt="" width="618" height="400" />
     <strong>Originaltittel:</strong> Mrs. Doubtfire<strong><strong>
     Kategori:</strong> </strong>Komedie<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 5 minutter<strong>

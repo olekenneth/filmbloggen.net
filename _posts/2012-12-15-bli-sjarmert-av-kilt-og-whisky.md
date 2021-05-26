@@ -108,7 +108,7 @@ content:
     <strong>Manus:</strong> Paul Laverty
     <strong>Skuespillere:</strong> Paul Brannigan, John Henshaw, Gary Maitland, Jasmin Riggins, William Ruane, Roger Allam, Siobhan Reilly
     <strong>Spilletid:</strong> 101 min
-    <a href="//filmbloggen.net/2012/12/15/bli-sjarmert-av-kilt-og-whisky/bojrdpa2/" rel="attachment wp-att-8930"><img class="alignnone size-large wp-image-8930" src="/wp-content/uploads//2012/12/bojrdpa2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-8930" src="/wp-content/uploads//2012/12/bojrdpa2-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto:</strong> Storytelling Media
     <strong>Skrevet av:</strong> Ragnhildur Ásmundsdóttir
 
@@ -186,7 +186,7 @@ post_content:
     <strong>Manus:</strong> Paul Laverty
     <strong>Skuespillere:</strong> Paul Brannigan, John Henshaw, Gary Maitland, Jasmin Riggins, William Ruane, Roger Allam, Siobhan Reilly
     <strong>Spilletid:</strong> 101 min
-    <a href="//filmbloggen.net/2012/12/15/bli-sjarmert-av-kilt-og-whisky/bojrdpa2/" rel="attachment wp-att-8930"><img class="alignnone size-large wp-image-8930" src="/wp-content/uploads//2012/12/bojrdpa2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-8930" src="/wp-content/uploads//2012/12/bojrdpa2-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto:</strong> Storytelling Media
     <strong>Skrevet av:</strong> Ragnhildur Ásmundsdóttir
 
@@ -216,7 +216,7 @@ meta:
     <strong>Manus:</strong> Paul Laverty
     <strong>Skuespillere:</strong> Paul Brannigan, John Henshaw, Gary Maitland, Jasmin Riggins, William Ruane, Roger Allam, Siobhan Reilly
     <strong>Spilletid:</strong> 101 min
-    <a href="//filmbloggen.net/2012/12/15/bli-sjarmert-av-kilt-og-whisky/bojrdpa2/" rel="attachment wp-att-8930"><img class="alignnone size-large wp-image-8930" src="/wp-content/uploads//2012/12/bojrdpa2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-8930" src="/wp-content/uploads//2012/12/bojrdpa2-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto:</strong> Storytelling Media
     <strong>Skrevet av:</strong> Ragnhildur Ásmundsdóttir
 
@@ -237,7 +237,7 @@ meta:
     <strong>Manus:</strong> Paul Laverty
     <strong>Skuespillere:</strong> Paul Brannigan, John Henshaw, Gary Maitland, Jasmin Riggins, William Ruane, Roger Allam, Siobhan Reilly
     <strong>Spilletid:</strong> 101 min
-    <a href="//filmbloggen.net/2012/12/15/bli-sjarmert-av-kilt-og-whisky/bojrdpa2/" rel="attachment wp-att-8930"><img class="alignnone size-large wp-image-8930" src="/wp-content/uploads//2012/12/bojrdpa2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-8930" src="/wp-content/uploads//2012/12/bojrdpa2-620x413.jpg" alt="" width="620" height="413" />
     <strong>Foto:</strong> Storytelling Media
     <strong>Skrevet av:</strong> Ragnhildur Ásmundsdóttir
 
@@ -272,7 +272,7 @@ tags:
 **Manus:** Paul Laverty
 **Skuespillere:** Paul Brannigan, John Henshaw, Gary Maitland, Jasmin Riggins, William Ruane, Roger Allam, Siobhan Reilly
 **Spilletid:** 101 min
-<a href="//filmbloggen.net/2012/12/15/bli-sjarmert-av-kilt-og-whisky/bojrdpa2/" rel="attachment wp-att-8930"><img class="alignnone size-large wp-image-8930" src="/wp-content/uploads//2012/12/bojrdpa2-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-8930" src="/wp-content/uploads//2012/12/bojrdpa2-620x413.jpg" alt="" width="620" height="413" />
 **Foto:** Storytelling Media
 **Skrevet av:** Ragnhildur Ásmundsdóttir
 

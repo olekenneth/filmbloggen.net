@@ -102,7 +102,7 @@ content:
   - |
     <strong>Vi har alle våre guilty-pleasures her i livet. Jenter har sjokolade og The Notebook, mens jeg har Burn Notice!</strong><!--more-->
 
-    <strong><a href="//filmbloggen.net/?attachment_id=8222" rel="attachment wp-att-8222"><img class="alignnone size-large wp-image-8222" title="cast" src="/wp-content/uploads//2012/11/cast-620x465.jpg" alt="" width="620" height="465" /></a>
+    <strong><img class="alignnone size-large wp-image-8222" title="cast" src="/wp-content/uploads//2012/11/cast-620x465.jpg" alt="" width="620" height="465" />
     Burn Notice omhandler Michael Westen som har blitt kastet ut av CIA etter å ha blitt satt opp av en hemmelig organisasjon som vil tvinge han til å jobbe for de</strong>. Dette er selvfølgelig ikke noe vår superspion godtar og han skal få tilbake jobben sin. Uansett hva det koster! Rundt seg har han seg en kompis som pleide å tyste på han til FBI, en x-kjæreste som jobber som våpensmugler og sin mor. Ikke akkurat ubegrensede ressurser. Men det stopper jo selvfølgelig ikke Michael Weston.
 
     <strong>Michael Westen er på mange måter veldig lik våre yndlingskarakterer i actionfilmer fra 80- og 90-tallet.</strong> Han har sjarm, intelligens, et skikkelig steinansikt og han elsker å banke opp slemminger. Fordi en mann som Michael kan ikke snu ryggen til når venner, familie, naboer eller selv totalt fremmede kommer til han for hjelp. For meg så er Michael Westen en god blanding mellom James Bond og MacGyver. Og hvordan kan det være feil?!
@@ -168,7 +168,7 @@ post_content:
   - |
     <strong>Vi har alle våre guilty-pleasures her i livet. Jenter har sjokolade og The Notebook, mens jeg har Burn Notice!</strong><!--more-->
 
-    <strong><a href="//filmbloggen.net/?attachment_id=8222" rel="attachment wp-att-8222"><img class="alignnone size-large wp-image-8222" title="cast" src="/wp-content/uploads//2012/11/cast-620x465.jpg" alt="" width="620" height="465" /></a>
+    <strong><img class="alignnone size-large wp-image-8222" title="cast" src="/wp-content/uploads//2012/11/cast-620x465.jpg" alt="" width="620" height="465" />
     Burn Notice omhandler Michael Westen som har blitt kastet ut av CIA etter å ha blitt satt opp av en hemmelig organisasjon som vil tvinge han til å jobbe for de</strong>. Dette er selvfølgelig ikke noe vår superspion godtar og han skal få tilbake jobben sin. Uansett hva det koster! Rundt seg har han seg en kompis som pleide å tyste på han til FBI, en x-kjæreste som jobber som våpensmugler og sin mor. Ikke akkurat ubegrensede ressurser. Men det stopper jo selvfølgelig ikke Michael Weston.
 
     <strong>Michael Westen er på mange måter veldig lik våre yndlingskarakterer i actionfilmer fra 80- og 90-tallet.</strong> Han har sjarm, intelligens, et skikkelig steinansikt og han elsker å banke opp slemminger. Fordi en mann som Michael kan ikke snu ryggen til når venner, familie, naboer eller selv totalt fremmede kommer til han for hjelp. For meg så er Michael Westen en god blanding mellom James Bond og MacGyver. Og hvordan kan det være feil?!
@@ -185,7 +185,7 @@ categories:
 ---
 **Vi har alle våre guilty-pleasures her i livet. Jenter har sjokolade og The Notebook, mens jeg har Burn Notice!**<!--more-->
 
-**<a href="//filmbloggen.net/2012/11/29/tv-serie-burn-notice/cast/" rel="attachment wp-att-8222"><img class="alignnone size-large wp-image-8222" src="/wp-content/uploads//2012/11/cast-620x465.jpg" alt="" width="620" height="465" /></a>
+**<img class="alignnone size-large wp-image-8222" src="/wp-content/uploads//2012/11/cast-620x465.jpg" alt="" width="620" height="465" />
 Burn Notice omhandler Michael Westen som har blitt kastet ut av CIA etter å ha blitt satt opp av en hemmelig organisasjon som vil tvinge han til å jobbe for de**. Dette er selvfølgelig ikke noe vår superspion godtar og han skal få tilbake jobben sin. Uansett hva det koster! Rundt seg har han seg en kompis som pleide å tyste på han til FBI, en x-kjæreste som jobber som våpensmugler og sin mor. Ikke akkurat ubegrensede ressurser. Men det stopper jo selvfølgelig ikke Michael Weston.
 
 **Michael Westen er på mange måter veldig lik våre yndlingskarakterer i actionfilmer fra 80- og 90-tallet.** Han har sjarm, intelligens, et skikkelig steinansikt og han elsker å banke opp slemminger. Fordi en mann som Michael kan ikke snu ryggen til når venner, familie, naboer eller selv totalt fremmede kommer til han for hjelp. For meg så er Michael Westen en god blanding mellom James Bond og MacGyver. Og hvordan kan det være feil?!

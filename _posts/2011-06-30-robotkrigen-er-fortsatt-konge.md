@@ -102,7 +102,7 @@ content:
   - |
     <strong>En av sommerens klart største filmer hadde verdenspremiere onsdag 29. juni og jeg hadde jo selvfølgelig ikke noe annet valg enn å ta turen for å være der på første visning på dagen. Som vanlig skuffet ikke duoen Michael Bay og Steven Spielberg. FOR EN FILM!</strong>
     (Anmeldelse av Transformers: Dark of the Moon)
-    <a href="//filmbloggen.webalive.no/?attachment_id=24"><img class="alignnone size-full wp-image-24" title="TRANSFORMERS 3" src="//filmbloggen.webalive.no/files/2011/04/transformers-dark-of-the-moon-9.jpg" alt="" width="504" height="336" /></a>
+    <img class="alignnone size-full wp-image-24" title="TRANSFORMERS 3" src="//filmbloggen.webalive.no/files/2011/04/transformers-dark-of-the-moon-9.jpg" alt="" width="504" height="336" />
     <strong><strong>Originaltittel: </strong></strong>Transformers: Dark of the moon<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 26 minutter<strong>
@@ -122,7 +122,7 @@ meta:
   - |
     a:70:{i:1586;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:1566;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:1620;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:1574;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"eebd2a973e";}i:1576;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"a515428b97";}i:1621;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:1611;a:2:{s:3:"key";s:7:"content";s:5:"value";s:4653:"<strong>En av sommerens klart største filmer hadde verdenspremiere onsdag 29. juni og jeg hadde jo selvfølgelig ikke noe annet valg enn å ta turen for å være der på første visning på dagen. Som vanlig skuffet ikke duoen Michael Bay og Steven Spielberg. FOR EN FILM!</strong>
     (Anmeldelse av Transformers: Dark of the Moon)
-    <a href="//filmbloggen.webalive.no/?attachment_id=24"><img class="alignnone size-full wp-image-24" title="TRANSFORMERS 3" src="//filmbloggen.webalive.no/files/2011/04/transformers-dark-of-the-moon-9.jpg" alt="" width="504" height="336" /></a>
+    <img class="alignnone size-full wp-image-24" title="TRANSFORMERS 3" src="//filmbloggen.webalive.no/files/2011/04/transformers-dark-of-the-moon-9.jpg" alt="" width="504" height="336" />
     <strong><strong>Originaltittel: </strong></strong>Transformers: Dark of the moon<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 26 minutter<strong>
@@ -137,7 +137,7 @@ meta:
 
     Musikken holder som vanlig nivået oppe og engasjerer deg enda mer. Dette er action fra start til slutt og likte du de to forrige kommer du garantert til å elske denne også. Skal jeg være ærlig så er den et skritt opp manusmessig fra toern, men den når jo selvfølgelig ikke helt opp til eneren i mine øyne. Men dette er en film du MÅ få med deg i sommer.";}i:1595;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:1597;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"17";}i:1593;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"13";}i:1591;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:1599;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"07";}i:1612;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:1587;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"11";}i:1594;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:1596;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"11";}i:1592;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"30";}i:1590;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"06";}i:1598;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"30";}i:1580;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:1578;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:1581;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:1638;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"450";}i:629;a:2:{s:3:"key";s:16:"jabber_published";s:5:"value";s:10:"1309426224";}i:1584;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"30";}i:1575;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"1d95b3a192";}i:1617;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:1616;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:1618;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:1585;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"06";}i:1588;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"30";}i:1604;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:1605;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:1567;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:1570;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:1600;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:1622;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:1568;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:1624;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:1639;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:4653:"<strong>En av sommerens klart største filmer hadde verdenspremiere onsdag 29. juni og jeg hadde jo selvfølgelig ikke noe annet valg enn å ta turen for å være der på første visning på dagen. Som vanlig skuffet ikke duoen Michael Bay og Steven Spielberg. FOR EN FILM!</strong>
     (Anmeldelse av Transformers: Dark of the Moon)
-    <a href="//filmbloggen.webalive.no/?attachment_id=24"><img class="alignnone size-full wp-image-24" title="TRANSFORMERS 3" src="//filmbloggen.webalive.no/files/2011/04/transformers-dark-of-the-moon-9.jpg" alt="" width="504" height="336" /></a>
+    <img class="alignnone size-full wp-image-24" title="TRANSFORMERS 3" src="//filmbloggen.webalive.no/files/2011/04/transformers-dark-of-the-moon-9.jpg" alt="" width="504" height="336" />
     <strong><strong>Originaltittel: </strong></strong>Transformers: Dark of the moon<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 26 minutter<strong>
@@ -199,7 +199,7 @@ post_content:
   - |
     <strong>En av sommerens klart største filmer hadde verdenspremiere onsdag 29. juni og jeg hadde jo selvfølgelig ikke noe annet valg enn å ta turen for å være der på første visning på dagen. Som vanlig skuffet ikke duoen Michael Bay og Steven Spielberg. FOR EN FILM!</strong>
     (Anmeldelse av Transformers: Dark of the Moon)
-    <a href="//filmbloggen.webalive.no/?attachment_id=24"><img class="alignnone size-full wp-image-24" title="TRANSFORMERS 3" src="//filmbloggen.webalive.no/files/2011/04/transformers-dark-of-the-moon-9.jpg" alt="" width="504" height="336" /></a>
+    <img class="alignnone size-full wp-image-24" title="TRANSFORMERS 3" src="//filmbloggen.webalive.no/files/2011/04/transformers-dark-of-the-moon-9.jpg" alt="" width="504" height="336" />
     <strong><strong>Originaltittel: </strong></strong>Transformers: Dark of the moon<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 26 minutter<strong>

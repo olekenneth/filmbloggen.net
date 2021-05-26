@@ -107,7 +107,7 @@ content:
 
 
 
-    <a href="//filmbloggen.net/2011/10/05/film-for-faen-life-as-we-know-it/life-articlelarge/" rel="attachment wp-att-1314"><img class="alignleft size-full wp-image-1314" src="/wp-content/uploads//2011/10/LIFE-articleLarge.jpg" alt="" width="600" height="315" /></a>
+    <img class="alignleft size-full wp-image-1314" src="/wp-content/uploads//2011/10/LIFE-articleLarge.jpg" alt="" width="600" height="315" />
 
 
 
@@ -203,7 +203,7 @@ post_content:
 
 
 
-    <a href="//filmbloggen.net/2011/10/05/film-for-faen-life-as-we-know-it/life-articlelarge/" rel="attachment wp-att-1314"><img class="alignleft size-full wp-image-1314" src="/wp-content/uploads//2011/10/LIFE-articleLarge.jpg" alt="" width="600" height="315" /></a>
+    <img class="alignleft size-full wp-image-1314" src="/wp-content/uploads//2011/10/LIFE-articleLarge.jpg" alt="" width="600" height="315" />
 
 
 
@@ -253,7 +253,7 @@ meta:
 
 
 
-    <a href="//filmbloggen.net/2011/10/05/film-for-faen-life-as-we-know-it/life-articlelarge/" rel="attachment wp-att-1314"><img class="alignleft size-full wp-image-1314" src="/wp-content/uploads//2011/10/LIFE-articleLarge.jpg" alt="" width="600" height="315" /></a>
+    <img class="alignleft size-full wp-image-1314" src="/wp-content/uploads//2011/10/LIFE-articleLarge.jpg" alt="" width="600" height="315" />
 
 
 
@@ -294,7 +294,7 @@ meta:
 
 
 
-    <a href="//filmbloggen.net/2011/10/05/film-for-faen-life-as-we-know-it/life-articlelarge/" rel="attachment wp-att-1314"><img class="alignleft size-full wp-image-1314" src="/wp-content/uploads//2011/10/LIFE-articleLarge.jpg" alt="" width="600" height="315" /></a>
+    <img class="alignleft size-full wp-image-1314" src="/wp-content/uploads//2011/10/LIFE-articleLarge.jpg" alt="" width="600" height="315" />
 
 
 
@@ -355,7 +355,7 @@ tags:
 
 
 
-<a href="//filmbloggen.net/2011/10/05/film-for-faen-life-as-we-know-it/life-articlelarge/" rel="attachment wp-att-1314"><img class="alignleft size-full wp-image-1314" src="/wp-content/uploads//2011/10/LIFE-articleLarge.jpg" alt="" width="600" height="315" /></a>
+<img class="alignleft size-full wp-image-1314" src="/wp-content/uploads//2011/10/LIFE-articleLarge.jpg" alt="" width="600" height="315" />
 
 
 

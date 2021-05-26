@@ -21,7 +21,7 @@ content:
     <strong>Spilletid:</strong> 95 min
     <strong>Med:</strong> Christina Ricci, Jason Biggs, Anne Heche, Michelle Williams, Jonathan Rhys Meyers, Jessica Lange
 
-    <a href="//filmbloggen.net/2011/10/14/prozac-nation/attachment/1/" rel="attachment wp-att-1467"><img class="alignnone size-large wp-image-1467" src="/wp-content/uploads//2011/10/1-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-1467" src="/wp-content/uploads//2011/10/1-620x412.jpg" alt="" width="620" height="412" />
     Jeg hadde store forhåpninger til denne filmen, ettersom Erik Skjoldbjærg stod for regien, mannen som ga oss "Insomnia". Den handler om en ung jente (Christina Ricci) som skal begynne på Harvard. Hun er en meget talentfull skribent, men hun har alvorlige rusproblemer, og det viser seg etterhvert at det går utover psyken hennes. Hun ble oppdratt av bare moren, ettersom faren dro fra dem da hun var en liten jente, så det skal vise seg at hun har et veldig dysfunksjonelt forhold til faren sin. Hun har aldri vært særlig flink til å ta kontakt med mennesker, men hun får seg allikevel et par venner på Harvard. Disse blir etterhvert bekymret for henne fordi hun nekter å sove før hun er ferdig med en artikkeloppgave. Dette gjør at hun blir manisk og festingen kommer til et bråstopp.
 
     Filmen skildrer godt hvordan det er å ha en bipolar lidelse, men den svikter imidlertid litt i struktur og generell historiefortelling. Ved det mener jeg at selve historien i filmen er ganske så sjelløs og kjedelig. Strukturen henger ikke helt på greip heller: vendepunktet i filmen kommer altfor tidlig og alt som følger deretter virker platt og innsatsløst.
@@ -58,7 +58,7 @@ post_content:
     <strong>Spilletid:</strong> 95 min
     <strong>Med:</strong> Christina Ricci, Jason Biggs, Anne Heche, Michelle Williams, Jonathan Rhys Meyers, Jessica Lange
 
-    <a href="//filmbloggen.net/2011/10/14/prozac-nation/attachment/1/" rel="attachment wp-att-1467"><img class="alignnone size-large wp-image-1467" src="/wp-content/uploads//2011/10/1-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-1467" src="/wp-content/uploads//2011/10/1-620x412.jpg" alt="" width="620" height="412" />
     Jeg hadde store forhåpninger til denne filmen, ettersom Erik Skjoldbjærg stod for regien, mannen som ga oss "Insomnia". Den handler om en ung jente (Christina Ricci) som skal begynne på Harvard. Hun er en meget talentfull skribent, men hun har alvorlige rusproblemer, og det viser seg etterhvert at det går utover psyken hennes. Hun ble oppdratt av bare moren, ettersom faren dro fra dem da hun var en liten jente, så det skal vise seg at hun har et veldig dysfunksjonelt forhold til faren sin. Hun har aldri vært særlig flink til å ta kontakt med mennesker, men hun får seg allikevel et par venner på Harvard. Disse blir etterhvert bekymret for henne fordi hun nekter å sove før hun er ferdig med en artikkeloppgave. Dette gjør at hun blir manisk og festingen kommer til et bråstopp.
 
     Filmen skildrer godt hvordan det er å ha en bipolar lidelse, men den svikter imidlertid litt i struktur og generell historiefortelling. Ved det mener jeg at selve historien i filmen er ganske så sjelløs og kjedelig. Strukturen henger ikke helt på greip heller: vendepunktet i filmen kommer altfor tidlig og alt som følger deretter virker platt og innsatsløst.
@@ -158,7 +158,7 @@ meta:
     <strong>Spilletid:</strong> 95 min
     <strong>Med:</strong> Christina Ricci, Jason Biggs, Anne Heche, Michelle Williams, Jonathan Rhys Meyers, Jessica Lange
 
-    <a href="//filmbloggen.net/2011/10/14/prozac-nation/attachment/1/" rel="attachment wp-att-1467"><img class="alignnone size-large wp-image-1467" src="/wp-content/uploads//2011/10/1-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-1467" src="/wp-content/uploads//2011/10/1-620x412.jpg" alt="" width="620" height="412" />
     Jeg hadde store forhåpninger til denne filmen, ettersom Erik Skjoldbjærg stod for regien, mannen som ga oss "Insomnia". Den handler om en ung jente (Christina Ricci) som skal begynne på Harvard. Hun er en meget talentfull skribent, men hun har alvorlige rusproblemer, og det viser seg etterhvert at det går utover psyken hennes. Hun ble oppdratt av bare moren, ettersom faren dro fra dem da hun var en liten jente. Så det skal vise seg at hun har et veldig dysfunksjonelt forhold til faren sin. Hun har aldri vært særlig flink til å ta kontakt med mennesker, men hun får seg allikevel et par venner på Harvard. Vennene blir etterhvert bekymret for henne fordi hun nekter å sove før hun er ferdig med en artikkeloppgave. Dette gjør at hun blir manisk og festingen kommer til et bråstopp.
 
     Filmen skildrer godt hvordan det er å ha en bipolar lidelse, men den svikter imidlertid litt i struktur og generell historiefortelling. Ved det mener jeg at selve historien i filmen er ganske så sjelløs og kjedelig. Strukturen henger ikke helt på greip heller, vendepunktet i filmen kommer altfor tidlig og alt som følger deretter virker platt og innsatsløst.
@@ -173,7 +173,7 @@ meta:
     <strong>Spilletid:</strong> 95 min
     <strong>Med:</strong> Christina Ricci, Jason Biggs, Anne Heche, Michelle Williams, Jonathan Rhys Meyers, Jessica Lange
 
-    <a href="//filmbloggen.net/2011/10/14/prozac-nation/attachment/1/" rel="attachment wp-att-1467"><img class="alignnone size-large wp-image-1467" src="/wp-content/uploads//2011/10/1-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-1467" src="/wp-content/uploads//2011/10/1-620x412.jpg" alt="" width="620" height="412" />
     Jeg hadde store forhåpninger til denne filmen, ettersom Erik Skjoldbjærg stod for regien, mannen som ga oss "Insomnia". Den handler om en ung jente (Christina Ricci) som skal begynne på Harvard. Hun er en meget talentfull skribent, men hun har alvorlige rusproblemer, og det viser seg etterhvert at det går utover psyken hennes. Hun ble oppdratt av bare moren, ettersom faren dro fra dem da hun var en liten jente. Så det skal vise seg at hun har et veldig dysfunksjonelt forhold til faren sin. Hun har aldri vært særlig flink til å ta kontakt med mennesker, men hun får seg allikevel et par venner på Harvard. Vennene blir etterhvert bekymret for henne fordi hun nekter å sove før hun er ferdig med en artikkeloppgave. Dette gjør at hun blir manisk og festingen kommer til et bråstopp.
 
     Filmen skildrer godt hvordan det er å ha en bipolar lidelse, men den svikter imidlertid litt i struktur og generell historiefortelling. Ved det mener jeg at selve historien i filmen er ganske så sjelløs og kjedelig. Strukturen henger ikke helt på greip heller, vendepunktet i filmen kommer altfor tidlig og alt som følger deretter virker platt og innsatsløst.
@@ -250,7 +250,7 @@ Regissør:** Erik Skjoldbjærg
 **Spilletid:** 95 min
 **Med:** Christina Ricci, Jason Biggs, Anne Heche, Michelle Williams, Jonathan Rhys Meyers, Jessica Lange
 
-<a href="//filmbloggen.net/2011/10/14/prozac-nation/attachment/1/" rel="attachment wp-att-1467"><img class="alignnone size-large wp-image-1467" src="/wp-content/uploads//2011/10/1-620x412.jpg" alt="" width="620" height="412" /></a>
+<img class="alignnone size-large wp-image-1467" src="/wp-content/uploads//2011/10/1-620x412.jpg" alt="" width="620" height="412" />
 Jeg hadde store forhåpninger til denne filmen, ettersom Erik Skjoldbjærg stod for regien, mannen som ga oss «Insomnia». Den handler om en ung jente (Christina Ricci) som skal begynne på Harvard. Hun er en meget talentfull skribent, men hun har alvorlige rusproblemer, og det viser seg etterhvert at det går utover psyken hennes. Hun ble oppdratt av bare moren, ettersom faren dro fra dem da hun var en liten jente, så det skal vise seg at hun har et veldig dysfunksjonelt forhold til faren sin. Hun har aldri vært særlig flink til å ta kontakt med mennesker, men hun får seg allikevel et par venner på Harvard. Disse blir etterhvert bekymret for henne fordi hun nekter å sove før hun er ferdig med en artikkeloppgave. Dette gjør at hun blir manisk og festingen kommer til et bråstopp.
 
 Filmen skildrer godt hvordan det er å ha en bipolar lidelse, men den svikter imidlertid litt i struktur og generell historiefortelling. Ved det mener jeg at selve historien i filmen er ganske så sjelløs og kjedelig. Strukturen henger ikke helt på greip heller: vendepunktet i filmen kommer altfor tidlig og alt som følger deretter virker platt og innsatsløst.

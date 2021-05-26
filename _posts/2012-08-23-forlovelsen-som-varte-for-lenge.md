@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> Jason Segel, Emily Blunt, Chris Pratt, Alison Brie, Lauren Weedman, Mimi Kennedy, David Paymer, Jacki Weaver, Rhys Ifans, Mindy Kaling, Randall Park, Kevin Hart.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/08/23/forlovelsen-som-varte-for-lenge/the-five-year-engagement_03/" rel="attachment wp-att-6308"><img class="alignnone size-large wp-image-6308" src="/wp-content/uploads//2012/08/The-Five-Year-Engagement_03-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-6308" src="/wp-content/uploads//2012/08/The-Five-Year-Engagement_03-620x413.jpg" alt="" width="620" height="413" />
 
     Tom Sullivan (Jason Segel) har etter et år sammen med Violet Barnes (Emliy Blunt) bestemt seg for å fri til sin partner. Hun sa ja og livene deres kunne ikke vært bedre, men så skjer det uforutsette ting som gjør at de må utsette bryllupet. Det som følger deretter er en tålmodighetsprøve uten like - både for de og for oss som seere.
 
@@ -62,7 +62,7 @@ post_content:
     <strong>Skuespillere:</strong> Jason Segel, Emily Blunt, Chris Pratt, Alison Brie, Lauren Weedman, Mimi Kennedy, David Paymer, Jacki Weaver, Rhys Ifans, Mindy Kaling, Randall Park, Kevin Hart.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/08/23/forlovelsen-som-varte-for-lenge/the-five-year-engagement_03/" rel="attachment wp-att-6308"><img class="alignnone size-large wp-image-6308" src="/wp-content/uploads//2012/08/The-Five-Year-Engagement_03-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-6308" src="/wp-content/uploads//2012/08/The-Five-Year-Engagement_03-620x413.jpg" alt="" width="620" height="413" />
 
     Tom Sullivan (Jason Segel) har etter et år sammen med Violet Barnes (Emliy Blunt) bestemt seg for å fri til sin partner. Hun sa ja og livene deres kunne ikke vært bedre, men så skjer det uforutsette ting som gjør at de må utsette bryllupet. Det som følger deretter er en tålmodighetsprøve uten like - både for de og for oss som seere.
 
@@ -168,7 +168,7 @@ meta:
     <strong>Skuespillere:</strong> Jason Segel, Emily Blunt, Chris Pratt, Alison Brie, Lauren Weedman, Mimi Kennedy, David Paymer, Jacki Weaver, Rhys Ifans, Mindy Kaling, Randall Park, Kevin Hart.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/08/23/forlovelsen-som-varte-for-lenge/the-five-year-engagement_03/" rel="attachment wp-att-6308"><img class="alignnone size-large wp-image-6308" src="/wp-content/uploads//2012/08/The-Five-Year-Engagement_03-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-6308" src="/wp-content/uploads//2012/08/The-Five-Year-Engagement_03-620x413.jpg" alt="" width="620" height="413" />
 
     Tom Sullivan (Jason Segel) har etter et år sammen med Violet Barnes (Emliy Blunt) bestemt seg for å fri til sin partner. Hun sa ja og livene deres kunne ikke vært bedre, men så skjer det uforutsette ting som gjør at de må utsette bryllupet. Det som følger deretter er en tålmodighetsprøve uten like - både for de og for oss som seere.
 
@@ -188,7 +188,7 @@ meta:
     <strong>Skuespillere:</strong> Jason Segel, Emily Blunt, Chris Pratt, Alison Brie, Lauren Weedman, Mimi Kennedy, David Paymer, Jacki Weaver, Rhys Ifans, Mindy Kaling, Randall Park, Kevin Hart.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/08/23/forlovelsen-som-varte-for-lenge/the-five-year-engagement_03/" rel="attachment wp-att-6308"><img class="alignnone size-large wp-image-6308" src="/wp-content/uploads//2012/08/The-Five-Year-Engagement_03-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-6308" src="/wp-content/uploads//2012/08/The-Five-Year-Engagement_03-620x413.jpg" alt="" width="620" height="413" />
 
     Tom Sullivan (Jason Segel) har etter et år sammen med Violet Barnes (Emliy Blunt) bestemt seg for å fri til sin partner. Hun sa ja og livene deres kunne ikke vært bedre, men så skjer det uforutsette ting som gjør at de må utsette bryllupet. Det som følger deretter er en tålmodighetsprøve uten like - både for de og for oss som seere.
 
@@ -289,7 +289,7 @@ tags:
 **Skuespillere:** Jason Segel, Emily Blunt, Chris Pratt, Alison Brie, Lauren Weedman, Mimi Kennedy, David Paymer, Jacki Weaver, Rhys Ifans, Mindy Kaling, Randall Park, Kevin Hart.
 **Spilletid:** 2 timer og 4 minutter
 
-<a href="//filmbloggen.net/2012/08/23/forlovelsen-som-varte-for-lenge/the-five-year-engagement_03/" rel="attachment wp-att-6308"><img class="alignnone size-large wp-image-6308" src="/wp-content/uploads//2012/08/The-Five-Year-Engagement_03-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-6308" src="/wp-content/uploads//2012/08/The-Five-Year-Engagement_03-620x413.jpg" alt="" width="620" height="413" />
 
 Tom Sullivan (Jason Segel) har etter et år sammen med Violet Barnes (Emliy Blunt) bestemt seg for å fri til sin partner. Hun sa ja og livene deres kunne ikke vært bedre, men så skjer det uforutsette ting som gjør at de må utsette bryllupet. Det som følger deretter er en tålmodighetsprøve uten like – både for de og for oss som seere.
 

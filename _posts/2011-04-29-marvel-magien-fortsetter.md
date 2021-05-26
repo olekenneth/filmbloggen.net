@@ -102,7 +102,7 @@ content:
   - |
     <strong>Gjett om jeg har gleda meg lenge til å se Thor. Den skuffet ikke i et sekund!
     </strong>(Anmeldelse av Thor)
-    <a href="/wp-content/uploads//2011/04/thor2.jpg"><img class="alignnone size-large wp-image-661" title="Thor" src="/wp-content/uploads//2011/04/thor2-e1310589960998-620x484.jpg" alt="" width="620" height="484" /></a>
+    <img class="alignnone size-large wp-image-661" title="Thor" src="/wp-content/uploads//2011/04/thor2-e1310589960998-620x484.jpg" alt="" width="620" height="484" />
     <strong>Originaltittel: </strong>Thor<strong>
     Kategori:</strong> Action/Eventyr
     <strong>Spilletid:</strong> 2 timer og 10 minutter
@@ -176,7 +176,7 @@ post_content:
   - |
     <strong>Gjett om jeg har gleda meg lenge til å se Thor. Den skuffet ikke i et sekund!
     </strong>(Anmeldelse av Thor)
-    <a href="/wp-content/uploads//2011/04/thor2.jpg"><img class="alignnone size-large wp-image-661" title="Thor" src="/wp-content/uploads//2011/04/thor2-e1310589960998-620x484.jpg" alt="" width="620" height="484" /></a>
+    <img class="alignnone size-large wp-image-661" title="Thor" src="/wp-content/uploads//2011/04/thor2-e1310589960998-620x484.jpg" alt="" width="620" height="484" />
     <strong>Originaltittel: </strong>Thor<strong>
     Kategori:</strong> Action/Eventyr
     <strong>Spilletid:</strong> 2 timer og 10 minutter

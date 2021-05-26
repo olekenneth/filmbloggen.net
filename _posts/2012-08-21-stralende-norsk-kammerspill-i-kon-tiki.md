@@ -108,7 +108,7 @@ content:
     <strong>Manus:</strong> Petter Skavlan
     <strong>Skuespillere:</strong> Pål Sverre Valheim Hagen, Anders Baasmo Christiansen, Gustaf Skarsgård, Odd Magnus Williamson, Tobias Sentelmann, Jakob Oftebro
 
-    <a href="//filmbloggen.net/2012/08/21/stralende-norsk-kammerspill-i-kon-tiki/ahmxosc44/" rel="attachment wp-att-6492"><img class="alignnone size-large wp-image-6492" src="/wp-content/uploads//2012/08/ahmxosc44-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-6492" src="/wp-content/uploads//2012/08/ahmxosc44-620x348.jpg" alt="" width="620" height="348" />
     <em>Foto: Carl Christian Raabe</em>
 
     De fleste her til lands kjenner historien om hvordan Thor Heyerdahl var overbevist om at Polynesia var befolket fra Sør-Afrika – og ikke Asia som datidens vitenskapsmiljø uttalte – og hva han så gjorde for å bekrefte sin teori. Han bygger en liten flåte av balsatre og kaster seg ut på Stillehavet med fem andre menn.
@@ -190,7 +190,7 @@ post_content:
     <strong>Manus:</strong> Petter Skavlan
     <strong>Skuespillere:</strong> Pål Sverre Valheim Hagen, Anders Baasmo Christiansen, Gustaf Skarsgård, Odd Magnus Williamson, Tobias Sentelmann, Jakob Oftebro
 
-    <a href="//filmbloggen.net/2012/08/21/stralende-norsk-kammerspill-i-kon-tiki/ahmxosc44/" rel="attachment wp-att-6492"><img class="alignnone size-large wp-image-6492" src="/wp-content/uploads//2012/08/ahmxosc44-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-6492" src="/wp-content/uploads//2012/08/ahmxosc44-620x348.jpg" alt="" width="620" height="348" />
     <em>Foto: Carl Christian Raabe</em>
 
     De fleste her til lands kjenner historien om hvordan Thor Heyerdahl var overbevist om at Polynesia var befolket fra Sør-Afrika – og ikke Asia som datidens vitenskapsmiljø uttalte – og hva han så gjorde for å bekrefte sin teori. Han bygger en liten flåte av balsatre og kaster seg ut på Stillehavet med fem andre menn.
@@ -222,7 +222,7 @@ meta:
     <strong>Manus:</strong> Petter Skavlan
     <strong>Skuespillere:</strong> Pål Sverre Valheim Hagen, Anders Baasmo Christiansen, Gustaf Skarsgård, Odd Magnus Williamson, Tobias Sentelmann, Jakob Oftebro
 
-    <a href="//filmbloggen.net/?attachment_id=6492" rel="attachment wp-att-6492"><img class="alignnone size-large wp-image-6492" src="/wp-content/uploads//2012/08/ahmxosc44-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-6492" src="/wp-content/uploads//2012/08/ahmxosc44-620x348.jpg" alt="" width="620" height="348" />
     <em>Foto: Carl Christian Raabe</em>
 
     De fleste her til lands kjenner historien om hvordan Thor Heyerdahl var overbevist om at Polynesia var befolket fra Sør-Afrika – og ikke Asia som datidens vitenskapsmiljø uttalte – og hva han så gjorde for å bekrefte sin teori. Han bygger en liten flåte av balsatre og kaster seg ut på Stillehavet med fem andre menn.
@@ -247,7 +247,7 @@ meta:
     <strong>Manus:</strong> Petter Skavlan
     <strong>Skuespillere:</strong> Pål Sverre Valheim Hagen, Anders Baasmo Christiansen, Gustaf Skarsgård, Odd Magnus Williamson, Tobias Sentelmann, Jakob Oftebro
 
-    <a href="//filmbloggen.net/?attachment_id=6492" rel="attachment wp-att-6492"><img class="alignnone size-large wp-image-6492" src="/wp-content/uploads//2012/08/ahmxosc44-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-6492" src="/wp-content/uploads//2012/08/ahmxosc44-620x348.jpg" alt="" width="620" height="348" />
     <em>Foto: Carl Christian Raabe</em>
 
     De fleste her til lands kjenner historien om hvordan Thor Heyerdahl var overbevist om at Polynesia var befolket fra Sør-Afrika – og ikke Asia som datidens vitenskapsmiljø uttalte – og hva han så gjorde for å bekrefte sin teori. Han bygger en liten flåte av balsatre og kaster seg ut på Stillehavet med fem andre menn.
@@ -303,7 +303,7 @@ tags:
 **Manus:** Petter Skavlan
 **Skuespillere:** Pål Sverre Valheim Hagen, Anders Baasmo Christiansen, Gustaf Skarsgård, Odd Magnus Williamson, Tobias Sentelmann, Jakob Oftebro
 
-<a href="//filmbloggen.net/2012/08/21/stralende-norsk-kammerspill-i-kon-tiki/ahmxosc44/" rel="attachment wp-att-6492"><img class="alignnone size-large wp-image-6492" src="/wp-content/uploads//2012/08/ahmxosc44-620x348.jpg" alt="" width="620" height="348" /></a>
+<img class="alignnone size-large wp-image-6492" src="/wp-content/uploads//2012/08/ahmxosc44-620x348.jpg" alt="" width="620" height="348" />
 _Foto: Carl Christian Raabe_
 
 De fleste her til lands kjenner historien om hvordan Thor Heyerdahl var overbevist om at Polynesia var befolket fra Sør-Afrika – og ikke Asia som datidens vitenskapsmiljø uttalte – og hva han så gjorde for å bekrefte sin teori. Han bygger en liten flåte av balsatre og kaster seg ut på Stillehavet med fem andre menn.

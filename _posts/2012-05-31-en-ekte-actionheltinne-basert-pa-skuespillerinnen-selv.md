@@ -269,7 +269,7 @@ tags:
 **Skuespillere:** Gina Carano, Michael Douglas, Ewan McGregor, Michael Fassbender.
 **Spilletid:** 1 time og 55 min.
 
-<a href="//filmbloggen.net/2012/05/31/en-ekte-actionheltinne-basert-pa-skuespillerinnen-selv/haywire/" rel="attachment wp-att-3860"><img class="size-large wp-image-3860 alignnone" src="/wp-content/uploads//2012/05/haywire-620x412.jpg" alt="" width="620" height="412" /><br /> </a>Da Steven Soderbergh så Gina Carano på TV i forbindelse med Mixed martial arts (en internasjonal kampsport), lagde han filmen Haywire basert på henne. En mer ekte actionheltinne får du vel ikke?
+<img class="size-large wp-image-3860 alignnone" src="/wp-content/uploads//2012/05/haywire-620x412.jpg" alt="" width="620" height="412" /><br /> Da Steven Soderbergh så Gina Carano på TV i forbindelse med Mixed martial arts (en internasjonal kampsport), lagde han filmen Haywire basert på henne. En mer ekte actionheltinne får du vel ikke?
 
 Haywire handler om en black-ops supersoldat som søker hevn etter hun blir forrådt av sine egne.
 

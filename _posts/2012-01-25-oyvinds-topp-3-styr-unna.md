@@ -17,7 +17,7 @@ content:
 
     <h1 style="text-align: left;"><strong><!--more-->Conan The Barbarian (2011)
     </strong></h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/conan_the_barbarian-2011-rock-hard-fitness-2/" rel="attachment wp-att-2006"><img class="alignnone size-large wp-image-2006" src="/wp-content/uploads//2012/01/conan_the_barbarian-2011-rock-hard-fitness1-620x620.jpg" alt="" width="620" height="620" /></a>
+    <img class="alignnone size-large wp-image-2006" src="/wp-content/uploads//2012/01/conan_the_barbarian-2011-rock-hard-fitness1-620x620.jpg" alt="" width="620" height="620" />
 
     <strong>Kategori:</strong> Action/Eventyr
     <strong>Regi:</strong> Marcus Nispel
@@ -31,7 +31,7 @@ content:
     Historien er enkel og på samme tid fantastisk idiotisk. Den handler om et barn (Conan) som bokstavelig talt ble født på slagmarken. Han bruker alle sine ressurser på å hevne sin fars død, og da må han slåss mot uttallig mange skurker. Høres enkelt og underholdende ut. Det er det ikke. Jeg valgte å bruke tiden min på søvn, framfor det å se ferdig dette vraket av en film. Tenk forebyggende, ikke se denne filmen!
     <h1><strong>Hercules in New York (1969)
     </strong></h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/hercules_in_new_york_1970_1600x1200_175835/" rel="attachment wp-att-2009"><img class="alignnone size-large wp-image-2009" src="/wp-content/uploads//2012/01/hercules_in_new_york_1970_1600x1200_175835-620x497.jpg" alt="" width="620" height="497" /></a>
+    <img class="alignnone size-large wp-image-2009" src="/wp-content/uploads//2012/01/hercules_in_new_york_1970_1600x1200_175835-620x497.jpg" alt="" width="620" height="497" />
 
     <strong>Kategori:</strong> Action
     <strong>Regi:</strong> Arthur Allan Seidelman
@@ -44,7 +44,7 @@ content:
 
     Arnold har med denne filmen anskaffet seg en fornuftig måte å promotere seg selv på. Og det har funket bra for ham, utrolig nok. Jeg liker Arnold Schwarzenegger og mange av de filmene han spiller i, men Hercules in New York kan jeg bare ikke unngå å hate.
     <h1>Fritt Vilt 3 (2010)</h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/fritt-vilt-iii-bilde-4/" rel="attachment wp-att-2031"><img class="alignnone size-large wp-image-2031" src="/wp-content/uploads//2012/01/Fritt-Vilt-III-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-2031" src="/wp-content/uploads//2012/01/Fritt-Vilt-III-bilde-4-620x348.jpg" alt="" width="620" height="348" />
 
     <strong>Kategori:</strong> Skrekk
     <strong>Regi:</strong> Mikkel Brænne Sandemose
@@ -81,7 +81,7 @@ post_content:
 
     <h1 style="text-align: left;"><strong><!--more-->Conan The Barbarian (2011)
     </strong></h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/conan_the_barbarian-2011-rock-hard-fitness-2/" rel="attachment wp-att-2006"><img class="alignnone size-large wp-image-2006" src="/wp-content/uploads//2012/01/conan_the_barbarian-2011-rock-hard-fitness1-620x620.jpg" alt="" width="620" height="620" /></a>
+    <img class="alignnone size-large wp-image-2006" src="/wp-content/uploads//2012/01/conan_the_barbarian-2011-rock-hard-fitness1-620x620.jpg" alt="" width="620" height="620" />
 
     <strong>Kategori:</strong> Action/Eventyr
     <strong>Regi:</strong> Marcus Nispel
@@ -95,7 +95,7 @@ post_content:
     Historien er enkel og på samme tid fantastisk idiotisk. Den handler om et barn (Conan) som bokstavelig talt ble født på slagmarken. Han bruker alle sine ressurser på å hevne sin fars død, og da må han slåss mot uttallig mange skurker. Høres enkelt og underholdende ut. Det er det ikke. Jeg valgte å bruke tiden min på søvn, framfor det å se ferdig dette vraket av en film. Tenk forebyggende, ikke se denne filmen!
     <h1><strong>Hercules in New York (1969)
     </strong></h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/hercules_in_new_york_1970_1600x1200_175835/" rel="attachment wp-att-2009"><img class="alignnone size-large wp-image-2009" src="/wp-content/uploads//2012/01/hercules_in_new_york_1970_1600x1200_175835-620x497.jpg" alt="" width="620" height="497" /></a>
+    <img class="alignnone size-large wp-image-2009" src="/wp-content/uploads//2012/01/hercules_in_new_york_1970_1600x1200_175835-620x497.jpg" alt="" width="620" height="497" />
 
     <strong>Kategori:</strong> Action
     <strong>Regi:</strong> Arthur Allan Seidelman
@@ -108,7 +108,7 @@ post_content:
 
     Arnold har med denne filmen anskaffet seg en fornuftig måte å promotere seg selv på. Og det har funket bra for ham, utrolig nok. Jeg liker Arnold Schwarzenegger og mange av de filmene han spiller i, men Hercules in New York kan jeg bare ikke unngå å hate.
     <h1>Fritt Vilt 3 (2010)</h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/fritt-vilt-iii-bilde-4/" rel="attachment wp-att-2031"><img class="alignnone size-large wp-image-2031" src="/wp-content/uploads//2012/01/Fritt-Vilt-III-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-2031" src="/wp-content/uploads//2012/01/Fritt-Vilt-III-bilde-4-620x348.jpg" alt="" width="620" height="348" />
 
     <strong>Kategori:</strong> Skrekk
     <strong>Regi:</strong> Mikkel Brænne Sandemose
@@ -205,7 +205,7 @@ meta:
 
     <h1 style="text-align: left;"><strong><!--more-->Conan The Barbarian (2011)
     </strong></h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/conan_the_barbarian-2011-rock-hard-fitness-2/" rel="attachment wp-att-2006"><img class="alignnone size-large wp-image-2006" src="/wp-content/uploads//2012/01/conan_the_barbarian-2011-rock-hard-fitness1-620x620.jpg" alt="" width="620" height="620" /></a>
+    <img class="alignnone size-large wp-image-2006" src="/wp-content/uploads//2012/01/conan_the_barbarian-2011-rock-hard-fitness1-620x620.jpg" alt="" width="620" height="620" />
 
     <strong>Kategori:</strong> Action/Eventyr
     <strong>Regi:</strong> Marcus Nispel
@@ -219,7 +219,7 @@ meta:
     Historien er enkel og på samme tid fantastisk idiotisk. Det handler om et barn(Conan) som ble bokstavelig talt født på slagmarken. Han bruker alle sine ressurser på å hevne sin fars død, og da må han sloss mot uttallig mange skurker. Høres enkelt og underholdende ut, det er ikke det, kommer aldri til å bli det heller. Jeg valgte å bruke tiden min på søvn, framfor det å se ferdig dette vraket av en film. Tenk forebyggende, ikke se denne filmen!
     <h1><strong>Hercules in New York (1969)
     </strong></h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/hercules_in_new_york_1970_1600x1200_175835/" rel="attachment wp-att-2009"><img class="alignnone size-large wp-image-2009" src="/wp-content/uploads//2012/01/hercules_in_new_york_1970_1600x1200_175835-620x497.jpg" alt="" width="620" height="497" /></a>
+    <img class="alignnone size-large wp-image-2009" src="/wp-content/uploads//2012/01/hercules_in_new_york_1970_1600x1200_175835-620x497.jpg" alt="" width="620" height="497" />
 
     <strong>Kategori:</strong> Action
     <strong>Regi:</strong> Arthur Allan Seidelman
@@ -232,7 +232,7 @@ meta:
 
     Arnold har med denne filmen anskaffet seg en fornuftig måte å selvpromotere seg selv på. Og det har funket bra for ham, utrolig nok. Jeg liker Arnold Schwarzenegger og mange av de filmene han spiller i, men Hercules in New York kan jeg bare ikke unngå å hate.
     <h1>Fritt Vilt 3 (2010)</h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/fritt-vilt-iii-bilde-4/" rel="attachment wp-att-2031"><img class="alignnone size-large wp-image-2031" src="/wp-content/uploads//2012/01/Fritt-Vilt-III-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-2031" src="/wp-content/uploads//2012/01/Fritt-Vilt-III-bilde-4-620x348.jpg" alt="" width="620" height="348" />
 
     <strong>Kategori:</strong> Skrekk
     <strong>Regi:</strong> Mikkel Brænne Sandemose
@@ -248,7 +248,7 @@ meta:
 
     <h1 style="text-align: left;"><strong><!--more-->Conan The Barbarian (2011)
     </strong></h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/conan_the_barbarian-2011-rock-hard-fitness-2/" rel="attachment wp-att-2006"><img class="alignnone size-large wp-image-2006" src="/wp-content/uploads//2012/01/conan_the_barbarian-2011-rock-hard-fitness1-620x620.jpg" alt="" width="620" height="620" /></a>
+    <img class="alignnone size-large wp-image-2006" src="/wp-content/uploads//2012/01/conan_the_barbarian-2011-rock-hard-fitness1-620x620.jpg" alt="" width="620" height="620" />
 
     <strong>Kategori:</strong> Action/Eventyr
     <strong>Regi:</strong> Marcus Nispel
@@ -262,7 +262,7 @@ meta:
     Historien er enkel og på samme tid fantastisk idiotisk. Det handler om et barn(Conan) som ble bokstavelig talt født på slagmarken. Han bruker alle sine ressurser på å hevne sin fars død, og da må han sloss mot uttallig mange skurker. Høres enkelt og underholdende ut, det er ikke det, kommer aldri til å bli det heller. Jeg valgte å bruke tiden min på søvn, framfor det å se ferdig dette vraket av en film. Tenk forebyggende, ikke se denne filmen!
     <h1><strong>Hercules in New York (1969)
     </strong></h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/hercules_in_new_york_1970_1600x1200_175835/" rel="attachment wp-att-2009"><img class="alignnone size-large wp-image-2009" src="/wp-content/uploads//2012/01/hercules_in_new_york_1970_1600x1200_175835-620x497.jpg" alt="" width="620" height="497" /></a>
+    <img class="alignnone size-large wp-image-2009" src="/wp-content/uploads//2012/01/hercules_in_new_york_1970_1600x1200_175835-620x497.jpg" alt="" width="620" height="497" />
 
     <strong>Kategori:</strong> Action
     <strong>Regi:</strong> Arthur Allan Seidelman
@@ -275,7 +275,7 @@ meta:
 
     Arnold har med denne filmen anskaffet seg en fornuftig måte å selvpromotere seg selv på. Og det har funket bra for ham, utrolig nok. Jeg liker Arnold Schwarzenegger og mange av de filmene han spiller i, men Hercules in New York kan jeg bare ikke unngå å hate.
     <h1>Fritt Vilt 3 (2010)</h1>
-    <a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/fritt-vilt-iii-bilde-4/" rel="attachment wp-att-2031"><img class="alignnone size-large wp-image-2031" src="/wp-content/uploads//2012/01/Fritt-Vilt-III-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-2031" src="/wp-content/uploads//2012/01/Fritt-Vilt-III-bilde-4-620x348.jpg" alt="" width="620" height="348" />
 
     <strong>Kategori:</strong> Skrekk
     <strong>Regi:</strong> Mikkel Brænne Sandemose
@@ -379,7 +379,7 @@ tags:
   <br /> </strong>
 </h1>
 
-<a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/conan_the_barbarian-2011-rock-hard-fitness-2/" rel="attachment wp-att-2006"><img class="alignnone size-large wp-image-2006" src="/wp-content/uploads//2012/01/conan_the_barbarian-2011-rock-hard-fitness1-620x620.jpg" alt="" width="620" height="620" /></a>
+<img class="alignnone size-large wp-image-2006" src="/wp-content/uploads//2012/01/conan_the_barbarian-2011-rock-hard-fitness1-620x620.jpg" alt="" width="620" height="620" />
 
 **Kategori:** Action/Eventyr
 **Regi:** Marcus Nispel
@@ -395,7 +395,7 @@ Historien er enkel og på samme tid fantastisk idiotisk. Den handler om et barn 
 # **Hercules in New York (1969)
 **
 
-<a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/hercules_in_new_york_1970_1600x1200_175835/" rel="attachment wp-att-2009"><img class="alignnone size-large wp-image-2009" src="/wp-content/uploads//2012/01/hercules_in_new_york_1970_1600x1200_175835-620x497.jpg" alt="" width="620" height="497" /></a>
+<img class="alignnone size-large wp-image-2009" src="/wp-content/uploads//2012/01/hercules_in_new_york_1970_1600x1200_175835-620x497.jpg" alt="" width="620" height="497" />
 
 **Kategori:** Action
 **Regi:** Arthur Allan Seidelman
@@ -410,7 +410,7 @@ Arnold har med denne filmen anskaffet seg en fornuftig måte å promotere seg se
 
 # Fritt Vilt 3 (2010)
 
-<a href="//filmbloggen.net/2012/01/25/oyvinds-topp-3-styr-unna/fritt-vilt-iii-bilde-4/" rel="attachment wp-att-2031"><img class="alignnone size-large wp-image-2031" src="/wp-content/uploads//2012/01/Fritt-Vilt-III-bilde-4-620x348.jpg" alt="" width="620" height="348" /></a>
+<img class="alignnone size-large wp-image-2031" src="/wp-content/uploads//2012/01/Fritt-Vilt-III-bilde-4-620x348.jpg" alt="" width="620" height="348" />
 
 **Kategori:** Skrekk
 **Regi:** Mikkel Brænne Sandemose

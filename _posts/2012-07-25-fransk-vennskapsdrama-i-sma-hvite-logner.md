@@ -110,7 +110,7 @@ content:
     <strong>Manus:</strong> Guillaume Canet
     <strong>Skuespillere:</strong> Marion Cotillard, François Cluzet, Benoît Magimel, Gilles Lellouche, Jean Dujardin, Laurent Lafitte, Valérie Bonneton, Pascale Arbillot, Joël Dupuch
 
-    <a href="//filmbloggen.net/2012/07/25/fransk-vennskapsdrama-i-sma-hvite-logner/4-002/" rel="attachment wp-att-5447"><img class="alignnone size-large wp-image-5447" src="/wp-content/uploads//2012/07/4-002-620x414.jpg" alt="" width="620" height="414" /></a>
+    <img class="alignnone size-large wp-image-5447" src="/wp-content/uploads//2012/07/4-002-620x414.jpg" alt="" width="620" height="414" />
     <em>Foto: Europafilm </em>
 
     Små Hvite Løgner introduserer oss for en vennegjeng som ferierer sammen hvert år. Når filmen starter blir en av dem utsatt for en livstruende ulykke som sender ham direkte på sykehuset. Fortsatt i sjokk og fornektelse bestemmer de andre seg for å reise på ferien for å leve livet og vente på at vennen skal komme på bedringens vei. For slik som det er nå, kan de ikke gjøre noe for ham.
@@ -188,7 +188,7 @@ post_content:
     <strong>Manus:</strong> Guillaume Canet
     <strong>Skuespillere:</strong> Marion Cotillard, François Cluzet, Benoît Magimel, Gilles Lellouche, Jean Dujardin, Laurent Lafitte, Valérie Bonneton, Pascale Arbillot, Joël Dupuch
 
-    <a href="//filmbloggen.net/2012/07/25/fransk-vennskapsdrama-i-sma-hvite-logner/4-002/" rel="attachment wp-att-5447"><img class="alignnone size-large wp-image-5447" src="/wp-content/uploads//2012/07/4-002-620x414.jpg" alt="" width="620" height="414" /></a>
+    <img class="alignnone size-large wp-image-5447" src="/wp-content/uploads//2012/07/4-002-620x414.jpg" alt="" width="620" height="414" />
     <em>Foto: Europafilm </em>
 
     Små Hvite Løgner introduserer oss for en vennegjeng som ferierer sammen hvert år. Når filmen starter blir en av dem utsatt for en livstruende ulykke som sender ham direkte på sykehuset. Fortsatt i sjokk og fornektelse bestemmer de andre seg for å reise på ferien for å leve livet og vente på at vennen skal komme på bedringens vei. For slik som det er nå, kan de ikke gjøre noe for ham.
@@ -216,7 +216,7 @@ meta:
     <strong>Manus:</strong> Guillaume Canet
     <strong>Skuespillere:</strong> Marion Cotillard, François Cluzet, Benoît Magimel, Gilles Lellouche, Jean Dujardin, Laurent Lafitte, Valérie Bonneton, Pascale Arbillot, Joël Dupuch
 
-    <a href="//filmbloggen.net/?attachment_id=5447" rel="attachment wp-att-5447"><img class="alignnone size-large wp-image-5447" src="/wp-content/uploads//2012/07/4-002-620x414.jpg" alt="" width="620" height="414" /></a>
+    <img class="alignnone size-large wp-image-5447" src="/wp-content/uploads//2012/07/4-002-620x414.jpg" alt="" width="620" height="414" />
 
     Små Hvite Løgner introduserer oss for en vennegjeng som ferierer sammen hvert år. Når filmen starter blir en av dem utsatt for en livstruende ulykke som sender ham direkte på sykehuset. Fortsatt i sjokk og fornektelse bestemmer de andre seg for å reise på ferien for å leve livet og vente på at vennen skal komme på bedringens vei. For slik som det er nå, kan de ikke gjøre noe for ham.
 
@@ -236,7 +236,7 @@ meta:
     <strong>Manus:</strong> Guillaume Canet
     <strong>Skuespillere:</strong> Marion Cotillard, François Cluzet, Benoît Magimel, Gilles Lellouche, Jean Dujardin, Laurent Lafitte, Valérie Bonneton, Pascale Arbillot, Joël Dupuch
 
-    <a href="//filmbloggen.net/?attachment_id=5447" rel="attachment wp-att-5447"><img class="alignnone size-large wp-image-5447" src="/wp-content/uploads//2012/07/4-002-620x414.jpg" alt="" width="620" height="414" /></a>
+    <img class="alignnone size-large wp-image-5447" src="/wp-content/uploads//2012/07/4-002-620x414.jpg" alt="" width="620" height="414" />
 
     Små Hvite Løgner introduserer oss for en vennegjeng som ferierer sammen hvert år. Når filmen starter blir en av dem utsatt for en livstruende ulykke som sender ham direkte på sykehuset. Fortsatt i sjokk og fornektelse bestemmer de andre seg for å reise på ferien for å leve livet og vente på at vennen skal komme på bedringens vei. For slik som det er nå, kan de ikke gjøre noe for ham.
 
@@ -287,7 +287,7 @@ tags:
 **Manus:** Guillaume Canet
 **Skuespillere:** Marion Cotillard, François Cluzet, Benoît Magimel, Gilles Lellouche, Jean Dujardin, Laurent Lafitte, Valérie Bonneton, Pascale Arbillot, Joël Dupuch
 
-<a href="//filmbloggen.net/2012/07/25/fransk-vennskapsdrama-i-sma-hvite-logner/4-002/" rel="attachment wp-att-5447"><img class="alignnone size-large wp-image-5447" src="/wp-content/uploads//2012/07/4-002-620x414.jpg" alt="" width="620" height="414" /></a>
+<img class="alignnone size-large wp-image-5447" src="/wp-content/uploads//2012/07/4-002-620x414.jpg" alt="" width="620" height="414" />
 _Foto: Europafilm_
 
 Små Hvite Løgner introduserer oss for en vennegjeng som ferierer sammen hvert år. Når filmen starter blir en av dem utsatt for en livstruende ulykke som sender ham direkte på sykehuset. Fortsatt i sjokk og fornektelse bestemmer de andre seg for å reise på ferien for å leve livet og vente på at vennen skal komme på bedringens vei. For slik som det er nå, kan de ikke gjøre noe for ham.

@@ -98,7 +98,7 @@ content:
   - |
     <a href="//www.movieweb.com/">Movieweb</a> tok kontakt med skrekkfilmregissøren Wes Craven, og han har bekreftet at det mest sannynlig blir en femte Skrik film i nærmeste fremtid.
 
-    <a href="//www.rolfenorman.com/2011/05/scream-5-on-its-way.html"><img class="alignnone size-large wp-image-1158" src="/wp-content/uploads//2011/09/Scream5Logo-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-1158" src="/wp-content/uploads//2011/09/Scream5Logo-620x310.jpg" alt="" width="620" height="310" />
 
     Selv om den fjerde filmen, som akkurat har kommet på DVD og Blu-Ray, ikke legger opp til at det blir nok en oppfølger, har teamet bak filmene bestemt seg for å lage en ny triologi. Hvis dette går etter planene blir det i alt seks Skrik filmer. Plottet er foreløbig ukjent, og en eventuell film er fortsatt i idéfasen.
 
@@ -161,7 +161,7 @@ post_content:
   - |
     <a href="//www.movieweb.com/">Movieweb</a> tok kontakt med skrekkfilmregissøren Wes Craven, og han har bekreftet at det mest sannynlig blir en femte Skrik film i nærmeste fremtid.
 
-    <a href="//www.rolfenorman.com/2011/05/scream-5-on-its-way.html"><img class="alignnone size-large wp-image-1158" src="/wp-content/uploads//2011/09/Scream5Logo-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-1158" src="/wp-content/uploads//2011/09/Scream5Logo-620x310.jpg" alt="" width="620" height="310" />
 
     Selv om den fjerde filmen, som akkurat har kommet på DVD og Blu-Ray, ikke legger opp til at det blir nok en oppfølger, har teamet bak filmene bestemt seg for å lage en ny triologi. Hvis dette går etter planene blir det i alt seks Skrik filmer. Plottet er foreløbig ukjent, og en eventuell film er fortsatt i idéfasen.
 
@@ -176,7 +176,7 @@ meta:
   - |
     a:72:{i:8851;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:8829;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:8879;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:8838;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"34a938019f";}i:8836;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:8840;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"66ea4a4398";}i:8880;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:8872;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1045:"<a href="//www.movieweb.com/">Movieweb</a> tok kontakt med skrekkfilmregissøren Wes Craven, og han har bekreftet at det mest sannynlig blir en femte Skrik film i nermeste fremtid.
 
-    <a href="//www.rolfenorman.com/2011/05/scream-5-on-its-way.html"><img class="alignnone size-large wp-image-1158" src="/wp-content/uploads//2011/09/Scream5Logo-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-1158" src="/wp-content/uploads//2011/09/Scream5Logo-620x310.jpg" alt="" width="620" height="310" />
 
     Selv om den fjerde filmen, som akkurat har kommet på DVD og Blu-Ray, ikke legger opp til at det blir nok en oppfølger, har teamet bak filmene bestemt seg for å lage en ny triologi. Hvis dette går etter planene blir det i alt seks Skrik filmer. Plottet er foreløbig ukjent, og en eventuell film er fortsatt i idéfasen.
 
@@ -184,7 +184,7 @@ meta:
 
     <strong>Er det positivt eller negativt at produsentene vil kjøre igang nok en film med Skrik? </strong>";}i:8860;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:8862;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"14";}i:8858;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"28";}i:8856;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"09";}i:8864;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"29";}i:8883;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:8873;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:8852;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"14";}i:8859;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:8861;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"14";}i:8857;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"28";}i:8855;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"09";}i:8863;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"29";}i:8845;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:8843;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:8846;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:8900;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"1157";}i:8849;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"28";}i:8839;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"b30ae4dbb5";}i:8876;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:8875;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:8877;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:8850;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"09";}i:8853;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"29";}i:8830;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:8833;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:8865;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:8881;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:8831;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"7";}i:8901;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1045:"<a href="//www.movieweb.com/">Movieweb</a> tok kontakt med skrekkfilmregissøren Wes Craven, og han har bekreftet at det mest sannynlig blir en femte Skrik film i nermeste fremtid.
 
-    <a href="//www.rolfenorman.com/2011/05/scream-5-on-its-way.html"><img class="alignnone size-large wp-image-1158" src="/wp-content/uploads//2011/09/Scream5Logo-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-1158" src="/wp-content/uploads//2011/09/Scream5Logo-620x310.jpg" alt="" width="620" height="310" />
 
     Selv om den fjerde filmen, som akkurat har kommet på DVD og Blu-Ray, ikke legger opp til at det blir nok en oppfølger, har teamet bak filmene bestemt seg for å lage en ny triologi. Hvis dette går etter planene blir det i alt seks Skrik filmer. Plottet er foreløbig ukjent, og en eventuell film er fortsatt i idéfasen.
 

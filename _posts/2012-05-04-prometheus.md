@@ -14,7 +14,7 @@ content:
   - |
     <strong>Denne filmen er en slags forgjenger til Ridley Scotts sci-fi thriller Alien fra 1979. Historien finner sted før handlingen i Alien, men den er ikke direkte koblet til Alien-serien. Den er originalt utviklet på sin egen finurlige måte.</strong>
 
-    <a href="//filmbloggen.net/2012/05/04/prometheus/prometheus-movie-image1/" rel="attachment wp-att-3269"><img class="alignnone size-large wp-image-3269" src="/wp-content/uploads//2012/05/prometheus-movie-image1-620x394.jpg" alt="" width="620" height="394" /></a>
+    <img class="alignnone size-large wp-image-3269" src="/wp-content/uploads//2012/05/prometheus-movie-image1-620x394.jpg" alt="" width="620" height="394" />
 
     <em>Prometheus</em> er navnet på skipet i filmen under samme navn. Den handler om en gruppe mennesker som drar på oppdrag til en ukjent planet for å finne ut om menneskets skapelse.
 
@@ -47,7 +47,7 @@ post_content:
   - |
     <strong>Denne filmen er en slags forgjenger til Ridley Scotts sci-fi thriller Alien fra 1979. Historien finner sted før handlingen i Alien, men den er ikke direkte koblet til Alien-serien. Den er originalt utviklet på sin egen finurlige måte.</strong>
 
-    <a href="//filmbloggen.net/2012/05/04/prometheus/prometheus-movie-image1/" rel="attachment wp-att-3269"><img class="alignnone size-large wp-image-3269" src="/wp-content/uploads//2012/05/prometheus-movie-image1-620x394.jpg" alt="" width="620" height="394" /></a>
+    <img class="alignnone size-large wp-image-3269" src="/wp-content/uploads//2012/05/prometheus-movie-image1-620x394.jpg" alt="" width="620" height="394" />
 
     <em>Prometheus</em> er navnet på skipet i filmen under samme navn. Den handler om en gruppe mennesker som drar på oppdrag til en ukjent planet for å finne ut om menneskets skapelse.
 
@@ -144,7 +144,7 @@ meta:
   - |
     a:76:{i:18706;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:18475;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:18737;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:18694;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"df84dc00fc";}i:18696;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"ca791a3981";}i:18480;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:18473;a:2:{s:3:"key";s:7:"content";s:5:"value";s:2365:"<strong>Denne filmen er en slags forgjenger til Ridley Scotts sci-fi thriller Alien fra 1979. Historien finner sted før handlingen i Alien, men den er ikke direkte koblet til Alien-serien. Den er original og utviklet på sin egen finurlige måte.</strong>
 
-    <a href="//filmbloggen.net/2012/05/04/prometheus/prometheus-movie-image1/" rel="attachment wp-att-3269"><img class="alignnone size-large wp-image-3269" src="/wp-content/uploads//2012/05/prometheus-movie-image1-620x394.jpg" alt="" width="620" height="394" /></a>
+    <img class="alignnone size-large wp-image-3269" src="/wp-content/uploads//2012/05/prometheus-movie-image1-620x394.jpg" alt="" width="620" height="394" />
 
     <em>Prometheus</em> er navnet på skipet i filmen under samme navn. Den handler om en gruppe mennesker som drar på oppdrag til en ukjent planet for å finne ut om menneskets skapelse.
 
@@ -156,7 +156,7 @@ meta:
 
     [youtube id="N0WUpsErUBA" width="620" height="350"]";}i:18715;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:18717;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"16";}i:18713;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"04";}i:18711;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"05";}i:18719;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"32";}i:18740;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:18729;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:18707;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"16";}i:18714;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:18716;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"16";}i:18712;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"04";}i:18710;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"05";}i:18718;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"32";}i:18700;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:18699;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:18701;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:18484;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"3229";}i:18704;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"04";}i:18695;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"4fa7334305";}i:18734;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:18733;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:18735;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:18705;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"05";}i:18708;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"32";}i:18722;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:18723;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:18691;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:18692;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:18720;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:18481;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:18487;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:2:"11";}i:18739;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:2:"11";}i:18485;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:2365:"<strong>Denne filmen er en slags forgjenger til Ridley Scotts sci-fi thriller Alien fra 1979. Historien finner sted før handlingen i Alien, men den er ikke direkte koblet til Alien-serien. Den er original og utviklet på sin egen finurlige måte.</strong>
 
-    <a href="//filmbloggen.net/2012/05/04/prometheus/prometheus-movie-image1/" rel="attachment wp-att-3269"><img class="alignnone size-large wp-image-3269" src="/wp-content/uploads//2012/05/prometheus-movie-image1-620x394.jpg" alt="" width="620" height="394" /></a>
+    <img class="alignnone size-large wp-image-3269" src="/wp-content/uploads//2012/05/prometheus-movie-image1-620x394.jpg" alt="" width="620" height="394" />
 
     <em>Prometheus</em> er navnet på skipet i filmen under samme navn. Den handler om en gruppe mennesker som drar på oppdrag til en ukjent planet for å finne ut om menneskets skapelse.
 
@@ -234,7 +234,7 @@ format: video
 ---
 **Denne filmen er en slags forgjenger til Ridley Scotts sci-fi thriller Alien fra 1979. Historien finner sted før handlingen i Alien, men den er ikke direkte koblet til Alien-serien. Den er originalt utviklet på sin egen finurlige måte.**
 
-<a href="//filmbloggen.net/2012/05/04/prometheus/prometheus-movie-image1/" rel="attachment wp-att-3269"><img class="alignnone size-large wp-image-3269" src="/wp-content/uploads//2012/05/prometheus-movie-image1-620x394.jpg" alt="" width="620" height="394" /></a>
+<img class="alignnone size-large wp-image-3269" src="/wp-content/uploads//2012/05/prometheus-movie-image1-620x394.jpg" alt="" width="620" height="394" />
 
 _Prometheus_ er navnet på skipet i filmen under samme navn. Den handler om en gruppe mennesker som drar på oppdrag til en ukjent planet for å finne ut om menneskets skapelse.
 

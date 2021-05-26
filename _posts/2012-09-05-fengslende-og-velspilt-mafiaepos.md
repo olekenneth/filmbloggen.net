@@ -111,7 +111,7 @@ content:
     <strong>Manus:</strong> Nick Cave
     <strong>Musikk:</strong> Nick Cave og Warren Ellis
     <strong>Skuespillere:</strong> Shia LeBeouf, Tom Hardy, Jason Clarke, Guy Pearce, Gary Oldman, Mia Wasikowska, Jessica Chastain
-    <a href="//filmbloggen.net/2012/09/05/fengslende-og-velspilt-mafiaepos/lawless-3/" rel="attachment wp-att-6815"><img class="alignnone size-large wp-image-6815" src="/wp-content/uploads//2012/09/kctxhcr6-620x407.jpg" alt="" width="620" height="407" /></a>
+    <img class="alignnone size-large wp-image-6815" src="/wp-content/uploads//2012/09/kctxhcr6-620x407.jpg" alt="" width="620" height="407" />
     <strong>Foto: SF Norge</strong>
 
     <strong>Med filmer som <em>The Proposition</em> (2005) og <em>The Road</em> (2009) bak seg, er australske John Hillcoat i ferd med å etablere seg som en av filmbransjens største leverandører av mørke, voldelige filmepos.</strong> Hans nye film, <em>Lawless</em>, fortsetter i samme retning. Det er voldsomt, det er blodig, det er brutalt. Men Hillcoats filmer er ikke bare mørke og voldelige, de er også fengslende og vakre fortellinger. Volden er ikke bare for moro skyld, det er en del av en større helhet. Slik er det også i hans nye film.
@@ -199,7 +199,7 @@ post_content:
     <strong>Manus:</strong> Nick Cave
     <strong>Musikk:</strong> Nick Cave og Warren Ellis
     <strong>Skuespillere:</strong> Shia LeBeouf, Tom Hardy, Jason Clarke, Guy Pearce, Gary Oldman, Mia Wasikowska, Jessica Chastain
-    <a href="//filmbloggen.net/2012/09/05/fengslende-og-velspilt-mafiaepos/lawless-3/" rel="attachment wp-att-6815"><img class="alignnone size-large wp-image-6815" src="/wp-content/uploads//2012/09/kctxhcr6-620x407.jpg" alt="" width="620" height="407" /></a>
+    <img class="alignnone size-large wp-image-6815" src="/wp-content/uploads//2012/09/kctxhcr6-620x407.jpg" alt="" width="620" height="407" />
     <strong>Foto: SF Norge</strong>
 
     <strong>Med filmer som <em>The Proposition</em> (2005) og <em>The Road</em> (2009) bak seg, er australske John Hillcoat i ferd med å etablere seg som en av filmbransjens største leverandører av mørke, voldelige filmepos.</strong> Hans nye film, <em>Lawless</em>, fortsetter i samme retning. Det er voldsomt, det er blodig, det er brutalt. Men Hillcoats filmer er ikke bare mørke og voldelige, de er også fengslende og vakre fortellinger. Volden er ikke bare for moro skyld, det er en del av en større helhet. Slik er det også i hans nye film.
@@ -235,7 +235,7 @@ meta:
     <strong>Manus:</strong> Nick Cave
     <strong>Musikk:</strong> Nick Cave og Warren Ellis
     <strong>Skuespillere:</strong> Shia LeBeouf, Tom Hardy, Jason Clarke, Guy Pearce, Gary Oldman, Mia Wasikowska, Jessica Chastain
-    <a href="//filmbloggen.net/2012/09/05/fengslende-og-velspilt-mafiaepos/lawless-3/" rel="attachment wp-att-6815"><img class="alignnone size-large wp-image-6815" src="/wp-content/uploads//2012/09/kctxhcr6-620x407.jpg" alt="" width="620" height="407" /></a>
+    <img class="alignnone size-large wp-image-6815" src="/wp-content/uploads//2012/09/kctxhcr6-620x407.jpg" alt="" width="620" height="407" />
     <strong>Foto: SF Norge</strong>
 
     <strong>Med filmer som <em>The Proposition</em> (2005) og <em>The Road</em> (2009) bak seg, er australske John Hillcoat i ferd med å etablere seg som en av filmbransjens største leverandører av mørke, voldelige filmepos.</strong> Hans nye film, <em>Lawless</em>, fortsetter i samme retning. Det er voldsomt, det er blodig, det er brutalt. Men Hillcoats filmer er ikke bare mørke og voldelige, de er også fengslende og vakre fortellinger. Volden er ikke bare for moro skyld, det er en del av en større helhet. Slik er det også i hans nye film.
@@ -290,7 +290,7 @@ categories:
 **Manus:** Nick Cave
 **Musikk:** Nick Cave og Warren Ellis
 **Skuespillere:** Shia LeBeouf, Tom Hardy, Jason Clarke, Guy Pearce, Gary Oldman, Mia Wasikowska, Jessica Chastain
-<a href="//filmbloggen.net/2012/09/05/fengslende-og-velspilt-mafiaepos/lawless-3/" rel="attachment wp-att-6815"><img class="alignnone size-large wp-image-6815" src="/wp-content/uploads//2012/09/kctxhcr6-620x407.jpg" alt="" width="620" height="407" /></a>
+<img class="alignnone size-large wp-image-6815" src="/wp-content/uploads//2012/09/kctxhcr6-620x407.jpg" alt="" width="620" height="407" />
 **Foto: SF Norge**
 
 **Med filmer som _The Proposition_ (2005) og _The Road_ (2009) bak seg, er australske John Hillcoat i ferd med å etablere seg som en av filmbransjens største leverandører av mørke, voldelige filmepos.** Hans nye film, _Lawless_, fortsetter i samme retning. Det er voldsomt, det er blodig, det er brutalt. Men Hillcoats filmer er ikke bare mørke og voldelige, de er også fengslende og vakre fortellinger. Volden er ikke bare for moro skyld, det er en del av en større helhet. Slik er det også i hans nye film.

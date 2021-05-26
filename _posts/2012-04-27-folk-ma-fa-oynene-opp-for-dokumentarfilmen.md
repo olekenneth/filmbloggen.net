@@ -120,7 +120,7 @@ content:
     - Jeg har egentlig ikke noe forhold til dokumentarfilmer. Utenom de få jeg ser på Brennpunkt, sier Ane Rygh Marbak.
 
     <strong>Jentene har akkurat kommet ut av åpningsfilmen "Fandens Virkelighet" og førsteinntrykket er det ingenting å si på. Filmen handler om bandet "Vestlandsfanden" som har turnert norske veier i 30 år.
-    <a href="//filmbloggen.net/2012/04/27/folk-ma-fa-oynene-opp-for-dokumentarfilmen/sony-dsc/" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
+    <img class="alignnone size-large wp-image-3140" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
 
     <strong>- I hvert fall ikke på "Brennpunkt", skyter Ane inn med.</strong>
 
@@ -210,7 +210,7 @@ post_content:
     - Jeg har egentlig ikke noe forhold til dokumentarfilmer. Utenom de få jeg ser på Brennpunkt, sier Ane Rygh Marbak.
 
     <strong>Jentene har akkurat kommet ut av åpningsfilmen "Fandens Virkelighet" og førsteinntrykket er det ingenting å si på. Filmen handler om bandet "Vestlandsfanden" som har turnert norske veier i 30 år.
-    <a href="//filmbloggen.net/2012/04/27/folk-ma-fa-oynene-opp-for-dokumentarfilmen/sony-dsc/" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
+    <img class="alignnone size-large wp-image-3140" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
 
     <strong>- I hvert fall ikke på "Brennpunkt", skyter Ane inn med.</strong>
 
@@ -252,7 +252,7 @@ meta:
     - Jeg har egentlig ikke noe forhold til dokumentarfilmer. Utenom de få jeg ser på Brennpunkt, sier Ane Rygh Marbak.
 
     <strong>Jentene har akkurat kommet ut av åpningsfilmen "Fandens Virkelighet" og førsteinntrykket er det ingenting å si på. Filmen handler om bandet "Vestlandsfanden" som har turnert norske veier i 30 år.
-    <a href="//filmbloggen.net/?attachment_id=3140" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" title="SONY DSC" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
+    <img class="alignnone size-large wp-image-3140" title="SONY DSC" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
 
     <strong>- I hvert fall ikke på "Brennpunkt", skyter Ane inn med.</strong>
 
@@ -285,7 +285,7 @@ meta:
     - Jeg har egentlig ikke noe forhold til dokumentarfilmer. Utenom de få jeg ser på Brennpunkt, sier Ane Rygh Marbak.
 
     <strong>Jentene har akkurat kommet ut av åpningsfilmen "Fandens Virkelighet" og førsteinntrykket er det ingenting å si på. Filmen handler om bandet "Vestlandsfanden" som har turnert norske veier i 30 år.
-    <a href="//filmbloggen.net/?attachment_id=3140" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" title="SONY DSC" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
+    <img class="alignnone size-large wp-image-3140" title="SONY DSC" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /> </strong>- Den var veldig underholdene og et godt portrett av et litt "harry band". Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
 
     <strong>- I hvert fall ikke på "Brennpunkt", skyter Ane inn med.</strong>
 
@@ -335,7 +335,7 @@ Ane Rygh Marbak, Kaja Johnsen Viki og Trine Lise Sviggum Helgerud koser seg ett
 – Jeg har egentlig ikke noe forhold til dokumentarfilmer. Utenom de få jeg ser på Brennpunkt, sier Ane Rygh Marbak.
 
 **Jentene har akkurat kommet ut av åpningsfilmen «Fandens Virkelighet» og førsteinntrykket er det ingenting å si på. Filmen handler om bandet «Vestlandsfanden» som har turnert norske veier i 30 år.
-<a href="//filmbloggen.net/2012/04/27/folk-ma-fa-oynene-opp-for-dokumentarfilmen/sony-dsc/" rel="attachment wp-att-3140"><img class="alignnone size-large wp-image-3140" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /></a> **– Den var veldig underholdene og et godt portrett av et litt «harry band». Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
+<img class="alignnone size-large wp-image-3140" src="/wp-content/uploads//2012/04/dokfilm2012-620x412.jpg" alt="" width="620" height="412" /> **– Den var veldig underholdene og et godt portrett av et litt «harry band». Det er det jeg liker med Dokfilm, jeg ser filmer jeg aldri hadde fått sett eller hørt om i en normal setting, sier Kaja Johnsen Viki.
 
 **– I hvert fall ikke på «Brennpunkt», skyter Ane inn med.**
 

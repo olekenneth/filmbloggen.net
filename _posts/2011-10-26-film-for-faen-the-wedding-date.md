@@ -105,7 +105,7 @@ content:
     <strong>Manus:</strong> Dana Fox
     <strong>Med: </strong>Dermot Mulroney, Debra Messing og Jack Davenport
 
-    <a href="//filmbloggen.net/2011/10/26/film-for-faen-the-wedding-date/wedding-date-the-20050131003531025/" rel="attachment wp-att-1648"><img class="alignnone size-large wp-image-1648" src="/wp-content/uploads//2011/10/wedding-date-the-20050131003531025-620x408.jpg" alt="" width="620" height="408" /></a>
+    <img class="alignnone size-large wp-image-1648" src="/wp-content/uploads//2011/10/wedding-date-the-20050131003531025-620x408.jpg" alt="" width="620" height="408" />
 
     <span class="Apple-style-span" style="font-size: 26px; font-weight: bold;">Nevrotisk og sjarmerende</span>
 
@@ -186,7 +186,7 @@ post_content:
     <strong>Manus:</strong> Dana Fox
     <strong>Med: </strong>Dermot Mulroney, Debra Messing og Jack Davenport
 
-    <a href="//filmbloggen.net/2011/10/26/film-for-faen-the-wedding-date/wedding-date-the-20050131003531025/" rel="attachment wp-att-1648"><img class="alignnone size-large wp-image-1648" src="/wp-content/uploads//2011/10/wedding-date-the-20050131003531025-620x408.jpg" alt="" width="620" height="408" /></a>
+    <img class="alignnone size-large wp-image-1648" src="/wp-content/uploads//2011/10/wedding-date-the-20050131003531025-620x408.jpg" alt="" width="620" height="408" />
 
     <span class="Apple-style-span" style="font-size: 26px; font-weight: bold;">Nevrotisk og sjarmerende</span>
 
@@ -221,7 +221,7 @@ meta:
     <strong>Manus:</strong> Dana Fox
     <strong>Med: </strong>Dermot Mulroney, Debra Messing og Jack Davenport
 
-    <a href="//filmbloggen.net/2011/10/26/film-for-faen-the-wedding-date/wedding-date-the-20050131003531025/" rel="attachment wp-att-1648"><img class="alignnone size-large wp-image-1648" src="/wp-content/uploads//2011/10/wedding-date-the-20050131003531025-620x408.jpg" alt="" width="620" height="408" /></a>
+    <img class="alignnone size-large wp-image-1648" src="/wp-content/uploads//2011/10/wedding-date-the-20050131003531025-620x408.jpg" alt="" width="620" height="408" />
 
     <span class="Apple-style-span" style="font-size: 26px; font-weight: bold;">Nevrotisk og sjarmerende</span>
 
@@ -247,7 +247,7 @@ meta:
     <strong>Manus:</strong> Dana Fox
     <strong>Med: </strong>Dermot Mulroney, Debra Messing og Jack Davenport
 
-    <a href="//filmbloggen.net/2011/10/26/film-for-faen-the-wedding-date/wedding-date-the-20050131003531025/" rel="attachment wp-att-1648"><img class="alignnone size-large wp-image-1648" src="/wp-content/uploads//2011/10/wedding-date-the-20050131003531025-620x408.jpg" alt="" width="620" height="408" /></a>
+    <img class="alignnone size-large wp-image-1648" src="/wp-content/uploads//2011/10/wedding-date-the-20050131003531025-620x408.jpg" alt="" width="620" height="408" />
 
     <span class="Apple-style-span" style="font-size: 26px; font-weight: bold;">Nevrotisk og sjarmerende</span>
 
@@ -284,7 +284,7 @@ categories:
 **Manus:** Dana Fox
 **Med:** Dermot Mulroney, Debra Messing og Jack Davenport
 
-<a href="//filmbloggen.net/2011/10/26/film-for-faen-the-wedding-date/wedding-date-the-20050131003531025/" rel="attachment wp-att-1648"><img class="alignnone size-large wp-image-1648" src="/wp-content/uploads//2011/10/wedding-date-the-20050131003531025-620x408.jpg" alt="" width="620" height="408" /></a>
+<img class="alignnone size-large wp-image-1648" src="/wp-content/uploads//2011/10/wedding-date-the-20050131003531025-620x408.jpg" alt="" width="620" height="408" />
 
 <span class="Apple-style-span" style="font-size: 26px; font-weight: bold;">Nevrotisk og sjarmerende</span>
 

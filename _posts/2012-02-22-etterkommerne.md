@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> George Clooney, Shailene Woodley, Amara Miller, Nick Krause, Beau Bridges, Patricia Hastie, Robert Forster, Rob Huebel, Matthew Lillard, Judy Greer.
     <strong>Spilletid:</strong> 1 time og 55 minutter
 
-    <a href="//filmbloggen.net/2012/02/22/etterkommerne/the_descendants/" rel="attachment wp-att-2715"><img class="alignnone size-large wp-image-2715" src="/wp-content/uploads//2012/02/THE_DESCENDANTS-620x410.jpg" alt="" width="620" height="410" /></a>
+    <img class="alignnone size-large wp-image-2715" src="/wp-content/uploads//2012/02/THE_DESCENDANTS-620x410.jpg" alt="" width="620" height="410" />
 
     Matt King (George Clooney) er en travel advokat som jobber med å selge et arvet landområde på Hawaii. Kona hans blir en dag utsatt for en båtulykke og ender opp på sykehuset med alvorlige hodeskader. Dette gjør ham svært fortvilet og desperat. Han streber etter å samle det lille han har igjen av familie, sine to døtre, som han verdsetter høyt. Barna takler ulykken særdeles dårlig, og det er faren som må sørge for at alt stabiliseres igjen.
 
@@ -59,7 +59,7 @@ post_content:
     <strong>Skuespillere:</strong> George Clooney, Shailene Woodley, Amara Miller, Nick Krause, Beau Bridges, Patricia Hastie, Robert Forster, Rob Huebel, Matthew Lillard, Judy Greer.
     <strong>Spilletid:</strong> 1 time og 55 minutter
 
-    <a href="//filmbloggen.net/2012/02/22/etterkommerne/the_descendants/" rel="attachment wp-att-2715"><img class="alignnone size-large wp-image-2715" src="/wp-content/uploads//2012/02/THE_DESCENDANTS-620x410.jpg" alt="" width="620" height="410" /></a>
+    <img class="alignnone size-large wp-image-2715" src="/wp-content/uploads//2012/02/THE_DESCENDANTS-620x410.jpg" alt="" width="620" height="410" />
 
     Matt King (George Clooney) er en travel advokat som jobber med å selge et arvet landområde på Hawaii. Kona hans blir en dag utsatt for en båtulykke og ender opp på sykehuset med alvorlige hodeskader. Dette gjør ham svært fortvilet og desperat. Han streber etter å samle det lille han har igjen av familie, sine to døtre, som han verdsetter høyt. Barna takler ulykken særdeles dårlig, og det er faren som må sørge for at alt stabiliseres igjen.
 
@@ -158,7 +158,7 @@ meta:
     <strong>Skuespillere:</strong> George Clooney, Shailene Woodley, Amara Miller, Nick Krause, Beau Bridges, Patricia Hastie, Robert Forster, Rob Huebel, Matthew Lillard, Judy Greer.
     <strong>Spilletid:</strong> 1 time og 55 minutter
 
-    <a href="//filmbloggen.net/2012/02/22/etterkommerne/the_descendants/" rel="attachment wp-att-2715"><img class="alignnone size-large wp-image-2715" src="/wp-content/uploads//2012/02/THE_DESCENDANTS-620x410.jpg" alt="" width="620" height="410" /></a>
+    <img class="alignnone size-large wp-image-2715" src="/wp-content/uploads//2012/02/THE_DESCENDANTS-620x410.jpg" alt="" width="620" height="410" />
 
     Matt King (George Clooney) er en travel advokat som jobber med å selge et arvet landområde på Hawaii. Kona hans blir en dag utsatt for en båtulykke og ender opp på sykehuset med alvorlige hodeskader. Dette gjør ham svært fortvilet og desperat. Han streber etter å samle det lille han har igjen av familie, sine to døtre, som han verdsetter høyt. Barna takler ulykken særdeles dårlig, og det er faren som må sørge for at alt stabiliseres igjen.
 
@@ -176,7 +176,7 @@ meta:
     <strong>Skuespillere:</strong> George Clooney, Shailene Woodley, Amara Miller, Nick Krause, Beau Bridges, Patricia Hastie, Robert Forster, Rob Huebel, Matthew Lillard, Judy Greer.
     <strong>Spilletid:</strong> 1 time og 55 minutter
 
-    <a href="//filmbloggen.net/2012/02/22/etterkommerne/the_descendants/" rel="attachment wp-att-2715"><img class="alignnone size-large wp-image-2715" src="/wp-content/uploads//2012/02/THE_DESCENDANTS-620x410.jpg" alt="" width="620" height="410" /></a>
+    <img class="alignnone size-large wp-image-2715" src="/wp-content/uploads//2012/02/THE_DESCENDANTS-620x410.jpg" alt="" width="620" height="410" />
 
     Matt King (George Clooney) er en travel advokat som jobber med å selge et arvet landområde på Hawaii. Kona hans blir en dag utsatt for en båtulykke og ender opp på sykehuset med alvorlige hodeskader. Dette gjør ham svært fortvilet og desperat. Han streber etter å samle det lille han har igjen av familie, sine to døtre, som han verdsetter høyt. Barna takler ulykken særdeles dårlig, og det er faren som må sørge for at alt stabiliseres igjen.
 
@@ -277,7 +277,7 @@ tags:
 **Skuespillere:** George Clooney, Shailene Woodley, Amara Miller, Nick Krause, Beau Bridges, Patricia Hastie, Robert Forster, Rob Huebel, Matthew Lillard, Judy Greer.
 **Spilletid:** 1 time og 55 minutter
 
-<a href="//filmbloggen.net/2012/02/22/etterkommerne/the_descendants/" rel="attachment wp-att-2715"><img class="alignnone size-large wp-image-2715" src="/wp-content/uploads//2012/02/THE_DESCENDANTS-620x410.jpg" alt="" width="620" height="410" /></a>
+<img class="alignnone size-large wp-image-2715" src="/wp-content/uploads//2012/02/THE_DESCENDANTS-620x410.jpg" alt="" width="620" height="410" />
 
 Matt King (George Clooney) er en travel advokat som jobber med å selge et arvet landområde på Hawaii. Kona hans blir en dag utsatt for en båtulykke og ender opp på sykehuset med alvorlige hodeskader. Dette gjør ham svært fortvilet og desperat. Han streber etter å samle det lille han har igjen av familie, sine to døtre, som han verdsetter høyt. Barna takler ulykken særdeles dårlig, og det er faren som må sørge for at alt stabiliseres igjen.
 

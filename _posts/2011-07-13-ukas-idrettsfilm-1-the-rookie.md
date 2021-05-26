@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Ukas Idrettsfilm er The Rookie med Dennis Quaid i hovedrollen.</strong>
-    <a href="/wp-content/uploads//2011/07/morrisandquaid2.jpg"><img class="alignnone size-full wp-image-669" title="morrisandquaid" src="/wp-content/uploads//2011/07/morrisandquaid2.jpg" alt="" width="400" height="253" /></a>
+    <img class="alignnone size-full wp-image-669" title="morrisandquaid" src="/wp-content/uploads//2011/07/morrisandquaid2.jpg" alt="" width="400" height="253" />
     <strong>Originaltittel: </strong>The Rookie<strong>
     Kategori:</strong> Drama/Sport
     <strong>Spilletid:</strong> 2 timer og 7 minutter
@@ -162,7 +162,7 @@ ID:
 post_content:
   - |
     <strong>Ukas Idrettsfilm er The Rookie med Dennis Quaid i hovedrollen.</strong>
-    <a href="/wp-content/uploads//2011/07/morrisandquaid2.jpg"><img class="alignnone size-full wp-image-669" title="morrisandquaid" src="/wp-content/uploads//2011/07/morrisandquaid2.jpg" alt="" width="400" height="253" /></a>
+    <img class="alignnone size-full wp-image-669" title="morrisandquaid" src="/wp-content/uploads//2011/07/morrisandquaid2.jpg" alt="" width="400" height="253" />
     <strong>Originaltittel: </strong>The Rookie<strong>
     Kategori:</strong> Drama/Sport
     <strong>Spilletid:</strong> 2 timer og 7 minutter
@@ -183,7 +183,7 @@ publish:
 meta:
   - |
     a:73:{i:2812;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:2790;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:2843;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:2799;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"eebd2a973e";}i:2797;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:2801;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"a515428b97";}i:2844;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:2836;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1742:"<strong>Ukas Idrettsfilm er The Rookie med Dennis Quaid i hovedrollen.</strong>
-    <a href="/wp-content/uploads//2011/07/morrisandquaid2.jpg"><img class="alignnone size-full wp-image-669" title="morrisandquaid" src="/wp-content/uploads//2011/07/morrisandquaid2.jpg" alt="" width="400" height="253" /></a>
+    <img class="alignnone size-full wp-image-669" title="morrisandquaid" src="/wp-content/uploads//2011/07/morrisandquaid2.jpg" alt="" width="400" height="253" />
     <strong>Originaltittel: </strong>The Rookie<strong>
     Kategori:</strong> Drama/Sport
     <strong>Spilletid:</strong> 2 timer og 7 minutter
@@ -195,7 +195,7 @@ meta:
     Den 39 år gamle trebarnsfaren blir selvfølgelig ledd av med en gang men etter at de finner ut at han kaster i over 90mph. The Rookie er en gladfilm om en mann som ønsker å realisere sin ungdomsdrøm som han aldri trodde var gjennomførbar. Filmen er godt spilt av Quaid og sønnen Angus T. Jones (i dag godt kjent som Jake i Two and a Half Men). Filmen er for meg litt lang og baseball er for å være helt ærlig en sport jeg aldri har klart å sette meg inn i. Men filmen underholder til tross for en del dødpunkter.
 
     Baseballscenene av filmen er også godt laget og  den klarer så absolutt å engasjere. Gi meg gjerne tilbakemeldinger om hva dere synes om det nye ratingsystemet!";}i:2821;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:2823;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"22";}i:2819;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"13";}i:2817;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:2825;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"59";}i:2837;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:2813;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"22";}i:2820;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:2822;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"22";}i:2818;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"13";}i:2816;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"07";}i:2824;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"11";}i:2806;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:2804;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:2807;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:2861;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"640";}i:2810;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"13";}i:2800;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"1d95b3a192";}i:2840;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:2839;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:2841;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:2811;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"07";}i:2814;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"11";}i:2829;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:2830;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:2791;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:2794;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:2826;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:2845;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:2792;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:2847;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:2862;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1742:"<strong>Ukas Idrettsfilm er The Rookie med Dennis Quaid i hovedrollen.</strong>
-    <a href="/wp-content/uploads//2011/07/morrisandquaid2.jpg"><img class="alignnone size-full wp-image-669" title="morrisandquaid" src="/wp-content/uploads//2011/07/morrisandquaid2.jpg" alt="" width="400" height="253" /></a>
+    <img class="alignnone size-full wp-image-669" title="morrisandquaid" src="/wp-content/uploads//2011/07/morrisandquaid2.jpg" alt="" width="400" height="253" />
     <strong>Originaltittel: </strong>The Rookie<strong>
     Kategori:</strong> Drama/Sport
     <strong>Spilletid:</strong> 2 timer og 7 minutter

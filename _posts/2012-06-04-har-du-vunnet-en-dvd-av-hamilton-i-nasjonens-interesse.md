@@ -249,7 +249,7 @@ categories:
 **Klikk deg inn for å se hvem som vant konkurransen.<!--more-->**
 
 
-<a href="//filmbloggen.net/2012/05/28/konkurranse-vinn-dvd-av-hamilton-i-nasjonens-interesse/hamilton/" rel="attachment wp-att-3829"><img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /><br /> </a>Hamilton – I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni. Filmbloggen har nå trukket de tre heldige vinnerne.
+<img class="alignnone size-large wp-image-3829" src="/wp-content/uploads//2012/05/hamilton-620x429.jpg" alt="" width="620" height="429" /><br /> Hamilton – I Nasjonens Interesse hadde premiere på norske kinoer 2. mars. Filmen har release på Blu-Ray og DVD 6. juni. Filmbloggen har nå trukket de tre heldige vinnerne.
 
 **1. Hvem skrev bøkene om Carl Hamilton?**
 _Riktig svar: Jan Guillou_

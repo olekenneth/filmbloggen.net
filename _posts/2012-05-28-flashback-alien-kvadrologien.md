@@ -106,7 +106,7 @@ content:
 
     Tar vi en rask titt inn i filmhistorien finner vi mange filmer som passer godt under denne beskrivelsen. Men om vi kun inkluderer filmserier (trilogier, kvadrologier, heptalogier osv.) er det tydelig at det er en minoritet av kvalitet i filmverden. Den moderne <strong><em>Harry Potter</em></strong>-sagaen hadde sine oppturer som gjorde den fortjent til sin plass i forrige tiårs historiebøker, men den hadde også en mengde nedturer. Dårlig regi og miserabel adaptasjon er bare to av problemene i ett par av filmene. Vi kan også se på <em><strong>Twilight</strong>, <strong>Jason Bourne</strong></em> , <strong><em>X-Men</em> </strong>og mange andre for å bringe opp lignende problemer, men det er én serie som for meg overgår alle andre, nemlig <strong><em>Alien</em></strong>-kvadrologien.
 
-    <a href="//filmbloggen.net/2012/05/19/topp-10-monologer-og-taler-i-film/3364/" rel="attachment wp-att-3585"><img src="//permonter.files.wordpress.com/2012/03/alienthree14.jpg" alt="" width="604" height="254" /></a>
+    <img src="//permonter.files.wordpress.com/2012/03/alienthree14.jpg" alt="" width="604" height="254" />
 
     <strong>HORROR I SÆRKLASSE</strong>
 
@@ -119,7 +119,7 @@ content:
     <em>Denne teksten inneholder ett par spoilere fra de forskjellige filmene.
     </em><em>Jeg baserer meg på director's cut-versjonen av ALLE filmene </em>
 
-    <a href="//filmbloggen.net/2012/05/22/ny-james-bond-trailer-ute/3562/" rel="attachment wp-att-3651"><img src="//permonter.files.wordpress.com/2012/03/untitled-2.png" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/03/untitled-2.png" alt="" width="600" height="200" />
 
     <strong>RIDLEY SCOTTs ALIEN</strong>
 
@@ -135,7 +135,7 @@ content:
 
     Her blir vi også vitne til det første steget i alien-rasens evolusjon og utviklingsprosess. Fra <em>facehugger</em> til menneskelig forplantning, til brystknusende slimål til fullblods Alien-pappa. Det faktum at vi kan kalle det animalsk voldtekt gjør jo det bare ekstra interessant og elskverdig som underholdning og det skiller <strong><em>Alien</em></strong> fra mange andre. Vi blir også introdusert for en av filmhistoriens sterkest kvinnelige protagonister, gjennom Siqourney Weavers skikkelse som <em>Ripley</em>. I de første sekvensene av filmen er det ikke lett å forstå hvordan denne (noe) sjenerte dama kan bære fire filmer på skuldrene, men like fort som himmelen blir til helvette, transformeres <em>Ripley</em> til en selvstendig og dominerendes kvinne. Også i hennes skikkelse representeres det utvikling, som vi ser i de senere filmene.
 
-    <a href="//permonter.files.wordpress.com/2012/04/aliens.png" rel="attachment wp-att-3794"><img src="//permonter.files.wordpress.com/2012/04/aliens.png" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/04/aliens.png" alt="" width="600" height="200" />
 
     <strong>JAMES CAMERONs ALIENS</strong>
 
@@ -149,7 +149,7 @@ content:
 
     Her ser vi også de første glimtene av<em> Ripley</em>s morsinstikt, som spiller en viktig rolle i den fjerde og siste filmen. Hun risikerer alt for å beskytte den unge jenta de oppdager på romstasjonen og gjennom <em>Director´s Cut</em>-versjonen blir dette ekstra sterkt, da vi får litt informasjon om <em>Ripley</em>s biologiske datter
 
-    <a href="//filmbloggen.net/2012/06/27/sterkt-familiedrama-i-hatfields-mccoys/4388/" rel="attachment wp-att-4393"><img src="//permonter.files.wordpress.com/2012/05/alien-31.png" alt="" width="470" height="156" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/alien-31.png" alt="" width="470" height="156" />
 
     <strong>DAVID FINCHERs ALIEN 3</strong>
 
@@ -165,7 +165,7 @@ content:
 
     Filmen konkluderer også veldig sterkt og tok meg på senga. Spesielt når jeg visste det var en ekstra film i serien, som dessverre ruinerer litt av avslutningens magi. Den viste oss at <em>Ripley</em> er villig til å gjøre alt for at alien-rasen ikke skal spre seg mer enn den allerede har gjort. Dessverre lyktes hun ikke helt.
 
-    <a href="//filmbloggen.net/2012/06/28/oppbrukt-humor/4436/" rel="attachment wp-att-4441"><img src="//permonter.files.wordpress.com/2012/05/alien-resurrection.jpg" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/alien-resurrection.jpg" alt="" width="600" height="200" />
 
     <strong>JEAN-PEIRRE JEUNETs ALIEN RESURRECTION</strong>
 
@@ -179,7 +179,7 @@ content:
 
     <em><strong>Resurrection</strong></em> blir egentlig en komedie på mange måter, og den er uten tvil den svakeste i serien ved så å si alle aspekter, men for meg personlig har Jeunet gjort noe spenstig. Actionsekvensene er pompøse og svak, dialogen er rotete og klisjéfylt og fotoarbeidet sliter med det samme. Derfor er det viktig å innse at <em><strong>Resurrection</strong></em> er en humoristisk tolkning på serien, ikke ulikt Dan O Bannons, <em><strong>Dark Star</strong></em>. Er du klar over dette når du sitter deg ned for å se den siste delen av kvadrologien vil du mest sannsynlig kose deg.
 
-    <a href="//filmbloggen.net/2012/05/22/vinn-t-skjorter-fra-the-best-exotic-marigold-hotel/3656/" rel="attachment wp-att-4452"><img src="//permonter.files.wordpress.com/2012/05/prometheus.jpg" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/prometheus.jpg" alt="" width="600" height="200" />
 
     <strong>PROMETHEUS KOMMER 1. JULI! </strong>
 
@@ -250,7 +250,7 @@ post_content:
 
     Tar vi en rask titt inn i filmhistorien finner vi mange filmer som passer godt under denne beskrivelsen. Men om vi kun inkluderer filmserier (trilogier, kvadrologier, heptalogier osv.) er det tydelig at det er en minoritet av kvalitet i filmverden. Den moderne <strong><em>Harry Potter</em></strong>-sagaen hadde sine oppturer som gjorde den fortjent til sin plass i forrige tiårs historiebøker, men den hadde også en mengde nedturer. Dårlig regi og miserabel adaptasjon er bare to av problemene i ett par av filmene. Vi kan også se på <em><strong>Twilight</strong>, <strong>Jason Bourne</strong></em> , <strong><em>X-Men</em> </strong>og mange andre for å bringe opp lignende problemer, men det er én serie som for meg overgår alle andre, nemlig <strong><em>Alien</em></strong>-kvadrologien.
 
-    <a href="//filmbloggen.net/2012/05/19/topp-10-monologer-og-taler-i-film/3364/" rel="attachment wp-att-3585"><img src="//permonter.files.wordpress.com/2012/03/alienthree14.jpg" alt="" width="604" height="254" /></a>
+    <img src="//permonter.files.wordpress.com/2012/03/alienthree14.jpg" alt="" width="604" height="254" />
 
     <strong>HORROR I SÆRKLASSE</strong>
 
@@ -263,7 +263,7 @@ post_content:
     <em>Denne teksten inneholder ett par spoilere fra de forskjellige filmene.
     </em><em>Jeg baserer meg på director's cut-versjonen av ALLE filmene </em>
 
-    <a href="//filmbloggen.net/2012/05/22/ny-james-bond-trailer-ute/3562/" rel="attachment wp-att-3651"><img src="//permonter.files.wordpress.com/2012/03/untitled-2.png" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/03/untitled-2.png" alt="" width="600" height="200" />
 
     <strong>RIDLEY SCOTTs ALIEN</strong>
 
@@ -279,7 +279,7 @@ post_content:
 
     Her blir vi også vitne til det første steget i alien-rasens evolusjon og utviklingsprosess. Fra <em>facehugger</em> til menneskelig forplantning, til brystknusende slimål til fullblods Alien-pappa. Det faktum at vi kan kalle det animalsk voldtekt gjør jo det bare ekstra interessant og elskverdig som underholdning og det skiller <strong><em>Alien</em></strong> fra mange andre. Vi blir også introdusert for en av filmhistoriens sterkest kvinnelige protagonister, gjennom Siqourney Weavers skikkelse som <em>Ripley</em>. I de første sekvensene av filmen er det ikke lett å forstå hvordan denne (noe) sjenerte dama kan bære fire filmer på skuldrene, men like fort som himmelen blir til helvette, transformeres <em>Ripley</em> til en selvstendig og dominerendes kvinne. Også i hennes skikkelse representeres det utvikling, som vi ser i de senere filmene.
 
-    <a href="//permonter.files.wordpress.com/2012/04/aliens.png" rel="attachment wp-att-3794"><img src="//permonter.files.wordpress.com/2012/04/aliens.png" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/04/aliens.png" alt="" width="600" height="200" />
 
     <strong>JAMES CAMERONs ALIENS</strong>
 
@@ -293,7 +293,7 @@ post_content:
 
     Her ser vi også de første glimtene av<em> Ripley</em>s morsinstikt, som spiller en viktig rolle i den fjerde og siste filmen. Hun risikerer alt for å beskytte den unge jenta de oppdager på romstasjonen og gjennom <em>Director´s Cut</em>-versjonen blir dette ekstra sterkt, da vi får litt informasjon om <em>Ripley</em>s biologiske datter
 
-    <a href="//filmbloggen.net/2012/06/27/sterkt-familiedrama-i-hatfields-mccoys/4388/" rel="attachment wp-att-4393"><img src="//permonter.files.wordpress.com/2012/05/alien-31.png" alt="" width="470" height="156" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/alien-31.png" alt="" width="470" height="156" />
 
     <strong>DAVID FINCHERs ALIEN 3</strong>
 
@@ -309,7 +309,7 @@ post_content:
 
     Filmen konkluderer også veldig sterkt og tok meg på senga. Spesielt når jeg visste det var en ekstra film i serien, som dessverre ruinerer litt av avslutningens magi. Den viste oss at <em>Ripley</em> er villig til å gjøre alt for at alien-rasen ikke skal spre seg mer enn den allerede har gjort. Dessverre lyktes hun ikke helt.
 
-    <a href="//filmbloggen.net/2012/06/28/oppbrukt-humor/4436/" rel="attachment wp-att-4441"><img src="//permonter.files.wordpress.com/2012/05/alien-resurrection.jpg" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/alien-resurrection.jpg" alt="" width="600" height="200" />
 
     <strong>JEAN-PEIRRE JEUNETs ALIEN RESURRECTION</strong>
 
@@ -323,7 +323,7 @@ post_content:
 
     <em><strong>Resurrection</strong></em> blir egentlig en komedie på mange måter, og den er uten tvil den svakeste i serien ved så å si alle aspekter, men for meg personlig har Jeunet gjort noe spenstig. Actionsekvensene er pompøse og svak, dialogen er rotete og klisjéfylt og fotoarbeidet sliter med det samme. Derfor er det viktig å innse at <em><strong>Resurrection</strong></em> er en humoristisk tolkning på serien, ikke ulikt Dan O Bannons, <em><strong>Dark Star</strong></em>. Er du klar over dette når du sitter deg ned for å se den siste delen av kvadrologien vil du mest sannsynlig kose deg.
 
-    <a href="//filmbloggen.net/2012/05/22/vinn-t-skjorter-fra-the-best-exotic-marigold-hotel/3656/" rel="attachment wp-att-4452"><img src="//permonter.files.wordpress.com/2012/05/prometheus.jpg" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/prometheus.jpg" alt="" width="600" height="200" />
 
     <strong>PROMETHEUS KOMMER 1. JULI! </strong>
 
@@ -344,7 +344,7 @@ meta:
 
     Tar vi en rask titt inn i filmhistorien finner vi mange filmer som passer godt under denne beskrivelsen. Men om vi kun inkluderer filmserier (trilogier, kvadrologier, heptalogier osv.) er det tydelig at det er en minoritet av kvalitet i filmverden. Den moderne <strong><em>Harry Potter</em></strong>-sagaen hadde sine oppturer som gjorde den fortjent til sin plass i forrige tiårs historiebøker, men den hadde også en mengde nedturer. Dårlig regi og miserabel adaptasjon er bare to av problemene i ett par av filmene. Vi kan også se på <em><strong>Twilight</strong>, <strong>Jason Bourne</strong></em> , <strong><em>X-Men</em> </strong>og mange andre for å bringe opp lignende problemer, men det er én serie som for meg overgår alle andre, nemlig <strong><em>Alien</em></strong>-kvadrologien.
 
-    <a href="//filmbloggen.net/2012/05/19/topp-10-monologer-og-taler-i-film/3364-autosave/" rel="attachment wp-att-3585"><img src="//permonter.files.wordpress.com/2012/03/alienthree14.jpg" alt="" width="604" height="254" /></a>
+    <img src="//permonter.files.wordpress.com/2012/03/alienthree14.jpg" alt="" width="604" height="254" />
 
     <strong>HORROR I SÆRKLASSE</strong>
 
@@ -357,7 +357,7 @@ meta:
     <em>Denne teksten inneholder ett par spoilere fra de forskjellige filmene.
     </em><em>Jeg baserer meg på director's cut-versjonen av ALLE filmene </em>
 
-    <a href="//filmbloggen.net/2012/05/22/ny-james-bond-trailer-ute/3562-revision-7/" rel="attachment wp-att-3651"><img src="//permonter.files.wordpress.com/2012/03/untitled-2.png" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/03/untitled-2.png" alt="" width="600" height="200" />
 
     <strong>RIDLEY SCOTTs ALIEN</strong>
 
@@ -373,7 +373,7 @@ meta:
 
     Her blir vi også vitne til det første steget i alien-rasens evolusjon og utviklingsprosess. Fra <em>facehugger</em> til menneskelig forplantning, til brystknusende slimål til fullblods Alien-pappa. Det faktum at vi kan kalle det animalsk voldtekt gjør jo det bare ekstra interessant og elskverdig som underholdning og det skiller <strong><em>Alien</em></strong> fra mange andre. Vi blir også introdusert for en av filmhistoriens sterkest kvinnelige protagonister, gjennom Siqourney Weavers skikkelse som <em>Ripley</em>. I de første sekvensene av filmen er det ikke lett å forstå hvordan denne (noe) sjenerte dama kan bære fire filmer på skuldrene, men like fort som himmelen blir til helvette, transformeres <em>Ripley</em> til en selvstendig og dominerendes kvinne. Også i hennes skikkelse representeres det utvikling, som vi ser i de senere filmene.
 
-    <a href="//filmbloggen.net/?attachment_id=3794" rel="attachment wp-att-3794"><img src="//permonter.files.wordpress.com/2012/04/aliens.png" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/04/aliens.png" alt="" width="600" height="200" />
 
     <strong>JAMES CAMERONs ALIENS</strong>
 
@@ -387,7 +387,7 @@ meta:
 
     Her ser vi også de første glimtene av<em> Ripley</em>s morsinstikt, som spiller en viktig rolle i den fjerde og siste filmen. Hun risikerer alt for å beskytte den unge jenta de oppdager på romstasjonen og gjennom <em>Director´s Cut</em>-versjonen blir dette ekstra sterkt, da vi får litt informasjon om <em>Ripley</em>s biologiske datter
 
-    <a href="//filmbloggen.net/?attachment_id=4393" rel="attachment wp-att-4393"><img src="//permonter.files.wordpress.com/2012/05/alien-31.png" alt="" width="470" height="156" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/alien-31.png" alt="" width="470" height="156" />
 
     <strong>DAVID FINCHERs ALIEN 3</strong>
 
@@ -403,7 +403,7 @@ meta:
 
     Filmen konkluderer også veldig sterkt og tok meg på senga. Spesielt når jeg visste det var en ekstra film i serien, som dessverre ruinerer litt av avslutningens magi. Den viste oss at <em>Ripley</em> er villig til å gjøre alt for at alien-rasen ikke skal spre seg mer enn den allerede har gjort. Dessverre lyktes hun ikke helt.
 
-    <a href="//filmbloggen.net/?attachment_id=4441" rel="attachment wp-att-4441"><img src="//permonter.files.wordpress.com/2012/05/alien-resurrection.jpg" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/alien-resurrection.jpg" alt="" width="600" height="200" />
 
     <strong>JEAN-PEIRRE JEUNETs ALIEN RESURRECTION</strong>
 
@@ -417,7 +417,7 @@ meta:
 
     <em><strong>Resurrection</strong></em> blir egentlig en komedie på mange måter, og den er uten tvil den svakeste i serien ved så å si alle aspekter, men for meg personlig har Jeunet gjort noe spenstig. Actionsekvensene er pompøse og svak, dialogen er rotete og klisjéfylt og fotoarbeidet sliter med det samme. Derfor er det viktig å innse at <em><strong>Resurrection</strong></em> er en humoristisk tolkning på serien, ikke ulikt Dan O Bannons, <em><strong>Dark Star</strong></em>. Er du klar over dette når du sitter deg ned for å se den siste delen av kvadrologien vil du mest sannsynlig kose deg.
 
-    <a href="//filmbloggen.net/?attachment_id=4452" rel="attachment wp-att-4452"><img src="//permonter.files.wordpress.com/2012/05/prometheus.jpg" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/prometheus.jpg" alt="" width="600" height="200" />
 
     <strong>PROMETHEUS KOMMER 1. JULI! </strong>
 
@@ -431,7 +431,7 @@ meta:
 
     Tar vi en rask titt inn i filmhistorien finner vi mange filmer som passer godt under denne beskrivelsen. Men om vi kun inkluderer filmserier (trilogier, kvadrologier, heptalogier osv.) er det tydelig at det er en minoritet av kvalitet i filmverden. Den moderne <strong><em>Harry Potter</em></strong>-sagaen hadde sine oppturer som gjorde den fortjent til sin plass i forrige tiårs historiebøker, men den hadde også en mengde nedturer. Dårlig regi og miserabel adaptasjon er bare to av problemene i ett par av filmene. Vi kan også se på <em><strong>Twilight</strong>, <strong>Jason Bourne</strong></em> , <strong><em>X-Men</em> </strong>og mange andre for å bringe opp lignende problemer, men det er én serie som for meg overgår alle andre, nemlig <strong><em>Alien</em></strong>-kvadrologien.
 
-    <a href="//filmbloggen.net/2012/05/19/topp-10-monologer-og-taler-i-film/3364-autosave/" rel="attachment wp-att-3585"><img src="//permonter.files.wordpress.com/2012/03/alienthree14.jpg" alt="" width="604" height="254" /></a>
+    <img src="//permonter.files.wordpress.com/2012/03/alienthree14.jpg" alt="" width="604" height="254" />
 
     <strong>HORROR I SÆRKLASSE</strong>
 
@@ -444,7 +444,7 @@ meta:
     <em>Denne teksten inneholder ett par spoilere fra de forskjellige filmene.
     </em><em>Jeg baserer meg på director's cut-versjonen av ALLE filmene </em>
 
-    <a href="//filmbloggen.net/2012/05/22/ny-james-bond-trailer-ute/3562-revision-7/" rel="attachment wp-att-3651"><img src="//permonter.files.wordpress.com/2012/03/untitled-2.png" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/03/untitled-2.png" alt="" width="600" height="200" />
 
     <strong>RIDLEY SCOTTs ALIEN</strong>
 
@@ -460,7 +460,7 @@ meta:
 
     Her blir vi også vitne til det første steget i alien-rasens evolusjon og utviklingsprosess. Fra <em>facehugger</em> til menneskelig forplantning, til brystknusende slimål til fullblods Alien-pappa. Det faktum at vi kan kalle det animalsk voldtekt gjør jo det bare ekstra interessant og elskverdig som underholdning og det skiller <strong><em>Alien</em></strong> fra mange andre. Vi blir også introdusert for en av filmhistoriens sterkest kvinnelige protagonister, gjennom Siqourney Weavers skikkelse som <em>Ripley</em>. I de første sekvensene av filmen er det ikke lett å forstå hvordan denne (noe) sjenerte dama kan bære fire filmer på skuldrene, men like fort som himmelen blir til helvette, transformeres <em>Ripley</em> til en selvstendig og dominerendes kvinne. Også i hennes skikkelse representeres det utvikling, som vi ser i de senere filmene.
 
-    <a href="//filmbloggen.net/?attachment_id=3794" rel="attachment wp-att-3794"><img src="//permonter.files.wordpress.com/2012/04/aliens.png" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/04/aliens.png" alt="" width="600" height="200" />
 
     <strong>JAMES CAMERONs ALIENS</strong>
 
@@ -474,7 +474,7 @@ meta:
 
     Her ser vi også de første glimtene av<em> Ripley</em>s morsinstikt, som spiller en viktig rolle i den fjerde og siste filmen. Hun risikerer alt for å beskytte den unge jenta de oppdager på romstasjonen og gjennom <em>Director´s Cut</em>-versjonen blir dette ekstra sterkt, da vi får litt informasjon om <em>Ripley</em>s biologiske datter
 
-    <a href="//filmbloggen.net/?attachment_id=4393" rel="attachment wp-att-4393"><img src="//permonter.files.wordpress.com/2012/05/alien-31.png" alt="" width="470" height="156" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/alien-31.png" alt="" width="470" height="156" />
 
     <strong>DAVID FINCHERs ALIEN 3</strong>
 
@@ -490,7 +490,7 @@ meta:
 
     Filmen konkluderer også veldig sterkt og tok meg på senga. Spesielt når jeg visste det var en ekstra film i serien, som dessverre ruinerer litt av avslutningens magi. Den viste oss at <em>Ripley</em> er villig til å gjøre alt for at alien-rasen ikke skal spre seg mer enn den allerede har gjort. Dessverre lyktes hun ikke helt.
 
-    <a href="//filmbloggen.net/?attachment_id=4441" rel="attachment wp-att-4441"><img src="//permonter.files.wordpress.com/2012/05/alien-resurrection.jpg" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/alien-resurrection.jpg" alt="" width="600" height="200" />
 
     <strong>JEAN-PEIRRE JEUNETs ALIEN RESURRECTION</strong>
 
@@ -504,7 +504,7 @@ meta:
 
     <em><strong>Resurrection</strong></em> blir egentlig en komedie på mange måter, og den er uten tvil den svakeste i serien ved så å si alle aspekter, men for meg personlig har Jeunet gjort noe spenstig. Actionsekvensene er pompøse og svak, dialogen er rotete og klisjéfylt og fotoarbeidet sliter med det samme. Derfor er det viktig å innse at <em><strong>Resurrection</strong></em> er en humoristisk tolkning på serien, ikke ulikt Dan O Bannons, <em><strong>Dark Star</strong></em>. Er du klar over dette når du sitter deg ned for å se den siste delen av kvadrologien vil du mest sannsynlig kose deg.
 
-    <a href="//filmbloggen.net/?attachment_id=4452" rel="attachment wp-att-4452"><img src="//permonter.files.wordpress.com/2012/05/prometheus.jpg" alt="" width="600" height="200" /></a>
+    <img src="//permonter.files.wordpress.com/2012/05/prometheus.jpg" alt="" width="600" height="200" />
 
     <strong>PROMETHEUS KOMMER 1. JULI! </strong>
 
@@ -537,7 +537,7 @@ Det finnes ingen fasit for å skape den perfekte film. Det som da finnes er subj
 
 Tar vi en rask titt inn i filmhistorien finner vi mange filmer som passer godt under denne beskrivelsen. Men om vi kun inkluderer filmserier (trilogier, kvadrologier, heptalogier osv.) er det tydelig at det er en minoritet av kvalitet i filmverden. Den moderne **_Harry Potter_**-sagaen hadde sine oppturer som gjorde den fortjent til sin plass i forrige tiårs historiebøker, men den hadde også en mengde nedturer. Dårlig regi og miserabel adaptasjon er bare to av problemene i ett par av filmene. Vi kan også se på _**Twilight**, **Jason Bourne**_ , **_X-Men_ **og mange andre for å bringe opp lignende problemer, men det er én serie som for meg overgår alle andre, nemlig **_Alien_**-kvadrologien.
 
-<a href="//filmbloggen.net/2012/05/19/topp-10-monologer-og-taler-i-film/3364/" rel="attachment wp-att-3585"><img src="//permonter.files.wordpress.com/2012/03/alienthree14.jpg" alt="" width="604" height="254" /></a>
+<img src="//permonter.files.wordpress.com/2012/03/alienthree14.jpg" alt="" width="604" height="254" />
 
 **HORROR I SÆRKLASSE**
 
@@ -550,7 +550,7 @@ For meg er det ett par aspekter som spiller inn i seriens suksess. For det førs
 _Denne teksten inneholder ett par spoilere fra de forskjellige filmene.
 _ _Jeg baserer meg på director’s cut-versjonen av ALLE filmene _
 
-<a href="//filmbloggen.net/2012/05/22/ny-james-bond-trailer-ute/3562/" rel="attachment wp-att-3651"><img src="//permonter.files.wordpress.com/2012/03/untitled-2.png" alt="" width="600" height="200" /></a>
+<img src="//permonter.files.wordpress.com/2012/03/untitled-2.png" alt="" width="600" height="200" />
 
 **RIDLEY SCOTTs ALIEN**
 
@@ -566,7 +566,7 @@ Sett fra 70-tallets ståsted er filmen revolusjonerende ved flere aspekter. Film
 
 Her blir vi også vitne til det første steget i alien-rasens evolusjon og utviklingsprosess. Fra _facehugger_ til menneskelig forplantning, til brystknusende slimål til fullblods Alien-pappa. Det faktum at vi kan kalle det animalsk voldtekt gjør jo det bare ekstra interessant og elskverdig som underholdning og det skiller **_Alien_** fra mange andre. Vi blir også introdusert for en av filmhistoriens sterkest kvinnelige protagonister, gjennom Siqourney Weavers skikkelse som _Ripley_. I de første sekvensene av filmen er det ikke lett å forstå hvordan denne (noe) sjenerte dama kan bære fire filmer på skuldrene, men like fort som himmelen blir til helvette, transformeres _Ripley_ til en selvstendig og dominerendes kvinne. Også i hennes skikkelse representeres det utvikling, som vi ser i de senere filmene.
 
-<a href="//permonter.files.wordpress.com/2012/04/aliens.png" rel="attachment wp-att-3794"><img src="//permonter.files.wordpress.com/2012/04/aliens.png" alt="" width="600" height="200" /></a>
+<img src="//permonter.files.wordpress.com/2012/04/aliens.png" alt="" width="600" height="200" />
 
 **JAMES CAMERONs ALIENS**
 
@@ -580,7 +580,7 @@ Resten av filmen blir som et perfekt kakestykke. Det grenser nesten mot eksposis
 
 Her ser vi også de første glimtene av_ Ripley_s morsinstikt, som spiller en viktig rolle i den fjerde og siste filmen. Hun risikerer alt for å beskytte den unge jenta de oppdager på romstasjonen og gjennom _Director´s Cut_-versjonen blir dette ekstra sterkt, da vi får litt informasjon om _Ripley_s biologiske datter
 
-<a href="//filmbloggen.net/2012/06/27/sterkt-familiedrama-i-hatfields-mccoys/4388/" rel="attachment wp-att-4393"><img src="//permonter.files.wordpress.com/2012/05/alien-31.png" alt="" width="470" height="156" /></a>
+<img src="//permonter.files.wordpress.com/2012/05/alien-31.png" alt="" width="470" height="156" />
 
 **DAVID FINCHERs ALIEN 3**
 
@@ -596,7 +596,7 @@ Jeg liker også å argumentere for at _**Alien 3**_ presenterer det beste foto
 
 Filmen konkluderer også veldig sterkt og tok meg på senga. Spesielt når jeg visste det var en ekstra film i serien, som dessverre ruinerer litt av avslutningens magi. Den viste oss at _Ripley_ er villig til å gjøre alt for at alien-rasen ikke skal spre seg mer enn den allerede har gjort. Dessverre lyktes hun ikke helt.
 
-<a href="//filmbloggen.net/2012/06/28/oppbrukt-humor/4436/" rel="attachment wp-att-4441"><img src="//permonter.files.wordpress.com/2012/05/alien-resurrection.jpg" alt="" width="600" height="200" /></a>
+<img src="//permonter.files.wordpress.com/2012/05/alien-resurrection.jpg" alt="" width="600" height="200" />
 
 **JEAN-PEIRRE JEUNETs ALIEN RESURRECTION**
 
@@ -610,7 +610,7 @@ _Ripley_ er nå en vanskapt klone av den originale, som begikk selvmord i den t
 
 _**Resurrection**_ blir egentlig en komedie på mange måter, og den er uten tvil den svakeste i serien ved så å si alle aspekter, men for meg personlig har Jeunet gjort noe spenstig. Actionsekvensene er pompøse og svak, dialogen er rotete og klisjéfylt og fotoarbeidet sliter med det samme. Derfor er det viktig å innse at _**Resurrection**_ er en humoristisk tolkning på serien, ikke ulikt Dan O Bannons, _**Dark Star**_. Er du klar over dette når du sitter deg ned for å se den siste delen av kvadrologien vil du mest sannsynlig kose deg.
 
-<a href="//filmbloggen.net/2012/05/22/vinn-t-skjorter-fra-the-best-exotic-marigold-hotel/3656/" rel="attachment wp-att-4452"><img src="//permonter.files.wordpress.com/2012/05/prometheus.jpg" alt="" width="600" height="200" /></a>
+<img src="//permonter.files.wordpress.com/2012/05/prometheus.jpg" alt="" width="600" height="200" />
 
 **PROMETHEUS KOMMER 1. JULI! **
 

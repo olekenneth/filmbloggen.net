@@ -103,7 +103,7 @@ content:
     <strong>Pensjonistaction i tusen. Morsom, tullete og ikke seriøs i det hele tatt. Rett og slett god underholdning!
     </strong><strong></strong>(Anmeldelse av RED)<strong></strong>
 
-    <a href="/wp-content/uploads//2011/04/red.jpg"><img class="alignnone size-large wp-image-106" title="RED" src="/wp-content/uploads//2011/04/red-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-106" title="RED" src="/wp-content/uploads//2011/04/red-1024x682.jpg" alt="" width="620" height="412" />
 
     <strong>Originaltittel: </strong>RED<strong>
     Kategori:</strong> Action
@@ -179,7 +179,7 @@ post_content:
     <strong>Pensjonistaction i tusen. Morsom, tullete og ikke seriøs i det hele tatt. Rett og slett god underholdning!
     </strong><strong></strong>(Anmeldelse av RED)<strong></strong>
 
-    <a href="/wp-content/uploads//2011/04/red.jpg"><img class="alignnone size-large wp-image-106" title="RED" src="/wp-content/uploads//2011/04/red-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-106" title="RED" src="/wp-content/uploads//2011/04/red-1024x682.jpg" alt="" width="620" height="412" />
 
     <strong>Originaltittel: </strong>RED<strong>
     Kategori:</strong> Action

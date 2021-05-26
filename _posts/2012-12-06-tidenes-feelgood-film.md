@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong>  François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot,  Clotilde Mollet,  Alba Gaïa Kraghede Bellugi, Cyril Mendy, Christian Ameri,  Grégoire Oestermann.
     <strong>Spilletid:</strong> 1 time og 52 minutter
 
-    <a href="//filmbloggen.net/2012/12/03/tidenes-feelgood-film/intouch2/" rel="attachment wp-att-8325"><img class="alignnone size-large wp-image-8325" src="/wp-content/uploads//2012/12/Intouch2-620x395.jpg" alt="" width="620" height="395" /></a>
+    <img class="alignnone size-large wp-image-8325" src="/wp-content/uploads//2012/12/Intouch2-620x395.jpg" alt="" width="620" height="395" />
 
     <strong>Filmen er blitt en stor internasjonal suksess, ikke bare fordi den er autentisk siden den er basert på ekte hendelser, men også fordi skuespillet, kameraarbeidet og manuset er forrykende bra.</strong> Dette er inngangsbilletten til Hollywood for regissørene Olivier og Eric. De bruker en kjent oppskrift fra Hollywood med ordinær dramaturgi, og man skulle tro at resultatet ble noe man har sett tusen ganger før, men troverdig skuespill sørger for at det ikke er tilfellet.
 
@@ -65,7 +65,7 @@ post_content:
     <strong>Skuespillere:</strong>  François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot,  Clotilde Mollet,  Alba Gaïa Kraghede Bellugi, Cyril Mendy, Christian Ameri,  Grégoire Oestermann.
     <strong>Spilletid:</strong> 1 time og 52 minutter
 
-    <a href="//filmbloggen.net/2012/12/03/tidenes-feelgood-film/intouch2/" rel="attachment wp-att-8325"><img class="alignnone size-large wp-image-8325" src="/wp-content/uploads//2012/12/Intouch2-620x395.jpg" alt="" width="620" height="395" /></a>
+    <img class="alignnone size-large wp-image-8325" src="/wp-content/uploads//2012/12/Intouch2-620x395.jpg" alt="" width="620" height="395" />
 
     <strong>Filmen er blitt en stor internasjonal suksess, ikke bare fordi den er autentisk siden den er basert på ekte hendelser, men også fordi skuespillet, kameraarbeidet og manuset er forrykende bra.</strong> Dette er inngangsbilletten til Hollywood for regissørene Olivier og Eric. De bruker en kjent oppskrift fra Hollywood med ordinær dramaturgi, og man skulle tro at resultatet ble noe man har sett tusen ganger før, men troverdig skuespill sørger for at det ikke er tilfellet.
 
@@ -171,7 +171,7 @@ meta:
     <strong>Skuespillere:</strong>  François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot,  Clotilde Mollet,  Alba Gaïa Kraghede Bellugi, Cyril Mendy, Christian Ameri,  Grégoire Oestermann.
     <strong>Spilletid:</strong> 1 time og 52 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=8325" rel="attachment wp-att-8325"><img class="alignnone size-large wp-image-8325" src="/wp-content/uploads//2012/12/Intouch2-620x395.jpg" alt="" width="620" height="395" /></a>
+    <img class="alignnone size-large wp-image-8325" src="/wp-content/uploads//2012/12/Intouch2-620x395.jpg" alt="" width="620" height="395" />
 
     <strong>Filmen er blitt en stor internasjonal suksess, ikke bare fordi den er autentisk siden den er basert på ekte hendelser, men også fordi skuespillet, kameraarbeidet og manuset er forrykende bra.</strong> Dette er inngangsbilletten til Hollywood for regissørene Olivier og Eric. De bruker en kjent oppskrift fra Hollywood med ordinær dramaturgi, og man skulle tro at resultatet ble noe man har sett tusen ganger før, men troverdig skuespill sørger for at det ikke er tilfellet.
 
@@ -194,7 +194,7 @@ meta:
     <strong>Skuespillere:</strong>  François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot,  Clotilde Mollet,  Alba Gaïa Kraghede Bellugi, Cyril Mendy, Christian Ameri,  Grégoire Oestermann.
     <strong>Spilletid:</strong> 1 time og 52 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=8325" rel="attachment wp-att-8325"><img class="alignnone size-large wp-image-8325" src="/wp-content/uploads//2012/12/Intouch2-620x395.jpg" alt="" width="620" height="395" /></a>
+    <img class="alignnone size-large wp-image-8325" src="/wp-content/uploads//2012/12/Intouch2-620x395.jpg" alt="" width="620" height="395" />
 
     <strong>Filmen er blitt en stor internasjonal suksess, ikke bare fordi den er autentisk siden den er basert på ekte hendelser, men også fordi skuespillet, kameraarbeidet og manuset er forrykende bra.</strong> Dette er inngangsbilletten til Hollywood for regissørene Olivier og Eric. De bruker en kjent oppskrift fra Hollywood med ordinær dramaturgi, og man skulle tro at resultatet ble noe man har sett tusen ganger før, men troverdig skuespill sørger for at det ikke er tilfellet.
 
@@ -299,7 +299,7 @@ tags:
 **Skuespillere:**  François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot,  Clotilde Mollet,  Alba Gaïa Kraghede Bellugi, Cyril Mendy, Christian Ameri,  Grégoire Oestermann.
 **Spilletid:** 1 time og 52 minutter
 
-<a href="//filmbloggen.net/2012/12/06/tidenes-feelgood-film/intouch2/" rel="attachment wp-att-8325"><img class="alignnone size-large wp-image-8325" src="/wp-content/uploads//2012/12/Intouch2-620x395.jpg" alt="" width="620" height="395" /></a>
+<img class="alignnone size-large wp-image-8325" src="/wp-content/uploads//2012/12/Intouch2-620x395.jpg" alt="" width="620" height="395" />
 
 **Filmen er blitt en stor internasjonal suksess, ikke bare fordi den er autentisk siden den er basert på ekte hendelser, men også fordi skuespillet, kameraarbeidet og manuset er forrykende bra.** Dette er inngangsbilletten til Hollywood for regissørene Olivier og Eric. De bruker en kjent oppskrift fra Hollywood med ordinær dramaturgi, og man skulle tro at resultatet ble noe man har sett tusen ganger før, men troverdig skuespill sørger for at det ikke er tilfellet.
 

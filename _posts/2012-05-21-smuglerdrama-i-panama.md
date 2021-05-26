@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Mark Wahlberg, Ben Foster, Kate Beckinsale, Giovanni Ribisi, Caleb Landry Jones, David O'Hara, J.K. Simmons.
     <strong>Spilletid:</strong> 1 time og 49 minutter
 
-    <a href="//filmbloggen.net/2012/05/21/smuglerdrama-i-panama/contraband-1/" rel="attachment wp-att-3563"><img class="alignnone size-large wp-image-3563" src="/wp-content/uploads//2012/05/contraband-1-620x384.jpg" alt="" width="620" height="384" /></a>
+    <img class="alignnone size-large wp-image-3563" src="/wp-content/uploads//2012/05/contraband-1-620x384.jpg" alt="" width="620" height="384" />
 
     Chris Farraday (Mark Wahlberg) har lagt sine kriminelle dager som smugler bak seg og nyter det rolige livet sammen med kona (Kate Beckinsale). Roen blir fort erstattet med kaos når svigerbroren (Caleb Landry Jones) kaster en last med kokain i sjøen for å forhindre at tollvesenet får tak i det. Det gjør leveransen ufullstendig og mottakeren blir misfornøyd. Chris må ordne opp i gjelden ved å smugle falske pengesedler tilbake til USA fra Panama, men så skjer det uforutsette hendelser som kompliserer alt.
 
@@ -61,7 +61,7 @@ post_content:
     <strong>Skuespillere:</strong> Mark Wahlberg, Ben Foster, Kate Beckinsale, Giovanni Ribisi, Caleb Landry Jones, David O'Hara, J.K. Simmons.
     <strong>Spilletid:</strong> 1 time og 49 minutter
 
-    <a href="//filmbloggen.net/2012/05/21/smuglerdrama-i-panama/contraband-1/" rel="attachment wp-att-3563"><img class="alignnone size-large wp-image-3563" src="/wp-content/uploads//2012/05/contraband-1-620x384.jpg" alt="" width="620" height="384" /></a>
+    <img class="alignnone size-large wp-image-3563" src="/wp-content/uploads//2012/05/contraband-1-620x384.jpg" alt="" width="620" height="384" />
 
     Chris Farraday (Mark Wahlberg) har lagt sine kriminelle dager som smugler bak seg og nyter det rolige livet sammen med kona (Kate Beckinsale). Roen blir fort erstattet med kaos når svigerbroren (Caleb Landry Jones) kaster en last med kokain i sjøen for å forhindre at tollvesenet får tak i det. Det gjør leveransen ufullstendig og mottakeren blir misfornøyd. Chris må ordne opp i gjelden ved å smugle falske pengesedler tilbake til USA fra Panama, men så skjer det uforutsette hendelser som kompliserer alt.
 
@@ -166,7 +166,7 @@ meta:
     <strong>Skuespillere:</strong> Mark Wahlberg, Ben Foster, Kate Beckinsale, Giovanni Ribisi, Caleb Landry Jones, David O'Hara, J.K. Simmons.
     <strong>Spilletid:</strong> 1 time og 49 minutter
 
-    <a href="//filmbloggen.net/2012/05/21/smuglerdrama-i-panama/contraband-1/" rel="attachment wp-att-3563"><img class="alignnone size-large wp-image-3563" src="/wp-content/uploads//2012/05/contraband-1-620x384.jpg" alt="" width="620" height="384" /></a>
+    <img class="alignnone size-large wp-image-3563" src="/wp-content/uploads//2012/05/contraband-1-620x384.jpg" alt="" width="620" height="384" />
 
     Chris Farraday (Mark Wahlberg) har lagt sine kriminelle dager som smugler bak seg og nyter det rolige livet sammen med kona (Kate Beckinsale). Roen blir fort erstattet med kaos når svigerbroren (Caleb Landry Jones) kaster en last med kokain i sjøen for å forhindre at tollvesenet får tak i det. Det gjør leveransen ufullstendig og mottakeren blir misfornøyd. Chris må ordne opp i gjelden ved å smugle falske pengesedler tilbake til USA fra Panama, men så skjer det uforutsette hendelser som kompliserer alt.
 
@@ -187,7 +187,7 @@ meta:
     <strong>Skuespillere:</strong> Mark Wahlberg, Ben Foster, Kate Beckinsale, Giovanni Ribisi, Caleb Landry Jones, David O'Hara, J.K. Simmons.
     <strong>Spilletid:</strong> 1 time og 49 minutter
 
-    <a href="//filmbloggen.net/2012/05/21/smuglerdrama-i-panama/contraband-1/" rel="attachment wp-att-3563"><img class="alignnone size-large wp-image-3563" src="/wp-content/uploads//2012/05/contraband-1-620x384.jpg" alt="" width="620" height="384" /></a>
+    <img class="alignnone size-large wp-image-3563" src="/wp-content/uploads//2012/05/contraband-1-620x384.jpg" alt="" width="620" height="384" />
 
     Chris Farraday (Mark Wahlberg) har lagt sine kriminelle dager som smugler bak seg og nyter det rolige livet sammen med kona (Kate Beckinsale). Roen blir fort erstattet med kaos når svigerbroren (Caleb Landry Jones) kaster en last med kokain i sjøen for å forhindre at tollvesenet får tak i det. Det gjør leveransen ufullstendig og mottakeren blir misfornøyd. Chris må ordne opp i gjelden ved å smugle falske pengesedler tilbake til USA fra Panama, men så skjer det uforutsette hendelser som kompliserer alt.
 
@@ -284,7 +284,7 @@ tags:
 **Skuespillere:** Mark Wahlberg, Ben Foster, Kate Beckinsale, Giovanni Ribisi, Caleb Landry Jones, David O’Hara, J.K. Simmons.
 **Spilletid:** 1 time og 49 minutter
 
-<a href="//filmbloggen.net/2012/05/21/smuglerdrama-i-panama/contraband-1/" rel="attachment wp-att-3563"><img class="alignnone size-large wp-image-3563" src="/wp-content/uploads//2012/05/contraband-1-620x384.jpg" alt="" width="620" height="384" /></a>
+<img class="alignnone size-large wp-image-3563" src="/wp-content/uploads//2012/05/contraband-1-620x384.jpg" alt="" width="620" height="384" />
 
 Chris Farraday (Mark Wahlberg) har lagt sine kriminelle dager som smugler bak seg og nyter det rolige livet sammen med kona (Kate Beckinsale). Roen blir fort erstattet med kaos når svigerbroren (Caleb Landry Jones) kaster en last med kokain i sjøen for å forhindre at tollvesenet får tak i det. Det gjør leveransen ufullstendig og mottakeren blir misfornøyd. Chris må ordne opp i gjelden ved å smugle falske pengesedler tilbake til USA fra Panama, men så skjer det uforutsette hendelser som kompliserer alt.
 

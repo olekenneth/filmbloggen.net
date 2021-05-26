@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>En underholdene og god thrillerfilm med Matthew McConaughey.
-    </strong> <a href="//filmbloggen.net/?attachment_id=748" rel="attachment wp-att-748"><img class="alignnone size-medium wp-image-748" src="/wp-content/uploads//2011/07/2011_the_lincoln_lawyer_001-300x199.jpg" alt="" width="600" height="400" /></a>
+    </strong> <img class="alignnone size-medium wp-image-748" src="/wp-content/uploads//2011/07/2011_the_lincoln_lawyer_001-300x199.jpg" alt="" width="600" height="400" />
     <strong>Originaltittel: </strong>The Lincoln Lawyer
     <strong>Kategori:</strong> Thriller
     <strong>Spilletid:</strong> 1 time og 58 minutter
@@ -174,7 +174,7 @@ ID:
 post_content:
   - |
     <strong>En underholdene og god thrillerfilm med Matthew McConaughey.
-    </strong> <a href="//filmbloggen.net/?attachment_id=748" rel="attachment wp-att-748"><img class="alignnone size-medium wp-image-748" src="/wp-content/uploads//2011/07/2011_the_lincoln_lawyer_001-300x199.jpg" alt="" width="600" height="400" /></a>
+    </strong> <img class="alignnone size-medium wp-image-748" src="/wp-content/uploads//2011/07/2011_the_lincoln_lawyer_001-300x199.jpg" alt="" width="600" height="400" />
     <strong>Originaltittel: </strong>The Lincoln Lawyer
     <strong>Kategori:</strong> Thriller
     <strong>Spilletid:</strong> 1 time og 58 minutter
@@ -199,13 +199,13 @@ publish:
 meta:
   - |
     a:74:{i:5322;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:5300;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:5353;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:5309;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"7638859dde";}i:5307;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:5311;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"1bf139e6ff";}i:5354;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:5346;a:2:{s:3:"key";s:7:"content";s:5:"value";s:654:"Det har klikka for Matthew
-    <a href="//filmbloggen.net/?attachment_id=748" rel="attachment wp-att-748"><img class="alignnone size-medium wp-image-748" title="2011_the_lincoln_lawyer_001" src="/wp-content/uploads//2011/07/2011_the_lincoln_lawyer_001-300x199.jpg" alt="" width="600" height="400" /></a>
+    <img class="alignnone size-medium wp-image-748" title="2011_the_lincoln_lawyer_001" src="/wp-content/uploads//2011/07/2011_the_lincoln_lawyer_001-300x199.jpg" alt="" width="600" height="400" />
     <strong>Originaltittel: </strong>The Lincoln Lawyer
     <strong>Kategori:</strong> Thriller
     <strong>Spilletid:</strong> 1 time og 58 minutter
     <strong>Regissør: </strong>John Lee Hancock
     <strong>Med:</strong> Matthew McConaughey, Marisa Tomei, Ryan Phillippe, Josh Lucas, John Leguizamo, Michaela Conlin, William H. Macy";}i:5331;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:5333;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"18";}i:5329;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"15";}i:5327;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:5335;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"35";}i:5358;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:5347;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:5323;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"18";}i:5330;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:5332;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"18";}i:5328;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"15";}i:5326;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"07";}i:5334;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"35";}i:5316;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:5314;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:5317;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:5375;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"745";}i:5320;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"15";}i:5310;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"4f349bf75f";}i:5350;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:5349;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:5351;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:5321;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"07";}i:5324;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"35";}i:5339;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:5340;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:5301;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:5304;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:10:"auto-draft";}i:5336;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:5355;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:5302;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:5357;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:5376;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:654:"Det har klikka for Matthew
-    <a href="//filmbloggen.net/?attachment_id=748" rel="attachment wp-att-748"><img class="alignnone size-medium wp-image-748" title="2011_the_lincoln_lawyer_001" src="/wp-content/uploads//2011/07/2011_the_lincoln_lawyer_001-300x199.jpg" alt="" width="600" height="400" /></a>
+    <img class="alignnone size-medium wp-image-748" title="2011_the_lincoln_lawyer_001" src="/wp-content/uploads//2011/07/2011_the_lincoln_lawyer_001-300x199.jpg" alt="" width="600" height="400" />
     <strong>Originaltittel: </strong>The Lincoln Lawyer
     <strong>Kategori:</strong> Thriller
     <strong>Spilletid:</strong> 1 time og 58 minutter
@@ -223,7 +223,7 @@ tags:
   - William H. Macy
 ---
 **En underholdene og god thrillerfilm med Matthew McConaughey.
-** <a href="//filmbloggen.net/2011/07/15/godt-gjennomfort-thriller/2011_the_lincoln_lawyer_001/" rel="attachment wp-att-748"><img class="alignnone size-medium wp-image-748" src="/wp-content/uploads//2011/07/2011_the_lincoln_lawyer_001-300x199.jpg" alt="" width="600" height="400" /></a>
+** <img class="alignnone size-medium wp-image-748" src="/wp-content/uploads//2011/07/2011_the_lincoln_lawyer_001-300x199.jpg" alt="" width="600" height="400" />
 **Originaltittel: **The Lincoln Lawyer
 **Kategori:** Thriller
 **Spilletid:** 1 time og 58 minutter

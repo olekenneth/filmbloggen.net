@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Den nye norske storsatsingen "Hodejegerne" basert på Jo Nesbø's bok med samme navn fungerer vanvittig bra. Jeg storkoste meg!</strong>
-    <a href="//filmbloggen.net/2011/09/07/hodejegerne/hode-1/" rel="attachment wp-att-819"><img class="alignnone size-full wp-image-819" src="/wp-content/uploads//2011/09/hode-1.jpg" alt="" width="400" height="253" /></a>
+    <img class="alignnone size-full wp-image-819" src="/wp-content/uploads//2011/09/hode-1.jpg" alt="" width="400" height="253" />
     <strong>Originaltittel: </strong>Hodejegerne
     <strong>Kategori:</strong> Action / Thriller
     <strong>Spilletid:</strong> 1 time og 38 minutter
@@ -172,7 +172,7 @@ ID:
 post_content:
   - |
     <strong>Den nye norske storsatsingen "Hodejegerne" basert på Jo Nesbø's bok med samme navn fungerer vanvittig bra. Jeg storkoste meg!</strong>
-    <a href="//filmbloggen.net/2011/09/07/hodejegerne/hode-1/" rel="attachment wp-att-819"><img class="alignnone size-full wp-image-819" src="/wp-content/uploads//2011/09/hode-1.jpg" alt="" width="400" height="253" /></a>
+    <img class="alignnone size-full wp-image-819" src="/wp-content/uploads//2011/09/hode-1.jpg" alt="" width="400" height="253" />
     <strong>Originaltittel: </strong>Hodejegerne
     <strong>Kategori:</strong> Action / Thriller
     <strong>Spilletid:</strong> 1 time og 38 minutter
@@ -212,7 +212,7 @@ tags:
   - Synnøve Macody Lund
 ---
 **Den nye norske storsatsingen «Hodejegerne» basert på Jo Nesbø’s bok med samme navn fungerer vanvittig bra. Jeg storkoste meg!**
-<a href="//filmbloggen.net/2011/09/07/hodejegerne/hode-1/" rel="attachment wp-att-819"><img class="alignnone size-full wp-image-819" src="/wp-content/uploads//2011/09/hode-1.jpg" alt="" width="400" height="253" /></a>
+<img class="alignnone size-full wp-image-819" src="/wp-content/uploads//2011/09/hode-1.jpg" alt="" width="400" height="253" />
 **Originaltittel: **Hodejegerne
 **Kategori:** Action / Thriller
 **Spilletid:** 1 time og 38 minutter

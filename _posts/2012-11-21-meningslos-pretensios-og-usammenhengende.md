@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Aaron Taylor-Johnson, Taylor Kitsch, Blake Lively, Benicio Del Toro, John Travolta, Salma Hayek, Emile Hirsch.
     <strong>Spilletid:</strong> 2 timer og 11 minutter
 
-    <a href="//filmbloggen.net/2012/11/21/meningslos-pretensios-og-usammenhengende/savages-bilde-2/" rel="attachment wp-att-8133"><img class="alignnone size-large wp-image-8133" src="/wp-content/uploads//2012/11/Savages-bilde-2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-8133" src="/wp-content/uploads//2012/11/Savages-bilde-2-620x348.jpg" alt="" width="620" height="348" />
 
     <strong>Med provoserende filmer som Natural Born Killers, Platoon og Født 4.juli viste Oliver Stone at han maktet å lage ukomersielle filmer med originale aspekter.</strong> Han viser også at han har stor interesse for å skildre ekte hendelser på en mer kommersiell måte. Da tenker jeg spesielt på Alexander den store og World Trade Center. Med Savages gjør han et forsøk på sjokkere publikum med grov vold, hasjrøyking og ukonvensjonelle kjærlighetsforhold. Han lykkes ikke med det; det han lykkes med er det visuelle. Filmingen og fargebruken bidrar til å gjøre filmen bedre. Det er synd fortellingen og skuespillet ikke er like godt utført.
 
@@ -67,7 +67,7 @@ post_content:
     <strong>Skuespillere:</strong> Aaron Taylor-Johnson, Taylor Kitsch, Blake Lively, Benicio Del Toro, John Travolta, Salma Hayek, Emile Hirsch.
     <strong>Spilletid:</strong> 2 timer og 11 minutter
 
-    <a href="//filmbloggen.net/2012/11/21/meningslos-pretensios-og-usammenhengende/savages-bilde-2/" rel="attachment wp-att-8133"><img class="alignnone size-large wp-image-8133" src="/wp-content/uploads//2012/11/Savages-bilde-2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-8133" src="/wp-content/uploads//2012/11/Savages-bilde-2-620x348.jpg" alt="" width="620" height="348" />
 
     <strong>Med provoserende filmer som Natural Born Killers, Platoon og Født 4.juli viste Oliver Stone at han maktet å lage ukomersielle filmer med originale aspekter.</strong> Han viser også at han har stor interesse for å skildre ekte hendelser på en mer kommersiell måte. Da tenker jeg spesielt på Alexander den store og World Trade Center. Med Savages gjør han et forsøk på sjokkere publikum med grov vold, hasjrøyking og ukonvensjonelle kjærlighetsforhold. Han lykkes ikke med det; det han lykkes med er det visuelle. Filmingen og fargebruken bidrar til å gjøre filmen bedre. Det er synd fortellingen og skuespillet ikke er like godt utført.
 
@@ -177,7 +177,7 @@ meta:
     <strong>Skuespillere:</strong> Aaron Taylor-Johnson, Taylor Kitsch, Blake Lively, Benicio Del Toro, John Travolta, Salma Hayek, Emile Hirsch.
     <strong>Spilletid:</strong> 2 timer og 11 minutter
 
-    <a href="//filmbloggen.net/2012/11/21/meningslos-pretensios-og-usammenhengende/savages-bilde-2/" rel="attachment wp-att-8133"><img class="alignnone size-large wp-image-8133" src="/wp-content/uploads//2012/11/Savages-bilde-2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-8133" src="/wp-content/uploads//2012/11/Savages-bilde-2-620x348.jpg" alt="" width="620" height="348" />
 
     <strong>Med provoserende filmer som Natural Born Killers, Platoon og Født 4.juli viste Oliver Stone at han maktet å lage ukomersielle filmer med originale aspekter.</strong> Han viser også at han har stor interesse for å skildre ekte hendelser på en mer kommersiell måte. Da tenker jeg spesielt på Alexander den store og World Trade Center. Med Savages gjør han et forsøk på sjokkere publikum med grov vold, hasjrøyking og ukonvensjonelle kjærlighetsforhold. Han lykkes ikke med det; det han lykkes med er det visuelle. Filmingen og fargebruken bidrar til å gjøre filmen bedre. Det er synd fortellingen og skuespillet ikke er like godt utført.
 
@@ -202,7 +202,7 @@ meta:
     <strong>Skuespillere:</strong> Aaron Taylor-Johnson, Taylor Kitsch, Blake Lively, Benicio Del Toro, John Travolta, Salma Hayek, Emile Hirsch.
     <strong>Spilletid:</strong> 2 timer og 11 minutter
 
-    <a href="//filmbloggen.net/2012/11/21/meningslos-pretensios-og-usammenhengende/savages-bilde-2/" rel="attachment wp-att-8133"><img class="alignnone size-large wp-image-8133" src="/wp-content/uploads//2012/11/Savages-bilde-2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-8133" src="/wp-content/uploads//2012/11/Savages-bilde-2-620x348.jpg" alt="" width="620" height="348" />
 
     <strong>Med provoserende filmer som Natural Born Killers, Platoon og Født 4.juli viste Oliver Stone at han maktet å lage ukomersielle filmer med originale aspekter.</strong> Han viser også at han har stor interesse for å skildre ekte hendelser på en mer kommersiell måte. Da tenker jeg spesielt på Alexander den store og World Trade Center. Med Savages gjør han et forsøk på sjokkere publikum med grov vold, hasjrøyking og ukonvensjonelle kjærlighetsforhold. Han lykkes ikke med det; det han lykkes med er det visuelle. Filmingen og fargebruken bidrar til å gjøre filmen bedre. Det er synd fortellingen og skuespillet ikke er like godt utført.
 
@@ -305,7 +305,7 @@ tags:
 **Skuespillere:** Aaron Taylor-Johnson, Taylor Kitsch, Blake Lively, Benicio Del Toro, John Travolta, Salma Hayek, Emile Hirsch.
 **Spilletid:** 2 timer og 11 minutter
 
-<a href="//filmbloggen.net/2012/11/21/meningslos-pretensios-og-usammenhengende/savages-bilde-2/" rel="attachment wp-att-8133"><img class="alignnone size-large wp-image-8133" src="/wp-content/uploads//2012/11/Savages-bilde-2-620x348.jpg" alt="" width="620" height="348" /></a>
+<img class="alignnone size-large wp-image-8133" src="/wp-content/uploads//2012/11/Savages-bilde-2-620x348.jpg" alt="" width="620" height="348" />
 
 **Med provoserende filmer som Natural Born Killers, Platoon og Født 4.juli viste Oliver Stone at han maktet å lage ukomersielle filmer med originale aspekter.** Han viser også at han har stor interesse for å skildre ekte hendelser på en mer kommersiell måte. Da tenker jeg spesielt på Alexander den store og World Trade Center. Med Savages gjør han et forsøk på sjokkere publikum med grov vold, hasjrøyking og ukonvensjonelle kjærlighetsforhold. Han lykkes ikke med det; det han lykkes med er det visuelle. Filmingen og fargebruken bidrar til å gjøre filmen bedre. Det er synd fortellingen og skuespillet ikke er like godt utført.
 

@@ -105,7 +105,7 @@ content:
     Regissør:</strong> </strong>Drew Goddard<strong><strong>
     Med:</strong> </strong>Kristen Connolly, Chris Hemsworth og Anna Hutchison
 
-    <a href="//filmbloggen.net/2012/05/06/satirisk-hyllest-av-skrekksjangeren/lqcxklt2/" rel="attachment wp-att-3302"><img class="alignnone size-large wp-image-3302" src="/wp-content/uploads//2012/05/lqcxklt2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3302" src="/wp-content/uploads//2012/05/lqcxklt2-620x413.jpg" alt="" width="620" height="413" />
 
     <em>The Cabin in the Woods </em>er et unikt stykke film, som vi så alt for sjeldent ser i dag. Ved første øyekast følger den alle klisjèene i boken, men jeg kan garantere deg at <em>The Cabin in the Woods </em>er alt annet enn forutsigbar og kjedelig. Denne er ekstremt vanskelig å anmelde, fordi den er så unik at det vil være en synd å avsløre for mye om plottet. Så jeg trygler hver og én av dere om å ikke tillate noen form for avsløringer av  filmen, bare gå å se den!
 
@@ -184,7 +184,7 @@ post_content:
     Regissør:</strong> </strong>Drew Goddard<strong><strong>
     Med:</strong> </strong>Kristen Connolly, Chris Hemsworth og Anna Hutchison
 
-    <a href="//filmbloggen.net/2012/05/06/satirisk-hyllest-av-skrekksjangeren/lqcxklt2/" rel="attachment wp-att-3302"><img class="alignnone size-large wp-image-3302" src="/wp-content/uploads//2012/05/lqcxklt2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3302" src="/wp-content/uploads//2012/05/lqcxklt2-620x413.jpg" alt="" width="620" height="413" />
 
     <em>The Cabin in the Woods </em>er et unikt stykke film, som vi så alt for sjeldent ser i dag. Ved første øyekast følger den alle klisjèene i boken, men jeg kan garantere deg at <em>The Cabin in the Woods </em>er alt annet enn forutsigbar og kjedelig. Denne er ekstremt vanskelig å anmelde, fordi den er så unik at det vil være en synd å avsløre for mye om plottet. Så jeg trygler hver og én av dere om å ikke tillate noen form for avsløringer av  filmen, bare gå å se den!
 
@@ -217,7 +217,7 @@ meta:
     Regissør:</strong> </strong>Drew Goddard<strong><strong>
     Med:</strong> </strong>Kristen Connolly, Chris Hemsworth og Anna Hutchison
 
-    <a href="//filmbloggen.net/?attachment_id=3302" rel="attachment wp-att-3302"><img class="alignnone size-large wp-image-3302" title="lqcxklt2" src="/wp-content/uploads//2012/05/lqcxklt2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3302" title="lqcxklt2" src="/wp-content/uploads//2012/05/lqcxklt2-620x413.jpg" alt="" width="620" height="413" />
 
     <em>The Cabin in the Woods </em>er et unikt stykke film, som vi så alt for sjeldent ser i dag. Ved første øyekast følger den alle klisjèene i boken, men jeg kan garantere deg at <em>The Cabin in the Woods </em>er alt annet enn forutsigbar og kjedelig. Denne er ekstremt vanskelig å anmelde, fordi den er så unik at det vil være en synd å avsløre for mye om plottet. Så jeg trygler hver og én av dere om å ikke tillate noen form for avsløringer av  filmen, bare gå å se den!
 
@@ -244,7 +244,7 @@ meta:
     Regissør:</strong> </strong>Drew Goddard<strong><strong>
     Med:</strong> </strong>Kristen Connolly, Chris Hemsworth og Anna Hutchison
 
-    <a href="//filmbloggen.net/?attachment_id=3302" rel="attachment wp-att-3302"><img class="alignnone size-large wp-image-3302" title="lqcxklt2" src="/wp-content/uploads//2012/05/lqcxklt2-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3302" title="lqcxklt2" src="/wp-content/uploads//2012/05/lqcxklt2-620x413.jpg" alt="" width="620" height="413" />
 
     <em>The Cabin in the Woods </em>er et unikt stykke film, som vi så alt for sjeldent ser i dag. Ved første øyekast følger den alle klisjèene i boken, men jeg kan garantere deg at <em>The Cabin in the Woods </em>er alt annet enn forutsigbar og kjedelig. Denne er ekstremt vanskelig å anmelde, fordi den er så unik at det vil være en synd å avsløre for mye om plottet. Så jeg trygler hver og én av dere om å ikke tillate noen form for avsløringer av  filmen, bare gå å se den!
 
@@ -293,7 +293,7 @@ Spilletid:** **1 time og 35 minutter****
 Regissør:** **Drew Goddard****
 Med:** **Kristen Connolly, Chris Hemsworth og Anna Hutchison
 
-<a href="//filmbloggen.net/2012/05/06/satirisk-hyllest-av-skrekksjangeren/lqcxklt2/" rel="attachment wp-att-3302"><img class="alignnone size-large wp-image-3302" src="/wp-content/uploads//2012/05/lqcxklt2-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-3302" src="/wp-content/uploads//2012/05/lqcxklt2-620x413.jpg" alt="" width="620" height="413" />
 
 _The Cabin in the Woods _er et unikt stykke film, som vi så alt for sjeldent ser i dag. Ved første øyekast følger den alle klisjèene i boken, men jeg kan garantere deg at _The Cabin in the Woods _er alt annet enn forutsigbar og kjedelig. Denne er ekstremt vanskelig å anmelde, fordi den er så unik at det vil være en synd å avsløre for mye om plottet. Så jeg trygler hver og én av dere om å ikke tillate noen form for avsløringer av  filmen, bare gå å se den!
 

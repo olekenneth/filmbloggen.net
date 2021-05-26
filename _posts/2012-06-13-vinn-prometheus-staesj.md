@@ -99,7 +99,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Litt forsinket kommer konkurransen om Prometheus. Her er det mye kult!</strong>
-    <a href="//filmbloggen.net/?attachment_id=4135" rel="attachment wp-att-4135"><img class="alignnone size-large wp-image-4135" src="/wp-content/uploads//2012/06/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" /></a>
+    <img class="alignnone size-large wp-image-4135" src="/wp-content/uploads//2012/06/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
     Jakke, to t-skjorter og to minnepenner er premier i vår store Prometheus-konkurranse. Dette er ting som ser sinnsykt kule ut og som jeg tror kommer til å slå an. Derfor er denne konkurransen den vanskeligste så langt. Jeg har prøvd å lage den litt mer utfordrende sånn at personer som setter pris på det vinner!
 
     Vår anmeldelse av Prometheus kan du lese <a href="//filmbloggen.net/2012/06/02/skrekk-og-gru-ombord-pa-prometheus/">her</a>.
@@ -167,7 +167,7 @@ post_mime_type:
 post_content:
   - |
     <strong>Litt forsinket kommer konkurransen om Prometheus. Her er det mye kult!</strong>
-    <a href="//filmbloggen.net/?attachment_id=4135" rel="attachment wp-att-4135"><img class="alignnone size-large wp-image-4135" src="/wp-content/uploads//2012/06/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" /></a>
+    <img class="alignnone size-large wp-image-4135" src="/wp-content/uploads//2012/06/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
     Jakke, to t-skjorter og to minnepenner er premier i vår store Prometheus-konkurranse. Dette er ting som ser sinnsykt kule ut og som jeg tror kommer til å slå an. Derfor er denne konkurransen den vanskeligste så langt. Jeg har prøvd å lage den litt mer utfordrende sånn at personer som setter pris på det vinner!
 
     Vår anmeldelse av Prometheus kan du lese <a href="//filmbloggen.net/2012/06/02/skrekk-og-gru-ombord-pa-prometheus/">her</a>.
@@ -189,7 +189,7 @@ save:
 meta:
   - |
     a:75:{i:22962;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:22941;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:22993;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:22950;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"0c1ce8d6af";}i:22948;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:22952;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"312a68d507";}i:22994;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:22986;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1021:"<strong>Litt forsinket kommer konkurransen om Prometheus. Her er det mye kult!</strong>
-    <a href="//filmbloggen.net/2012/06/13/vinn-prometheus-staesj/prometheus-staesj/" rel="attachment wp-att-4135"><img class="alignnone size-large wp-image-4135" src="/wp-content/uploads//2012/06/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" /></a>
+    <img class="alignnone size-large wp-image-4135" src="/wp-content/uploads//2012/06/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
     Jakke, to t-skjorter og to minnepenner er premier i vår store Prometheus-konkurranse. Dette er ting som ser sinnsykt kule ut og som jeg tror kommer til å slå an. Derfor er denne konkurransen den vanskeligste så langt. Jeg har prøvd å lage den litt mer utfordrende sånn at personer som setter pris på det vinner!
 
     Vår anmeldelse av Prometheus kan du lese <a href="//filmbloggen.net/2012/06/02/skrekk-og-gru-ombord-pa-prometheus/">her</a>.
@@ -200,7 +200,7 @@ meta:
     <strong>2. plass:</strong> T-skjorte og minnepenn
 
     Laster inn ...";}i:22971;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:22973;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"18";}i:22969;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"14";}i:22967;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"06";}i:22975;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"41";}i:22998;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:22987;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:22963;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"13";}i:22970;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:22972;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"13";}i:22968;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"13";}i:22966;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"06";}i:22974;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"30";}i:22956;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:22954;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:22957;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:23014;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"4134";}i:22960;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"13";}i:22951;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"8d4bd71fa4";}i:22990;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:22989;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:22991;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:22961;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"06";}i:22964;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"30";}i:22978;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:22979;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:22942;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:22945;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:22976;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:22995;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:22943;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:22997;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:23016;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1021:"<strong>Litt forsinket kommer konkurransen om Prometheus. Her er det mye kult!</strong>
-    <a href="//filmbloggen.net/2012/06/13/vinn-prometheus-staesj/prometheus-staesj/" rel="attachment wp-att-4135"><img class="alignnone size-large wp-image-4135" src="/wp-content/uploads//2012/06/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" /></a>
+    <img class="alignnone size-large wp-image-4135" src="/wp-content/uploads//2012/06/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
     Jakke, to t-skjorter og to minnepenner er premier i vår store Prometheus-konkurranse. Dette er ting som ser sinnsykt kule ut og som jeg tror kommer til å slå an. Derfor er denne konkurransen den vanskeligste så langt. Jeg har prøvd å lage den litt mer utfordrende sånn at personer som setter pris på det vinner!
 
     Vår anmeldelse av Prometheus kan du lese <a href="//filmbloggen.net/2012/06/02/skrekk-og-gru-ombord-pa-prometheus/">her</a>.
@@ -215,7 +215,7 @@ categories:
   - Konkurranser
 ---
 **Litt forsinket kommer konkurransen om Prometheus. Her er det mye kult!**
-<a href="//filmbloggen.net/2012/06/13/vinn-prometheus-staesj/prometheus-staesj/" rel="attachment wp-att-4135"><img class="alignnone size-large wp-image-4135" src="/wp-content/uploads//2012/06/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" /></a>
+<img class="alignnone size-large wp-image-4135" src="/wp-content/uploads//2012/06/prometheus-stæsj-620x465.jpg" alt="" width="620" height="465" />
 Jakke, to t-skjorter og to minnepenner er premier i vår store Prometheus-konkurranse. Dette er ting som ser sinnsykt kule ut og som jeg tror kommer til å slå an. Derfor er denne konkurransen den vanskeligste så langt. Jeg har prøvd å lage den litt mer utfordrende sånn at personer som setter pris på det vinner!
 
 Vår anmeldelse av Prometheus kan du lese [her](//filmbloggen.net/2012/06/02/skrekk-og-gru-ombord-pa-prometheus/).

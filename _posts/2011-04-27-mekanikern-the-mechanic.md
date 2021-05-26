@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Jason Statham som en harding som skal drepe alle (nok en gang). The Mechanic har premiere fredag!</strong>
-    <a href="/wp-content/uploads//2011/04/the-mechanic.jpg"><img class="alignnone size-large wp-image-244" title="the mechanic" src="/wp-content/uploads//2011/04/the-mechanic-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-244" title="the mechanic" src="/wp-content/uploads//2011/04/the-mechanic-1024x682.jpg" alt="" width="620" height="412" />
     <strong>Originaltittel:</strong> The Mechanic<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>1 time og 33 minutter<strong>
@@ -176,7 +176,7 @@ ID:
 post_content:
   - |
     <strong>Jason Statham som en harding som skal drepe alle (nok en gang). The Mechanic har premiere fredag!</strong>
-    <a href="/wp-content/uploads//2011/04/the-mechanic.jpg"><img class="alignnone size-large wp-image-244" title="the mechanic" src="/wp-content/uploads//2011/04/the-mechanic-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-244" title="the mechanic" src="/wp-content/uploads//2011/04/the-mechanic-1024x682.jpg" alt="" width="620" height="412" />
     <strong>Originaltittel:</strong> The Mechanic<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>1 time og 33 minutter<strong>

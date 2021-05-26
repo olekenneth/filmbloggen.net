@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Cameron Diaz er troverdig som bortskjemt kjerring som kun er interessert i å finne seg en mann som kan ta vare på hu. Men rollen hun har fått er ikke spesiell morsom.</strong>
-    <a href="//filmbloggen.net/2011/09/08/slem-laerer/cameron-diaz-bad-teacher-2/" rel="attachment wp-att-827"><img class="alignnone size-large wp-image-827" src="/wp-content/uploads//2011/09/cameron-diaz-bad-teacher-620x344.jpg" alt="" width="400" height="253" /></a><a href="//filmbloggen.net/slem-laerer/cameron-diaz-bad-teacher/" rel="attachment wp-att-789">
+    <img class="alignnone size-large wp-image-827" src="/wp-content/uploads//2011/09/cameron-diaz-bad-teacher-620x344.jpg" alt="" width="400" height="253" /><a href="//filmbloggen.net/slem-laerer/cameron-diaz-bad-teacher/" rel="attachment wp-att-789">
     </a><strong>Originaltittel: </strong>Bad Teacher<strong>
     <strong>Kategori: </strong></strong>Komedie<strong><strong>
     Spilletid: </strong></strong>1 time og 34 minutter<strong><strong>
@@ -172,7 +172,7 @@ ID:
 post_content:
   - |
     <strong>Cameron Diaz er troverdig som bortskjemt kjerring som kun er interessert i å finne seg en mann som kan ta vare på hu. Men rollen hun har fått er ikke spesiell morsom.</strong>
-    <a href="//filmbloggen.net/2011/09/08/slem-laerer/cameron-diaz-bad-teacher-2/" rel="attachment wp-att-827"><img class="alignnone size-large wp-image-827" src="/wp-content/uploads//2011/09/cameron-diaz-bad-teacher-620x344.jpg" alt="" width="400" height="253" /></a><a href="//filmbloggen.net/slem-laerer/cameron-diaz-bad-teacher/" rel="attachment wp-att-789">
+    <img class="alignnone size-large wp-image-827" src="/wp-content/uploads//2011/09/cameron-diaz-bad-teacher-620x344.jpg" alt="" width="400" height="253" /><a href="//filmbloggen.net/slem-laerer/cameron-diaz-bad-teacher/" rel="attachment wp-att-789">
     </a><strong>Originaltittel: </strong>Bad Teacher<strong>
     <strong>Kategori: </strong></strong>Komedie<strong><strong>
     Spilletid: </strong></strong>1 time og 34 minutter<strong><strong>
@@ -195,7 +195,7 @@ publish:
 meta:
   - |
     a:75:{i:5874;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:5852;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:5905;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:5861;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"37fb369bc9";}i:5859;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:5863;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"1e9039a3ad";}i:5906;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:5898;a:2:{s:3:"key";s:7:"content";s:5:"value";s:2169:"<strong>Cameron Diaz er troverdig som bortskjemt kjerring som kun er interessert i å finne seg en mann som kan ta vare på hu. Men rollen hun har fått er ikke spesiell morsom.</strong>
-    <a href="//filmbloggen.net/2011/09/08/slem-laerer/cameron-diaz-bad-teacher-2/" rel="attachment wp-att-827"><img class="alignnone size-large wp-image-827" title="cameron-diaz-bad-teacher" src="/wp-content/uploads//2011/09/cameron-diaz-bad-teacher-620x344.jpg" alt="" width="400" height="253" /></a><a href="//filmbloggen.net/slem-laerer/cameron-diaz-bad-teacher/" rel="attachment wp-att-789">
+    <img class="alignnone size-large wp-image-827" title="cameron-diaz-bad-teacher" src="/wp-content/uploads//2011/09/cameron-diaz-bad-teacher-620x344.jpg" alt="" width="400" height="253" /><a href="//filmbloggen.net/slem-laerer/cameron-diaz-bad-teacher/" rel="attachment wp-att-789">
     </a><strong>Originaltittel: </strong>Bad Teacher<strong>
     <strong>Kategori: </strong></strong>Komedie<strong><strong>
     Spilletid: </strong></strong>1 time og 34 minutter<strong><strong>
@@ -209,7 +209,7 @@ meta:
     Det som drar opp for meg er birollen til Jason Segel, som jeg synes funker bra. En annen scene som også er ganske morsom: Diaz med heftig tørrsex med gamlekjæresten Justin Timberlake. Det må ha vært skikkelig kleint å spille inn.
 
     Filmen har et par morsomme greier, men litt kjedelige karakterer og ikke noe spesielt originalt klarer ikke helt å imponere meg.";}i:5883;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:5885;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"11";}i:5881;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"08";}i:5879;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"09";}i:5887;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"22";}i:5910;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:5899;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:5875;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"11";}i:5882;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:5884;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"11";}i:5880;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"08";}i:5878;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"09";}i:5886;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"20";}i:5868;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:5866;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:5869;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:5927;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"792";}i:5872;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"08";}i:5862;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"a0ec2060f6";}i:5902;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:5901;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:5903;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:5873;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"09";}i:5876;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"20";}i:5891;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:5892;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:5853;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:5856;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:5888;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:5907;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:5854;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:5909;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:5928;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:2169:"<strong>Cameron Diaz er troverdig som bortskjemt kjerring som kun er interessert i å finne seg en mann som kan ta vare på hu. Men rollen hun har fått er ikke spesiell morsom.</strong>
-    <a href="//filmbloggen.net/2011/09/08/slem-laerer/cameron-diaz-bad-teacher-2/" rel="attachment wp-att-827"><img class="alignnone size-large wp-image-827" title="cameron-diaz-bad-teacher" src="/wp-content/uploads//2011/09/cameron-diaz-bad-teacher-620x344.jpg" alt="" width="400" height="253" /></a><a href="//filmbloggen.net/slem-laerer/cameron-diaz-bad-teacher/" rel="attachment wp-att-789">
+    <img class="alignnone size-large wp-image-827" title="cameron-diaz-bad-teacher" src="/wp-content/uploads//2011/09/cameron-diaz-bad-teacher-620x344.jpg" alt="" width="400" height="253" /><a href="//filmbloggen.net/slem-laerer/cameron-diaz-bad-teacher/" rel="attachment wp-att-789">
     </a><strong>Originaltittel: </strong>Bad Teacher<strong>
     <strong>Kategori: </strong></strong>Komedie<strong><strong>
     Spilletid: </strong></strong>1 time og 34 minutter<strong><strong>
@@ -231,7 +231,7 @@ tags:
   - Justin Timberlake
 ---
 **Cameron Diaz er troverdig som bortskjemt kjerring som kun er interessert i å finne seg en mann som kan ta vare på hu. Men rollen hun har fått er ikke spesiell morsom.**
-<a href="//filmbloggen.net/2011/09/08/slem-laerer/cameron-diaz-bad-teacher-2/" rel="attachment wp-att-827"><img class="alignnone size-large wp-image-827" src="/wp-content/uploads//2011/09/cameron-diaz-bad-teacher-620x344.jpg" alt="" width="400" height="253" /></a><a href="//filmbloggen.net/slem-laerer/cameron-diaz-bad-teacher/" rel="attachment wp-att-789"><br /> </a>**Originaltittel: **Bad Teacher**
+<img class="alignnone size-large wp-image-827" src="/wp-content/uploads//2011/09/cameron-diaz-bad-teacher-620x344.jpg" alt="" width="400" height="253" /></a><a href="//filmbloggen.net/slem-laerer/cameron-diaz-bad-teacher/" rel="attachment wp-att-789"><br /> **Originaltittel: **Bad Teacher**
 **Kategori: ****Komedie****
 Spilletid:**** 1 time og 34 minutter****
 Regissør: ****Jake Kasdan**

@@ -109,7 +109,7 @@ content:
     <strong>Manus:</strong> Jacques Audiard, Thomas Bidegain
     <strong>Skuespillere:</strong> Marion Cotillard, Matthias Schoenaerts, Armand Verdure, Céline Sallette...
 
-    <a href="//filmbloggen.net/2012/10/20/biff-2012-rust-and-bone/attachment/13/" rel="attachment wp-att-7613"><img class="alignnone size-large wp-image-7613" src="/wp-content/uploads//2012/10/13-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-7613" src="/wp-content/uploads//2012/10/13-620x310.jpg" alt="" width="620" height="310" />
     <em>Bilde: Arthaus</em>
 
     <strong>I løpet av det siste året har jeg hørt mange snakke fint om den frankfødte regissøren Jacques Audiard, spesielt etter Rust and Bone-visningen under Cannes-festivalen tidligere i år.</strong> Til tross for dette har jeg ikke tatt meg tid til å se noen av de tidligere filmene, som A Self-Made Hero, eller den mer tidsaktuelle A Profet. Jeg gikk altså inn i Rust and Bone uten noen spesielle forventinger. Men jeg må jo innrømme at rollelisten og nasjonaliteten interesserte meg.
@@ -190,7 +190,7 @@ post_content:
     <strong>Manus:</strong> Jacques Audiard, Thomas Bidegain
     <strong>Skuespillere:</strong> Marion Cotillard, Matthias Schoenaerts, Armand Verdure, Céline Sallette...
 
-    <a href="//filmbloggen.net/2012/10/20/biff-2012-rust-and-bone/attachment/13/" rel="attachment wp-att-7613"><img class="alignnone size-large wp-image-7613" src="/wp-content/uploads//2012/10/13-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-7613" src="/wp-content/uploads//2012/10/13-620x310.jpg" alt="" width="620" height="310" />
     <em>Bilde: Arthaus</em>
 
     <strong>I løpet av det siste året har jeg hørt mange snakke fint om den frankfødte regissøren Jacques Audiard, spesielt etter Rust and Bone-visningen under Cannes-festivalen tidligere i år.</strong> Til tross for dette har jeg ikke tatt meg tid til å se noen av de tidligere filmene, som A Self-Made Hero, eller den mer tidsaktuelle A Profet. Jeg gikk altså inn i Rust and Bone uten noen spesielle forventinger. Men jeg må jo innrømme at rollelisten og nasjonaliteten interesserte meg.
@@ -221,7 +221,7 @@ meta:
     <strong>Manus:</strong> Jacques Audiard, Thomas Bidegain
     <strong>Skuespillere:</strong> Marion Cotillard, Matthias Schoenaerts, Armand Verdure, Céline Sallette...
 
-    <a href="//filmbloggen.net/?attachment_id=7613" rel="attachment wp-att-7613"><img class="alignnone size-large wp-image-7613" src="/wp-content/uploads//2012/10/13-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-7613" src="/wp-content/uploads//2012/10/13-620x310.jpg" alt="" width="620" height="310" />
     <em>Bilde: Arthaus</em>
 
     <strong>I løpet av det siste året har jeg hørt mange snakke fint om den frankfødte regissøren Jacques Audiard, spesielt etter Rust and Bone-visningen under Cannes-festivalen tidligere i år.</strong> Til tross for dette har jeg ikke tatt meg tid til å se noen av de tidligere filmene, som A Self-Made Hero, eller den mer tidsaktuelle A Profet. Jeg gikk altså inn i Rust and Bone uten noen spesielle forventinger. Men jeg må jo innrømme at rollelisten og nasjonaliteten interesserte meg.
@@ -245,7 +245,7 @@ meta:
     <strong>Manus:</strong> Jacques Audiard, Thomas Bidegain
     <strong>Skuespillere:</strong> Marion Cotillard, Matthias Schoenaerts, Armand Verdure, Céline Sallette...
 
-    <a href="//filmbloggen.net/?attachment_id=7613" rel="attachment wp-att-7613"><img class="alignnone size-large wp-image-7613" src="/wp-content/uploads//2012/10/13-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-7613" src="/wp-content/uploads//2012/10/13-620x310.jpg" alt="" width="620" height="310" />
     <em>Bilde: Arthaus</em>
 
     <strong>I løpet av det siste året har jeg hørt mange snakke fint om den frankfødte regissøren Jacques Audiard, spesielt etter Rust and Bone-visningen under Cannes-festivalen tidligere i år.</strong> Til tross for dette har jeg ikke tatt meg tid til å se noen av de tidligere filmene, som A Self-Made Hero, eller den mer tidsaktuelle A Profet. Jeg gikk altså inn i Rust and Bone uten noen spesielle forventinger. Men jeg må jo innrømme at rollelisten og nasjonaliteten interesserte meg.
@@ -296,7 +296,7 @@ tags:
 **Manus:** Jacques Audiard, Thomas Bidegain
 **Skuespillere:** Marion Cotillard, Matthias Schoenaerts, Armand Verdure, Céline Sallette…
 
-<a href="//filmbloggen.net/2012/10/20/biff-2012-rust-and-bone/attachment/13/" rel="attachment wp-att-7613"><img class="alignnone size-large wp-image-7613" src="/wp-content/uploads//2012/10/13-620x310.jpg" alt="" width="620" height="310" /></a>
+<img class="alignnone size-large wp-image-7613" src="/wp-content/uploads//2012/10/13-620x310.jpg" alt="" width="620" height="310" />
 _Bilde: Arthaus_
 
 **I løpet av det siste året har jeg hørt mange snakke fint om den frankfødte regissøren Jacques Audiard, spesielt etter Rust and Bone-visningen under Cannes-festivalen tidligere i år.** Til tross for dette har jeg ikke tatt meg tid til å se noen av de tidligere filmene, som A Self-Made Hero, eller den mer tidsaktuelle A Profet. Jeg gikk altså inn i Rust and Bone uten noen spesielle forventinger. Men jeg må jo innrømme at rollelisten og nasjonaliteten interesserte meg.

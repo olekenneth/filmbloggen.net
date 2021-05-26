@@ -113,7 +113,7 @@ content:
     Manus:</strong> Shane Carruth<strong>
     Skuespillere:  </strong>Shane Carruth, David Sullivan, Casey Gooden...
 
-    <a href="//filmbloggen.net/2013/02/20/fra-skuffen-primer/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture/" rel="attachment wp-att-9983"><img class="alignnone size-large wp-image-9983" src="/wp-content/uploads//2013/02/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-9983" src="/wp-content/uploads//2013/02/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture-620x348.jpg" alt="" width="620" height="348" />
 
     Jeg hater når folk kritiserer historier om tidsreise. Ingen vet hvordan det fungerer, men folk elsker fortsatt å snakke om paradoks og andre "logiske brister" om de ikke liker filmen. I Primer sitt tilfelle, er det da gjort et unntak når det kommer til hva en kan si og ikke si om sjangeren. Dette <em>er</em> realistisk tidsreise, til tross for at det muligens er helt på bærtur. Hva vet jeg.
 
@@ -189,7 +189,7 @@ post_content:
     Manus:</strong> Shane Carruth<strong>
     Skuespillere:  </strong>Shane Carruth, David Sullivan, Casey Gooden...
 
-    <a href="//filmbloggen.net/2013/02/20/fra-skuffen-primer/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture/" rel="attachment wp-att-9983"><img class="alignnone size-large wp-image-9983" src="/wp-content/uploads//2013/02/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-9983" src="/wp-content/uploads//2013/02/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture-620x348.jpg" alt="" width="620" height="348" />
 
     Jeg hater når folk kritiserer historier om tidsreise. Ingen vet hvordan det fungerer, men folk elsker fortsatt å snakke om paradoks og andre "logiske brister" om de ikke liker filmen. I Primer sitt tilfelle, er det da gjort et unntak når det kommer til hva en kan si og ikke si om sjangeren. Dette <em>er</em> realistisk tidsreise, til tross for at det muligens er helt på bærtur. Hva vet jeg.
 
@@ -215,7 +215,7 @@ meta:
     Manus:</strong> Shane Carruth<strong>
     Skuespillere:  </strong>Shane Carruth, David Sullivan, Casey Gooden...
 
-    <a href="//filmbloggen.net/?attachment_id=9983" rel="attachment wp-att-9983"><img class="alignnone size-large wp-image-9983" src="/wp-content/uploads//2013/02/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-9983" src="/wp-content/uploads//2013/02/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture-620x348.jpg" alt="" width="620" height="348" />
 
     Jeg hater når folk kritiserer historier om tidsreise. Ingen vet hvordan det fungerer, men folk elsker fortsatt å snakke om paradoks og andre "logiske brister" om de ikke liker filmen. I Primer sitt tilfelle, er det da gjort et unntak når det kommer til hva en kan si og ikke si om sjangeren. Dette <em>er</em> realistisk tidsreise, til tross for at det muligens er helt på bærtur. Hva vet jeg.
 
@@ -234,7 +234,7 @@ meta:
     Manus:</strong> Shane Carruth<strong>
     Skuespillere:  </strong>Shane Carruth, David Sullivan, Casey Gooden...
 
-    <a href="//filmbloggen.net/?attachment_id=9983" rel="attachment wp-att-9983"><img class="alignnone size-large wp-image-9983" src="/wp-content/uploads//2013/02/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-9983" src="/wp-content/uploads//2013/02/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture-620x348.jpg" alt="" width="620" height="348" />
 
     Jeg hater når folk kritiserer historier om tidsreise. Ingen vet hvordan det fungerer, men folk elsker fortsatt å snakke om paradoks og andre "logiske brister" om de ikke liker filmen. I Primer sitt tilfelle, er det da gjort et unntak når det kommer til hva en kan si og ikke si om sjangeren. Dette <em>er</em> realistisk tidsreise, til tross for at det muligens er helt på bærtur. Hva vet jeg.
 
@@ -265,7 +265,7 @@ Sjanger:** Drama, Science Fiction**
 Manus:** Shane Carruth**
 Skuespillere:  **Shane Carruth, David Sullivan, Casey Gooden…
 
-<a href="//filmbloggen.net/2013/02/20/fra-skuffen-primer/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture/" rel="attachment wp-att-9983"><img class="alignnone size-large wp-image-9983" src="/wp-content/uploads//2013/02/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture-620x348.jpg" alt="" width="620" height="348" /></a>
+<img class="alignnone size-large wp-image-9983" src="/wp-content/uploads//2013/02/still-of-david-sullivan-and-shane-carruth-in-primer-large-picture-620x348.jpg" alt="" width="620" height="348" />
 
 Jeg hater når folk kritiserer historier om tidsreise. Ingen vet hvordan det fungerer, men folk elsker fortsatt å snakke om paradoks og andre «logiske brister» om de ikke liker filmen. I Primer sitt tilfelle, er det da gjort et unntak når det kommer til hva en kan si og ikke si om sjangeren. Dette _er_ realistisk tidsreise, til tross for at det muligens er helt på bærtur. Hva vet jeg.
 

@@ -235,7 +235,7 @@ tags:
   - Tom Hanks
 ---
 **Denne uka har jeg valgt meg ut en gammel Tom Hanks-film som jeg mener er vanvittig undervurdert: Cast Away.**
-<a href="//filmbloggen.net/2011/09/19/fra-skuffen-cast-away/cab/" rel="attachment wp-att-920"><img class="alignnone size-large wp-image-920" src="/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" /><br /> </a>**Originaltittel:** Cast Away
+<img class="alignnone size-large wp-image-920" src="/wp-content/uploads//2011/09/cab-620x413.jpg" alt="" width="400" height="253" /><br /> **Originaltittel:** Cast Away
 **Kategori:** Drama
 **Spilletid:** 2 timer og 23 minutter
 **Regissør: **Robert Zemeckis

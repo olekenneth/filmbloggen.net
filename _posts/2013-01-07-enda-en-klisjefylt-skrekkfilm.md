@@ -108,7 +108,7 @@ content:
     Manus: </strong>David Loucka<strong>
     Skuespillere: </strong>Jennifer Lawrence, Max Thieriot, Elisabeth Shue, Gil Bellows...
 
-    <a href="//filmbloggen.net/?attachment_id=9164" rel="attachment wp-att-9164"><img class="alignnone size-large wp-image-9164" src="/wp-content/uploads//2013/01/house-at-the-end-of-the-street-620x257.jpg" alt="" width="620" height="257" /></a>
+    <img class="alignnone size-large wp-image-9164" src="/wp-content/uploads//2013/01/house-at-the-end-of-the-street-620x257.jpg" alt="" width="620" height="257" />
 
     Jeg liker å holde ingressene litt vag og mystisk i de fleste anmeldelsene mine, men i dette tilfellet ville jeg bare konstantere hva jeg synes om filmen.  Vi blir med på en generisk, konvensjonell og rett ut dårlig film som ser ut til å ville ta sjanser, men ender bare opp med å falle i fra hverandre.
 
@@ -189,7 +189,7 @@ post_content:
     Manus: </strong>David Loucka<strong>
     Skuespillere: </strong>Jennifer Lawrence, Max Thieriot, Elisabeth Shue, Gil Bellows...
 
-    <a href="//filmbloggen.net/?attachment_id=9164" rel="attachment wp-att-9164"><img class="alignnone size-large wp-image-9164" src="/wp-content/uploads//2013/01/house-at-the-end-of-the-street-620x257.jpg" alt="" width="620" height="257" /></a>
+    <img class="alignnone size-large wp-image-9164" src="/wp-content/uploads//2013/01/house-at-the-end-of-the-street-620x257.jpg" alt="" width="620" height="257" />
 
     Jeg liker å holde ingressene litt vag og mystisk i de fleste anmeldelsene mine, men i dette tilfellet ville jeg bare konstantere hva jeg synes om filmen.  Vi blir med på en generisk, konvensjonell og rett ut dårlig film som ser ut til å ville ta sjanser, men ender bare opp med å falle i fra hverandre.
 
@@ -220,7 +220,7 @@ meta:
     Manus: </strong>David Loucka<strong>
     Skuespillere: </strong>Jennifer Lawrence, Max Thieriot, Elisabeth Shue, Gil Bellows...
 
-    <a href="//filmbloggen.net/?attachment_id=9164" rel="attachment wp-att-9164"><img class="alignnone size-large wp-image-9164" src="/wp-content/uploads//2013/01/house-at-the-end-of-the-street-620x257.jpg" alt="" width="620" height="257" /></a>
+    <img class="alignnone size-large wp-image-9164" src="/wp-content/uploads//2013/01/house-at-the-end-of-the-street-620x257.jpg" alt="" width="620" height="257" />
 
     Jeg liker å holde ingressene litt vag og mystisk i de fleste anmeldelsene mine, men i dette tilfellet ville jeg bare konstantere hva jeg synes om filmen.  Vi blir med på en generisk, konvensjonell og rett ut dårlig film som ser ut til å ville ta sjanser, men ender bare opp med å falle i fra hverandre.
 
@@ -244,7 +244,7 @@ meta:
     Manus: </strong>David Loucka<strong>
     Skuespillere: </strong>Jennifer Lawrence, Max Thieriot, Elisabeth Shue, Gil Bellows...
 
-    <a href="//filmbloggen.net/?attachment_id=9164" rel="attachment wp-att-9164"><img class="alignnone size-large wp-image-9164" src="/wp-content/uploads//2013/01/house-at-the-end-of-the-street-620x257.jpg" alt="" width="620" height="257" /></a>
+    <img class="alignnone size-large wp-image-9164" src="/wp-content/uploads//2013/01/house-at-the-end-of-the-street-620x257.jpg" alt="" width="620" height="257" />
 
     Jeg liker å holde ingressene litt vag og mystisk i de fleste anmeldelsene mine, men i dette tilfellet ville jeg bare konstantere hva jeg synes om filmen.  Vi blir med på en generisk, konvensjonell og rett ut dårlig film som ser ut til å ville ta sjanser, men ender bare opp med å falle i fra hverandre.
 
@@ -277,7 +277,7 @@ Regi:** Mark Tonderai**
 Manus:** David Loucka**
 Skuespillere:** Jennifer Lawrence, Max Thieriot, Elisabeth Shue, Gil Bellows…
 
-<a href="//filmbloggen.net/2013/01/07/enda-en-klisjefylt-skrekkfilm/house-at-the-end-of-the-street/" rel="attachment wp-att-9164"><img class="alignnone size-large wp-image-9164" src="/wp-content/uploads//2013/01/house-at-the-end-of-the-street-620x257.jpg" alt="" width="620" height="257" /></a>
+<img class="alignnone size-large wp-image-9164" src="/wp-content/uploads//2013/01/house-at-the-end-of-the-street-620x257.jpg" alt="" width="620" height="257" />
 
 Jeg liker å holde ingressene litt vag og mystisk i de fleste anmeldelsene mine, men i dette tilfellet ville jeg bare konstantere hva jeg synes om filmen.  Vi blir med på en generisk, konvensjonell og rett ut dårlig film som ser ut til å ville ta sjanser, men ender bare opp med å falle i fra hverandre.
 

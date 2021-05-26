@@ -104,7 +104,7 @@ content:
 
     Game of Thrones har siden det kom ut vært den serien jeg alltid får med meg med en gang en ny episode er tilgjengelig. Aldri før har jeg sett noe mer gjennomført og sinnsykt bra. Dette er en dramaserie laget av HBO basert på bøkene til George R. R. Martin. Mange av de jeg har pratet med om serien har hatt problemer med å følge med og sliter med å få med seg deler av plottet på grunn av at det er vanvittig mye å følge med på. Jeg valgte å lage denne guiden fordi det som gjør den så bra er alle de gode bakgrunnshistoriene og forholdene.
 
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19.png"><img class="alignnone size-large wp-image-3115" alt="Skjermbilde 2012-04-25 kl. 12.29.19" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19-620x379.png" width="620" height="379" /></a>
+    <img class="alignnone size-large wp-image-3115" alt="Skjermbilde 2012-04-25 kl. 12.29.19" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19-620x379.png" width="620" height="379" />
     VERDENSKART: Kartet viser de to kontinentene der serien foregår.
 
     Flere jeg har snakket med sier at de har sittet under episoder og tenkt: «Hvem faen er det her?» Under vil jeg prøve å gi en oversikt over de forskjellige familiene, litt hva de står for og hvor de forskjellige står overfor hverandre. Noen av familiene er veldig godt forklart så langt, så de vil jeg ikke skrive så mye om. Det vil forhåpentligvis gjøre det lettere å skjønne en av de beste seriene som er laget. Under alle familietrærne og forhistoriene til familiene har jeg tatt for meg det som er grunnen til Roberts opprør og alt som skjedde når Aegon the Conqueror samlet de «seven kingdoms». Lykke til med lesingen!
@@ -112,7 +112,7 @@ content:
     <hr />
 
     <h3>House Baratheon</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29.png"><img class="alignnone size-large wp-image-3103" alt="Skjermbilde 2012-04-24 kl. 22.28.29" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29-620x373.png" width="620" height="373" /></a>
+    <img class="alignnone size-large wp-image-3103" alt="Skjermbilde 2012-04-24 kl. 22.28.29" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29-620x373.png" width="620" height="373" />
     HOUSE BARATHEON: «Ours is the Fury»
 
     Som du ser er det tre brødre på toppen av Baratheon-familien: Robert, Stannis og Renly. Robert er eldst og Renly er yngst. Etter at Robert ledet opprøret som førte til Aerys Targaryens (the Mad King) død, overtok han tronen og House Baratheon har styrt de syv kongeriker siden. Krigen startet på grunn av at Rhaegar Targaryen kidnappet Roberts forlovede, Lyanna Stark. Les mer om det under familietrærne der jeg har samlet alt.
@@ -129,7 +129,7 @@ content:
     <hr />
 
     <h3>House Bolton</h3>
-    <a href="/wp-content/uploads/2012/04/bolton.jpg"><img class="alignnone size-full wp-image-10861" alt="bolton" src="/wp-content/uploads/2012/04/bolton.jpg" width="620" height="431" /></a>
+    <img class="alignnone size-full wp-image-10861" alt="bolton" src="/wp-content/uploads/2012/04/bolton.jpg" width="620" height="431" />
     HOUSE BOLTON: «Our Blades Are Sharp»
 
     House Bolton er nå det rulende huset i nord. De holder til i the Dreadfort og deres land ligger nordøst for Winterfell. De er kjent for sin lange tradisjon med å sløye sine fiender levende. Deres ord er «Our Blades Are Sharp», men mange som er underlagt huset bruker også «A naked man has few secrets, a flayed man has none.» Ned Stark gjorde sløying av menn ulovlig, men familien fortsatte med tradisjonen i hemmelighet. Det henger også mange sløyde menn i slottet Dreadfort.
@@ -146,7 +146,7 @@ content:
     <hr />
 
     <h3>House Frey</h3>
-    <a href="/wp-content/uploads/2012/04/frey.jpg"><img class="alignnone size-full wp-image-10862" alt="frey" src="/wp-content/uploads/2012/04/frey.jpg" width="620" height="372" /></a>
+    <img class="alignnone size-full wp-image-10862" alt="frey" src="/wp-content/uploads/2012/04/frey.jpg" width="620" height="372" />
 
     Deres ord er ikke kjent, men House Frey er et hus som har bygd opp sin formue ved å ta betalt for alle som vil krysse elva. Etter at de hjalp til med the Red Wedding fikk deres overhode Walder Frey tittelen Lord Paramount of the Riverlands. Deres slott er kjent som «the Twins», på grunn av at de er identiske på hver side av elva, med en bro i mellom de.
 
@@ -158,7 +158,7 @@ content:
     <hr />
 
     <h3>House Greyjoy</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57.png"><img class="alignnone size-large wp-image-3114" alt="Skjermbilde 2012-04-25 kl. 12.13.57" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57-620x308.png" width="620" height="308" /></a>
+    <img class="alignnone size-large wp-image-3114" alt="Skjermbilde 2012-04-25 kl. 12.13.57" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57-620x308.png" width="620" height="308" />
     HOUSE GREYJOY: «We do not sow»
 
     Mens de andre store husene bruker politikk og diskusjon i sitt tronespill, har House Greyjoy og befolkningen på The Iron Islands alltid verdsatt styrke som sitt middel for makt og rikdom. De har absolutt ingen lojalitet til tronen, og de har et sterkt hat overfor de som bor på fastlandet.
@@ -175,7 +175,7 @@ content:
     <hr />
 
     <h3>House Lannister</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20.png"><img class="alignnone size-large wp-image-3101" alt="Skjermbilde 2012-04-24 kl. 21.43.20" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20-620x423.png" width="620" height="423" /></a>
+    <img class="alignnone size-large wp-image-3101" alt="Skjermbilde 2012-04-24 kl. 21.43.20" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20-620x423.png" width="620" height="423" />
     HOUSE LANNISTER: «Hear me roar»
 
     Den rikeste familien i de syv kongeriker, og i tillegg den familien som er mest kompleks og eklest. Alt er veldig oversiktlig. Den som er verdt å merke seg er Lancel Lannister. Han var væpner (eller squire på engelsk) for Robert før hans død. Nå puler han sin egen kusine, Cersei. Den eneste ålreite i Lannister-familien er selvfølgelig Tyrion, som er en personlig favoritt.
@@ -198,7 +198,7 @@ content:
     <hr />
 
     <h3>House Stark</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg"><img class="alignnone size-large wp-image-10865" alt="Skjermbilde-2012-04-25-kl.-11.50.46-620x398" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg" width="620" height="398" /></a>
+    <img class="alignnone size-large wp-image-10865" alt="Skjermbilde-2012-04-25-kl.-11.50.46-620x398" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg" width="620" height="398" />
     HOUSE STARK: «Winter is Coming»
 
     Den første familien vi blir introdusert for er Stark. Her vil jeg anta at de aller fleste har kontroll, men jeg kan ta en kjapp oppsummering. Benjen Stark er «first ranger» for The Nights Watch, men er for øyeblikket sporløst forsvunnet etter at han dro nord for muren for å finne ut hva som skjer. Lyanna Stark ble drept av familien Targaryen, les mer om det når jeg prater om Robert Baratheon under. Ned Stark ble drept av Joffrey fordi han oppdaget noen hemmeligheter, og er grunnen til at Robb nå leder opprøret mot kongen. Sansa er fangen og forloveden til Joffrey.
@@ -211,7 +211,7 @@ content:
     <hr />
 
     <h3>House Targaryen</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11.png"><img alt="Skjermbilde 2012-04-25 kl. 13.24.11" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11-620x479.png" width="620" height="479" /></a>
+    <img alt="Skjermbilde 2012-04-25 kl. 13.24.11" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11-620x479.png" width="620" height="479" />
     HOUSE TARGARYEN: «Fire and Blood»
 
     Kanskje den letteste familien å ha oversikt over, siden nesten alle er døde. Daenerys blir kalt «The Mother of Dragons». Vi så nylig hvordan hennes folk ble reddet i byen Qarth, som er helt nederst til høyre på oversiktskartet. Hun har planer om å ta tilbake de syv kongeriker ved hjelp av drager og ved å bygge opp en ny hær. Viserys er sønnen til «The Mad King». Han og hans gravide mor ble sendt til Dragonstone rett før House Lannister kom til hovedstaden. Moren Rhaella døde når hun fødte Daenerys og en lojal ridder fikk smuglet den nyfødte Daenerys og Viserys over «the Narrow Sea» før Stannis og hans menn kom til Dragonstone.
@@ -236,7 +236,7 @@ content:
     <hr />
 
     <h3>House Tyrell</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png"><img class="alignnone size-full wp-image-10867" alt="Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png" width="620" height="352" /></a>
+    <img class="alignnone size-full wp-image-10867" alt="Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png" width="620" height="352" />
     HOUSE TYRELL: «Growing Strong»
 
     En veldig interessant familie. De ble ikke en stor familie av Westeros før Aegon Targeryen drepte King Gardener i det store slaget som bare blir kalt «The Field of Fire». Her samlet Loren Lannister (King of the Rock) og Mern Gardener (King of the Reach) en hær på 60.000 menn for å stoppe invasjonen til Aegon the Conqueror ved en stor hvetemark. Aegon kommer med sin lille hær som etter kort tid tar halen mellom beina og løper fra denne mektige massen av krigere. Så for første (og eneste) gang i løpet av invasjonen og overtakelsen av Westeros tar Aegon Targeryen fram alle sine tre drager. De brenner 4000 menn levende i hvetemarken og alt tar fyr, derav navnet «The Field of Fire». Mern Gardener er en av disse og hans hus dør med han.
@@ -247,7 +247,7 @@ content:
     <hr />
 
     <h3>The Nights Watch</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36.png"><img class="alignnone size-large wp-image-10868" alt="Skjermbilde-2013-04-11-kl.-17.03.36" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36-620x392.png" width="620" height="392" /></a>
+    <img class="alignnone size-large wp-image-10868" alt="Skjermbilde-2013-04-11-kl.-17.03.36" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36-620x392.png" width="620" height="392" />
 
     For 8000 år siden var det mennene i nord som dreiv tilbake «the White Walkers», bygde den store muren og dannet «the Nights Watch». Det var en stor ære å være med i denne hellige ordenen. Nå er det kun voldtekstmenn, tyver og mordere som blir henvist til muren. Med unntak av noen få barn av store familier. Som Samwell Tarly, Benjen Stark og Jon Snow. Det er kun i nord man fortsatt ser på denne ordenen som noe som er nyttig og nødvendig. Alle andre steder i landet så ser du kun på «the Wildlings» som korttenkte aper som aldri er noen reell trussel. Det er hele 19 slott langs med muren, men på grunn av så små ressurser er det kun tre som er i bruk. «Castle Black», «The Shadow Tower» og «Eastwatch by the Sea» er de tre.
 
@@ -257,7 +257,7 @@ content:
     <hr />
 
     <h3>The Free Folk</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56.png"><img class="alignnone size-large wp-image-10869" alt="Skjermbilde-2013-04-11-kl.-17.18.56" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56-620x394.png" width="620" height="394" /></a>
+    <img class="alignnone size-large wp-image-10869" alt="Skjermbilde-2013-04-11-kl.-17.18.56" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56-620x394.png" width="620" height="394" />
 
     The Free Folk som de kaller seg selv, eller Wildlings som de blir kalt sør for muren er en gjeng på åtte forskjellige stammer som i utgangspunktet bare var uheldige som bodde nord for muren når den ble bygget. De er direkte stammet ned fra «the First Men», samme som Stark og resten av de som bor i Nord.
 
@@ -270,7 +270,7 @@ content:
     <hr />
 
     <h3>The Brotherhood Without Banners</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png"><img class="alignnone size-full wp-image-10870" alt="Skjermbilde-2013-04-11-kl.-17.18.27" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png" width="611" height="371" /></a>
+    <img class="alignnone size-full wp-image-10870" alt="Skjermbilde-2013-04-11-kl.-17.18.27" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png" width="611" height="371" />
 
     Så til slutt av alle disse presentasjonene så har vi gutta som jeg elsker mest. De kaller seg for «The Brotherhood» og de tre gutta du ser over er de tøffeste, kuleste og mest mandige mennene du kan tenke deg. Lord Beric Dondarrion ble introdusert i sesong en. Han er lord of Blackhaven, som er en liten borg i the Stormlands. Han får i oppgave av Ned Stark som på det tidspunktet er «Hand of the King» å finne ser Gregor Clegane for hans groteske handlinger i the Riverlands. Ser Beric får med seg 100 menn til å henrette ser Gregor. Denne oppgaven mislykkes og hans menn blir slått av ser Gregor. Så blir Ned Stark henrettet og Lord Beric danner the Brotherhood Without Banners for å redde the Riverlands.
 
@@ -344,7 +344,7 @@ post_content:
 
     Game of Thrones har siden det kom ut vært den serien jeg alltid får med meg med en gang en ny episode er tilgjengelig. Aldri før har jeg sett noe mer gjennomført og sinnsykt bra. Dette er en dramaserie laget av HBO basert på bøkene til George R. R. Martin. Mange av de jeg har pratet med om serien har hatt problemer med å følge med og sliter med å få med seg deler av plottet på grunn av at det er vanvittig mye å følge med på. Jeg valgte å lage denne guiden fordi det som gjør den så bra er alle de gode bakgrunnshistoriene og forholdene.
 
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19.png"><img class="alignnone size-large wp-image-3115" alt="Skjermbilde 2012-04-25 kl. 12.29.19" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19-620x379.png" width="620" height="379" /></a>
+    <img class="alignnone size-large wp-image-3115" alt="Skjermbilde 2012-04-25 kl. 12.29.19" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19-620x379.png" width="620" height="379" />
     VERDENSKART: Kartet viser de to kontinentene der serien foregår.
 
     Flere jeg har snakket med sier at de har sittet under episoder og tenkt: «Hvem faen er det her?» Under vil jeg prøve å gi en oversikt over de forskjellige familiene, litt hva de står for og hvor de forskjellige står overfor hverandre. Noen av familiene er veldig godt forklart så langt, så de vil jeg ikke skrive så mye om. Det vil forhåpentligvis gjøre det lettere å skjønne en av de beste seriene som er laget. Under alle familietrærne og forhistoriene til familiene har jeg tatt for meg det som er grunnen til Roberts opprør og alt som skjedde når Aegon the Conqueror samlet de «seven kingdoms». Lykke til med lesingen!
@@ -352,7 +352,7 @@ post_content:
     <hr />
 
     <h3>House Baratheon</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29.png"><img class="alignnone size-large wp-image-3103" alt="Skjermbilde 2012-04-24 kl. 22.28.29" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29-620x373.png" width="620" height="373" /></a>
+    <img class="alignnone size-large wp-image-3103" alt="Skjermbilde 2012-04-24 kl. 22.28.29" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29-620x373.png" width="620" height="373" />
     HOUSE BARATHEON: «Ours is the Fury»
 
     Som du ser er det tre brødre på toppen av Baratheon-familien: Robert, Stannis og Renly. Robert er eldst og Renly er yngst. Etter at Robert ledet opprøret som førte til Aerys Targaryens (the Mad King) død, overtok han tronen og House Baratheon har styrt de syv kongeriker siden. Krigen startet på grunn av at Rhaegar Targaryen kidnappet Roberts forlovede, Lyanna Stark. Les mer om det under familietrærne der jeg har samlet alt.
@@ -369,7 +369,7 @@ post_content:
     <hr />
 
     <h3>House Bolton</h3>
-    <a href="/wp-content/uploads/2012/04/bolton.jpg"><img class="alignnone size-full wp-image-10861" alt="bolton" src="/wp-content/uploads/2012/04/bolton.jpg" width="620" height="431" /></a>
+    <img class="alignnone size-full wp-image-10861" alt="bolton" src="/wp-content/uploads/2012/04/bolton.jpg" width="620" height="431" />
     HOUSE BOLTON: «Our Blades Are Sharp»
 
     House Bolton er nå det rulende huset i nord. De holder til i the Dreadfort og deres land ligger nordøst for Winterfell. De er kjent for sin lange tradisjon med å sløye sine fiender levende. Deres ord er «Our Blades Are Sharp», men mange som er underlagt huset bruker også «A naked man has few secrets, a flayed man has none.» Ned Stark gjorde sløying av menn ulovlig, men familien fortsatte med tradisjonen i hemmelighet. Det henger også mange sløyde menn i slottet Dreadfort.
@@ -386,7 +386,7 @@ post_content:
     <hr />
 
     <h3>House Frey</h3>
-    <a href="/wp-content/uploads/2012/04/frey.jpg"><img class="alignnone size-full wp-image-10862" alt="frey" src="/wp-content/uploads/2012/04/frey.jpg" width="620" height="372" /></a>
+    <img class="alignnone size-full wp-image-10862" alt="frey" src="/wp-content/uploads/2012/04/frey.jpg" width="620" height="372" />
 
     Deres ord er ikke kjent, men House Frey er et hus som har bygd opp sin formue ved å ta betalt for alle som vil krysse elva. Etter at de hjalp til med the Red Wedding fikk deres overhode Walder Frey tittelen Lord Paramount of the Riverlands. Deres slott er kjent som «the Twins», på grunn av at de er identiske på hver side av elva, med en bro i mellom de.
 
@@ -398,7 +398,7 @@ post_content:
     <hr />
 
     <h3>House Greyjoy</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57.png"><img class="alignnone size-large wp-image-3114" alt="Skjermbilde 2012-04-25 kl. 12.13.57" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57-620x308.png" width="620" height="308" /></a>
+    <img class="alignnone size-large wp-image-3114" alt="Skjermbilde 2012-04-25 kl. 12.13.57" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57-620x308.png" width="620" height="308" />
     HOUSE GREYJOY: «We do not sow»
 
     Mens de andre store husene bruker politikk og diskusjon i sitt tronespill, har House Greyjoy og befolkningen på The Iron Islands alltid verdsatt styrke som sitt middel for makt og rikdom. De har absolutt ingen lojalitet til tronen, og de har et sterkt hat overfor de som bor på fastlandet.
@@ -415,7 +415,7 @@ post_content:
     <hr />
 
     <h3>House Lannister</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20.png"><img class="alignnone size-large wp-image-3101" alt="Skjermbilde 2012-04-24 kl. 21.43.20" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20-620x423.png" width="620" height="423" /></a>
+    <img class="alignnone size-large wp-image-3101" alt="Skjermbilde 2012-04-24 kl. 21.43.20" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20-620x423.png" width="620" height="423" />
     HOUSE LANNISTER: «Hear me roar»
 
     Den rikeste familien i de syv kongeriker, og i tillegg den familien som er mest kompleks og eklest. Alt er veldig oversiktlig. Den som er verdt å merke seg er Lancel Lannister. Han var væpner (eller squire på engelsk) for Robert før hans død. Nå puler han sin egen kusine, Cersei. Den eneste ålreite i Lannister-familien er selvfølgelig Tyrion, som er en personlig favoritt.
@@ -438,7 +438,7 @@ post_content:
     <hr />
 
     <h3>House Stark</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg"><img class="alignnone size-large wp-image-10865" alt="Skjermbilde-2012-04-25-kl.-11.50.46-620x398" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg" width="620" height="398" /></a>
+    <img class="alignnone size-large wp-image-10865" alt="Skjermbilde-2012-04-25-kl.-11.50.46-620x398" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg" width="620" height="398" />
     HOUSE STARK: «Winter is Coming»
 
     Den første familien vi blir introdusert for er Stark. Her vil jeg anta at de aller fleste har kontroll, men jeg kan ta en kjapp oppsummering. Benjen Stark er «first ranger» for The Nights Watch, men er for øyeblikket sporløst forsvunnet etter at han dro nord for muren for å finne ut hva som skjer. Lyanna Stark ble drept av familien Targaryen, les mer om det når jeg prater om Robert Baratheon under. Ned Stark ble drept av Joffrey fordi han oppdaget noen hemmeligheter, og er grunnen til at Robb nå leder opprøret mot kongen. Sansa er fangen og forloveden til Joffrey.
@@ -451,7 +451,7 @@ post_content:
     <hr />
 
     <h3>House Targaryen</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11.png"><img alt="Skjermbilde 2012-04-25 kl. 13.24.11" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11-620x479.png" width="620" height="479" /></a>
+    <img alt="Skjermbilde 2012-04-25 kl. 13.24.11" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11-620x479.png" width="620" height="479" />
     HOUSE TARGARYEN: «Fire and Blood»
 
     Kanskje den letteste familien å ha oversikt over, siden nesten alle er døde. Daenerys blir kalt «The Mother of Dragons». Vi så nylig hvordan hennes folk ble reddet i byen Qarth, som er helt nederst til høyre på oversiktskartet. Hun har planer om å ta tilbake de syv kongeriker ved hjelp av drager og ved å bygge opp en ny hær. Viserys er sønnen til «The Mad King». Han og hans gravide mor ble sendt til Dragonstone rett før House Lannister kom til hovedstaden. Moren Rhaella døde når hun fødte Daenerys og en lojal ridder fikk smuglet den nyfødte Daenerys og Viserys over «the Narrow Sea» før Stannis og hans menn kom til Dragonstone.
@@ -476,7 +476,7 @@ post_content:
     <hr />
 
     <h3>House Tyrell</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png"><img class="alignnone size-full wp-image-10867" alt="Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png" width="620" height="352" /></a>
+    <img class="alignnone size-full wp-image-10867" alt="Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png" width="620" height="352" />
     HOUSE TYRELL: «Growing Strong»
 
     En veldig interessant familie. De ble ikke en stor familie av Westeros før Aegon Targeryen drepte King Gardener i det store slaget som bare blir kalt «The Field of Fire». Her samlet Loren Lannister (King of the Rock) og Mern Gardener (King of the Reach) en hær på 60.000 menn for å stoppe invasjonen til Aegon the Conqueror ved en stor hvetemark. Aegon kommer med sin lille hær som etter kort tid tar halen mellom beina og løper fra denne mektige massen av krigere. Så for første (og eneste) gang i løpet av invasjonen og overtakelsen av Westeros tar Aegon Targeryen fram alle sine tre drager. De brenner 4000 menn levende i hvetemarken og alt tar fyr, derav navnet «The Field of Fire». Mern Gardener er en av disse og hans hus dør med han.
@@ -487,7 +487,7 @@ post_content:
     <hr />
 
     <h3>The Nights Watch</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36.png"><img class="alignnone size-large wp-image-10868" alt="Skjermbilde-2013-04-11-kl.-17.03.36" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36-620x392.png" width="620" height="392" /></a>
+    <img class="alignnone size-large wp-image-10868" alt="Skjermbilde-2013-04-11-kl.-17.03.36" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36-620x392.png" width="620" height="392" />
 
     For 8000 år siden var det mennene i nord som dreiv tilbake «the White Walkers», bygde den store muren og dannet «the Nights Watch». Det var en stor ære å være med i denne hellige ordenen. Nå er det kun voldtekstmenn, tyver og mordere som blir henvist til muren. Med unntak av noen få barn av store familier. Som Samwell Tarly, Benjen Stark og Jon Snow. Det er kun i nord man fortsatt ser på denne ordenen som noe som er nyttig og nødvendig. Alle andre steder i landet så ser du kun på «the Wildlings» som korttenkte aper som aldri er noen reell trussel. Det er hele 19 slott langs med muren, men på grunn av så små ressurser er det kun tre som er i bruk. «Castle Black», «The Shadow Tower» og «Eastwatch by the Sea» er de tre.
 
@@ -497,7 +497,7 @@ post_content:
     <hr />
 
     <h3>The Free Folk</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56.png"><img class="alignnone size-large wp-image-10869" alt="Skjermbilde-2013-04-11-kl.-17.18.56" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56-620x394.png" width="620" height="394" /></a>
+    <img class="alignnone size-large wp-image-10869" alt="Skjermbilde-2013-04-11-kl.-17.18.56" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56-620x394.png" width="620" height="394" />
 
     The Free Folk som de kaller seg selv, eller Wildlings som de blir kalt sør for muren er en gjeng på åtte forskjellige stammer som i utgangspunktet bare var uheldige som bodde nord for muren når den ble bygget. De er direkte stammet ned fra «the First Men», samme som Stark og resten av de som bor i Nord.
 
@@ -510,7 +510,7 @@ post_content:
     <hr />
 
     <h3>The Brotherhood Without Banners</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png"><img class="alignnone size-full wp-image-10870" alt="Skjermbilde-2013-04-11-kl.-17.18.27" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png" width="611" height="371" /></a>
+    <img class="alignnone size-full wp-image-10870" alt="Skjermbilde-2013-04-11-kl.-17.18.27" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png" width="611" height="371" />
 
     Så til slutt av alle disse presentasjonene så har vi gutta som jeg elsker mest. De kaller seg for «The Brotherhood» og de tre gutta du ser over er de tøffeste, kuleste og mest mandige mennene du kan tenke deg. Lord Beric Dondarrion ble introdusert i sesong en. Han er lord of Blackhaven, som er en liten borg i the Stormlands. Han får i oppgave av Ned Stark som på det tidspunktet er «Hand of the King» å finne ser Gregor Clegane for hans groteske handlinger i the Riverlands. Ser Beric får med seg 100 menn til å henrette ser Gregor. Denne oppgaven mislykkes og hans menn blir slått av ser Gregor. Så blir Ned Stark henrettet og Lord Beric danner the Brotherhood Without Banners for å redde the Riverlands.
 
@@ -534,7 +534,7 @@ meta:
 
     Game of Thrones har siden det kom ut vært den serien jeg alltid får med meg med en gang en ny episode er tilgjengelig. Aldri før har jeg sett noe mer gjennomført og sinnsykt bra. Dette er en dramaserie laget av HBO basert på bøkene til George R. R. Martin. Mange av de jeg har pratet med om serien har hatt problemer med å følge med og sliter med å få med seg deler av plottet på grunn av at det er vanvittig mye å følge med på. Jeg valgte å lage denne guiden fordi det som gjør den så bra er alle de gode bakgrunnshistoriene og forholdene.
 
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19.png"><img class="alignnone size-large wp-image-3115" alt="Skjermbilde 2012-04-25 kl. 12.29.19" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19-620x379.png" width="620" height="379" /></a>
+    <img class="alignnone size-large wp-image-3115" alt="Skjermbilde 2012-04-25 kl. 12.29.19" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19-620x379.png" width="620" height="379" />
     VERDENSKART: Kartet viser de to kontinentene der serien foregår.
 
     Flere jeg har snakket med sier at de har sittet under episoder og tenkt: «Hvem faen er det her?» Under vil jeg prøve å gi en oversikt over de forskjellige familiene, litt hva de står for og hvor de forskjellige står overfor hverandre. Noen av familiene er veldig godt forklart så langt, så de vil jeg ikke skrive så mye om. Det vil forhåpentligvis gjøre det lettere å skjønne en av de beste seriene som er laget. Under alle familietrærne og forhistoriene til familiene har jeg tatt for meg det som er grunnen til Roberts opprør og alt som skjedde når Aegon the Conqueror samlet de «seven kingdoms». Lykke til med lesingen!
@@ -542,7 +542,7 @@ meta:
     <hr />
 
     <h3>House Baratheon</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29.png"><img class="alignnone size-large wp-image-3103" alt="Skjermbilde 2012-04-24 kl. 22.28.29" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29-620x373.png" width="620" height="373" /></a>
+    <img class="alignnone size-large wp-image-3103" alt="Skjermbilde 2012-04-24 kl. 22.28.29" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29-620x373.png" width="620" height="373" />
     HOUSE BARATHEON: «Ours is the Fury»
 
     Som du ser er det tre brødre på toppen av Baratheon-familien: Robert, Stannis og Renly. Robert er eldst og Renly er yngst. Etter at Robert ledet opprøret som førte til Aerys Targaryens (the Mad King) død, overtok han tronen og House Baratheon har styrt de syv kongeriker siden. Krigen startet på grunn av at Rhaegar Targaryen kidnappet Roberts forlovede, Lyanna Stark. Les mer om det under familietrærne der jeg har samlet alt.
@@ -559,7 +559,7 @@ meta:
     <hr />
 
     <h3>House Bolton</h3>
-    <a href="/wp-content/uploads/2012/04/bolton.jpg"><img class="alignnone size-full wp-image-10861" alt="bolton" src="/wp-content/uploads/2012/04/bolton.jpg" width="620" height="431" /></a>
+    <img class="alignnone size-full wp-image-10861" alt="bolton" src="/wp-content/uploads/2012/04/bolton.jpg" width="620" height="431" />
     HOUSE BOLTON: «Our Blades Are Sharp»
 
     House Bolton er nå det rulende huset i nord. De holder til i the Dreadfort og deres land ligger nordøst for Winterfell. De er kjent for sin lange tradisjon med å sløye sine fiender levende. Deres ord er «Our Blades Are Sharp», men mange som er underlagt huset bruker også «A naked man has few secrets, a flayed man has none.» Ned Stark gjorde sløying av menn ulovlig, men familien fortsatte med tradisjonen i hemmelighet. Det henger også mange sløyde menn i slottet Dreadfort.
@@ -576,7 +576,7 @@ meta:
     <hr />
 
     <h3>House Frey</h3>
-    <a href="/wp-content/uploads/2012/04/frey.jpg"><img class="alignnone size-full wp-image-10862" alt="frey" src="/wp-content/uploads/2012/04/frey.jpg" width="620" height="372" /></a>
+    <img class="alignnone size-full wp-image-10862" alt="frey" src="/wp-content/uploads/2012/04/frey.jpg" width="620" height="372" />
 
     Deres ord er ikke kjent, men House Frey er et hus som har bygd opp sin formue ved å ta betalt for alle som vil krysse elva. Etter at de hjalp til med the Red Wedding fikk deres overhode Walder Frey tittelen Lord Paramount of the Riverlands. Deres slott er kjent som «the Twins», på grunn av at de er identiske på hver side av elva, med en bro i mellom de.
 
@@ -588,7 +588,7 @@ meta:
     <hr />
 
     <h3>House Greyjoy</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57.png"><img class="alignnone size-large wp-image-3114" alt="Skjermbilde 2012-04-25 kl. 12.13.57" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57-620x308.png" width="620" height="308" /></a>
+    <img class="alignnone size-large wp-image-3114" alt="Skjermbilde 2012-04-25 kl. 12.13.57" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57-620x308.png" width="620" height="308" />
     HOUSE GREYJOY: «We do not sow»
 
     Mens de andre store husene bruker politikk og diskusjon i sitt tronespill, har House Greyjoy og befolkningen på The Iron Islands alltid verdsatt styrke som sitt middel for makt og rikdom. De har absolutt ingen lojalitet til tronen, og de har et sterkt hat overfor de som bor på fastlandet.
@@ -605,7 +605,7 @@ meta:
     <hr />
 
     <h3>House Lannister</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20.png"><img class="alignnone size-large wp-image-3101" alt="Skjermbilde 2012-04-24 kl. 21.43.20" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20-620x423.png" width="620" height="423" /></a>
+    <img class="alignnone size-large wp-image-3101" alt="Skjermbilde 2012-04-24 kl. 21.43.20" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20-620x423.png" width="620" height="423" />
     HOUSE LANNISTER: «Hear me roar»
 
     Den rikeste familien i de syv kongeriker, og i tillegg den familien som er mest kompleks og eklest. Alt er veldig oversiktlig. Den som er verdt å merke seg er Lancel Lannister. Han var væpner (eller squire på engelsk) for Robert før hans død. Nå puler han sin egen kusine, Cersei. Den eneste ålreite i Lannister-familien er selvfølgelig Tyrion, som er en personlig favoritt.
@@ -628,7 +628,7 @@ meta:
     <hr />
 
     <h3>House Stark</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg"><img class="alignnone size-large wp-image-10865" alt="Skjermbilde-2012-04-25-kl.-11.50.46-620x398" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg" width="620" height="398" /></a>
+    <img class="alignnone size-large wp-image-10865" alt="Skjermbilde-2012-04-25-kl.-11.50.46-620x398" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg" width="620" height="398" />
     HOUSE STARK: «Winter is Coming»
 
     Den første familien vi blir introdusert for er Stark. Her vil jeg anta at de aller fleste har kontroll, men jeg kan ta en kjapp oppsummering. Benjen Stark er «first ranger» for The Nights Watch, men er for øyeblikket sporløst forsvunnet etter at han dro nord for muren for å finne ut hva som skjer. Lyanna Stark ble drept av familien Targaryen, les mer om det når jeg prater om Robert Baratheon under. Ned Stark ble drept av Joffrey fordi han oppdaget noen hemmeligheter, og er grunnen til at Robb nå leder opprøret mot kongen. Sansa er fangen og forloveden til Joffrey.
@@ -641,7 +641,7 @@ meta:
     <hr />
 
     <h3>House Targaryen</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11.png"><img alt="Skjermbilde 2012-04-25 kl. 13.24.11" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11-620x479.png" width="620" height="479" /></a>
+    <img alt="Skjermbilde 2012-04-25 kl. 13.24.11" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11-620x479.png" width="620" height="479" />
     HOUSE TARGARYEN: «Fire and Blood»
 
     Kanskje den letteste familien å ha oversikt over, siden nesten alle er døde. Daenerys blir kalt «The Mother of Dragons». Vi så nylig hvordan hennes folk ble reddet i byen Qarth, som er helt nederst til høyre på oversiktskartet. Hun har planer om å ta tilbake de syv kongeriker ved hjelp av drager og ved å bygge opp en ny hær. Viserys er sønnen til «The Mad King». Han og hans gravide mor ble sendt til Dragonstone rett før House Lannister kom til hovedstaden. Moren Rhaella døde når hun fødte Daenerys og en lojal ridder fikk smuglet den nyfødte Daenerys og Viserys over «the Narrow Sea» før Stannis og hans menn kom til Dragonstone.
@@ -656,7 +656,7 @@ meta:
     <hr />
 
     <h3>House Tully</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.02.59.png"><img class="alignnone size-large wp-image-10866" alt="Skjermbilde-2013-04-11-kl.-17.02.59" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.02.59-620x319.png" width="620" height="319" /></a>
+    <img class="alignnone size-large wp-image-10866" alt="Skjermbilde-2013-04-11-kl.-17.02.59" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.02.59-620x319.png" width="620" height="319" />
 
     Lysa Tully er en klin kokos dame som styrer The Vale. Hun var gift med Jon Arryn som var «The Kings Hand» før Ned Stark. Jon Arryn fikk i oppdrag av Aerys (the Mad King) å drepe Ned Stark og Robert Baretheon. Isteden velger han å marsjere sammen med de i opprør.  Etter at Joffrey drepte Ned Stark, flyktet Lysa opp til The Eyrie. Det som ikke står på familietreet over her er at hun har en sønn, Robin. Lysa har holdt sine menn unna krigen hele veien, og gjør alt hun kan for å beskytte sønnen sin. Hun nekter til og med å hjelpe sin egen nevø Robb i hans opprør mot Joffrey.
 
@@ -665,7 +665,7 @@ meta:
     <hr />
 
     <h3>House Tyrell</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png"><img class="alignnone size-full wp-image-10867" alt="Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png" width="620" height="352" /></a>
+    <img class="alignnone size-full wp-image-10867" alt="Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png" width="620" height="352" />
     HOUSE TYRELL: «Growing Strong»
 
     En veldig interessant familie. De ble ikke en stor familie av Westeros før Aegon Targeryen drepte King Gardener i det store slaget som bare blir kalt «The Field of Fire». Her samlet Loren Lannister (King of the Rock) og Mern Gardener (King of the Reach) en hær på 60.000 menn for å stoppe invasjonen til Aegon the Conqueror ved en stor hvetemark. Aegon kommer med sin lille hær som etter kort tid tar halen mellom beina og løper fra denne mektige massen av krigere. Så for første (og eneste) gang i løpet av invasjonen og overtakelsen av Westeros tar Aegon Targeryen fram alle sine tre drager. De brenner 4000 menn levende i hvetemarken og alt tar fyr, derav navnet «The Field of Fire». Mern Gardener er en av disse og hans hus dør med han.
@@ -676,7 +676,7 @@ meta:
     <hr />
 
     <h3>The Nights Watch</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36.png"><img class="alignnone size-large wp-image-10868" alt="Skjermbilde-2013-04-11-kl.-17.03.36" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36-620x392.png" width="620" height="392" /></a>
+    <img class="alignnone size-large wp-image-10868" alt="Skjermbilde-2013-04-11-kl.-17.03.36" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36-620x392.png" width="620" height="392" />
 
     For 8000 år siden var det mennene i nord som dreiv tilbake «the White Walkers», bygde den store muren og dannet «the Nights Watch». Det var en stor ære å være med i denne hellige ordenen. Nå er det kun voldtekstmenn, tyver og mordere som blir henvist til muren. Med unntak av noen få barn av store familier. Som Samwell Tarly, Benjen Stark og Jon Snow. Det er kun i nord man fortsatt ser på denne ordenen som noe som er nyttig og nødvendig. Alle andre steder i landet så ser du kun på «the Wildlings» som korttenkte aper som aldri er noen reell trussel. Det er hele 19 slott langs med muren, men på grunn av så små ressurser er det kun tre som er i bruk. «Castle Black», «The Shadow Tower» og «Eastwatch by the Sea» er de tre.
 
@@ -686,7 +686,7 @@ meta:
     <hr />
 
     <h3>The Free Folk</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56.png"><img class="alignnone size-large wp-image-10869" alt="Skjermbilde-2013-04-11-kl.-17.18.56" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56-620x394.png" width="620" height="394" /></a>
+    <img class="alignnone size-large wp-image-10869" alt="Skjermbilde-2013-04-11-kl.-17.18.56" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56-620x394.png" width="620" height="394" />
 
     The Free Folk som de kaller seg selv, eller Wildlings som de blir kalt sør for muren er en gjeng på åtte forskjellige stammer som i utgangspunktet bare var uheldige som bodde nord for muren når den ble bygget. De er direkte stammet ned fra «the First Men», samme som Stark og resten av de som bor i Nord.
 
@@ -699,7 +699,7 @@ meta:
     <hr />
 
     <h3>The Brotherhood Without Banners</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png"><img class="alignnone size-full wp-image-10870" alt="Skjermbilde-2013-04-11-kl.-17.18.27" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png" width="611" height="371" /></a>
+    <img class="alignnone size-full wp-image-10870" alt="Skjermbilde-2013-04-11-kl.-17.18.27" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png" width="611" height="371" />
 
     Så til slutt av alle disse presentasjonene så har vi gutta som jeg elsker mest. De kaller seg for «The Brotherhood» og de tre gutta du ser over er de tøffeste, kuleste og mest mandige mennene du kan tenke deg. Lord Beric Dondarrion ble introdusert i sesong en. Han er lord of Blackhaven, som er en liten borg i the Stormlands. Han får i oppgave av Ned Stark som på det tidspunktet er «Hand of the King» å finne ser Gregor Clegane for hans groteske handlinger i the Riverlands. Ser Beric får med seg 100 menn til å henrette ser Gregor. Denne oppgaven mislykkes og hans menn blir slått av ser Gregor. Så blir Ned Stark henrettet og Lord Beric danner the Brotherhood Without Banners for å redde the Riverlands.
 
@@ -716,7 +716,7 @@ meta:
 
     Game of Thrones har siden det kom ut vært den serien jeg alltid får med meg med en gang en ny episode er tilgjengelig. Aldri før har jeg sett noe mer gjennomført og sinnsykt bra. Dette er en dramaserie laget av HBO basert på bøkene til George R. R. Martin. Mange av de jeg har pratet med om serien har hatt problemer med å følge med og sliter med å få med seg deler av plottet på grunn av at det er vanvittig mye å følge med på. Jeg valgte å lage denne guiden fordi det som gjør den så bra er alle de gode bakgrunnshistoriene og forholdene.
 
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19.png"><img class="alignnone size-large wp-image-3115" alt="Skjermbilde 2012-04-25 kl. 12.29.19" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19-620x379.png" width="620" height="379" /></a>
+    <img class="alignnone size-large wp-image-3115" alt="Skjermbilde 2012-04-25 kl. 12.29.19" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.29.19-620x379.png" width="620" height="379" />
     VERDENSKART: Kartet viser de to kontinentene der serien foregår.
 
     Flere jeg har snakket med sier at de har sittet under episoder og tenkt: «Hvem faen er det her?» Under vil jeg prøve å gi en oversikt over de forskjellige familiene, litt hva de står for og hvor de forskjellige står overfor hverandre. Noen av familiene er veldig godt forklart så langt, så de vil jeg ikke skrive så mye om. Det vil forhåpentligvis gjøre det lettere å skjønne en av de beste seriene som er laget. Under alle familietrærne og forhistoriene til familiene har jeg tatt for meg det som er grunnen til Roberts opprør og alt som skjedde når Aegon the Conqueror samlet de «seven kingdoms». Lykke til med lesingen!
@@ -724,7 +724,7 @@ meta:
     <hr />
 
     <h3>House Baratheon</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29.png"><img class="alignnone size-large wp-image-3103" alt="Skjermbilde 2012-04-24 kl. 22.28.29" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29-620x373.png" width="620" height="373" /></a>
+    <img class="alignnone size-large wp-image-3103" alt="Skjermbilde 2012-04-24 kl. 22.28.29" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-22.28.29-620x373.png" width="620" height="373" />
     HOUSE BARATHEON: «Ours is the Fury»
 
     Som du ser er det tre brødre på toppen av Baratheon-familien: Robert, Stannis og Renly. Robert er eldst og Renly er yngst. Etter at Robert ledet opprøret som førte til Aerys Targaryens (the Mad King) død, overtok han tronen og House Baratheon har styrt de syv kongeriker siden. Krigen startet på grunn av at Rhaegar Targaryen kidnappet Roberts forlovede, Lyanna Stark. Les mer om det under familietrærne der jeg har samlet alt.
@@ -741,7 +741,7 @@ meta:
     <hr />
 
     <h3>House Bolton</h3>
-    <a href="/wp-content/uploads/2012/04/bolton.jpg"><img class="alignnone size-full wp-image-10861" alt="bolton" src="/wp-content/uploads/2012/04/bolton.jpg" width="620" height="431" /></a>
+    <img class="alignnone size-full wp-image-10861" alt="bolton" src="/wp-content/uploads/2012/04/bolton.jpg" width="620" height="431" />
     HOUSE BOLTON: «Our Blades Are Sharp»
 
     House Bolton er nå det rulende huset i nord. De holder til i the Dreadfort og deres land ligger nordøst for Winterfell. De er kjent for sin lange tradisjon med å sløye sine fiender levende. Deres ord er «Our Blades Are Sharp», men mange som er underlagt huset bruker også «A naked man has few secrets, a flayed man has none.» Ned Stark gjorde sløying av menn ulovlig, men familien fortsatte med tradisjonen i hemmelighet. Det henger også mange sløyde menn i slottet Dreadfort.
@@ -758,7 +758,7 @@ meta:
     <hr />
 
     <h3>House Frey</h3>
-    <a href="/wp-content/uploads/2012/04/frey.jpg"><img class="alignnone size-full wp-image-10862" alt="frey" src="/wp-content/uploads/2012/04/frey.jpg" width="620" height="372" /></a>
+    <img class="alignnone size-full wp-image-10862" alt="frey" src="/wp-content/uploads/2012/04/frey.jpg" width="620" height="372" />
 
     Deres ord er ikke kjent, men House Frey er et hus som har bygd opp sin formue ved å ta betalt for alle som vil krysse elva. Etter at de hjalp til med the Red Wedding fikk deres overhode Walder Frey tittelen Lord Paramount of the Riverlands. Deres slott er kjent som «the Twins», på grunn av at de er identiske på hver side av elva, med en bro i mellom de.
 
@@ -770,7 +770,7 @@ meta:
     <hr />
 
     <h3>House Greyjoy</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57.png"><img class="alignnone size-large wp-image-3114" alt="Skjermbilde 2012-04-25 kl. 12.13.57" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57-620x308.png" width="620" height="308" /></a>
+    <img class="alignnone size-large wp-image-3114" alt="Skjermbilde 2012-04-25 kl. 12.13.57" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-12.13.57-620x308.png" width="620" height="308" />
     HOUSE GREYJOY: «We do not sow»
 
     Mens de andre store husene bruker politikk og diskusjon i sitt tronespill, har House Greyjoy og befolkningen på The Iron Islands alltid verdsatt styrke som sitt middel for makt og rikdom. De har absolutt ingen lojalitet til tronen, og de har et sterkt hat overfor de som bor på fastlandet.
@@ -787,7 +787,7 @@ meta:
     <hr />
 
     <h3>House Lannister</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20.png"><img class="alignnone size-large wp-image-3101" alt="Skjermbilde 2012-04-24 kl. 21.43.20" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20-620x423.png" width="620" height="423" /></a>
+    <img class="alignnone size-large wp-image-3101" alt="Skjermbilde 2012-04-24 kl. 21.43.20" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-24-kl.-21.43.20-620x423.png" width="620" height="423" />
     HOUSE LANNISTER: «Hear me roar»
 
     Den rikeste familien i de syv kongeriker, og i tillegg den familien som er mest kompleks og eklest. Alt er veldig oversiktlig. Den som er verdt å merke seg er Lancel Lannister. Han var væpner (eller squire på engelsk) for Robert før hans død. Nå puler han sin egen kusine, Cersei. Den eneste ålreite i Lannister-familien er selvfølgelig Tyrion, som er en personlig favoritt.
@@ -810,7 +810,7 @@ meta:
     <hr />
 
     <h3>House Stark</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg"><img class="alignnone size-large wp-image-10865" alt="Skjermbilde-2012-04-25-kl.-11.50.46-620x398" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg" width="620" height="398" /></a>
+    <img class="alignnone size-large wp-image-10865" alt="Skjermbilde-2012-04-25-kl.-11.50.46-620x398" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-11.50.46-620x398.jpg" width="620" height="398" />
     HOUSE STARK: «Winter is Coming»
 
     Den første familien vi blir introdusert for er Stark. Her vil jeg anta at de aller fleste har kontroll, men jeg kan ta en kjapp oppsummering. Benjen Stark er «first ranger» for The Nights Watch, men er for øyeblikket sporløst forsvunnet etter at han dro nord for muren for å finne ut hva som skjer. Lyanna Stark ble drept av familien Targaryen, les mer om det når jeg prater om Robert Baratheon under. Ned Stark ble drept av Joffrey fordi han oppdaget noen hemmeligheter, og er grunnen til at Robb nå leder opprøret mot kongen. Sansa er fangen og forloveden til Joffrey.
@@ -823,7 +823,7 @@ meta:
     <hr />
 
     <h3>House Targaryen</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11.png"><img alt="Skjermbilde 2012-04-25 kl. 13.24.11" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11-620x479.png" width="620" height="479" /></a>
+    <img alt="Skjermbilde 2012-04-25 kl. 13.24.11" src="/wp-content/uploads/2012/04/Skjermbilde-2012-04-25-kl.-13.24.11-620x479.png" width="620" height="479" />
     HOUSE TARGARYEN: «Fire and Blood»
 
     Kanskje den letteste familien å ha oversikt over, siden nesten alle er døde. Daenerys blir kalt «The Mother of Dragons». Vi så nylig hvordan hennes folk ble reddet i byen Qarth, som er helt nederst til høyre på oversiktskartet. Hun har planer om å ta tilbake de syv kongeriker ved hjelp av drager og ved å bygge opp en ny hær. Viserys er sønnen til «The Mad King». Han og hans gravide mor ble sendt til Dragonstone rett før House Lannister kom til hovedstaden. Moren Rhaella døde når hun fødte Daenerys og en lojal ridder fikk smuglet den nyfødte Daenerys og Viserys over «the Narrow Sea» før Stannis og hans menn kom til Dragonstone.
@@ -838,7 +838,7 @@ meta:
     <hr />
 
     <h3>House Tully</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.02.59.png"><img class="alignnone size-large wp-image-10866" alt="Skjermbilde-2013-04-11-kl.-17.02.59" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.02.59-620x319.png" width="620" height="319" /></a>
+    <img class="alignnone size-large wp-image-10866" alt="Skjermbilde-2013-04-11-kl.-17.02.59" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.02.59-620x319.png" width="620" height="319" />
 
     Lysa Tully er en klin kokos dame som styrer The Vale. Hun var gift med Jon Arryn som var «The Kings Hand» før Ned Stark. Jon Arryn fikk i oppdrag av Aerys (the Mad King) å drepe Ned Stark og Robert Baretheon. Isteden velger han å marsjere sammen med de i opprør.  Etter at Joffrey drepte Ned Stark, flyktet Lysa opp til The Eyrie. Det som ikke står på familietreet over her er at hun har en sønn, Robin. Lysa har holdt sine menn unna krigen hele veien, og gjør alt hun kan for å beskytte sønnen sin. Hun nekter til og med å hjelpe sin egen nevø Robb i hans opprør mot Joffrey.
 
@@ -847,7 +847,7 @@ meta:
     <hr />
 
     <h3>House Tyrell</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png"><img class="alignnone size-full wp-image-10867" alt="Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png" width="620" height="352" /></a>
+    <img class="alignnone size-full wp-image-10867" alt="Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-13.55.15-e1365687704773.png" width="620" height="352" />
     HOUSE TYRELL: «Growing Strong»
 
     En veldig interessant familie. De ble ikke en stor familie av Westeros før Aegon Targeryen drepte King Gardener i det store slaget som bare blir kalt «The Field of Fire». Her samlet Loren Lannister (King of the Rock) og Mern Gardener (King of the Reach) en hær på 60.000 menn for å stoppe invasjonen til Aegon the Conqueror ved en stor hvetemark. Aegon kommer med sin lille hær som etter kort tid tar halen mellom beina og løper fra denne mektige massen av krigere. Så for første (og eneste) gang i løpet av invasjonen og overtakelsen av Westeros tar Aegon Targeryen fram alle sine tre drager. De brenner 4000 menn levende i hvetemarken og alt tar fyr, derav navnet «The Field of Fire». Mern Gardener er en av disse og hans hus dør med han.
@@ -858,7 +858,7 @@ meta:
     <hr />
 
     <h3>The Nights Watch</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36.png"><img class="alignnone size-large wp-image-10868" alt="Skjermbilde-2013-04-11-kl.-17.03.36" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36-620x392.png" width="620" height="392" /></a>
+    <img class="alignnone size-large wp-image-10868" alt="Skjermbilde-2013-04-11-kl.-17.03.36" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.03.36-620x392.png" width="620" height="392" />
 
     For 8000 år siden var det mennene i nord som dreiv tilbake «the White Walkers», bygde den store muren og dannet «the Nights Watch». Det var en stor ære å være med i denne hellige ordenen. Nå er det kun voldtekstmenn, tyver og mordere som blir henvist til muren. Med unntak av noen få barn av store familier. Som Samwell Tarly, Benjen Stark og Jon Snow. Det er kun i nord man fortsatt ser på denne ordenen som noe som er nyttig og nødvendig. Alle andre steder i landet så ser du kun på «the Wildlings» som korttenkte aper som aldri er noen reell trussel. Det er hele 19 slott langs med muren, men på grunn av så små ressurser er det kun tre som er i bruk. «Castle Black», «The Shadow Tower» og «Eastwatch by the Sea» er de tre.
 
@@ -868,7 +868,7 @@ meta:
     <hr />
 
     <h3>The Free Folk</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56.png"><img class="alignnone size-large wp-image-10869" alt="Skjermbilde-2013-04-11-kl.-17.18.56" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56-620x394.png" width="620" height="394" /></a>
+    <img class="alignnone size-large wp-image-10869" alt="Skjermbilde-2013-04-11-kl.-17.18.56" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.56-620x394.png" width="620" height="394" />
 
     The Free Folk som de kaller seg selv, eller Wildlings som de blir kalt sør for muren er en gjeng på åtte forskjellige stammer som i utgangspunktet bare var uheldige som bodde nord for muren når den ble bygget. De er direkte stammet ned fra «the First Men», samme som Stark og resten av de som bor i Nord.
 
@@ -881,7 +881,7 @@ meta:
     <hr />
 
     <h3>The Brotherhood Without Banners</h3>
-    <a href="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png"><img class="alignnone size-full wp-image-10870" alt="Skjermbilde-2013-04-11-kl.-17.18.27" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png" width="611" height="371" /></a>
+    <img class="alignnone size-full wp-image-10870" alt="Skjermbilde-2013-04-11-kl.-17.18.27" src="/wp-content/uploads/2012/04/Skjermbilde-2013-04-11-kl.-17.18.27.png" width="611" height="371" />
 
     Så til slutt av alle disse presentasjonene så har vi gutta som jeg elsker mest. De kaller seg for «The Brotherhood» og de tre gutta du ser over er de tøffeste, kuleste og mest mandige mennene du kan tenke deg. Lord Beric Dondarrion ble introdusert i sesong en. Han er lord of Blackhaven, som er en liten borg i the Stormlands. Han får i oppgave av Ned Stark som på det tidspunktet er «Hand of the King» å finne ser Gregor Clegane for hans groteske handlinger i the Riverlands. Ser Beric får med seg 100 menn til å henrette ser Gregor. Denne oppgaven mislykkes og hans menn blir slått av ser Gregor. Så blir Ned Stark henrettet og Lord Beric danner the Brotherhood Without Banners for å redde the Riverlands.
 

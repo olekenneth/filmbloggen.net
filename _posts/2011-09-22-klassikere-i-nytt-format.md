@@ -112,7 +112,7 @@ content:
 
     Nå begynner det å bli såpass lenge siden Ringenes Herre kom, at den nesten er til klassiker å regne. Hobbiter, alver, dverger, trollmenn, krigere. Uendelig med vesener og flott natur. Disse filmene tar deg med på en uforglemmelig reise gjennom Midgard og man forelsker seg i denne unike historien.
 
-    <a href="//filmbloggen.net/2011/09/22/klassikere-i-nytt-format/bluracollage/" rel="attachment wp-att-996"><img class="alignnone size-full wp-image-996" src="/wp-content/uploads//2011/09/bluracollage.jpg" alt="" width="600" height="140" /></a>
+    <img class="alignnone size-full wp-image-996" src="/wp-content/uploads//2011/09/bluracollage.jpg" alt="" width="600" height="140" />
 
     <strong>Hvilke filmer har du lyst til å skaffe deg på BluRay? </strong>
 trackback_url:
@@ -185,7 +185,7 @@ post_content:
 
     Nå begynner det å bli såpass lenge siden Ringenes Herre kom, at den nesten er til klassiker å regne. Hobbiter, alver, dverger, trollmenn, krigere. Uendelig med vesener og flott natur. Disse filmene tar deg med på en uforglemmelig reise gjennom Midgard og man forelsker seg i denne unike historien.
 
-    <a href="//filmbloggen.net/2011/09/22/klassikere-i-nytt-format/bluracollage/" rel="attachment wp-att-996"><img class="alignnone size-full wp-image-996" src="/wp-content/uploads//2011/09/bluracollage.jpg" alt="" width="600" height="140" /></a>
+    <img class="alignnone size-full wp-image-996" src="/wp-content/uploads//2011/09/bluracollage.jpg" alt="" width="600" height="140" />
 
     <strong>Hvilke filmer har du lyst til å skaffe deg på BluRay? </strong>
 post_excerpt:
@@ -210,7 +210,7 @@ meta:
 
     Nå begynner det å bli såpass lenge siden Ringenes Herre kom, at den nesten er til klassiker å regne. Hobbiter, alver, dverger, trollmenn, krigere. Uendelig med vesener og flott natur. Disse filmene tar deg med på en uforglemmelig reise gjennom Midgard og man forelsker seg i denne unike historien.
 
-    <a href="//filmbloggen.net/?attachment_id=996" rel="attachment wp-att-996"><img class="alignnone size-full wp-image-996" src="/wp-content/uploads//2011/09/bluracollage.jpg" alt="" width="600" height="140" /></a>
+    <img class="alignnone size-full wp-image-996" src="/wp-content/uploads//2011/09/bluracollage.jpg" alt="" width="600" height="140" />
 
     <strong>Hvilke filmer har du lyst til å skaffe deg på BluRay? </strong>";}i:7915;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:7917;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"15";}i:7913;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"22";}i:7911;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"09";}i:7919;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"23";}i:7938;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:7928;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:7907;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"15";}i:7914;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:7916;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"15";}i:7912;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"22";}i:7910;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"09";}i:7918;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"23";}i:7900;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:7898;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:7901;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:7955;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"995";}i:7904;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"22";}i:7894;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"65c237323f";}i:7931;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:7930;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:7932;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:7905;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"09";}i:7908;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"23";}i:7885;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:7888;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:7920;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:7936;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:7886;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"7";}i:7956;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1994:"<strong>Høsten er kommet, og det er på tide å krype under teppet med popcorn i den ene hånden og fjernkontrollen i den andre. Det er mange relanseringer av filmer denne høsten, og her er noen vi mener du bør skaffe deg.</strong>
 
@@ -228,7 +228,7 @@ meta:
 
     Nå begynner det å bli såpass lenge siden Ringenes Herre kom, at den nesten er til klassiker å regne. Hobbiter, alver, dverger, trollmenn, krigere. Uendelig med vesener og flott natur. Disse filmene tar deg med på en uforglemmelig reise gjennom Midgard og man forelsker seg i denne unike historien.
 
-    <a href="//filmbloggen.net/?attachment_id=996" rel="attachment wp-att-996"><img class="alignnone size-full wp-image-996" src="/wp-content/uploads//2011/09/bluracollage.jpg" alt="" width="600" height="140" /></a>
+    <img class="alignnone size-full wp-image-996" src="/wp-content/uploads//2011/09/bluracollage.jpg" alt="" width="600" height="140" />
 
     <strong>Hvilke filmer har du lyst til å skaffe deg på BluRay? </strong>";}i:7957;a:2:{s:3:"key";s:12:"post_excerpt";s:5:"value";s:0:"";}i:7921;a:2:{s:3:"key";s:11:"post_format";s:5:"value";s:1:"0";}i:7892;a:2:{s:3:"key";s:7:"post_ID";s:5:"value";s:3:"995";}i:7954;a:2:{s:3:"key";s:14:"post_mime_type";s:5:"value";s:0:"";}i:7937;a:2:{s:3:"key";s:9:"post_name";s:5:"value";s:0:"";}i:7903;a:2:{s:3:"key";s:13:"post_password";s:5:"value";s:0:"";}i:7899;a:2:{s:3:"key";s:11:"post_status";s:5:"value";s:7:"publish";}i:7925;a:2:{s:3:"key";s:10:"post_title";s:5:"value";s:24:"Klassikere i nytt format";}i:7887;a:2:{s:3:"key";s:9:"post_type";s:5:"value";s:4:"post";}i:7961;a:2:{s:3:"key";s:7:"publish";s:5:"value";s:8:"Publiser";}i:7944;a:2:{s:3:"key";s:14:"pyre_critera_1";s:5:"value";s:0:"";}i:7945;a:2:{s:3:"key";s:20:"pyre_critera_1_score";s:5:"value";s:1:"0";}i:7946;a:2:{s:3:"key";s:14:"pyre_critera_2";s:5:"value";s:0:"";}i:7947;a:2:{s:3:"key";s:20:"pyre_critera_2_score";s:5:"value";s:1:"0";}i:7948;a:2:{s:3:"key";s:14:"pyre_critera_3";s:5:"value";s:0:"";}i:7949;a:2:{s:3:"key";s:20:"pyre_critera_3_score";s:5:"value";s:1:"0";}i:7950;a:2:{s:3:"key";s:14:"pyre_critera_4";s:5:"value";s:0:"";}i:7951;a:2:{s:3:"key";s:20:"pyre_critera_4_score";s:5:"value";s:1:"0";}i:7952;a:2:{s:3:"key";s:14:"pyre_critera_5";s:5:"value";s:0:"";}i:7953;a:2:{s:3:"key";s:20:"pyre_critera_5_score";s:5:"value";s:1:"0";}i:7940;a:2:{s:3:"key";s:19:"pyre_featured_image";s:5:"value";s:2:"no";}i:7941;a:2:{s:3:"key";s:16:"pyre_movie_title";s:5:"value";s:0:"";}i:7942;a:2:{s:3:"key";s:22:"pyre_movie_title_norsk";s:5:"value";s:0:"";}i:7943;a:2:{s:3:"key";s:18:"pyre_overall_score";s:5:"value";s:1:"0";}i:7889;a:2:{s:3:"key";s:10:"referredby";s:5:"value";s:44:"//filmbloggen.net/wp-admin/post-new.php";}i:7926;a:2:{s:3:"key";s:20:"samplepermalinknonce";s:5:"value";s:10:"54d30796a4";}i:7896;a:2:{s:3:"key";s:4:"save";s:5:"value";s:11:"Lagre kladd";}i:7939;a:2:{s:3:"key";s:21:"sharing_status_hidden";s:5:"value";s:1:"1";}i:7909;a:2:{s:3:"key";s:2:"ss";s:5:"value";s:2:"28";}i:7958;a:2:{s:3:"key";s:7:"to_ping";s:5:"value";s:0:"";}i:7929;a:2:{s:3:"key";s:13:"trackback_url";s:5:"value";s:0:"";}i:7883;a:2:{s:3:"key";s:7:"user_ID";s:5:"value";s:1:"7";}i:7902;a:2:{s:3:"key";s:10:"visibility";s:5:"value";s:6:"public";}i:7897;a:2:{s:3:"key";s:10:"wp-preview";s:5:"value";s:0:"";}}
 publish:
@@ -260,6 +260,6 @@ De fleste har vel barndomsminner knyttet til denne filmen. Simba, Mofasa, Nala, 
 
 Nå begynner det å bli såpass lenge siden Ringenes Herre kom, at den nesten er til klassiker å regne. Hobbiter, alver, dverger, trollmenn, krigere. Uendelig med vesener og flott natur. Disse filmene tar deg med på en uforglemmelig reise gjennom Midgard og man forelsker seg i denne unike historien.
 
-<a href="//filmbloggen.net/2011/09/22/klassikere-i-nytt-format/bluracollage/" rel="attachment wp-att-996"><img class="alignnone size-full wp-image-996" src="/wp-content/uploads//2011/09/bluracollage.jpg" alt="" width="600" height="140" /></a>
+<img class="alignnone size-full wp-image-996" src="/wp-content/uploads//2011/09/bluracollage.jpg" alt="" width="600" height="140" />
 
 **Hvilke filmer har du lyst til å skaffe deg på BluRay? **

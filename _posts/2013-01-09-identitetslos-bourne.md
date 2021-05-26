@@ -107,7 +107,7 @@ content:
     <strong>Varighet:</strong> 2 timer og 15 minutter
     <strong>Regi:</strong> Tony Gilroy
     <strong>Skuespillere:</strong> Jeremy Renner, Rachel Weisz, Edward Norton, Joan Allen, Donna Murphy, Scott Glenn,Oscar Isaac, Albert Finney
-    <a href="//filmbloggen.net/2013/01/09/identitetslos-bourne/xljyxdj1-2/" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9189" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" />
     <strong>Tekst:</strong> Benjamin Brekken for <a href="//judgefudge.net">judgefudge.net</a>
     <strong>Foto: </strong>UIP
 
@@ -192,7 +192,7 @@ post_content:
     <strong>Varighet:</strong> 2 timer og 15 minutter
     <strong>Regi:</strong> Tony Gilroy
     <strong>Skuespillere:</strong> Jeremy Renner, Rachel Weisz, Edward Norton, Joan Allen, Donna Murphy, Scott Glenn,Oscar Isaac, Albert Finney
-    <a href="//filmbloggen.net/2013/01/09/identitetslos-bourne/xljyxdj1-2/" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9189" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" />
     <strong>Tekst:</strong> Benjamin Brekken for <a href="//judgefudge.net">judgefudge.net</a>
     <strong>Foto: </strong>UIP
 
@@ -229,7 +229,7 @@ meta:
     <strong>Varighet:</strong> 2 timer og 15 minutter
     <strong>Regi:</strong> Tony Gilroy
     <strong>Skuespillere:</strong> Jeremy Renner, Rachel Weisz, Edward Norton, Joan Allen, Donna Murphy, Scott Glenn,Oscar Isaac, Albert Finney
-    <a href="//filmbloggen.net/?attachment_id=9189" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" title="xljyxdj1" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9189" title="xljyxdj1" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" />
     <strong>Tekst:</strong> Benjamin Brekken for <a href="//judgefudge.net">judgefudge.net</a>
     <strong>Foto: </strong>UIP
 
@@ -254,7 +254,7 @@ meta:
     <strong>Varighet:</strong> 2 timer og 15 minutter
     <strong>Regi:</strong> Tony Gilroy
     <strong>Skuespillere:</strong> Jeremy Renner, Rachel Weisz, Edward Norton, Joan Allen, Donna Murphy, Scott Glenn,Oscar Isaac, Albert Finney
-    <a href="//filmbloggen.net/?attachment_id=9189" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" title="xljyxdj1" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9189" title="xljyxdj1" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" />
     <strong>Tekst:</strong> Benjamin Brekken for <a href="//judgefudge.net">judgefudge.net</a>
     <strong>Foto: </strong>UIP
 
@@ -294,7 +294,7 @@ Originaltittel: The Bourne Legacy
 **Varighet:** 2 timer og 15 minutter
 **Regi:** Tony Gilroy
 **Skuespillere:** Jeremy Renner, Rachel Weisz, Edward Norton, Joan Allen, Donna Murphy, Scott Glenn,Oscar Isaac, Albert Finney
-<a href="//filmbloggen.net/2013/01/09/identitetslos-bourne/xljyxdj1-2/" rel="attachment wp-att-9189"><img class="alignnone size-large wp-image-9189" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-9189" src="/wp-content/uploads//2013/01/xljyxdj1-620x413.jpg" alt="" width="620" height="413" />
 **Tekst:** Benjamin Brekken for [judgefudge.net](//judgefudge.net)
 **Foto:** UIP
 

@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Som lovet skal Filmbloggen starte med mange konkurranser i tiden fremover. Vi starter rolig med en film som hadde premiere for over to måneder siden. The Best Exotic Marigold Hotel.</strong>
-    <a href="//filmbloggen.net/2012/05/22/vinn-t-skjorter-fra-the-best-exotic-marigold-hotel/img_8314-cr2/" rel="attachment wp-att-3657"><img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
     T-skjortene kan du vinne ved å svare på følgende to spørsmål:
     <strong>1. Hvilken mannlig skuespiller hadde en rolle både i The Best Exotic Marigold Hotel og i Love Actually (2003)?</strong>
     a) Tom Wilkinson
@@ -173,7 +173,7 @@ ID:
 post_content:
   - |
     <strong>Som lovet skal Filmbloggen starte med mange konkurranser i tiden fremover. Vi starter rolig med en film som hadde premiere for over to måneder siden. The Best Exotic Marigold Hotel.</strong>
-    <a href="//filmbloggen.net/2012/05/22/vinn-t-skjorter-fra-the-best-exotic-marigold-hotel/img_8314-cr2/" rel="attachment wp-att-3657"><img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
     T-skjortene kan du vinne ved å svare på følgende to spørsmål:
     <strong>1. Hvilken mannlig skuespiller hadde en rolle både i The Best Exotic Marigold Hotel og i Love Actually (2003)?</strong>
     a) Tom Wilkinson
@@ -197,7 +197,7 @@ save:
 meta:
   - |
     a:75:{i:20329;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:20308;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:20361;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:20317;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"e04ab0f6be";}i:20315;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:20319;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"e1a4961aa8";}i:20362;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:20354;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1069:"<strong>Som lovet skal Filmbloggen starte med mange konkurranser i tiden fremover. Vi starter rolig med en film som hadde premiere for over to måneder siden. The Best Exotic Marigold Hotel.</strong>
-    <a href="//filmbloggen.net/2012/05/22/vinn-t-skjorter-fra-the-best-exotic-marigold-hotel/img_8314-cr2/" rel="attachment wp-att-3657"><img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
     T-skjortene kan du vinne ved å svare på følgende to spørsmål:
     <strong>1. Hvilken mannlig skuespiller hadde en rolle både i The Best Exotic Marigold Hotel og i Love Actually (2003)?</strong>
     a) Tom Wilkinson
@@ -212,7 +212,7 @@ meta:
     <strong></strong>Vi har hele fire t-skjorter vi gir bort! Send ditt svar til hanskristian@rangnes.no innen søndag 27. mai. Husk å ta med navn og adresse. Lykke til!
 
      ";}i:20338;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:20340;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"15";}i:20336;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"22";}i:20334;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"05";}i:20342;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"00";}i:20366;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:20355;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:20330;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"15";}i:20337;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:20339;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"15";}i:20335;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"22";}i:20333;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"05";}i:20341;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"00";}i:20323;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:20321;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:20324;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:20383;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"3656";}i:20327;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"22";}i:20318;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"30ecddce79";}i:20358;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:20357;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:20359;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:20328;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"05";}i:20331;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"00";}i:20346;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:20347;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:20309;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:20312;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:20343;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:20363;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:20310;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:20365;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:20384;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1069:"<strong>Som lovet skal Filmbloggen starte med mange konkurranser i tiden fremover. Vi starter rolig med en film som hadde premiere for over to måneder siden. The Best Exotic Marigold Hotel.</strong>
-    <a href="//filmbloggen.net/2012/05/22/vinn-t-skjorter-fra-the-best-exotic-marigold-hotel/img_8314-cr2/" rel="attachment wp-att-3657"><img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
     T-skjortene kan du vinne ved å svare på følgende to spørsmål:
     <strong>1. Hvilken mannlig skuespiller hadde en rolle både i The Best Exotic Marigold Hotel og i Love Actually (2003)?</strong>
     a) Tom Wilkinson
@@ -233,7 +233,7 @@ categories:
   - Konkurranser
 ---
 **Som lovet skal Filmbloggen starte med mange konkurranser i tiden fremover. Vi starter rolig med en film som hadde premiere for over to måneder siden. The Best Exotic Marigold Hotel.**
-<a href="//filmbloggen.net/2012/05/22/vinn-t-skjorter-fra-the-best-exotic-marigold-hotel/img_8314-cr2/" rel="attachment wp-att-3657"><img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-3657" src="/wp-content/uploads//2012/05/the-best-exotic-620x413.jpg" alt="" width="620" height="413" />
 T-skjortene kan du vinne ved å svare på følgende to spørsmål:
 **1. Hvilken mannlig skuespiller hadde en rolle både i The Best Exotic Marigold Hotel og i Love Actually (2003)?**
 a) Tom Wilkinson

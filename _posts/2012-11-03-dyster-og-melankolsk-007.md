@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> Daniel Craig, Javier Bardem, Judi Dench, Ralph Fiennes, Naomie Harris, Bérénice Marlohe, Albert Finney, Ben Whishaw, Rory Kinnear, Ola Rapace.
     <strong>Spilletid:</strong> 2 timer og 23 minutter
 
-    <a href="//filmbloggen.net/2012/11/03/dyster-og-melankolsk-007/bond21/" rel="attachment wp-att-7911"><img class="alignnone size-large wp-image-7911" src="/wp-content/uploads//2012/10/bond21-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7911" src="/wp-content/uploads//2012/10/bond21-620x413.jpg" alt="" width="620" height="413" />
 
     <strong>Sam Mendes har tidligere vist at han er dyktig med filmer som American Beauty og Road to Perdition.</strong> Og med Skyfall viser han det nok en gang og gjør samtidig et gjennombrudd i Bond-franchisen. Han tar det et steg videre ved å fokusere på Bond sin fortid (noe som aldri er blitt gjort tidligere). Bond er en mystisk karakter, men i Skyfall blir han avduket. Filmen er både stilsikker og nostalgisk, den minner aller mest om Sean Connery sine filmer - med tanke på gadgets, biler og våpenvalg.
 
@@ -67,7 +67,7 @@ post_content:
     <strong>Skuespillere:</strong> Daniel Craig, Javier Bardem, Judi Dench, Ralph Fiennes, Naomie Harris, Bérénice Marlohe, Albert Finney, Ben Whishaw, Rory Kinnear, Ola Rapace.
     <strong>Spilletid:</strong> 2 timer og 23 minutter
 
-    <a href="//filmbloggen.net/2012/11/03/dyster-og-melankolsk-007/bond21/" rel="attachment wp-att-7911"><img class="alignnone size-large wp-image-7911" src="/wp-content/uploads//2012/10/bond21-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7911" src="/wp-content/uploads//2012/10/bond21-620x413.jpg" alt="" width="620" height="413" />
 
     <strong>Sam Mendes har tidligere vist at han er dyktig med filmer som American Beauty og Road to Perdition.</strong> Og med Skyfall viser han det nok en gang og gjør samtidig et gjennombrudd i Bond-franchisen. Han tar det et steg videre ved å fokusere på Bond sin fortid (noe som aldri er blitt gjort tidligere). Bond er en mystisk karakter, men i Skyfall blir han avduket. Filmen er både stilsikker og nostalgisk, den minner aller mest om Sean Connery sine filmer - med tanke på gadgets, biler og våpenvalg.
 
@@ -178,7 +178,7 @@ meta:
     <strong>Skuespillere:</strong> Daniel Craig, Javier Bardem, Judi Dench, Ralph Fiennes, Naomie Harris, Bérénice Marlohe, Albert Finney, Ben Whishaw, Rory Kinnear, Ola Rapace.
     <strong>Spilletid:</strong> 2 timer og 23 minutter
 
-    <a href="//filmbloggen.net/2012/11/03/dyster-og-melankolsk-007/bond21/" rel="attachment wp-att-7911"><img class="alignnone size-large wp-image-7911" src="/wp-content/uploads//2012/10/bond21-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7911" src="/wp-content/uploads//2012/10/bond21-620x413.jpg" alt="" width="620" height="413" />
 
     <strong>Sam Mendes har tidligere vist at han er dyktig med filmer som American Beauty og Road to Perdition.</strong> Og med Skyfall viser han det nok en gang og gjør samtidig et gjennombrudd i Bond-franchisen. Han tar det et steg videre ved å fokusere på Bond sin fortid (noe som aldri er blitt gjort tidligere). Bond er en mystisk karakter, men i Skyfall blir han avduket. Filmen er både stilsikker og nostalgisk, den minner aller mest om Sean Connery sine filmer - med tanke på gadgets, biler og våpenvalg.
 
@@ -204,7 +204,7 @@ meta:
     <strong>Skuespillere:</strong> Daniel Craig, Javier Bardem, Judi Dench, Ralph Fiennes, Naomie Harris, Bérénice Marlohe, Albert Finney, Ben Whishaw, Rory Kinnear, Ola Rapace.
     <strong>Spilletid:</strong> 2 timer og 23 minutter
 
-    <a href="//filmbloggen.net/2012/11/03/dyster-og-melankolsk-007/bond21/" rel="attachment wp-att-7911"><img class="alignnone size-large wp-image-7911" src="/wp-content/uploads//2012/10/bond21-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7911" src="/wp-content/uploads//2012/10/bond21-620x413.jpg" alt="" width="620" height="413" />
 
     <strong>Sam Mendes har tidligere vist at han er dyktig med filmer som American Beauty og Road to Perdition.</strong> Og med Skyfall viser han det nok en gang og gjør samtidig et gjennombrudd i Bond-franchisen. Han tar det et steg videre ved å fokusere på Bond sin fortid (noe som aldri er blitt gjort tidligere). Bond er en mystisk karakter, men i Skyfall blir han avduket. Filmen er både stilsikker og nostalgisk, den minner aller mest om Sean Connery sine filmer - med tanke på gadgets, biler og våpenvalg.
 
@@ -310,7 +310,7 @@ tags:
 **Skuespillere:** Daniel Craig, Javier Bardem, Judi Dench, Ralph Fiennes, Naomie Harris, Bérénice Marlohe, Albert Finney, Ben Whishaw, Rory Kinnear, Ola Rapace.
 **Spilletid:** 2 timer og 23 minutter
 
-<a href="//filmbloggen.net/2012/11/03/dyster-og-melankolsk-007/bond21/" rel="attachment wp-att-7911"><img class="alignnone size-large wp-image-7911" src="/wp-content/uploads//2012/10/bond21-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-7911" src="/wp-content/uploads//2012/10/bond21-620x413.jpg" alt="" width="620" height="413" />
 
 **Sam Mendes har tidligere vist at han er dyktig med filmer som American Beauty og Road to Perdition.** Og med Skyfall viser han det nok en gang og gjør samtidig et gjennombrudd i Bond-franchisen. Han tar det et steg videre ved å fokusere på Bond sin fortid (noe som aldri er blitt gjort tidligere). Bond er en mystisk karakter, men i Skyfall blir han avduket. Filmen er både stilsikker og nostalgisk, den minner aller mest om Sean Connery sine filmer – med tanke på gadgets, biler og våpenvalg.
 

@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Charlize Theron, Patton Oswalt, Patrick Wilson, Elisabeth Reaser, Collette Wolfe, Jill Eikenberry, Richard Bekins.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/06/17/alkoholisert-dame-pa-mannejakt/young-adult-bilde-3/" rel="attachment wp-att-4129"><img class="alignnone size-large wp-image-4129" src="/wp-content/uploads//2012/06/Young-Adult-bilde-3-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-4129" src="/wp-content/uploads//2012/06/Young-Adult-bilde-3-620x348.jpg" alt="" width="620" height="348" />
 
     Skaperen av de morsomme filmene Thank you for smoking og Juno slår til igjen, denne gangen med en film sentrert rundt en voksen dame med en tilsynelatende defekt hjerne. Filmen er for det meste en god prestasjon, men den når etter min mening dessverre ikke opp til standarden som er satt ved Juno, Up in the air og Thank you for smoking.
 
@@ -67,7 +67,7 @@ post_content:
     <strong>Skuespillere:</strong> Charlize Theron, Patton Oswalt, Patrick Wilson, Elisabeth Reaser, Collette Wolfe, Jill Eikenberry, Richard Bekins.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/06/17/alkoholisert-dame-pa-mannejakt/young-adult-bilde-3/" rel="attachment wp-att-4129"><img class="alignnone size-large wp-image-4129" src="/wp-content/uploads//2012/06/Young-Adult-bilde-3-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-4129" src="/wp-content/uploads//2012/06/Young-Adult-bilde-3-620x348.jpg" alt="" width="620" height="348" />
 
     Skaperen av de morsomme filmene Thank you for smoking og Juno slår til igjen, denne gangen med en film sentrert rundt en voksen dame med en tilsynelatende defekt hjerne. Filmen er for det meste en god prestasjon, men den når etter min mening dessverre ikke opp til standarden som er satt ved Juno, Up in the air og Thank you for smoking.
 
@@ -177,7 +177,7 @@ meta:
     <strong>Skuespillere:</strong> Charlize Theron, Patton Oswalt, Patrick Wilson, Elisabeth Reaser, Collette Wolfe, Jill Eikenberry, Richard Bekins.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/06/17/alkoholisert-dame-pa-mannejakt/young-adult-bilde-3/" rel="attachment wp-att-4129"><img class="alignnone size-large wp-image-4129" src="/wp-content/uploads//2012/06/Young-Adult-bilde-3-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-4129" src="/wp-content/uploads//2012/06/Young-Adult-bilde-3-620x348.jpg" alt="" width="620" height="348" />
 
     Skaperen av de morsomme filmene Thank you for smoking og Juno slår til igjen, denne gangen med en film sentrert rundt en voksen dame med en tilsynelatende defekt hjerne. Filmen er for det meste en god prestasjon, men den når etter min mening dessverre ikke opp til standarden som er satt ved Juno, Up in the air og Thank you for smoking.
 
@@ -202,7 +202,7 @@ meta:
     <strong>Skuespillere:</strong> Charlize Theron, Patton Oswalt, Patrick Wilson, Elisabeth Reaser, Collette Wolfe, Jill Eikenberry, Richard Bekins.
     <strong>Spilletid:</strong> 1 time og 34 minutter
 
-    <a href="//filmbloggen.net/2012/06/17/alkoholisert-dame-pa-mannejakt/young-adult-bilde-3/" rel="attachment wp-att-4129"><img class="alignnone size-large wp-image-4129" src="/wp-content/uploads//2012/06/Young-Adult-bilde-3-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-4129" src="/wp-content/uploads//2012/06/Young-Adult-bilde-3-620x348.jpg" alt="" width="620" height="348" />
 
     Skaperen av de morsomme filmene Thank you for smoking og Juno slår til igjen, denne gangen med en film sentrert rundt en voksen dame med en tilsynelatende defekt hjerne. Filmen er for det meste en god prestasjon, men den når etter min mening dessverre ikke opp til standarden som er satt ved Juno, Up in the air og Thank you for smoking.
 
@@ -305,7 +305,7 @@ tags:
 **Skuespillere:** Charlize Theron, Patton Oswalt, Patrick Wilson, Elisabeth Reaser, Collette Wolfe, Jill Eikenberry, Richard Bekins.
 **Spilletid:** 1 time og 34 minutter
 
-<a href="//filmbloggen.net/2012/06/17/alkoholisert-dame-pa-mannejakt/young-adult-bilde-3/" rel="attachment wp-att-4129"><img class="alignnone size-large wp-image-4129" src="/wp-content/uploads//2012/06/Young-Adult-bilde-3-620x348.jpg" alt="" width="620" height="348" /></a>
+<img class="alignnone size-large wp-image-4129" src="/wp-content/uploads//2012/06/Young-Adult-bilde-3-620x348.jpg" alt="" width="620" height="348" />
 
 Skaperen av de morsomme filmene Thank you for smoking og Juno slår til igjen, denne gangen med en film sentrert rundt en voksen dame med en tilsynelatende defekt hjerne. Filmen er for det meste en god prestasjon, men den når etter min mening dessverre ikke opp til standarden som er satt ved Juno, Up in the air og Thank you for smoking.
 

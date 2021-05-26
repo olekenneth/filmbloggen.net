@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> Robert Downey Jr, Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård, Samuel L. Jackson, Gwyneth Paltrow, Paul Bettany.
     <strong>Spilletid:</strong> 2 timer og 22 minutter
 
-    <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
+    <img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" />
 
     Når verden settes i fare for ødeleggelse blir Nick Fury (leder for S.H.I.E.L.D.) nødt til å samle sammen en gjeng med uvanlige superhelter og halvguder for å redde verden. Den antatt døde broren til Thor (Chris Hemsworth), Loke (Tom Hiddleston), gjenoppstår og er fast bestemt for å dominere verden ved hjelp av en utenomjordisk hær og en kube med umenneskelig mye kraft. Iron Man (Robert Downey Jr), Hulken (Mark Ruffalo) og Captain America (Chris Evans) er ikke enkle å overbevise, men de slår seg sammen til slutt for å bekjempe den utenomjordiske armeen ledet av Loke.
 
@@ -65,7 +65,7 @@ post_content:
     <strong>Skuespillere:</strong> Robert Downey Jr, Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård, Samuel L. Jackson, Gwyneth Paltrow, Paul Bettany.
     <strong>Spilletid:</strong> 2 timer og 22 minutter
 
-    <a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
+    <img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" />
 
     Når verden settes i fare for ødeleggelse blir Nick Fury (leder for S.H.I.E.L.D.) nødt til å samle sammen en gjeng med uvanlige superhelter og halvguder for å redde verden. Den antatt døde broren til Thor (Chris Hemsworth), Loke (Tom Hiddleston), gjenoppstår og er fast bestemt for å dominere verden ved hjelp av en utenomjordisk hær og en kube med umenneskelig mye kraft. Iron Man (Robert Downey Jr), Hulken (Mark Ruffalo) og Captain America (Chris Evans) er ikke enkle å overbevise, men de slår seg sammen til slutt for å bekjempe den utenomjordiske armeen ledet av Loke.
 
@@ -174,7 +174,7 @@ meta:
     <strong>Skuespillere:</strong> Robert Downey Jr, Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård, Samuel L. Jackson, Gwyneth Paltrow, Paul Bettany.
     <strong>Spilletid:</strong> 2 timer og 22 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=3155" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
+    <img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" />
 
     Når verden settes i fare for ødeleggelse blir Nick Fury (leder for S.H.I.E.L.D.) nødt til å samle sammen en gjeng med uvanlige superhelter og halvguder for å redde verden. Den antatt døde broren til Thor (Chris Hemsworth), Loke (Tom Hiddleston), gjenoppstår og er fast bestemt for å dominere verden ved hjelp av en utenomjordisk hær og en kube med umenneskelig mye kraft. Iron Man (Robert Downey Jr), Hulken (Mark Ruffalo) og Captain America (Chris Evans) er ikke enkle å overbevise, men de slår seg sammen til slutt for å bekjempe den utenomjordiske armeen ledet av Loke.
 
@@ -198,7 +198,7 @@ meta:
     <strong>Skuespillere:</strong> Robert Downey Jr, Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård, Samuel L. Jackson, Gwyneth Paltrow, Paul Bettany.
     <strong>Spilletid:</strong> 2 timer og 22 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=3155" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
+    <img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" />
 
     Når verden settes i fare for ødeleggelse blir Nick Fury (leder for S.H.I.E.L.D.) nødt til å samle sammen en gjeng med uvanlige superhelter og halvguder for å redde verden. Den antatt døde broren til Thor (Chris Hemsworth), Loke (Tom Hiddleston), gjenoppstår og er fast bestemt for å dominere verden ved hjelp av en utenomjordisk hær og en kube med umenneskelig mye kraft. Iron Man (Robert Downey Jr), Hulken (Mark Ruffalo) og Captain America (Chris Evans) er ikke enkle å overbevise, men de slår seg sammen til slutt for å bekjempe den utenomjordiske armeen ledet av Loke.
 
@@ -304,7 +304,7 @@ tags:
 **Skuespillere:** Robert Downey Jr, Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård, Samuel L. Jackson, Gwyneth Paltrow, Paul Bettany.
 **Spilletid:** 2 timer og 22 minutter
 
-<a href="//filmbloggen.net/2012/04/29/superheltene-innfrir/the-avengers-photo-01/" rel="attachment wp-att-3155"><img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" /></a>
+<img class="alignnone size-large wp-image-3155" src="/wp-content/uploads//2012/04/the-avengers-photo-01-620x465.jpg" alt="" width="620" height="465" />
 
 Når verden settes i fare for ødeleggelse blir Nick Fury (leder for S.H.I.E.L.D.) nødt til å samle sammen en gjeng med uvanlige superhelter og halvguder for å redde verden. Den antatt døde broren til Thor (Chris Hemsworth), Loke (Tom Hiddleston), gjenoppstår og er fast bestemt for å dominere verden ved hjelp av en utenomjordisk hær og en kube med umenneskelig mye kraft. Iron Man (Robert Downey Jr), Hulken (Mark Ruffalo) og Captain America (Chris Evans) er ikke enkle å overbevise, men de slår seg sammen til slutt for å bekjempe den utenomjordiske armeen ledet av Loke.
 

@@ -102,7 +102,7 @@ content:
   - |
     <strong>Det er ikke mange ukene til årets filmfestival i Bergen sparkes i gang, og i de siste ukene har vi sett programlisten bli fyldigere for hver uke som går. I dag kom det ytterlige 20 filmer på listen, blant dem en Ungarnsk film kalt, <em>Final Cut. </em></strong>
 
-    <a href="//filmbloggen.net/2012/10/03/den-intrikate-kjaerlighetsfortellingen-i-final-cut/20120121-final-cut-holgyeim-es-uraim5/" rel="attachment wp-att-7390"><img class="alignnone size-large wp-image-7390" src="/wp-content/uploads//2012/10/20120121-final-cut-holgyeim-es-uraim5-620x369.jpg" alt="" width="620" height="369" /></a>
+    <img class="alignnone size-large wp-image-7390" src="/wp-content/uploads//2012/10/20120121-final-cut-holgyeim-es-uraim5-620x369.jpg" alt="" width="620" height="369" />
 
     Det ikoniske stilbilde over er kjent fra den Fransk/Italienske filmen <em>Belle de Jour</em> fra 1967, men det er ikke <em>Belle de Jour </em>som presenterer denne scenen under årets filmfestival i Bergen. Den kommer gjennom en film kalt <em>Final Cut - Hölgyeim és Uraim</em>, eller bare <em>Final Cut.</em>
 
@@ -169,7 +169,7 @@ post_content:
   - |
     <strong>Det er ikke mange ukene til årets filmfestival i Bergen sparkes i gang, og i de siste ukene har vi sett programlisten bli fyldigere for hver uke som går. I dag kom det ytterlige 20 filmer på listen, blant dem en Ungarnsk film kalt, <em>Final Cut. </em></strong>
 
-    <a href="//filmbloggen.net/2012/10/03/den-intrikate-kjaerlighetsfortellingen-i-final-cut/20120121-final-cut-holgyeim-es-uraim5/" rel="attachment wp-att-7390"><img class="alignnone size-large wp-image-7390" src="/wp-content/uploads//2012/10/20120121-final-cut-holgyeim-es-uraim5-620x369.jpg" alt="" width="620" height="369" /></a>
+    <img class="alignnone size-large wp-image-7390" src="/wp-content/uploads//2012/10/20120121-final-cut-holgyeim-es-uraim5-620x369.jpg" alt="" width="620" height="369" />
 
     Det ikoniske stilbilde over er kjent fra den Fransk/Italienske filmen <em>Belle de Jour</em> fra 1967, men det er ikke <em>Belle de Jour </em>som presenterer denne scenen under årets filmfestival i Bergen. Den kommer gjennom en film kalt <em>Final Cut - Hölgyeim és Uraim</em>, eller bare <em>Final Cut.</em>
 
@@ -186,7 +186,7 @@ meta:
   - |
     a:74:{i:33543;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:33521;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:33574;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:33530;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"36ef2cb8f2";}i:33528;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:33532;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"5b04fe6c75";}i:33575;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:33567;a:2:{s:3:"key";s:7:"content";s:5:"value";s:2134:"<strong>Det er ikke mange ukene til årets filmfestival i Bergen sparkes i gang, og i de siste ukene har vi sett programlisten bli fyldigere for hver uke som går. I dag kom det ytterlige 20 filmer på listen, blant dem en Ungarnsk film kalt, <em>Final Cut. </em></strong>
 
-    <a href="//filmbloggen.net/?attachment_id=7390" rel="attachment wp-att-7390"><img class="alignnone size-large wp-image-7390" src="/wp-content/uploads//2012/10/20120121-final-cut-holgyeim-es-uraim5-620x369.jpg" alt="" width="620" height="369" /></a>
+    <img class="alignnone size-large wp-image-7390" src="/wp-content/uploads//2012/10/20120121-final-cut-holgyeim-es-uraim5-620x369.jpg" alt="" width="620" height="369" />
 
     Det ikoniske stilbilde over er kjent fra den Fransk/Italienske filmen <em>Belle de Jour</em> fra 1967, men det er ikke <em>Belle de Jour </em>som presenterer denne scenen under årets filmfestival i Bergen. Den kommer gjennom en film kalt <em>Final Cut - Hölgyeim és Uraim</em>, eller bare <em>Final Cut</em>,  for simplisitetens skyld.
 
@@ -196,7 +196,7 @@ meta:
 
     <em>Final Cut</em> er årets avslutningsfilm på BIFF, og den har ikke fått en ordinær premieredato i Norge, og det er nok ikke sikkert den vil få det. Jeg skal definitivt ta meg tid til å se denne mot slutten av oktober, så dere kan forvente en anmeldelse da.";}i:33552;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:33554;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"21";}i:33550;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"03";}i:33548;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"10";}i:33556;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"29";}i:33579;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:33568;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:33544;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"21";}i:33551;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:33553;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"21";}i:33549;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"03";}i:33547;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"10";}i:33555;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"29";}i:33537;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:33535;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:33538;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:33596;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"7389";}i:33541;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"03";}i:33531;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"7094d433d6";}i:33571;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:33570;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:33572;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:33542;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"10";}i:33545;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"29";}i:33560;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:33561;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:33522;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:33525;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:33557;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:33576;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:33523;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:3:"404";}i:33578;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:3:"404";}i:33597;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:2134:"<strong>Det er ikke mange ukene til årets filmfestival i Bergen sparkes i gang, og i de siste ukene har vi sett programlisten bli fyldigere for hver uke som går. I dag kom det ytterlige 20 filmer på listen, blant dem en Ungarnsk film kalt, <em>Final Cut. </em></strong>
 
-    <a href="//filmbloggen.net/?attachment_id=7390" rel="attachment wp-att-7390"><img class="alignnone size-large wp-image-7390" src="/wp-content/uploads//2012/10/20120121-final-cut-holgyeim-es-uraim5-620x369.jpg" alt="" width="620" height="369" /></a>
+    <img class="alignnone size-large wp-image-7390" src="/wp-content/uploads//2012/10/20120121-final-cut-holgyeim-es-uraim5-620x369.jpg" alt="" width="620" height="369" />
 
     Det ikoniske stilbilde over er kjent fra den Fransk/Italienske filmen <em>Belle de Jour</em> fra 1967, men det er ikke <em>Belle de Jour </em>som presenterer denne scenen under årets filmfestival i Bergen. Den kommer gjennom en film kalt <em>Final Cut - Hölgyeim és Uraim</em>, eller bare <em>Final Cut</em>,  for simplisitetens skyld.
 
@@ -227,7 +227,7 @@ tags:
 ---
 **Det er ikke mange ukene til årets filmfestival i Bergen sparkes i gang, og i de siste ukene har vi sett programlisten bli fyldigere for hver uke som går. I dag kom det ytterlige 20 filmer på listen, blant dem en Ungarnsk film kalt, _Final Cut. _**
 
-<a href="//filmbloggen.net/2012/10/03/den-intrikate-kjaerlighetsfortellingen-i-final-cut/20120121-final-cut-holgyeim-es-uraim5/" rel="attachment wp-att-7390"><img class="alignnone size-large wp-image-7390" src="/wp-content/uploads//2012/10/20120121-final-cut-holgyeim-es-uraim5-620x369.jpg" alt="" width="620" height="369" /></a>
+<img class="alignnone size-large wp-image-7390" src="/wp-content/uploads//2012/10/20120121-final-cut-holgyeim-es-uraim5-620x369.jpg" alt="" width="620" height="369" />
 
 Det ikoniske stilbilde over er kjent fra den Fransk/Italienske filmen _Belle de Jour_ fra 1967, men det er ikke _Belle de Jour_ som presenterer denne scenen under årets filmfestival i Bergen. Den kommer gjennom en film kalt _Final Cut – Hölgyeim és Uraim_, eller bare _Final Cut._
 

@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong><strong>Jeg må ærlig innrømme at jeg misunner de som ikke har sett de foregående filmene, fordi hadde denne filmen stått for seg selv hadde den blitt skikkelig magisk.
-    <a href="//filmbloggen.webalive.no/?attachment_id=433"><img class="alignnone size-large wp-image-433" title="X-men" src="//filmbloggen.webalive.no/files/2011/06/x-men-first-class-1024x642.jpg" alt="" width="620" height="388" /></a>
+    <img class="alignnone size-large wp-image-433" title="X-men" src="//filmbloggen.webalive.no/files/2011/06/x-men-first-class-1024x642.jpg" alt="" width="620" height="388" />
     Originaltittel: </strong></strong>X-Men First Class<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>
@@ -120,7 +120,7 @@ trackback_url:
 meta:
   - |
     a:70:{i:1680;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:1660;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:1714;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:1668;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"eebd2a973e";}i:1670;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"a515428b97";}i:1715;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:1705;a:2:{s:3:"key";s:7:"content";s:5:"value";s:3341:"<strong><strong>Jeg må ærlig innrømme at jeg misunner de som ikke har sett de foregående filmene, fordi hadde denne filmen stått for seg selv hadde den blitt skikkelig magisk.
-    <a href="//filmbloggen.webalive.no/?attachment_id=433"><img class="alignnone size-large wp-image-433" title="X-men" src="//filmbloggen.webalive.no/files/2011/06/x-men-first-class-1024x642.jpg" alt="" width="620" height="388" /></a>
+    <img class="alignnone size-large wp-image-433" title="X-men" src="//filmbloggen.webalive.no/files/2011/06/x-men-first-class-1024x642.jpg" alt="" width="620" height="388" />
     Originaltittel: </strong></strong>X-Men First Class<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>
@@ -134,7 +134,7 @@ meta:
     For de som ikke er skikkelige fans og det finnes sikkert de som ikke har sett noen av filmene til og med, dere kommer nok i perioder til å slite med å holde følge og stille et par spørsmålstegn underveis. Men filmen er så absolutt verdt å se for alle uansett hva slags bakgrunn du har. Det eneste jeg er griseredd for at dette kan bli en ny Star Wars og at vi nå ender opp med 2-3 filmer til om X-Men First Class. VÆR SÅ SNILL og la oss slippe det, fordi det blir bare flaut.
 
     <strong>Kanskje er jeg på jordet. Hva synes dere om X-Men First Class? Setter pris på kommentarer og tilbakemeldinger i kommentarfeltet.</strong>";}i:1689;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:1691;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"17";}i:1687;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"13";}i:1685;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:1693;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"25";}i:1706;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:1681;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"01";}i:1688;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:1690;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"01";}i:1686;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"22";}i:1684;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"06";}i:1692;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"00";}i:1674;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:1672;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:1675;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:1732;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"432";}i:626;a:2:{s:3:"key";s:16:"jabber_published";s:5:"value";s:10:"1308697204";}i:1678;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"22";}i:1669;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"1d95b3a192";}i:1711;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:1710;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:1712;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:1679;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"06";}i:1682;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"00";}i:1698;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:1699;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:1661;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:1664;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:1694;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:1716;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:1662;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:1718;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:1733;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:3341:"<strong><strong>Jeg må ærlig innrømme at jeg misunner de som ikke har sett de foregående filmene, fordi hadde denne filmen stått for seg selv hadde den blitt skikkelig magisk.
-    <a href="//filmbloggen.webalive.no/?attachment_id=433"><img class="alignnone size-large wp-image-433" title="X-men" src="//filmbloggen.webalive.no/files/2011/06/x-men-first-class-1024x642.jpg" alt="" width="620" height="388" /></a>
+    <img class="alignnone size-large wp-image-433" title="X-men" src="//filmbloggen.webalive.no/files/2011/06/x-men-first-class-1024x642.jpg" alt="" width="620" height="388" />
     Originaltittel: </strong></strong>X-Men First Class<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>
@@ -195,7 +195,7 @@ ID:
 post_content:
   - |
     <strong><strong>Jeg må ærlig innrømme at jeg misunner de som ikke har sett de foregående filmene, fordi hadde denne filmen stått for seg selv hadde den blitt skikkelig magisk.
-    <a href="//filmbloggen.webalive.no/?attachment_id=433"><img class="alignnone size-large wp-image-433" title="X-men" src="//filmbloggen.webalive.no/files/2011/06/x-men-first-class-1024x642.jpg" alt="" width="620" height="388" /></a>
+    <img class="alignnone size-large wp-image-433" title="X-men" src="//filmbloggen.webalive.no/files/2011/06/x-men-first-class-1024x642.jpg" alt="" width="620" height="388" />
     Originaltittel: </strong></strong>X-Men First Class<strong><strong>
     Kategori:</strong> </strong>Action<strong>
     <strong>Spilletid:</strong> </strong>2 timer og 12 minutter<strong>

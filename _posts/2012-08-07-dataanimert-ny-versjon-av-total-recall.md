@@ -110,7 +110,7 @@ content:
     Manus: </strong>Kurt Wimmer, Mark Bomback<strong>
     Skuespillere: </strong> Colin Farrell, Jessica Biel, Kate Beckinsale, Bryan Cranston, Bill Nighy, John Cho
 
-    <a href="//filmbloggen.net/2012/08/07/dataanimert-ny-versjon-av-total-recall/925842-total-recall/" rel="attachment wp-att-5913"><img class="alignnone size-large wp-image-5913" src="/wp-content/uploads//2012/08/11-001-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-5913" src="/wp-content/uploads//2012/08/11-001-620x412.jpg" alt="" width="620" height="412" />
 
     <em><strong>Total Recall</strong></em> er åpenbart en gjenfortelling av 1990-filmen med samme navn, hvor Arnold Schwarzenegger sto i hovedrollen – som igjen er basert på en novelle skrevet av Phillip K. Dirk, som også skrev boken som inspirerte <strong>Blade Runner</strong>. Her møter vi en dyster Colin Farrell som ønsker seg noe mer i livet, det til tross for sine vakre kone og sikre arbeidsplass. Han drar derfor til ’Rekall’ – et senter som kan gi mennesker nye minner - for å teste tilbudet, men når maskinen finner en hemmelighet i Farrells minnebank blir han ettersøkt av myndighetene for å være en del av motstandsbevegelsen. Uten noen egne minner fra denne motstandsbevegelsen setter han ut på en jakt for å finne ut hvem han egentlig er og hvorfor noen har gitt ham en ny identitet og fjernet den gamle.
 
@@ -187,7 +187,7 @@ post_content:
     Manus: </strong>Kurt Wimmer, Mark Bomback<strong>
     Skuespillere: </strong> Colin Farrell, Jessica Biel, Kate Beckinsale, Bryan Cranston, Bill Nighy, John Cho
 
-    <a href="//filmbloggen.net/2012/08/07/dataanimert-ny-versjon-av-total-recall/925842-total-recall/" rel="attachment wp-att-5913"><img class="alignnone size-large wp-image-5913" src="/wp-content/uploads//2012/08/11-001-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-5913" src="/wp-content/uploads//2012/08/11-001-620x412.jpg" alt="" width="620" height="412" />
 
     <em><strong>Total Recall</strong></em> er åpenbart en gjenfortelling av 1990-filmen med samme navn, hvor Arnold Schwarzenegger sto i hovedrollen – som igjen er basert på en novelle skrevet av Phillip K. Dirk, som også skrev boken som inspirerte <strong>Blade Runner</strong>. Her møter vi en dyster Colin Farrell som ønsker seg noe mer i livet, det til tross for sine vakre kone og sikre arbeidsplass. Han drar derfor til ’Rekall’ – et senter som kan gi mennesker nye minner - for å teste tilbudet, men når maskinen finner en hemmelighet i Farrells minnebank blir han ettersøkt av myndighetene for å være en del av motstandsbevegelsen. Uten noen egne minner fra denne motstandsbevegelsen setter han ut på en jakt for å finne ut hvem han egentlig er og hvorfor noen har gitt ham en ny identitet og fjernet den gamle.
 
@@ -214,7 +214,7 @@ meta:
     Manus: </strong>Kurt Wimmer, Mark Bomback<strong>
     Skuespillere: </strong> Colin Farrell, Jessica Biel, Kate Beckinsale, Bryan Cranston, Bill Nighy, John Cho
 
-    <a href="//filmbloggen.net/2012/08/07/dataanimert-ny-versjon-av-total-recall/925842-total-recall/" rel="attachment wp-att-5913"><img class="alignnone size-large wp-image-5913" src="/wp-content/uploads//2012/08/11-001-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-5913" src="/wp-content/uploads//2012/08/11-001-620x412.jpg" alt="" width="620" height="412" />
 
     <em><strong>Total Recall</strong></em> er åpenbart en gjenfortelling av 1990-filmen med samme navn, hvor Arnold Schwarzenegger sto i hovedrollen – som igjen er basert på en novelle skrevet av Phillip K. Dirk, som også skrev boken som inspirerte <strong>Blade Runner</strong>. Her møter vi en dyster Colin Farrell som ønsker seg noe mer i livet, det til tross for sine vakre kone og sikre arbeidsplass. Han drar derfor til ’Rekall’ – et senter som kan gi mennesker nye minner - for å teste tilbudet, men når maskinen finner en hemmelighet i Farrells minnebank blir han ettersøkt av myndighetene for å være en del av motstandsbevegelsen. Uten noen egne minner fra denne motstandsbevegelsen setter han ut på en jakt for å finne ut hvem han egentlig er og hvorfor noen har gitt ham en ny identitet og fjernet den gamle.
 
@@ -234,7 +234,7 @@ meta:
     Manus: </strong>Kurt Wimmer, Mark Bomback<strong>
     Skuespillere: </strong> Colin Farrell, Jessica Biel, Kate Beckinsale, Bryan Cranston, Bill Nighy, John Cho
 
-    <a href="//filmbloggen.net/2012/08/07/dataanimert-ny-versjon-av-total-recall/925842-total-recall/" rel="attachment wp-att-5913"><img class="alignnone size-large wp-image-5913" src="/wp-content/uploads//2012/08/11-001-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-5913" src="/wp-content/uploads//2012/08/11-001-620x412.jpg" alt="" width="620" height="412" />
 
     <em><strong>Total Recall</strong></em> er åpenbart en gjenfortelling av 1990-filmen med samme navn, hvor Arnold Schwarzenegger sto i hovedrollen – som igjen er basert på en novelle skrevet av Phillip K. Dirk, som også skrev boken som inspirerte <strong>Blade Runner</strong>. Her møter vi en dyster Colin Farrell som ønsker seg noe mer i livet, det til tross for sine vakre kone og sikre arbeidsplass. Han drar derfor til ’Rekall’ – et senter som kan gi mennesker nye minner - for å teste tilbudet, men når maskinen finner en hemmelighet i Farrells minnebank blir han ettersøkt av myndighetene for å være en del av motstandsbevegelsen. Uten noen egne minner fra denne motstandsbevegelsen setter han ut på en jakt for å finne ut hvem han egentlig er og hvorfor noen har gitt ham en ny identitet og fjernet den gamle.
 
@@ -284,7 +284,7 @@ Regi:** Len Wiseman**
 Manus:** Kurt Wimmer, Mark Bomback**
 Skuespillere: ** Colin Farrell, Jessica Biel, Kate Beckinsale, Bryan Cranston, Bill Nighy, John Cho
 
-<a href="//filmbloggen.net/2012/08/07/dataanimert-ny-versjon-av-total-recall/925842-total-recall/" rel="attachment wp-att-5913"><img class="alignnone size-large wp-image-5913" src="/wp-content/uploads//2012/08/11-001-620x412.jpg" alt="" width="620" height="412" /></a>
+<img class="alignnone size-large wp-image-5913" src="/wp-content/uploads//2012/08/11-001-620x412.jpg" alt="" width="620" height="412" />
 
 _**Total Recall**_ er åpenbart en gjenfortelling av 1990-filmen med samme navn, hvor Arnold Schwarzenegger sto i hovedrollen – som igjen er basert på en novelle skrevet av Phillip K. Dirk, som også skrev boken som inspirerte **Blade Runner**. Her møter vi en dyster Colin Farrell som ønsker seg noe mer i livet, det til tross for sine vakre kone og sikre arbeidsplass. Han drar derfor til ’Rekall’ – et senter som kan gi mennesker nye minner – for å teste tilbudet, men når maskinen finner en hemmelighet i Farrells minnebank blir han ettersøkt av myndighetene for å være en del av motstandsbevegelsen. Uten noen egne minner fra denne motstandsbevegelsen setter han ut på en jakt for å finne ut hvem han egentlig er og hvorfor noen har gitt ham en ny identitet og fjernet den gamle.
 

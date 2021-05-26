@@ -227,7 +227,7 @@ categories:
 ---
 **Jeg lagde i forrige uke en topp 10 liste over idrettsfilmer. Hvorfor er det slik at norske filmregissører aldri har prøvd på å lage en skikkelig idrettsfilm?<!--more-->
 
-<a href="//filmbloggen.net/2012/05/18/filmbloggen-vil-ha-film-om-dale-oen/alex-dale-oen/" rel="attachment wp-att-3528"><img class="alignnone size-full wp-image-3528" src="/wp-content/uploads//2012/05/alex-dale-oen.jpg" alt="" width="620" height="413" /><br /> </a>**Tanken slo meg når jeg sto å så på Norge mot Russland i VM på 17. mai. Jeg så nemlig Miracle her om dagen som jeg satt på andreplass i min [liste](//filmbloggen.net/2012/05/09/topp-10-idrettsfilmer/). Jeg fikk mye av den samme følelsen når vi klarte å kjempe oss til 2-2 til pause i andre periode. Det var en fantastisk prestasjon av et norsk lag uten ressurser.
+<img class="alignnone size-full wp-image-3528" src="/wp-content/uploads//2012/05/alex-dale-oen.jpg" alt="" width="620" height="413" /><br /> **Tanken slo meg når jeg sto å så på Norge mot Russland i VM på 17. mai. Jeg så nemlig Miracle her om dagen som jeg satt på andreplass i min [liste](//filmbloggen.net/2012/05/09/topp-10-idrettsfilmer/). Jeg fikk mye av den samme følelsen når vi klarte å kjempe oss til 2-2 til pause i andre periode. Det var en fantastisk prestasjon av et norsk lag uten ressurser.
 
 Vi er et lite land. Men allikevel har vi mange sterke idrettsprestasjoner opp igjennom årene. Er virkelig ingen av de kvalifiserte nok til å lage film av? Jeg er rimelig sikker på at hvis man leter vil man finne et øyeblikk som vil få den gjennomsnittele nordmann engasjert. Det er ingenting som skaper mer følelser enn idrett. Uansett nivå, eller type idrett.
 

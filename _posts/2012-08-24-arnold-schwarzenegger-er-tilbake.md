@@ -14,7 +14,7 @@ content:
   - |
     <strong>Schwarzenegger har hovedrollen i den kommende filmen <em>Last Stand</em> sammen med blant andre Forest Whitaker, Johnny Knoxville, Peter Stormare og Rodrigo Santoro. Det blir spennende å se hvorvidt Hollywood-debuten til Kim Ji-woon blir en suksess.<!--more--></strong>
 
-    <a href="//filmbloggen.net/2012/08/24/arnold-schwarzenegger-er-tilbake/the-last-stand/" rel="attachment wp-att-6559"><img class="alignnone size-large wp-image-6559" src="/wp-content/uploads//2012/08/the-last-stand-620x340.jpg" alt="" width="620" height="340" /></a>
+    <img class="alignnone size-large wp-image-6559" src="/wp-content/uploads//2012/08/the-last-stand-620x340.jpg" alt="" width="620" height="340" />
 
     Filmen skal finne sted i grensebyen Sommerton Junction, hvor Sheriff Ray Owens (Arnold Schwarzenegger) holder alt under kontroll med sin autoritet. En dag får vedkomne en telefon fra FBI om at en gjeng med kriminelle er på vei mot hans lille fredfulle landsby, og da må han ta stilling til om han er den rette til å forsvare landsbyen.
 
@@ -45,7 +45,7 @@ post_content:
   - |
     <strong>Schwarzenegger har hovedrollen i den kommende filmen <em>Last Stand</em> sammen med blant andre Forest Whitaker, Johnny Knoxville, Peter Stormare og Rodrigo Santoro. Det blir spennende å se hvorvidt Hollywood-debuten til Kim Ji-woon blir en suksess.<!--more--></strong>
 
-    <a href="//filmbloggen.net/2012/08/24/arnold-schwarzenegger-er-tilbake/the-last-stand/" rel="attachment wp-att-6559"><img class="alignnone size-large wp-image-6559" src="/wp-content/uploads//2012/08/the-last-stand-620x340.jpg" alt="" width="620" height="340" /></a>
+    <img class="alignnone size-large wp-image-6559" src="/wp-content/uploads//2012/08/the-last-stand-620x340.jpg" alt="" width="620" height="340" />
 
     Filmen skal finne sted i grensebyen Sommerton Junction, hvor Sheriff Ray Owens (Arnold Schwarzenegger) holder alt under kontroll med sin autoritet. En dag får vedkomne en telefon fra FBI om at en gjeng med kriminelle er på vei mot hans lille fredfulle landsby, og da må han ta stilling til om han er den rette til å forsvare landsbyen.
 
@@ -138,7 +138,7 @@ meta:
   - |
     a:76:{i:30699;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:29885;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:30730;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:30688;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"c1f82bf028";}i:30690;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"d575f2aa68";}i:29890;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:29883;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1623:"<strong>Schwarzenegger har hovedrollen i den kommende filmen <em>Last Stand</em> sammen med blant andre Forest Whitaker, Johnny Knoxville, Peter Stormare og Rodrigo Santoro. Det blir spennende å se hvorvidt Hollywood-debuten til Kim Ji-woon blir en suksess.<!--more--></strong>
 
-    <a href="//filmbloggen.net/2012/08/24/arnold-schwarzenegger-er-tilbake/the-last-stand/" rel="attachment wp-att-6559"><img class="alignnone size-large wp-image-6559" src="/wp-content/uploads//2012/08/the-last-stand-620x340.jpg" alt="" width="620" height="340" /></a>
+    <img class="alignnone size-large wp-image-6559" src="/wp-content/uploads//2012/08/the-last-stand-620x340.jpg" alt="" width="620" height="340" />
 
     Filmen skal finne sted i grensebyen Sommerton Junction, hvor Sheriff Ray Owens (Arnold Schwarzenegger) holder alt under kontroll med sin autoritet. En dag får vedkomne en telefon fra FBI om at en gjeng med kriminelle er på vei mot hans lille fredfulle landsby, og da må han ta stilling til om han er den rette til å forsvare landsbyen.
 
@@ -148,7 +148,7 @@ meta:
 
     [youtube id="UIersyq-Gt8" width="620" height="350"]";}i:30708;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:30710;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"12";}i:30706;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"24";}i:30704;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"08";}i:30712;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"25";}i:30733;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:30722;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:30700;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"12";}i:30707;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:30709;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"12";}i:30705;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"24";}i:30703;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"08";}i:30711;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"12";}i:30693;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:30692;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:30694;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:29894;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"6306";}i:30697;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"24";}i:30689;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"813997f29f";}i:30727;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:30726;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:30728;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:30698;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"08";}i:30701;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"12";}i:30715;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:30716;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:30685;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:30686;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:30713;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:29891;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:29897;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:2:"11";}i:30732;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:2:"11";}i:29895;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1623:"<strong>Schwarzenegger har hovedrollen i den kommende filmen <em>Last Stand</em> sammen med blant andre Forest Whitaker, Johnny Knoxville, Peter Stormare og Rodrigo Santoro. Det blir spennende å se hvorvidt Hollywood-debuten til Kim Ji-woon blir en suksess.<!--more--></strong>
 
-    <a href="//filmbloggen.net/2012/08/24/arnold-schwarzenegger-er-tilbake/the-last-stand/" rel="attachment wp-att-6559"><img class="alignnone size-large wp-image-6559" src="/wp-content/uploads//2012/08/the-last-stand-620x340.jpg" alt="" width="620" height="340" /></a>
+    <img class="alignnone size-large wp-image-6559" src="/wp-content/uploads//2012/08/the-last-stand-620x340.jpg" alt="" width="620" height="340" />
 
     Filmen skal finne sted i grensebyen Sommerton Junction, hvor Sheriff Ray Owens (Arnold Schwarzenegger) holder alt under kontroll med sin autoritet. En dag får vedkomne en telefon fra FBI om at en gjeng med kriminelle er på vei mot hans lille fredfulle landsby, og da må han ta stilling til om han er den rette til å forsvare landsbyen.
 
@@ -230,7 +230,7 @@ format: video
 ---
 **Schwarzenegger har hovedrollen i den kommende filmen _Last Stand_ sammen med blant andre Forest Whitaker, Johnny Knoxville, Peter Stormare og Rodrigo Santoro. Det blir spennende å se hvorvidt Hollywood-debuten til Kim Ji-woon blir en suksess.<!--more-->**
 
-<a href="//filmbloggen.net/2012/08/24/arnold-schwarzenegger-er-tilbake/the-last-stand/" rel="attachment wp-att-6559"><img class="alignnone size-large wp-image-6559" src="/wp-content/uploads//2012/08/the-last-stand-620x340.jpg" alt="" width="620" height="340" /></a>
+<img class="alignnone size-large wp-image-6559" src="/wp-content/uploads//2012/08/the-last-stand-620x340.jpg" alt="" width="620" height="340" />
 
 Filmen skal finne sted i grensebyen Sommerton Junction, hvor Sheriff Ray Owens (Arnold Schwarzenegger) holder alt under kontroll med sin autoritet. En dag får vedkomne en telefon fra FBI om at en gjeng med kriminelle er på vei mot hans lille fredfulle landsby, og da må han ta stilling til om han er den rette til å forsvare landsbyen.
 

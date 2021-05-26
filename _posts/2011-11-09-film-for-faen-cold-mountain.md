@@ -104,7 +104,7 @@ content:
     <strong>Regi:</strong> Anthony Minghella
     <strong>Manus:</strong> Anthony Minghella
     <strong>Med: </strong>Jude Law, Nicole Kidman, Renée Zellweger, Natalie Portman,Phillip Saymour Hoffman, Donald Sutherland, Ray Winstone, Brendan Gleeson, Kathy Baker, James Gammon, Giovanni Ribisi, Eileen Atkins, Charlie Hunnam, Jena Malone, Ethan Suplee, Jack White
-    <h1><a href="//filmbloggen.net/2011/11/09/film-for-faen-cold-mountain/cold-mountain-1/" rel="attachment wp-att-1737"><img class="alignnone size-large wp-image-1737" src="/wp-content/uploads//2011/11/Cold-Mountain-1-620x410.jpg" alt="" width="620" height="410" /></a>En helt oppslukende kjærlighetshistorie.</h1>
+    <h1><img class="alignnone size-large wp-image-1737" src="/wp-content/uploads//2011/11/Cold-Mountain-1-620x410.jpg" alt="" width="620" height="410" />En helt oppslukende kjærlighetshistorie.</h1>
     Filmen er først og fremst en historie om kjærligheten mellom Ada, som flytter til Cold Mountain med sin syke far, og Inman som jobber med å snekre den nye kirken i fjellbygda, og hvordan deres korte tid sammen blir til en kjærlighet som holder dem i livet.
     Inman går ut i borgerkrigen mot Yankee'ene etter å ha kjent Ada kun en kort periode, og med svært ord vekslet mellom dem.
 
@@ -187,7 +187,7 @@ post_content:
     <strong>Regi:</strong> Anthony Minghella
     <strong>Manus:</strong> Anthony Minghella
     <strong>Med: </strong>Jude Law, Nicole Kidman, Renée Zellweger, Natalie Portman,Phillip Saymour Hoffman, Donald Sutherland, Ray Winstone, Brendan Gleeson, Kathy Baker, James Gammon, Giovanni Ribisi, Eileen Atkins, Charlie Hunnam, Jena Malone, Ethan Suplee, Jack White
-    <h1><a href="//filmbloggen.net/2011/11/09/film-for-faen-cold-mountain/cold-mountain-1/" rel="attachment wp-att-1737"><img class="alignnone size-large wp-image-1737" src="/wp-content/uploads//2011/11/Cold-Mountain-1-620x410.jpg" alt="" width="620" height="410" /></a>En helt oppslukende kjærlighetshistorie.</h1>
+    <h1><img class="alignnone size-large wp-image-1737" src="/wp-content/uploads//2011/11/Cold-Mountain-1-620x410.jpg" alt="" width="620" height="410" />En helt oppslukende kjærlighetshistorie.</h1>
     Filmen er først og fremst en historie om kjærligheten mellom Ada, som flytter til Cold Mountain med sin syke far, og Inman som jobber med å snekre den nye kirken i fjellbygda, og hvordan deres korte tid sammen blir til en kjærlighet som holder dem i livet.
     Inman går ut i borgerkrigen mot Yankee'ene etter å ha kjent Ada kun en kort periode, og med svært ord vekslet mellom dem.
 
@@ -224,7 +224,7 @@ meta:
     <strong>Regi:</strong> Anthony Minghella
     <strong>Manus:</strong> Anthony Minghella
     <strong>Med: </strong>Jude Law, Nicole Kidman, Renée Zellweger, Natalie Portman,Phillip Saymour Hoffman, Donald Sutherland, Ray Winstone, Brendan Gleeson, Kathy Baker, James Gammon, Giovanni Ribisi, Eileen Atkins, Charlie Hunnam, Jena Malone, Ethan Suplee, Jack White
-    <h1><a href="//filmbloggen.net/?attachment_id=1737" rel="attachment wp-att-1737"><img class="alignnone size-large wp-image-1737" title="Cold Mountain 1" src="/wp-content/uploads//2011/11/Cold-Mountain-1-620x410.jpg" alt="" width="620" height="410" /></a>En helt oppslukende kjærlighetshistorie.</h1>
+    <h1><img class="alignnone size-large wp-image-1737" title="Cold Mountain 1" src="/wp-content/uploads//2011/11/Cold-Mountain-1-620x410.jpg" alt="" width="620" height="410" />En helt oppslukende kjærlighetshistorie.</h1>
     Filmen er først og fremst en historie om kjærligheten mellom Ada, som flytter til Cold Mountain med sin syke far, og Inman som jobber med å snekre den nye kirken i fjellbygda, og hvordan deres korte tid sammen blir til en kjærlighet som holder dem i livet.
     Inman går ut i borgerkrigen mot Yankee'ene etter å ha kjent Ada kun en kort periode, og med svært ord vekslet mellom dem.
 
@@ -252,7 +252,7 @@ meta:
     <strong>Regi:</strong> Anthony Minghella
     <strong>Manus:</strong> Anthony Minghella
     <strong>Med: </strong>Jude Law, Nicole Kidman, Renée Zellweger, Natalie Portman,Phillip Saymour Hoffman, Donald Sutherland, Ray Winstone, Brendan Gleeson, Kathy Baker, James Gammon, Giovanni Ribisi, Eileen Atkins, Charlie Hunnam, Jena Malone, Ethan Suplee, Jack White
-    <h1><a href="//filmbloggen.net/?attachment_id=1737" rel="attachment wp-att-1737"><img class="alignnone size-large wp-image-1737" title="Cold Mountain 1" src="/wp-content/uploads//2011/11/Cold-Mountain-1-620x410.jpg" alt="" width="620" height="410" /></a>En helt oppslukende kjærlighetshistorie.</h1>
+    <h1><img class="alignnone size-large wp-image-1737" title="Cold Mountain 1" src="/wp-content/uploads//2011/11/Cold-Mountain-1-620x410.jpg" alt="" width="620" height="410" />En helt oppslukende kjærlighetshistorie.</h1>
     Filmen er først og fremst en historie om kjærligheten mellom Ada, som flytter til Cold Mountain med sin syke far, og Inman som jobber med å snekre den nye kirken i fjellbygda, og hvordan deres korte tid sammen blir til en kjærlighet som holder dem i livet.
     Inman går ut i borgerkrigen mot Yankee'ene etter å ha kjent Ada kun en kort periode, og med svært ord vekslet mellom dem.
 
@@ -287,7 +287,7 @@ categories:
 **Manus:** Anthony Minghella
 **Med:** Jude Law, Nicole Kidman, Renée Zellweger, Natalie Portman,Phillip Saymour Hoffman, Donald Sutherland, Ray Winstone, Brendan Gleeson, Kathy Baker, James Gammon, Giovanni Ribisi, Eileen Atkins, Charlie Hunnam, Jena Malone, Ethan Suplee, Jack White
 
-# <a href="//filmbloggen.net/2011/11/09/film-for-faen-cold-mountain/cold-mountain-1/" rel="attachment wp-att-1737"><img class="alignnone size-large wp-image-1737" src="/wp-content/uploads//2011/11/Cold-Mountain-1-620x410.jpg" alt="" width="620" height="410" /></a>En helt oppslukende kjærlighetshistorie.
+# <img class="alignnone size-large wp-image-1737" src="/wp-content/uploads//2011/11/Cold-Mountain-1-620x410.jpg" alt="" width="620" height="410" />En helt oppslukende kjærlighetshistorie.
 
 Filmen er først og fremst en historie om kjærligheten mellom Ada, som flytter til Cold Mountain med sin syke far, og Inman som jobber med å snekre den nye kirken i fjellbygda, og hvordan deres korte tid sammen blir til en kjærlighet som holder dem i livet.
 Inman går ut i borgerkrigen mot Yankee’ene etter å ha kjent Ada kun en kort periode, og med svært ord vekslet mellom dem.

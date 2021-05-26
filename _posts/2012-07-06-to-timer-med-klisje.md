@@ -107,7 +107,7 @@ content:
     <strong>Regi:</strong> Kirk Jones
     <strong>Skuespillere: </strong>Cameron Diaz, Elizabeth Banks, Brooklyn Decker, Anna Kendrick, Jennifer Lopez, Rodrigo Santoro, Chris Rock, Amir Talai
     <strong>Spilletid:</strong> 1 time og 59 minutter
-    <a href="//filmbloggen.net/2012/07/06/to-timer-med-klisje/wte_07591-cr2/" rel="attachment wp-att-4918"><img class="alignnone size-large wp-image-4918" src="/wp-content/uploads//2012/07/kcfjrsu5-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-4918" src="/wp-content/uploads//2012/07/kcfjrsu5-620x413.jpg" alt="" width="620" height="413" />
     <em>Foto: Nordisk Filmdistribusjon</em>
 
     Filmen handler om graviditet og tar opp en rekke familieforhold. Vi møter ulike par som venter barn for aller første gang. Blant annet tv-Fitness dronningen Jules (Cameron Diaz) som blir gravid tidlig i sitt forhold med danseren Evan (Chase Crawford). Fotografen Holly (Jennifer Lopez) som vil adoptere. Wendy er en babygal forfatter som opplever det å bli mor som litt vanskeligere enn forventet. Vi møter også med et ungt par som blir gravid etter et one-night stand. Budskapet i filmen er så enkelt som at familie er det viktigste man har.
@@ -182,7 +182,7 @@ post_content:
     <strong>Regi:</strong> Kirk Jones
     <strong>Skuespillere: </strong>Cameron Diaz, Elizabeth Banks, Brooklyn Decker, Anna Kendrick, Jennifer Lopez, Rodrigo Santoro, Chris Rock, Amir Talai
     <strong>Spilletid:</strong> 1 time og 59 minutter
-    <a href="//filmbloggen.net/2012/07/06/to-timer-med-klisje/wte_07591-cr2/" rel="attachment wp-att-4918"><img class="alignnone size-large wp-image-4918" src="/wp-content/uploads//2012/07/kcfjrsu5-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-4918" src="/wp-content/uploads//2012/07/kcfjrsu5-620x413.jpg" alt="" width="620" height="413" />
     <em>Foto: Nordisk Filmdistribusjon</em>
 
     Filmen handler om graviditet og tar opp en rekke familieforhold. Vi møter ulike par som venter barn for aller første gang. Blant annet tv-Fitness dronningen Jules (Cameron Diaz) som blir gravid tidlig i sitt forhold med danseren Evan (Chase Crawford). Fotografen Holly (Jennifer Lopez) som vil adoptere. Wendy er en babygal forfatter som opplever det å bli mor som litt vanskeligere enn forventet. Vi møter også med et ungt par som blir gravid etter et one-night stand. Budskapet i filmen er så enkelt som at familie er det viktigste man har.
@@ -209,7 +209,7 @@ meta:
     <strong>Regi:</strong> Kirk Jones
     <strong>Skuespillere: </strong>Cameron Diaz, Elizabeth Banks, Brooklyn Decker, Anna Kendrick, Jennifer Lopez, Rodrigo Santoro, Chris Rock, Amir Talai
     <strong>Spilletid:</strong> 1 time og 59 minutter
-    <a href="//filmbloggen.net/2012/07/06/to-timer-med-klisje/wte_07591-cr2/" rel="attachment wp-att-4918"><img class="alignnone size-large wp-image-4918" src="/wp-content/uploads//2012/07/kcfjrsu5-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-4918" src="/wp-content/uploads//2012/07/kcfjrsu5-620x413.jpg" alt="" width="620" height="413" />
     Filmen handler om graviditet og tar opp en rekke familieforhold. Vi møter ulike par som venter barn for aller første gang. Blant annet tv-Fitness dronningen Jules (Cameron Diaz) som blir gravid tidlig i sitt forhold med danseren Evan (Chase Crawford). Fotografen Holly (Jennifer Lopez) som vil adoptere. Wendy er en babygal forfatter som opplever det å bli mor som litt vanskeligere enn forventet. Vi møter også med et ungt par som blir gravid etter et one-night stand. Budskapet i filmen er så enkelt som at familie er det viktigste man har.
 
     <strong>Skuespillet fungerer helt greit, men karakterene er overfladiske og skuespillet blir derfor lite realistisk. Noen av karakterene har så lite med hverandre å gjøre, at det blir unaturlig at de spiller i samme film. To av parene er i familie, mens andre bare krysser hverandre «tilfeldig» på gaten. Forholdene blir litt for løse til at det fungerer. Det eneste de har til felles er at de befinner seg på samme sykehus mot slutten av filmen. Sånn sett blir filmens oppbygning en dårlig etterligning av Love Actually.</strong>
@@ -225,7 +225,7 @@ meta:
     <strong>Regi:</strong> Kirk Jones
     <strong>Skuespillere: </strong>Cameron Diaz, Elizabeth Banks, Brooklyn Decker, Anna Kendrick, Jennifer Lopez, Rodrigo Santoro, Chris Rock, Amir Talai
     <strong>Spilletid:</strong> 1 time og 59 minutter
-    <a href="//filmbloggen.net/2012/07/06/to-timer-med-klisje/wte_07591-cr2/" rel="attachment wp-att-4918"><img class="alignnone size-large wp-image-4918" src="/wp-content/uploads//2012/07/kcfjrsu5-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-4918" src="/wp-content/uploads//2012/07/kcfjrsu5-620x413.jpg" alt="" width="620" height="413" />
     Filmen handler om graviditet og tar opp en rekke familieforhold. Vi møter ulike par som venter barn for aller første gang. Blant annet tv-Fitness dronningen Jules (Cameron Diaz) som blir gravid tidlig i sitt forhold med danseren Evan (Chase Crawford). Fotografen Holly (Jennifer Lopez) som vil adoptere. Wendy er en babygal forfatter som opplever det å bli mor som litt vanskeligere enn forventet. Vi møter også med et ungt par som blir gravid etter et one-night stand. Budskapet i filmen er så enkelt som at familie er det viktigste man har.
 
     <strong>Skuespillet fungerer helt greit, men karakterene er overfladiske og skuespillet blir derfor lite realistisk. Noen av karakterene har så lite med hverandre å gjøre, at det blir unaturlig at de spiller i samme film. To av parene er i familie, mens andre bare krysser hverandre «tilfeldig» på gaten. Forholdene blir litt for løse til at det fungerer. Det eneste de har til felles er at de befinner seg på samme sykehus mot slutten av filmen. Sånn sett blir filmens oppbygning en dårlig etterligning av Love Actually.</strong>
@@ -268,7 +268,7 @@ tags:
 **Regi:** Kirk Jones
 **Skuespillere: **Cameron Diaz, Elizabeth Banks, Brooklyn Decker, Anna Kendrick, Jennifer Lopez, Rodrigo Santoro, Chris Rock, Amir Talai
 **Spilletid:** 1 time og 59 minutter
-<a href="//filmbloggen.net/2012/07/06/to-timer-med-klisje/wte_07591-cr2/" rel="attachment wp-att-4918"><img class="alignnone size-large wp-image-4918" src="/wp-content/uploads//2012/07/kcfjrsu5-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-4918" src="/wp-content/uploads//2012/07/kcfjrsu5-620x413.jpg" alt="" width="620" height="413" />
 _Foto: Nordisk Filmdistribusjon_
 
 Filmen handler om graviditet og tar opp en rekke familieforhold. Vi møter ulike par som venter barn for aller første gang. Blant annet tv-Fitness dronningen Jules (Cameron Diaz) som blir gravid tidlig i sitt forhold med danseren Evan (Chase Crawford). Fotografen Holly (Jennifer Lopez) som vil adoptere. Wendy er en babygal forfatter som opplever det å bli mor som litt vanskeligere enn forventet. Vi møter også med et ungt par som blir gravid etter et one-night stand. Budskapet i filmen er så enkelt som at familie er det viktigste man har.

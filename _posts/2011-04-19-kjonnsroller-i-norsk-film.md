@@ -102,7 +102,7 @@ content:
   - |
     <strong>Jeg kom over denne artikkelen skrevet av Lars Ole Kristiansen for "Ny Tid" og gitt ut på Montages sine hjemmesider.</strong>
 
-    <strong><a href="/wp-content/uploads//2011/04/fatso.jpg"><img class="size-full wp-image-215 alignnone" title="fatso" src="/wp-content/uploads//2011/04/fatso.jpg" alt="" width="500" height="281" /></a>
+    <strong><img class="size-full wp-image-215 alignnone" title="fatso" src="/wp-content/uploads//2011/04/fatso.jpg" alt="" width="500" height="281" />
     </strong>
     <blockquote>I norsk film har vi blitt vant til at det meste dreier seg om unge menn, men ser vi til den norske barne- og ungdomsfilmen er bildet et ganske annet. Her har det lenge vært jentene som har styrt showet. Hva skjer da med gutterollene?</blockquote>
     Kristiansen arbeider med en masteroppgave i filmvitenskap om kjønnsroller i nyere skandinavisk film og han har kunsthistorie som breddefag. Kristiansen tar frem poenget at i amerikanskje High School-filmer der det som regel er guttene som tar initiativet, er det i norsk og skandinavisk film i de aller fleste filmene jentene som styrer skuta.
@@ -168,7 +168,7 @@ post_content:
   - |
     <strong>Jeg kom over denne artikkelen skrevet av Lars Ole Kristiansen for "Ny Tid" og gitt ut på Montages sine hjemmesider.</strong>
 
-    <strong><a href="/wp-content/uploads//2011/04/fatso.jpg"><img class="size-full wp-image-215 alignnone" title="fatso" src="/wp-content/uploads//2011/04/fatso.jpg" alt="" width="500" height="281" /></a>
+    <strong><img class="size-full wp-image-215 alignnone" title="fatso" src="/wp-content/uploads//2011/04/fatso.jpg" alt="" width="500" height="281" />
     </strong>
     <blockquote>I norsk film har vi blitt vant til at det meste dreier seg om unge menn, men ser vi til den norske barne- og ungdomsfilmen er bildet et ganske annet. Her har det lenge vært jentene som har styrt showet. Hva skjer da med gutterollene?</blockquote>
     Kristiansen arbeider med en masteroppgave i filmvitenskap om kjønnsroller i nyere skandinavisk film og han har kunsthistorie som breddefag. Kristiansen tar frem poenget at i amerikanskje High School-filmer der det som regel er guttene som tar initiativet, er det i norsk og skandinavisk film i de aller fleste filmene jentene som styrer skuta.

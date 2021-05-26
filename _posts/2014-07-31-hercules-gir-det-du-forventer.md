@@ -40,7 +40,7 @@ content:
 
     <!--more-->
 
-    <a href="/wp-content/uploads/2014/07/Hercules-nordmen.jpg"><img class="alignnone size-large wp-image-10930" src="/wp-content/uploads/2014/07/Hercules-nordmen-620x281.jpg" alt="Hercules nordmen" width="620" height="281" /></a>
+    <img class="alignnone size-large wp-image-10930" src="/wp-content/uploads/2014/07/Hercules-nordmen-620x281.jpg" alt="Hercules nordmen" width="620" height="281" />
 
     Store deler av det norske mediekorpset har kastet seg over <em>Hercules</em>, og kulturredaksjonene i landets største aviser har fått testet tastaturene sine mye de siste ukene. Ingrid Bolsø Berdal og Aksel Hennie er jo tross alt med. Nå kan vi i hvert fall bekrefte at det ikke er mye annet å rope hurra for i denne actionfilmen.
 
@@ -181,7 +181,7 @@ post_content:
 
     <!--more-->
 
-    <a href="/wp-content/uploads/2014/07/Hercules-nordmen.jpg"><img class="alignnone size-large wp-image-10930" src="/wp-content/uploads/2014/07/Hercules-nordmen-620x281.jpg" alt="Hercules nordmen" width="620" height="281" /></a>
+    <img class="alignnone size-large wp-image-10930" src="/wp-content/uploads/2014/07/Hercules-nordmen-620x281.jpg" alt="Hercules nordmen" width="620" height="281" />
 
     Store deler av det norske mediekorpset har kastet seg over <em>Hercules</em>, og kulturredaksjonene i landets største aviser har fått testet tastaturene sine mye de siste ukene. Ingrid Bolsø Berdal og Aksel Hennie er jo tross alt med. Nå kan vi i hvert fall bekrefte at det ikke er mye annet å rope hurra for i denne actionfilmen.
 
@@ -209,7 +209,7 @@ meta:
     a:75:{i:45464;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2014";}i:45440;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:45621;a:2:{s:3:"key";s:17:"add_comment_nonce";s:5:"value";s:10:"41903fe91e";}i:45492;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:45447;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:0:"";}i:45450;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"9dd22dc537";}i:45493;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:45453;a:2:{s:3:"key";s:7:"content";s:5:"value";s:3478:"<strong>Hercules gir deg god action og tre nordmenn i sverd og sandaler-film. Det er som forventet, men ikke akkurat minneverdig.  </strong>
     <!--more-->
 
-    <a href="/wp-content/uploads/2014/07/Hercules-nordmen.jpg"><img class="alignnone size-large wp-image-10930" src="/wp-content/uploads/2014/07/Hercules-nordmen-620x281.jpg" alt="Hercules nordmen" width="620" height="281" /></a>
+    <img class="alignnone size-large wp-image-10930" src="/wp-content/uploads/2014/07/Hercules-nordmen-620x281.jpg" alt="Hercules nordmen" width="620" height="281" />
 
     Store deler av det norske mediekorpset har kastet seg over <em>Hercules</em>, og kulturredaksjonene i landets største aviser har fått testet tastaturene sine mye de siste ukene. Ingrid Bolsø Berdal og Aksel Hennie er jo tross alt med. Nå kan vi i hvert fall bekrefte at det ikke er mye annet å rope hurra for i denne actionfilmen.
 
@@ -230,7 +230,7 @@ meta:
     [youtube id="RUM3V8Yh1EU" width="620" height="350"]";}i:45473;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2014";}i:45475;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"14";}i:45471;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"01";}i:45469;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"08";}i:45477;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"36";}i:45497;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:45486;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:45465;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"22";}i:45472;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2014";}i:45474;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"22";}i:45470;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"31";}i:45468;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"07";}i:45476;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"19";}i:45458;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:45456;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:45459;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:45514;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:5:"10903";}i:45463;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"31";}i:45449;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"2d02d523f3";}i:45489;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:45488;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:45490;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:45462;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"07";}i:45466;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"19";}i:45481;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:45482;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:45441;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:45444;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:45478;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:45494;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:45442;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:3:"404";}i:45496;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:3:"404";}i:45515;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:3478:"<strong>Hercules gir deg god action og tre nordmenn i sverd og sandaler-film. Det er som forventet, men ikke akkurat minneverdig.  </strong>
     <!--more-->
 
-    <a href="/wp-content/uploads/2014/07/Hercules-nordmen.jpg"><img class="alignnone size-large wp-image-10930" src="/wp-content/uploads/2014/07/Hercules-nordmen-620x281.jpg" alt="Hercules nordmen" width="620" height="281" /></a>
+    <img class="alignnone size-large wp-image-10930" src="/wp-content/uploads/2014/07/Hercules-nordmen-620x281.jpg" alt="Hercules nordmen" width="620" height="281" />
 
     Store deler av det norske mediekorpset har kastet seg over <em>Hercules</em>, og kulturredaksjonene i landets største aviser har fått testet tastaturene sine mye de siste ukene. Ingrid Bolsø Berdal og Aksel Hennie er jo tross alt med. Nå kan vi i hvert fall bekrefte at det ikke er mye annet å rope hurra for i denne actionfilmen.
 

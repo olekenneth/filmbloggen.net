@@ -241,7 +241,7 @@ format: video
 **Karl Urban har hovedrollen som Judge Dredd i den nye actionfilmen Dredd som kommer på norske kinoer 28. september. Ut i fra traileren ser det ikke bra ut.<!--more-->**
 
 
-<a href="//filmbloggen.net/2012/06/23/en-ny-men-gammeldags-actionfilm/dredd/" rel="attachment wp-att-4289"><img class="alignnone size-large wp-image-4289" src="/wp-content/uploads//2012/06/dredd-620x397.jpg" alt="" width="620" height="397" /><br /> </a>**_Foto: SF Norge_**
+<img class="alignnone size-large wp-image-4289" src="/wp-content/uploads//2012/06/dredd-620x397.jpg" alt="" width="620" height="397" /><br /> **_Foto: SF Norge_**
 
 Jeg har i utgangspunktet ikke et problem med hjerneløse actionfilmer. Det er heller motsatt, jeg elsker de når jeg er i riktig humør. Det vil si når jeg er fyllesyk eller vanlig syk. Dredd er basert på en tegneserie som ble adaptert til det store lerrettet av Danny Cannon i 1995, med Sylvester Stallone i hovedrollen. Nå er det altså klar for en ny film, som ikke har noenting med den tidligere å gjøre. Og det er kanskje ikke så rart med tanke på at den ble slaktet av mer eller mindre alle filmanmeldere når den ble sluppet og Sylvester Stallone mottok en Razzie for verste mannlige hovedrolle.
 

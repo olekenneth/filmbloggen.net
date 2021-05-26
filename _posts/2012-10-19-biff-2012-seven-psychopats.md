@@ -110,7 +110,7 @@ content:
     Manus: </strong>Martin McDonagh<strong>
     </strong><strong>Skuespillere:  </strong>Colin Farrell, Sam Rockwell, Woody Harrelson, Christopher Walken...
 
-    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" />
 
     For de som ikke kjenner til Martin McDonagh, kan en rask introduksjon være på sin plass. Han kom med sin første spillefilm i 2008, kalt <em>In Bruges</em>, med Colin Farrell og Brendan Gleeson i hovedrollene. Den mørke og satiriske komedien ble fort en av mine favoritter, og nå er <em>Seven Psychopats</em> endelig sett, og den ligger godt an til å konkurrere med sin foregående.
 
@@ -195,7 +195,7 @@ post_content:
     Manus: </strong>Martin McDonagh<strong>
     </strong><strong>Skuespillere:  </strong>Colin Farrell, Sam Rockwell, Woody Harrelson, Christopher Walken...
 
-    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" />
 
     For de som ikke kjenner til Martin McDonagh, kan en rask introduksjon være på sin plass. Han kom med sin første spillefilm i 2008, kalt <em>In Bruges</em>, med Colin Farrell og Brendan Gleeson i hovedrollene. Den mørke og satiriske komedien ble fort en av mine favoritter, og nå er <em>Seven Psychopats</em> endelig sett, og den ligger godt an til å konkurrere med sin foregående.
 
@@ -230,7 +230,7 @@ meta:
     Manus: </strong>Martin McDonagh<strong>
     </strong><strong>Skuespillere:  </strong>Colin Farrell, Sam Rockwell, Woody Harrelson, Christoph Walken...
 
-    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" />
 
     For de som ikke kjenner til Martin McDonagh, kan en rask introduksjon være på sin plass. Han kom med sin første spillefilm i 2008, kalt <em>In Bruges</em>, med Colin Farrell og Brendan Gleeson i hovedrollene. Den mørke og satiriske komedien ble fort en av mine favoritter, og nå er <em>Seven Psychopats</em> endelig sett, og den ligger godt an til å konkurrere med sin foregående.
 
@@ -258,7 +258,7 @@ meta:
     Manus: </strong>Martin McDonagh<strong>
     </strong><strong>Skuespillere:  </strong>Colin Farrell, Sam Rockwell, Woody Harrelson, Christoph Walken...
 
-    <a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" />
 
     For de som ikke kjenner til Martin McDonagh, kan en rask introduksjon være på sin plass. Han kom med sin første spillefilm i 2008, kalt <em>In Bruges</em>, med Colin Farrell og Brendan Gleeson i hovedrollene. Den mørke og satiriske komedien ble fort en av mine favoritter, og nå er <em>Seven Psychopats</em> endelig sett, og den ligger godt an til å konkurrere med sin foregående.
 
@@ -317,7 +317,7 @@ Regi:** Martin McDonagh**
 Manus:** Martin McDonagh**
 ** **Skuespillere:  **Colin Farrell, Sam Rockwell, Woody Harrelson, Christopher Walken…
 
-<a href="//filmbloggen.net/2012/10/19/biff-2012-seven-psychopats/seven-psychopaths-images-28/" rel="attachment wp-att-7580"><img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-7580" src="/wp-content/uploads//2012/10/Seven-Psychopaths-Images-28-620x413.jpg" alt="" width="620" height="413" />
 
 For de som ikke kjenner til Martin McDonagh, kan en rask introduksjon være på sin plass. Han kom med sin første spillefilm i 2008, kalt _In Bruges_, med Colin Farrell og Brendan Gleeson i hovedrollene. Den mørke og satiriske komedien ble fort en av mine favoritter, og nå er _Seven Psychopats_ endelig sett, og den ligger godt an til å konkurrere med sin foregående.
 

@@ -108,7 +108,7 @@ content:
 
     <!--more-->
 
-    <a href="//filmbloggen.net/2013/02/06/half-life-eller-portal-film-fra-j-j-abrams/jjgabe530/" rel="attachment wp-att-9818"><img class="alignnone size-full wp-image-9818" src="/wp-content/uploads//2013/02/jjgabe530.jpg" alt="" width="100%" /></a>
+    <img class="alignnone size-full wp-image-9818" src="/wp-content/uploads//2013/02/jjgabe530.jpg" alt="" width="100%" />
 
     J.J. Abrams ser ikke ut til å være en mann som ønsker mer fritid enn absolutt nødvendig. I hvert fall ikke om uttalelsen fra Steam-skaper, Gabe Newell går i oppfyllelse. Under DICE-konvensjonen som for øyeblikket holder på i statene, holdt Newell og Abrams et felles panel, hvor de snakket om det narrative  aspektet i film og spill, og tok eksempler fra sine respektive prosjekter.
 
@@ -177,7 +177,7 @@ post_content:
 
     <!--more-->
 
-    <a href="//filmbloggen.net/2013/02/06/half-life-eller-portal-film-fra-j-j-abrams/jjgabe530/" rel="attachment wp-att-9818"><img class="alignnone size-full wp-image-9818" src="/wp-content/uploads//2013/02/jjgabe530.jpg" alt="" width="100%" /></a>
+    <img class="alignnone size-full wp-image-9818" src="/wp-content/uploads//2013/02/jjgabe530.jpg" alt="" width="100%" />
 
     J.J. Abrams ser ikke ut til å være en mann som ønsker mer fritid enn absolutt nødvendig. I hvert fall ikke om uttalelsen fra Steam-skaper, Gabe Newell går i oppfyllelse. Under DICE-konvensjonen som for øyeblikket holder på i statene, holdt Newell og Abrams et felles panel, hvor de snakket om det narrative  aspektet i film og spill, og tok eksempler fra sine respektive prosjekter.
 
@@ -196,7 +196,7 @@ meta:
 
     <!--more-->
 
-    <a href="//filmbloggen.net/2013/02/06/half-life-eller-portal-film-fra-j-j-abrams/jjgabe530/" rel="attachment wp-att-9818"><img class="alignnone size-full wp-image-9818" src="/wp-content/uploads//2013/02/jjgabe530.jpg" alt="" width="530" height="349" /></a>
+    <img class="alignnone size-full wp-image-9818" src="/wp-content/uploads//2013/02/jjgabe530.jpg" alt="" width="530" height="349" />
 
     J.J. Abrams ser ikke ut til å være en mann som ønsker mer fritid enn absolutt nødvendig. I hvert fall ikke om uttalelsen fra Steam-skaper, Gabe Newell går i oppfyllelse. Under DICE-konvensjonen som for øyeblikket holder på i statene, holdt Newell og Abrams et felles panel, hvor de snakket om det narrative  aspektet i film og spill, og tok eksempler fra sine respektive prosjekter.
 
@@ -208,7 +208,7 @@ meta:
 
     <!--more-->
 
-    <a href="//filmbloggen.net/2013/02/06/half-life-eller-portal-film-fra-j-j-abrams/jjgabe530/" rel="attachment wp-att-9818"><img class="alignnone size-full wp-image-9818" src="/wp-content/uploads//2013/02/jjgabe530.jpg" alt="" width="530" height="349" /></a>
+    <img class="alignnone size-full wp-image-9818" src="/wp-content/uploads//2013/02/jjgabe530.jpg" alt="" width="530" height="349" />
 
     J.J. Abrams ser ikke ut til å være en mann som ønsker mer fritid enn absolutt nødvendig. I hvert fall ikke om uttalelsen fra Steam-skaper, Gabe Newell går i oppfyllelse. Under DICE-konvensjonen som for øyeblikket holder på i statene, holdt Newell og Abrams et felles panel, hvor de snakket om det narrative  aspektet i film og spill, og tok eksempler fra sine respektive prosjekter.
 
@@ -235,7 +235,7 @@ tags:
 
 <!--more-->
 
-<a href="//filmbloggen.net/2013/02/06/half-life-eller-portal-film-fra-j-j-abrams/jjgabe530/" rel="attachment wp-att-9818"><img class="alignnone size-full wp-image-9818" src="/wp-content/uploads//2013/02/jjgabe530.jpg" alt="" width="100%" /></a>
+<img class="alignnone size-full wp-image-9818" src="/wp-content/uploads//2013/02/jjgabe530.jpg" alt="" width="100%" />
 
 J.J. Abrams ser ikke ut til å være en mann som ønsker mer fritid enn absolutt nødvendig. I hvert fall ikke om uttalelsen fra Steam-skaper, Gabe Newell går i oppfyllelse. Under DICE-konvensjonen som for øyeblikket holder på i statene, holdt Newell og Abrams et felles panel, hvor de snakket om det narrative  aspektet i film og spill, og tok eksempler fra sine respektive prosjekter.
 

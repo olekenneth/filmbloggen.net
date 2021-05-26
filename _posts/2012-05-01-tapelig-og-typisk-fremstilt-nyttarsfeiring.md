@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Michelle Pfeiffer, Zac Efron, Robert De Niro, Halle Berry, Alyssa Milano, Jessica Biel, Katherine Heigl, Jon Bon Jovi, Sofía Vergara, Ashton Kutcher, Lea Michele, Sarah Jessica Parker, Hilary Swank.
     <strong>Spilletid</strong>: 1 time og 58 minutter
 
-    <a href="//filmbloggen.net/2012/05/01/tapelig-og-typisk-fremstilt-nyttarsfeiring/new-years-eve/" rel="attachment wp-att-3209"><img class="alignnone size-large wp-image-3209" src="/wp-content/uploads//2012/04/New-Years-Eve-bilde-2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-3209" src="/wp-content/uploads//2012/04/New-Years-Eve-bilde-2-620x348.jpg" alt="" width="620" height="348" />
 
     Vi får innsikt i en rekke menneskers daglige affærer og etter hvert også deres planlegging fram mot den store nyttårsfeiringen. Alle har en eller annen form for tilknytning til hverandre, det er visstnok det som skal gjøre fortellingene så fantastiske.
 
@@ -67,7 +67,7 @@ post_content:
     <strong>Skuespillere:</strong> Michelle Pfeiffer, Zac Efron, Robert De Niro, Halle Berry, Alyssa Milano, Jessica Biel, Katherine Heigl, Jon Bon Jovi, Sofía Vergara, Ashton Kutcher, Lea Michele, Sarah Jessica Parker, Hilary Swank.
     <strong>Spilletid</strong>: 1 time og 58 minutter
 
-    <a href="//filmbloggen.net/2012/05/01/tapelig-og-typisk-fremstilt-nyttarsfeiring/new-years-eve/" rel="attachment wp-att-3209"><img class="alignnone size-large wp-image-3209" src="/wp-content/uploads//2012/04/New-Years-Eve-bilde-2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-3209" src="/wp-content/uploads//2012/04/New-Years-Eve-bilde-2-620x348.jpg" alt="" width="620" height="348" />
 
     Vi får innsikt i en rekke menneskers daglige affærer og etter hvert også deres planlegging fram mot den store nyttårsfeiringen. Alle har en eller annen form for tilknytning til hverandre, det er visstnok det som skal gjøre fortellingene så fantastiske.
 
@@ -177,7 +177,7 @@ meta:
     <strong>Skuespillere:</strong> Michelle Pfeiffer, Zac Efron, Robert De Niro, Halle Berry, Alyssa Milano, Jessica Biel, Katherine Heigl, Jon Bon Jovi, Sofía Vergara, Ashton Kutcher, Lea Michele, Sarah Jessica Parker, Hilary Swank.
     <strong>Spilletid</strong>: 1 time og 58 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=3209" rel="attachment wp-att-3209"><img class="alignnone size-large wp-image-3209" src="/wp-content/uploads//2012/04/New-Years-Eve-bilde-2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-3209" src="/wp-content/uploads//2012/04/New-Years-Eve-bilde-2-620x348.jpg" alt="" width="620" height="348" />
 
     Vi får innsikt i en rekke menneskers daglige affærer og etter hvert også deres planlegging fram mot den store nyttårsfeiringen. Alle har en eller annen form for tilknytning til hverandre, det er visstnok det som skal gjøre fortellingene så fantastiske.
 
@@ -202,7 +202,7 @@ meta:
     <strong>Skuespillere:</strong> Michelle Pfeiffer, Zac Efron, Robert De Niro, Halle Berry, Alyssa Milano, Jessica Biel, Katherine Heigl, Jon Bon Jovi, Sofía Vergara, Ashton Kutcher, Lea Michele, Sarah Jessica Parker, Hilary Swank.
     <strong>Spilletid</strong>: 1 time og 58 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=3209" rel="attachment wp-att-3209"><img class="alignnone size-large wp-image-3209" src="/wp-content/uploads//2012/04/New-Years-Eve-bilde-2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-3209" src="/wp-content/uploads//2012/04/New-Years-Eve-bilde-2-620x348.jpg" alt="" width="620" height="348" />
 
     Vi får innsikt i en rekke menneskers daglige affærer og etter hvert også deres planlegging fram mot den store nyttårsfeiringen. Alle har en eller annen form for tilknytning til hverandre, det er visstnok det som skal gjøre fortellingene så fantastiske.
 
@@ -307,7 +307,7 @@ tags:
 **Skuespillere:** Michelle Pfeiffer, Zac Efron, Robert De Niro, Halle Berry, Alyssa Milano, Jessica Biel, Katherine Heigl, Jon Bon Jovi, Sofía Vergara, Ashton Kutcher, Lea Michele, Sarah Jessica Parker, Hilary Swank.
 **Spilletid**: 1 time og 58 minutter
 
-<a href="//filmbloggen.net/2012/05/01/tapelig-og-typisk-fremstilt-nyttarsfeiring/new-years-eve/" rel="attachment wp-att-3209"><img class="alignnone size-large wp-image-3209" src="/wp-content/uploads//2012/04/New-Years-Eve-bilde-2-620x348.jpg" alt="" width="620" height="348" /></a>
+<img class="alignnone size-large wp-image-3209" src="/wp-content/uploads//2012/04/New-Years-Eve-bilde-2-620x348.jpg" alt="" width="620" height="348" />
 
 Vi får innsikt i en rekke menneskers daglige affærer og etter hvert også deres planlegging fram mot den store nyttårsfeiringen. Alle har en eller annen form for tilknytning til hverandre, det er visstnok det som skal gjøre fortellingene så fantastiske.
 

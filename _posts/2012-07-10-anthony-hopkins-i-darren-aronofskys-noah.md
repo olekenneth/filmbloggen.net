@@ -102,7 +102,7 @@ content:
   - |
     <strong>Jeg har fulgt Darren Aronofskys seneste prosjekt siden han utalte den første idéen. <!--more-->Nå begynner den endelig å ta form og det seneste er at Anthony Hopkins vil spille Mathuselah I Aronofskys bibelske film, Noah. <!--more--></strong>
 
-    <a href="//filmbloggen.net/2012/07/10/anthony-hopkins-i-darren-aronofskys-noah/img_7757-cr2/" rel="attachment wp-att-4987"><img class="alignnone size-large wp-image-4987" src="/wp-content/uploads//2012/07/41-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-4987" src="/wp-content/uploads//2012/07/41-620x412.jpg" alt="" width="620" height="412" />
     <em>Darren Aronofsky snakker med Vincent Cassel under Black Swan-innspillingen
     </em><em>Foto: 20th Century Fox</em>
 
@@ -169,7 +169,7 @@ post_content:
   - |
     <strong>Jeg har fulgt Darren Aronofskys seneste prosjekt siden han utalte den første idéen. <!--more-->Nå begynner den endelig å ta form og det seneste er at Anthony Hopkins vil spille Mathuselah I Aronofskys bibelske film, Noah. <!--more--></strong>
 
-    <a href="//filmbloggen.net/2012/07/10/anthony-hopkins-i-darren-aronofskys-noah/img_7757-cr2/" rel="attachment wp-att-4987"><img class="alignnone size-large wp-image-4987" src="/wp-content/uploads//2012/07/41-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-4987" src="/wp-content/uploads//2012/07/41-620x412.jpg" alt="" width="620" height="412" />
     <em>Darren Aronofsky snakker med Vincent Cassel under Black Swan-innspillingen
     </em><em>Foto: 20th Century Fox</em>
 
@@ -186,7 +186,7 @@ meta:
   - |
     a:75:{i:26473;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:26451;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:26504;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:26460;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"121c1742be";}i:26458;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:26462;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"ec1faeff25";}i:26505;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:26497;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1784:"<strong>Jeg har fulgt Darren Aronofskys seneste prosjekt siden han utalte den første idéen. Nå begynner den endelig å ta form og det seneste er at Anthony Hopkins vil spille Mathuselah I Aronofskys bibelske film, Noah. <!--more--></strong>
 
-    <a href="//filmbloggen.net/?attachment_id=4987" rel="attachment wp-att-4987"><img class="alignnone size-large wp-image-4987" src="/wp-content/uploads//2012/07/41-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-4987" src="/wp-content/uploads//2012/07/41-620x412.jpg" alt="" width="620" height="412" />
     <em>Darren Aronofsky snakker med Vincent Cassel under Black Swan-innspillingen
     </em><em>Foto: 20th Century Fox</em>
 
@@ -196,7 +196,7 @@ meta:
 
     <strong>Noah er planlagt på kino i mars 2014, men det er høyst sannsynlig at den datoen endres.<strong></strong></strong>";}i:26482;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:26484;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"11";}i:26480;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"10";}i:26478;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:26486;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"16";}i:26509;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:26498;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:26474;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"11";}i:26481;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:26483;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"11";}i:26479;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"10";}i:26477;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"07";}i:26485;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"16";}i:26467;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:26465;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:5:"draft";}i:26468;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:26526;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"4986";}i:26471;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"10";}i:26461;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"8d5869e96c";}i:26501;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:26500;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:26502;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:26472;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"07";}i:26475;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"16";}i:26490;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:26491;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:26452;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:26455;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:5:"draft";}i:26487;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Publiser";}i:26506;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:26453;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:3:"404";}i:26508;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:3:"404";}i:26527;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1784:"<strong>Jeg har fulgt Darren Aronofskys seneste prosjekt siden han utalte den første idéen. Nå begynner den endelig å ta form og det seneste er at Anthony Hopkins vil spille Mathuselah I Aronofskys bibelske film, Noah. <!--more--></strong>
 
-    <a href="//filmbloggen.net/?attachment_id=4987" rel="attachment wp-att-4987"><img class="alignnone size-large wp-image-4987" src="/wp-content/uploads//2012/07/41-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-4987" src="/wp-content/uploads//2012/07/41-620x412.jpg" alt="" width="620" height="412" />
     <em>Darren Aronofsky snakker med Vincent Cassel under Black Swan-innspillingen
     </em><em>Foto: 20th Century Fox</em>
 
@@ -232,7 +232,7 @@ tags:
 
 <!--more-->**
 
-<a href="//filmbloggen.net/2012/07/10/anthony-hopkins-i-darren-aronofskys-noah/img_7757-cr2/" rel="attachment wp-att-4987"><img class="alignnone size-large wp-image-4987" src="/wp-content/uploads//2012/07/41-620x412.jpg" alt="" width="620" height="412" /></a>
+<img class="alignnone size-large wp-image-4987" src="/wp-content/uploads//2012/07/41-620x412.jpg" alt="" width="620" height="412" />
 _Darren Aronofsky snakker med Vincent Cassel under Black Swan-innspillingen
 _ _Foto: 20th Century Fox_
 

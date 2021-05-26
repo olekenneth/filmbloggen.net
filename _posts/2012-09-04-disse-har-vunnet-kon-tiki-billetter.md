@@ -99,7 +99,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Disse to har vunnet to kinobilletter til Kon-Tiki hver!</strong><!--more-->
-    <a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" title="kontiki" src="/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-6435" title="kontiki" src="/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" />
     Noe forsinket er vinnerne av Kon-Tiki konkurransen kåret. Riktige svar på spørsmålene er:
 
     <strong>1. Hva slags tre ble brukt til å bygge flåten?</strong>
@@ -178,7 +178,7 @@ ID:
 post_content:
   - |
     <strong>Disse to har vunnet to kinobilletter til Kon-Tiki hver!</strong><!--more-->
-    <a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" title="kontiki" src="/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-6435" title="kontiki" src="/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" />
     Noe forsinket er vinnerne av Kon-Tiki konkurransen kåret. Riktige svar på spørsmålene er:
 
     <strong>1. Hva slags tre ble brukt til å bygge flåten?</strong>
@@ -210,7 +210,7 @@ categories:
 **Disse to har vunnet to kinobilletter til Kon-Tiki hver!**<!--more-->
 
 
-<a href="//filmbloggen.net/2012/08/20/vinn-kinobilletter-til-kon-tiki/kontiki/" rel="attachment wp-att-6435"><img class="alignnone size-large wp-image-6435" src="/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-6435" src="/wp-content/uploads//2012/08/kontiki-620x413.jpg" alt="" width="620" height="413" />
 Noe forsinket er vinnerne av Kon-Tiki konkurransen kåret. Riktige svar på spørsmålene er:
 
 **1. Hva slags tre ble brukt til å bygge flåten?**

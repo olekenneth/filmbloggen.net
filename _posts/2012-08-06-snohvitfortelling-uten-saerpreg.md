@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Julia Roberts, Lilly Collins, Armie Hammer, Nathan Lane, Jordan Prentice,  Mark Povinelli,  Joe Gnoffo,  Danny Woodburn, Sebastian Saraceno,  Martin Klebba,  Ronald Lee Clark,  Robert Emms.
     <strong>Spilletid:</strong> 1 time og 46 minutter
 
-    <a href="//filmbloggen.net/2012/08/06/snohvitfortelling-uten-saerpreg/mirror_mirror_i01/" rel="attachment wp-att-5770"><img class="alignnone size-large wp-image-5770" src="/wp-content/uploads//2012/08/Mirror_Mirror_i01-620x367.jpg" alt="" width="620" height="367" /></a>
+    <img class="alignnone size-large wp-image-5770" src="/wp-content/uploads//2012/08/Mirror_Mirror_i01-620x367.jpg" alt="" width="620" height="367" />
 
     Med filmen Immortals klarte Tarsem Singh egenhendig å skrape opp alt blodet som var igjen fra <em>300</em>, for så å sende det i alle vindens retninger. Lite konstruktivt. Planen var muligens å gå etter samme målgruppe (de som liker blodsprut fra greske helter/monstre/guder), dog det endte med lave poengsummer generelt.
 
@@ -63,7 +63,7 @@ post_content:
     <strong>Skuespillere:</strong> Julia Roberts, Lilly Collins, Armie Hammer, Nathan Lane, Jordan Prentice,  Mark Povinelli,  Joe Gnoffo,  Danny Woodburn, Sebastian Saraceno,  Martin Klebba,  Ronald Lee Clark,  Robert Emms.
     <strong>Spilletid:</strong> 1 time og 46 minutter
 
-    <a href="//filmbloggen.net/2012/08/06/snohvitfortelling-uten-saerpreg/mirror_mirror_i01/" rel="attachment wp-att-5770"><img class="alignnone size-large wp-image-5770" src="/wp-content/uploads//2012/08/Mirror_Mirror_i01-620x367.jpg" alt="" width="620" height="367" /></a>
+    <img class="alignnone size-large wp-image-5770" src="/wp-content/uploads//2012/08/Mirror_Mirror_i01-620x367.jpg" alt="" width="620" height="367" />
 
     Med filmen Immortals klarte Tarsem Singh egenhendig å skrape opp alt blodet som var igjen fra <em>300</em>, for så å sende det i alle vindens retninger. Lite konstruktivt. Planen var muligens å gå etter samme målgruppe (de som liker blodsprut fra greske helter/monstre/guder), dog det endte med lave poengsummer generelt.
 
@@ -169,7 +169,7 @@ meta:
     <strong>Skuespillere:</strong> Julia Roberts, Lilly Collins, Armie Hammer, Nathan Lane, Jordan Prentice,  Mark Povinelli,  Joe Gnoffo,  Danny Woodburn, Sebastian Saraceno,  Martin Klebba,  Ronald Lee Clark,  Robert Emms.
     <strong>Spilletid:</strong> 1 time og 46 minutter
 
-    <a href="//filmbloggen.net/2012/08/06/snohvitfortelling-uten-saerpreg/mirror_mirror_i01/" rel="attachment wp-att-5770"><img class="alignnone size-large wp-image-5770" src="/wp-content/uploads//2012/08/Mirror_Mirror_i01-620x367.jpg" alt="" width="620" height="367" /></a>
+    <img class="alignnone size-large wp-image-5770" src="/wp-content/uploads//2012/08/Mirror_Mirror_i01-620x367.jpg" alt="" width="620" height="367" />
 
     Med filmen Immortals klarte Tarsem Singh egenhendig å skrape opp alt blodet som var igjen fra <em>300</em>, for så å sende det i alle vindens retninger. Lite konstruktivt. Planen var muligens å gå etter samme målgruppe (de som liker blodsprut fra greske helter/monstre/guder), dog det endte med lave poengsummer generelt.
 
@@ -190,7 +190,7 @@ meta:
     <strong>Skuespillere:</strong> Julia Roberts, Lilly Collins, Armie Hammer, Nathan Lane, Jordan Prentice,  Mark Povinelli,  Joe Gnoffo,  Danny Woodburn, Sebastian Saraceno,  Martin Klebba,  Ronald Lee Clark,  Robert Emms.
     <strong>Spilletid:</strong> 1 time og 46 minutter
 
-    <a href="//filmbloggen.net/2012/08/06/snohvitfortelling-uten-saerpreg/mirror_mirror_i01/" rel="attachment wp-att-5770"><img class="alignnone size-large wp-image-5770" src="/wp-content/uploads//2012/08/Mirror_Mirror_i01-620x367.jpg" alt="" width="620" height="367" /></a>
+    <img class="alignnone size-large wp-image-5770" src="/wp-content/uploads//2012/08/Mirror_Mirror_i01-620x367.jpg" alt="" width="620" height="367" />
 
     Med filmen Immortals klarte Tarsem Singh egenhendig å skrape opp alt blodet som var igjen fra <em>300</em>, for så å sende det i alle vindens retninger. Lite konstruktivt. Planen var muligens å gå etter samme målgruppe (de som liker blodsprut fra greske helter/monstre/guder), dog det endte med lave poengsummer generelt.
 
@@ -292,7 +292,7 @@ tags:
 **Skuespillere:** Julia Roberts, Lilly Collins, Armie Hammer, Nathan Lane, Jordan Prentice,  Mark Povinelli,  Joe Gnoffo,  Danny Woodburn, Sebastian Saraceno,  Martin Klebba,  Ronald Lee Clark,  Robert Emms.
 **Spilletid:** 1 time og 46 minutter
 
-<a href="//filmbloggen.net/2012/08/06/snohvitfortelling-uten-saerpreg/mirror_mirror_i01/" rel="attachment wp-att-5770"><img class="alignnone size-large wp-image-5770" src="/wp-content/uploads//2012/08/Mirror_Mirror_i01-620x367.jpg" alt="" width="620" height="367" /></a>
+<img class="alignnone size-large wp-image-5770" src="/wp-content/uploads//2012/08/Mirror_Mirror_i01-620x367.jpg" alt="" width="620" height="367" />
 
 Med filmen Immortals klarte Tarsem Singh egenhendig å skrape opp alt blodet som var igjen fra _300_, for så å sende det i alle vindens retninger. Lite konstruktivt. Planen var muligens å gå etter samme målgruppe (de som liker blodsprut fra greske helter/monstre/guder), dog det endte med lave poengsummer generelt.
 

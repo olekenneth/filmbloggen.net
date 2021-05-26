@@ -98,7 +98,7 @@ content:
   - |
     <strong>For første gang i historien har vi et stor hollywoodsatsing med mange norske skuespillere. "The Thing" har premiere på norske kinoer 28. oktober.<!--more--></strong>
 
-    <a href="//filmbloggen.net/2011/10/03/fra-skuffen-charlie-st-cloud/ovbttgr2/" rel="attachment wp-att-1253"><img src="/wp-content/uploads//2011/10/ovbttgr2-620x413.jpg" alt="" width="496" height="330" /></a>
+    <img src="/wp-content/uploads//2011/10/ovbttgr2-620x413.jpg" alt="" width="496" height="330" />
 
     <img class="alignright" src="/wp-content/uploads//2011/10/the-thing-300x280.gif" alt="" width="171" height="159" />
 
@@ -167,7 +167,7 @@ post_content:
   - |
     <strong>For første gang i historien har vi et stor hollywoodsatsing med mange norske skuespillere. "The Thing" har premiere på norske kinoer 28. oktober.<!--more--></strong>
 
-    <a href="//filmbloggen.net/2011/10/03/fra-skuffen-charlie-st-cloud/ovbttgr2/" rel="attachment wp-att-1253"><img src="/wp-content/uploads//2011/10/ovbttgr2-620x413.jpg" alt="" width="496" height="330" /></a>
+    <img src="/wp-content/uploads//2011/10/ovbttgr2-620x413.jpg" alt="" width="496" height="330" />
 
     <img class="alignright" src="/wp-content/uploads//2011/10/the-thing-300x280.gif" alt="" width="171" height="159" />
 
@@ -188,7 +188,7 @@ meta:
   - |
     a:75:{i:9452;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:9430;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:9480;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:9439;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"bf1952764d";}i:9437;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:9441;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"ad77dfc9b1";}i:9481;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:9473;a:2:{s:3:"key";s:7:"content";s:5:"value";s:1828:"<strong>For første gang i historien har vi et stor hollywoodsatsing med mange norske skuespillere. "The Thing" har premiere på norske kinoer 28. oktober.</strong>
 
-    <a href="//filmbloggen.net/2011/10/03/fra-skuffen-charlie-st-cloud/ovbttgr2/" rel="attachment wp-att-1253"><img src="/wp-content/uploads//2011/10/ovbttgr2-620x413.jpg" alt="" width="496" height="330" /></a>
+    <img src="/wp-content/uploads//2011/10/ovbttgr2-620x413.jpg" alt="" width="496" height="330" />
 
     <img class="alignright" src="/wp-content/uploads//2011/10/the-thing-300x280.gif" alt="" width="171" height="159" />
 
@@ -202,7 +202,7 @@ meta:
 
      ";}i:9461;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:9463;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"14";}i:9459;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"03";}i:9457;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"10";}i:9465;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"26";}i:9484;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:9474;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:9453;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"14";}i:9460;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:9462;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"14";}i:9458;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"03";}i:9456;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"10";}i:9464;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"12";}i:9446;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:9444;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:9447;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:9501;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"1255";}i:9450;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"03";}i:9440;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"0570ed5b03";}i:9477;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:9476;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:9478;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:9451;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"10";}i:9454;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"12";}i:9517;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:9518;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:9431;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:9434;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:9466;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:9482;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:9432;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"9";}i:9520;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"9";}i:9502;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:1828:"<strong>For første gang i historien har vi et stor hollywoodsatsing med mange norske skuespillere. "The Thing" har premiere på norske kinoer 28. oktober.</strong>
 
-    <a href="//filmbloggen.net/2011/10/03/fra-skuffen-charlie-st-cloud/ovbttgr2/" rel="attachment wp-att-1253"><img src="/wp-content/uploads//2011/10/ovbttgr2-620x413.jpg" alt="" width="496" height="330" /></a>
+    <img src="/wp-content/uploads//2011/10/ovbttgr2-620x413.jpg" alt="" width="496" height="330" />
 
     <img class="alignright" src="/wp-content/uploads//2011/10/the-thing-300x280.gif" alt="" width="171" height="159" />
 
@@ -234,7 +234,7 @@ format: video
 ---
 **For første gang i historien har vi et stor hollywoodsatsing med mange norske skuespillere. «The Thing» har premiere på norske kinoer 28. oktober.<!--more-->**
 
-<a href="//filmbloggen.net/2011/10/03/fra-skuffen-charlie-st-cloud/ovbttgr2/" rel="attachment wp-att-1253"><img src="/wp-content/uploads//2011/10/ovbttgr2-620x413.jpg" alt="" width="496" height="330" /></a>
+<img src="/wp-content/uploads//2011/10/ovbttgr2-620x413.jpg" alt="" width="496" height="330" />
 
 <img class="alignright" src="/wp-content/uploads//2011/10/the-thing-300x280.gif" alt="" width="171" height="159" />
 

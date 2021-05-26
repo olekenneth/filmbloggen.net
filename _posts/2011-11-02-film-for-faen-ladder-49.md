@@ -105,7 +105,7 @@ content:
     <strong>Manus:</strong> Lewis Colick
     <strong>Med:</strong><strong> </strong>John Travolta, Joaquin Phoenix, Jay Hernandez, Morris Chestnut, Robert Patrick, Balthazar Getty, Jacinda Barrett, Billy Burke, Tim Guinee, Kevin Daniels og Kevin Chapman
 
-    <a href="//filmbloggen.net/2011/11/02/film-for-faen-ladder-49/ladder-49-9/" rel="attachment wp-att-1717"><img class="alignnone size-large wp-image-1717" src="/wp-content/uploads//2011/11/ladder-49-9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-1717" src="/wp-content/uploads//2011/11/ladder-49-9-620x413.jpg" alt="" width="620" height="413" />
     <h1>BRENNENDE HETT</h1>
     Jack Morrison er en erfaren brannmann som daglig redder menneskeliv. Men i en voldsom brann blir han selv fanget i ildhavet. Jacks eneste håp er de andre brannmennene, ledet av hans venn og mentor, kaptein Mike Kennedy. Mens Jacks kollegaer kjemper for å redde han, reflekterer Jack over livet sitt, sitt risikofylte arbeid, konen Linda og deres to små barn – som han kanskje aldri mer får se.
 
@@ -178,7 +178,7 @@ post_content:
     <strong>Manus:</strong> Lewis Colick
     <strong>Med:</strong><strong> </strong>John Travolta, Joaquin Phoenix, Jay Hernandez, Morris Chestnut, Robert Patrick, Balthazar Getty, Jacinda Barrett, Billy Burke, Tim Guinee, Kevin Daniels og Kevin Chapman
 
-    <a href="//filmbloggen.net/2011/11/02/film-for-faen-ladder-49/ladder-49-9/" rel="attachment wp-att-1717"><img class="alignnone size-large wp-image-1717" src="/wp-content/uploads//2011/11/ladder-49-9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-1717" src="/wp-content/uploads//2011/11/ladder-49-9-620x413.jpg" alt="" width="620" height="413" />
     <h1>BRENNENDE HETT</h1>
     Jack Morrison er en erfaren brannmann som daglig redder menneskeliv. Men i en voldsom brann blir han selv fanget i ildhavet. Jacks eneste håp er de andre brannmennene, ledet av hans venn og mentor, kaptein Mike Kennedy. Mens Jacks kollegaer kjemper for å redde han, reflekterer Jack over livet sitt, sitt risikofylte arbeid, konen Linda og deres to små barn – som han kanskje aldri mer får se.
 
@@ -209,7 +209,7 @@ meta:
     <strong>Manus:</strong> Lewis Colick
     <strong>Med:</strong><strong> </strong>John Travolta, Joaquin Phoenix, Jay Hernandez, Morris Chestnut, Robert Patrick, Balthazar Getty, Jacinda Barrett, Billy Burke, Tim Guinee, Kevin Daniels og Kevin Chapman
 
-    <a href="//filmbloggen.net/?attachment_id=1717" rel="attachment wp-att-1717"><img class="alignnone size-large wp-image-1717" title="ladder-49-9" src="/wp-content/uploads//2011/11/ladder-49-9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-1717" title="ladder-49-9" src="/wp-content/uploads//2011/11/ladder-49-9-620x413.jpg" alt="" width="620" height="413" />
     <h1>BRENNENDE HETT</h1>
     Jack Morrison er en erfaren brannmann som daglig redder menneskeliv. Men i en voldsom brann blir han selv fanget i ildhavet. Jacks eneste håp er de andre brannmennene, ledet av hans venn og mentor, kaptein Mike Kennedy. Mens Jacks kollegaer kjemper for å redde han, reflekterer Jack over livet sitt, sitt risikofylte arbeid, konen Linda og deres to små barn – som han kanskje aldri mer får se.
 
@@ -227,7 +227,7 @@ meta:
     <strong>Manus:</strong> Lewis Colick
     <strong>Med:</strong><strong> </strong>John Travolta, Joaquin Phoenix, Jay Hernandez, Morris Chestnut, Robert Patrick, Balthazar Getty, Jacinda Barrett, Billy Burke, Tim Guinee, Kevin Daniels og Kevin Chapman
 
-    <a href="//filmbloggen.net/?attachment_id=1717" rel="attachment wp-att-1717"><img class="alignnone size-large wp-image-1717" title="ladder-49-9" src="/wp-content/uploads//2011/11/ladder-49-9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-1717" title="ladder-49-9" src="/wp-content/uploads//2011/11/ladder-49-9-620x413.jpg" alt="" width="620" height="413" />
     <h1>BRENNENDE HETT</h1>
     Jack Morrison er en erfaren brannmann som daglig redder menneskeliv. Men i en voldsom brann blir han selv fanget i ildhavet. Jacks eneste håp er de andre brannmennene, ledet av hans venn og mentor, kaptein Mike Kennedy. Mens Jacks kollegaer kjemper for å redde han, reflekterer Jack over livet sitt, sitt risikofylte arbeid, konen Linda og deres to små barn – som han kanskje aldri mer får se.
 
@@ -252,7 +252,7 @@ categories:
 **Manus:** Lewis Colick
 **Med:**** **John Travolta, Joaquin Phoenix, Jay Hernandez, Morris Chestnut, Robert Patrick, Balthazar Getty, Jacinda Barrett, Billy Burke, Tim Guinee, Kevin Daniels og Kevin Chapman
 
-<a href="//filmbloggen.net/2011/11/02/film-for-faen-ladder-49/ladder-49-9/" rel="attachment wp-att-1717"><img class="alignnone size-large wp-image-1717" src="/wp-content/uploads//2011/11/ladder-49-9-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-1717" src="/wp-content/uploads//2011/11/ladder-49-9-620x413.jpg" alt="" width="620" height="413" />
 
 # BRENNENDE HETT
 

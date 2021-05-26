@@ -108,7 +108,7 @@ content:
     <strong>Regi:</strong> Rodrigo García
     <strong>Manus:</strong> Glenn Close, John Banville
     <strong>Skuespillere: </strong>Glenn Close, Mia Wasikowska, Aaron Johnson, Janet McTeer, Pauline Collins, Brenda Fricker, Jonathan Rhys Meyers, Brendan Gleeson,Maria Doyle Kennedy, Antonia Campbell-Hughes, Mark Williams, James Green, Bronagh Gallagher, John Light
-    <a href="//filmbloggen.net/2012/08/23/kunne-ha-vaert-sa-mye-bedre/bfxrhow5/" rel="attachment wp-att-6557"><img class="alignnone size-large wp-image-6557" src="/wp-content/uploads//2012/08/bfxrhow5-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-6557" src="/wp-content/uploads//2012/08/bfxrhow5-620x413.jpg" alt="" width="620" height="413" />
     <em>Foto: Fidalgo</em>
 
     Albert Nobbs er basert på en novelle av George Moore. Filmen handler om Albert (Glenn Close) er butler på et av de fineste hotellene i Irland, der ingenting er lagt til tilfeldighetene. Kundene forventer at alt skal være ordnet fra de går ut av hestekjerra til de drar igjen. Men Albert er egentlig ei dame som prøver å overkomme kjønnsproblematikken på 1800-tallet. Det var ikke vanlig at ei dame skulle klare seg selv. Albert har en drøm om å starte sin egen butikk, sånn at han/hu for første gang i livet sitt er sin egen sjef. Han/hu har spart opp tips og lønn over mange år, og nærmer seg drømmen sin. Men så forelsker han/hu seg i nydelige Helen (Mia Wasikowska). Og som med alt annet her i livet så byr de pene jentene på problemer..
@@ -185,7 +185,7 @@ post_content:
     <strong>Regi:</strong> Rodrigo García
     <strong>Manus:</strong> Glenn Close, John Banville
     <strong>Skuespillere: </strong>Glenn Close, Mia Wasikowska, Aaron Johnson, Janet McTeer, Pauline Collins, Brenda Fricker, Jonathan Rhys Meyers, Brendan Gleeson,Maria Doyle Kennedy, Antonia Campbell-Hughes, Mark Williams, James Green, Bronagh Gallagher, John Light
-    <a href="//filmbloggen.net/2012/08/23/kunne-ha-vaert-sa-mye-bedre/bfxrhow5/" rel="attachment wp-att-6557"><img class="alignnone size-large wp-image-6557" src="/wp-content/uploads//2012/08/bfxrhow5-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-6557" src="/wp-content/uploads//2012/08/bfxrhow5-620x413.jpg" alt="" width="620" height="413" />
     <em>Foto: Fidalgo</em>
 
     Albert Nobbs er basert på en novelle av George Moore. Filmen handler om Albert (Glenn Close) er butler på et av de fineste hotellene i Irland, der ingenting er lagt til tilfeldighetene. Kundene forventer at alt skal være ordnet fra de går ut av hestekjerra til de drar igjen. Men Albert er egentlig ei dame som prøver å overkomme kjønnsproblematikken på 1800-tallet. Det var ikke vanlig at ei dame skulle klare seg selv. Albert har en drøm om å starte sin egen butikk, sånn at han/hu for første gang i livet sitt er sin egen sjef. Han/hu har spart opp tips og lønn over mange år, og nærmer seg drømmen sin. Men så forelsker han/hu seg i nydelige Helen (Mia Wasikowska). Og som med alt annet her i livet så byr de pene jentene på problemer..
@@ -214,7 +214,7 @@ meta:
     <strong>Regi:</strong> Rodrigo García
     <strong>Manus:</strong> Glenn Close, John Banville
     <strong>Skuespillere: </strong>Glenn Close, Mia Wasikowska, Aaron Johnson, Janet McTeer, Pauline Collins, Brenda Fricker, Jonathan Rhys Meyers, Brendan Gleeson,Maria Doyle Kennedy, Antonia Campbell-Hughes, Mark Williams, James Green, Bronagh Gallagher, John Light
-    <a href="//filmbloggen.net/2012/08/23/kunne-ha-vaert-sa-mye-bedre/bfxrhow5/" rel="attachment wp-att-6557"><img class="alignnone size-large wp-image-6557" src="/wp-content/uploads//2012/08/bfxrhow5-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-6557" src="/wp-content/uploads//2012/08/bfxrhow5-620x413.jpg" alt="" width="620" height="413" />
     <em>Foto: Fidalgo</em>
 
     Albert Nobbs er basert på en novelle av George Moore. Filmen handler om Albert (Glenn Close) er butler på et av de fineste hotellene i Irland, der ingenting er lagt til tilfeldighetene. Kundene forventer at alt skal være ordnet fra de går ut av hestekjerra til de drar igjen. Men Albert er egentlig ei dame som prøver å overkomme kjønnsproblematikken på 1800-tallet. Det var ikke vanlig at ei dame skulle klare seg selv. Albert har en drøm om å starte sin egen butikk, sånn at han/hu for første gang i livet sitt er sin egen sjef. Han/hu har spart opp tips og lønn over mange år, og nærmer seg drømmen sin. Men så forelsker han/hu seg i nydelige Helen (Mia Wasikowska). Og som med alt annet her i livet så byr de pene jentene på problemer..
@@ -234,7 +234,7 @@ meta:
     <strong>Regi:</strong> Rodrigo García
     <strong>Manus:</strong> Glenn Close, John Banville
     <strong>Skuespillere: </strong>Glenn Close, Mia Wasikowska, Aaron Johnson, Janet McTeer, Pauline Collins, Brenda Fricker, Jonathan Rhys Meyers, Brendan Gleeson,Maria Doyle Kennedy, Antonia Campbell-Hughes, Mark Williams, James Green, Bronagh Gallagher, John Light
-    <a href="//filmbloggen.net/2012/08/23/kunne-ha-vaert-sa-mye-bedre/bfxrhow5/" rel="attachment wp-att-6557"><img class="alignnone size-large wp-image-6557" src="/wp-content/uploads//2012/08/bfxrhow5-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-6557" src="/wp-content/uploads//2012/08/bfxrhow5-620x413.jpg" alt="" width="620" height="413" />
     <em>Foto: Fidalgo</em>
 
     Albert Nobbs er basert på en novelle av George Moore. Filmen handler om Albert (Glenn Close) er butler på et av de fineste hotellene i Irland, der ingenting er lagt til tilfeldighetene. Kundene forventer at alt skal være ordnet fra de går ut av hestekjerra til de drar igjen. Men Albert er egentlig ei dame som prøver å overkomme kjønnsproblematikken på 1800-tallet. Det var ikke vanlig at ei dame skulle klare seg selv. Albert har en drøm om å starte sin egen butikk, sånn at han/hu for første gang i livet sitt er sin egen sjef. Han/hu har spart opp tips og lønn over mange år, og nærmer seg drømmen sin. Men så forelsker han/hu seg i nydelige Helen (Mia Wasikowska). Og som med alt annet her i livet så byr de pene jentene på problemer..
@@ -285,7 +285,7 @@ tags:
 **Regi:** Rodrigo García
 **Manus:** Glenn Close, John Banville
 **Skuespillere: **Glenn Close, Mia Wasikowska, Aaron Johnson, Janet McTeer, Pauline Collins, Brenda Fricker, Jonathan Rhys Meyers, Brendan Gleeson,Maria Doyle Kennedy, Antonia Campbell-Hughes, Mark Williams, James Green, Bronagh Gallagher, John Light
-<a href="//filmbloggen.net/2012/08/23/kunne-ha-vaert-sa-mye-bedre/bfxrhow5/" rel="attachment wp-att-6557"><img class="alignnone size-large wp-image-6557" src="/wp-content/uploads//2012/08/bfxrhow5-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-6557" src="/wp-content/uploads//2012/08/bfxrhow5-620x413.jpg" alt="" width="620" height="413" />
 _Foto: Fidalgo_
 
 Albert Nobbs er basert på en novelle av George Moore. Filmen handler om Albert (Glenn Close) er butler på et av de fineste hotellene i Irland, der ingenting er lagt til tilfeldighetene. Kundene forventer at alt skal være ordnet fra de går ut av hestekjerra til de drar igjen. Men Albert er egentlig ei dame som prøver å overkomme kjønnsproblematikken på 1800-tallet. Det var ikke vanlig at ei dame skulle klare seg selv. Albert har en drøm om å starte sin egen butikk, sånn at han/hu for første gang i livet sitt er sin egen sjef. Han/hu har spart opp tips og lønn over mange år, og nærmer seg drømmen sin. Men så forelsker han/hu seg i nydelige Helen (Mia Wasikowska). Og som med alt annet her i livet så byr de pene jentene på problemer..

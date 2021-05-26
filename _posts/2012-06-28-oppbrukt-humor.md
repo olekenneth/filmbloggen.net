@@ -107,7 +107,7 @@ content:
     <strong>Regi:</strong> David Wain
     <strong>Skuespillere:</strong> Jennifer Aniston, Malin Akerman, Paul Rudd, Justin Theroux, Ray Liotta, Kathryn Hahn,Lauren Ambrose, Alan Alda, Joe Lo Truglio, Kerri Kenney, Michaela Watkins, Keith Allen Hayes,Patricia French, John D’Leo, Jordan Peele
     <strong>Spilletid:</strong> 1 time og 38 minutter
-    <a href="//filmbloggen.net/2012/06/28/oppbrukt-humor/hxtkhxi6/" rel="attachment wp-att-4437"><img class="alignnone size-large wp-image-4437" src="/wp-content/uploads//2012/06/hxtkhxi6-620x355.jpg" alt="" width="620" height="355" /></a>
+    <img class="alignnone size-large wp-image-4437" src="/wp-content/uploads//2012/06/hxtkhxi6-620x355.jpg" alt="" width="620" height="355" />
     <em>Foto: United International Pictures</em>
 
     Wanderlust handler om George (Paul Rudd) og Linda (Jennifer Aniston) som havner i økonomiske problemer etter at George mister jobben sin. Dette tvinger paret til å utforske alternative bomuligheter, og de kommer tilfeldigvis over et hippiesamfunn der fri kjærlighet, hasj og dårlig gitarspilling er det viktigste i livet.
@@ -183,7 +183,7 @@ post_content:
     <strong>Regi:</strong> David Wain
     <strong>Skuespillere:</strong> Jennifer Aniston, Malin Akerman, Paul Rudd, Justin Theroux, Ray Liotta, Kathryn Hahn,Lauren Ambrose, Alan Alda, Joe Lo Truglio, Kerri Kenney, Michaela Watkins, Keith Allen Hayes,Patricia French, John D’Leo, Jordan Peele
     <strong>Spilletid:</strong> 1 time og 38 minutter
-    <a href="//filmbloggen.net/2012/06/28/oppbrukt-humor/hxtkhxi6/" rel="attachment wp-att-4437"><img class="alignnone size-large wp-image-4437" src="/wp-content/uploads//2012/06/hxtkhxi6-620x355.jpg" alt="" width="620" height="355" /></a>
+    <img class="alignnone size-large wp-image-4437" src="/wp-content/uploads//2012/06/hxtkhxi6-620x355.jpg" alt="" width="620" height="355" />
     <em>Foto: United International Pictures</em>
 
     Wanderlust handler om George (Paul Rudd) og Linda (Jennifer Aniston) som havner i økonomiske problemer etter at George mister jobben sin. Dette tvinger paret til å utforske alternative bomuligheter, og de kommer tilfeldigvis over et hippiesamfunn der fri kjærlighet, hasj og dårlig gitarspilling er det viktigste i livet.
@@ -217,7 +217,7 @@ meta:
     <strong>Regi:</strong> David Wain
     <strong>Skuespillere:</strong> Jennifer Aniston, Malin Akerman, Paul Rudd, Justin Theroux, Ray Liotta, Kathryn Hahn,Lauren Ambrose, Alan Alda, Joe Lo Truglio, Kerri Kenney, Michaela Watkins, Keith Allen Hayes,Patricia French, John D’Leo, Jordan Peele
     <strong>Spilletid:</strong> 1 time og 38 minutter
-    <a href="//filmbloggen.net/2012/06/28/oppbrukt-humor/hxtkhxi6/" rel="attachment wp-att-4437"><img class="alignnone size-large wp-image-4437" src="/wp-content/uploads//2012/06/hxtkhxi6-620x355.jpg" alt="" width="620" height="355" /></a>
+    <img class="alignnone size-large wp-image-4437" src="/wp-content/uploads//2012/06/hxtkhxi6-620x355.jpg" alt="" width="620" height="355" />
     <em>Foto: United International Pictures</em>
 
     Wanderlust handler om George (Paul Rudd) og Linda (Jennifer Aniston) som havner i økonomiske problemer etter at George mister jobben sin. Dette tvinger paret til å utforske alternative bomuligheter, og de kommer tilfeldigvis over et hippiesamfunn der fri kjærlighet, hasj og dårlig gitarspilling er det viktigste i livet.
@@ -236,7 +236,7 @@ meta:
     <strong>Regi:</strong> David Wain
     <strong>Skuespillere:</strong> Jennifer Aniston, Malin Akerman, Paul Rudd, Justin Theroux, Ray Liotta, Kathryn Hahn,Lauren Ambrose, Alan Alda, Joe Lo Truglio, Kerri Kenney, Michaela Watkins, Keith Allen Hayes,Patricia French, John D’Leo, Jordan Peele
     <strong>Spilletid:</strong> 1 time og 38 minutter
-    <a href="//filmbloggen.net/2012/06/28/oppbrukt-humor/hxtkhxi6/" rel="attachment wp-att-4437"><img class="alignnone size-large wp-image-4437" src="/wp-content/uploads//2012/06/hxtkhxi6-620x355.jpg" alt="" width="620" height="355" /></a>
+    <img class="alignnone size-large wp-image-4437" src="/wp-content/uploads//2012/06/hxtkhxi6-620x355.jpg" alt="" width="620" height="355" />
     <em>Foto: United International Pictures</em>
 
     Wanderlust handler om George (Paul Rudd) og Linda (Jennifer Aniston) som havner i økonomiske problemer etter at George mister jobben sin. Dette tvinger paret til å utforske alternative bomuligheter, og de kommer tilfeldigvis over et hippiesamfunn der fri kjærlighet, hasj og dårlig gitarspilling er det viktigste i livet.
@@ -280,7 +280,7 @@ tags:
 **Regi:** David Wain
 **Skuespillere:** Jennifer Aniston, Malin Akerman, Paul Rudd, Justin Theroux, Ray Liotta, Kathryn Hahn,Lauren Ambrose, Alan Alda, Joe Lo Truglio, Kerri Kenney, Michaela Watkins, Keith Allen Hayes,Patricia French, John D’Leo, Jordan Peele
 **Spilletid:** 1 time og 38 minutter
-<a href="//filmbloggen.net/2012/06/28/oppbrukt-humor/hxtkhxi6/" rel="attachment wp-att-4437"><img class="alignnone size-large wp-image-4437" src="/wp-content/uploads//2012/06/hxtkhxi6-620x355.jpg" alt="" width="620" height="355" /></a>
+<img class="alignnone size-large wp-image-4437" src="/wp-content/uploads//2012/06/hxtkhxi6-620x355.jpg" alt="" width="620" height="355" />
 _Foto: United International Pictures_
 
 Wanderlust handler om George (Paul Rudd) og Linda (Jennifer Aniston) som havner i økonomiske problemer etter at George mister jobben sin. Dette tvinger paret til å utforske alternative bomuligheter, og de kommer tilfeldigvis over et hippiesamfunn der fri kjærlighet, hasj og dårlig gitarspilling er det viktigste i livet.

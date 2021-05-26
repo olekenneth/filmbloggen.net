@@ -107,7 +107,7 @@ content:
     Spilletid:</strong> </strong>2 timer og 11 minutter<strong><strong>
     Regissør:</strong> </strong>Peter Berg<strong><strong>
     Med:</strong> </strong>Rihanna, Liam Neeson, Alexander Skarsgård, Taylor Kitsch, Brooklyn Decker, Josh Pence, Peter MacNicol, Jesse Plemons, Tadanobu Asano, Hamish Linklater, Stephen Bishop, Beau Brasso, Griff Furst, Reila Aphrodite, Billy Slaughter
-    <a href="//filmbloggen.net/2012/04/12/michael-bay-pa-steroider/battleship2/" rel="attachment wp-att-3038"><img class="alignnone size-large wp-image-3038" src="/wp-content/uploads//2012/04/battleship2-620x259.jpg" alt="" width="620" height="259" /></a>
+    <img class="alignnone size-large wp-image-3038" src="/wp-content/uploads//2012/04/battleship2-620x259.jpg" alt="" width="620" height="259" />
     Det er ikke noe nytt at filmer blir basert på spill. Det at en film skal bli basert på et brettspill derimot, det er nytt. Battleship er basert på Hasbros brettspill Battleship. 200 millioner dollar er puttet inn i denne eksplosjonen av en film. Og eksplosjonene, de er spektakulære. I ekte Michael Bay-ånd så sprenger ting overalt, hele tiden. Peter Berg har i hvert fall fått til det. Men alt i alt så virker det mer som en reklame for det amerikanske militæret.
 
     <strong>Battlefield handler om en marineøvelse utenfor Hawaii som blir alvor når skipene får kontakt med utenomjordiske romskip, som lander i havet med skumle hensikter.</strong>
@@ -180,7 +180,7 @@ post_content:
     Spilletid:</strong> </strong>2 timer og 11 minutter<strong><strong>
     Regissør:</strong> </strong>Peter Berg<strong><strong>
     Med:</strong> </strong>Rihanna, Liam Neeson, Alexander Skarsgård, Taylor Kitsch, Brooklyn Decker, Josh Pence, Peter MacNicol, Jesse Plemons, Tadanobu Asano, Hamish Linklater, Stephen Bishop, Beau Brasso, Griff Furst, Reila Aphrodite, Billy Slaughter
-    <a href="//filmbloggen.net/2012/04/12/michael-bay-pa-steroider/battleship2/" rel="attachment wp-att-3038"><img class="alignnone size-large wp-image-3038" src="/wp-content/uploads//2012/04/battleship2-620x259.jpg" alt="" width="620" height="259" /></a>
+    <img class="alignnone size-large wp-image-3038" src="/wp-content/uploads//2012/04/battleship2-620x259.jpg" alt="" width="620" height="259" />
     Det er ikke noe nytt at filmer blir basert på spill. Det at en film skal bli basert på et brettspill derimot, det er nytt. Battleship er basert på Hasbros brettspill Battleship. 200 millioner dollar er puttet inn i denne eksplosjonen av en film. Og eksplosjonene, de er spektakulære. I ekte Michael Bay-ånd så sprenger ting overalt, hele tiden. Peter Berg har i hvert fall fått til det. Men alt i alt så virker det mer som en reklame for det amerikanske militæret.
 
     <strong>Battlefield handler om en marineøvelse utenfor Hawaii som blir alvor når skipene får kontakt med utenomjordiske romskip, som lander i havet med skumle hensikter.</strong>
@@ -203,7 +203,7 @@ meta:
     Spilletid:</strong> </strong>2 timer og 11 minutter<strong><strong>
     Regissør:</strong> </strong>Peter Berg<strong><strong>
     Med:</strong> </strong>Rihanna, Liam Neeson, Alexander Skarsgård, Taylor Kitsch, Brooklyn Decker, Josh Pence, Peter MacNicol, Jesse Plemons, Tadanobu Asano, Hamish Linklater, Stephen Bishop, Beau Brasso, Griff Furst, Reila Aphrodite, Billy Slaughter
-    <a href="//filmbloggen.net/2012/04/12/michael-bay-pa-steroider/battlefield/" rel="attachment wp-att-3027"><img class="alignnone size-large wp-image-3027" src="/wp-content/uploads//2012/04/battlefield-620x255.jpg" alt="" width="620" height="255" /></a>
+    <img class="alignnone size-large wp-image-3027" src="/wp-content/uploads//2012/04/battlefield-620x255.jpg" alt="" width="620" height="255" />
     Det er ikke noe nytt at filmer blir basert på spill. Det at en film skal bli basert på et brettspill derimot, det er nytt. Battleship er basert på Hasbros brettspill Battleship. 200 millioner dollar er puttet inn i denne eksplosjonen av en film. Og eksplosjonene, de er spektakulære. I ekte Michael Bay-ånd så sprenger ting overalt, hele tiden. Peter Berg har i hvert fall fått til det. Men alt i alt så virker det mer som en reklame for det amerikanske militæret.
 
     <strong>Battlefield handler om en marineøvelse utenfor Hawaii som blir alvor når skipene får kontakt med utenomjordiske romskip, som lander i havet med skumle hensikter.</strong>
@@ -219,7 +219,7 @@ meta:
     Spilletid:</strong> </strong>2 timer og 11 minutter<strong><strong>
     Regissør:</strong> </strong>Peter Berg<strong><strong>
     Med:</strong> </strong>Rihanna, Liam Neeson, Alexander Skarsgård, Taylor Kitsch, Brooklyn Decker, Josh Pence, Peter MacNicol, Jesse Plemons, Tadanobu Asano, Hamish Linklater, Stephen Bishop, Beau Brasso, Griff Furst, Reila Aphrodite, Billy Slaughter
-    <a href="//filmbloggen.net/2012/04/12/michael-bay-pa-steroider/battlefield/" rel="attachment wp-att-3027"><img class="alignnone size-large wp-image-3027" src="/wp-content/uploads//2012/04/battlefield-620x255.jpg" alt="" width="620" height="255" /></a>
+    <img class="alignnone size-large wp-image-3027" src="/wp-content/uploads//2012/04/battlefield-620x255.jpg" alt="" width="620" height="255" />
     Det er ikke noe nytt at filmer blir basert på spill. Det at en film skal bli basert på et brettspill derimot, det er nytt. Battleship er basert på Hasbros brettspill Battleship. 200 millioner dollar er puttet inn i denne eksplosjonen av en film. Og eksplosjonene, de er spektakulære. I ekte Michael Bay-ånd så sprenger ting overalt, hele tiden. Peter Berg har i hvert fall fått til det. Men alt i alt så virker det mer som en reklame for det amerikanske militæret.
 
     <strong>Battlefield handler om en marineøvelse utenfor Hawaii som blir alvor når skipene får kontakt med utenomjordiske romskip, som lander i havet med skumle hensikter.</strong>
@@ -269,7 +269,7 @@ Originaltittel: Battleship**
 Spilletid:**** 2 timer og 11 minutter****
 Regissør:**** Peter Berg****
 Med:**** Rihanna, Liam Neeson, Alexander Skarsgård, Taylor Kitsch, Brooklyn Decker, Josh Pence, Peter MacNicol, Jesse Plemons, Tadanobu Asano, Hamish Linklater, Stephen Bishop, Beau Brasso, Griff Furst, Reila Aphrodite, Billy Slaughter
-<a href="//filmbloggen.net/2012/04/12/michael-bay-pa-steroider/battleship2/" rel="attachment wp-att-3038"><img class="alignnone size-large wp-image-3038" src="/wp-content/uploads//2012/04/battleship2-620x259.jpg" alt="" width="620" height="259" /></a>
+<img class="alignnone size-large wp-image-3038" src="/wp-content/uploads//2012/04/battleship2-620x259.jpg" alt="" width="620" height="259" />
 Det er ikke noe nytt at filmer blir basert på spill. Det at en film skal bli basert på et brettspill derimot, det er nytt. Battleship er basert på Hasbros brettspill Battleship. 200 millioner dollar er puttet inn i denne eksplosjonen av en film. Og eksplosjonene, de er spektakulære. I ekte Michael Bay-ånd så sprenger ting overalt, hele tiden. Peter Berg har i hvert fall fått til det. Men alt i alt så virker det mer som en reklame for det amerikanske militæret.
 
 **Battlefield handler om en marineøvelse utenfor Hawaii som blir alvor når skipene får kontakt med utenomjordiske romskip, som lander i havet med skumle hensikter.**

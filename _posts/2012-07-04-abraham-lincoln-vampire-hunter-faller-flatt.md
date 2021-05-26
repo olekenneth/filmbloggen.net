@@ -107,7 +107,7 @@ content:
     Regi: </strong>Timur Bekmambetov<strong>
     Manus: </strong>Seth Grahame-Smith<strong>
     Skuespillere: </strong>Benjamin Walker, Dominic Cooper, Anthony Mackie, Mary Elizabeth Winstead, Rufus Sewell, Jimmi Simpson, Alan Tudyk
-    <a href="//filmbloggen.net/2012/07/04/abraham-lincoln-vampire-hunter-faller-flatt/benjamin-walker-as-abe-lincoln-fights-with-erin-wasson-vadoma/" rel="attachment wp-att-4651"><img class="alignnone size-large wp-image-4651" src="/wp-content/uploads//2012/07/7-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-4651" src="/wp-content/uploads//2012/07/7-620x413.jpg" alt="" width="620" height="413" />
     <em>Foto: 20th Century Fox</em>
 
     Når konseptet er såpass spesielt som at Amerikas 16. president drepte vampyrer på deltid må  vi forvente å ta historien med en klype salt. Vi blir introdusert for en ung Abraham, og på kort tid får vi vite litt om hvorfor han i sin ungdom skal jakte på vampyrer. Det handler hovedsakelig om hevn. Men når Abraham møter en mystisk mann spilt av Dominic Cooper blir idéen om å slakte alle vampyrene i verden satt i gang.
@@ -184,7 +184,7 @@ post_content:
     Regi: </strong>Timur Bekmambetov<strong>
     Manus: </strong>Seth Grahame-Smith<strong>
     Skuespillere: </strong>Benjamin Walker, Dominic Cooper, Anthony Mackie, Mary Elizabeth Winstead, Rufus Sewell, Jimmi Simpson, Alan Tudyk
-    <a href="//filmbloggen.net/2012/07/04/abraham-lincoln-vampire-hunter-faller-flatt/benjamin-walker-as-abe-lincoln-fights-with-erin-wasson-vadoma/" rel="attachment wp-att-4651"><img class="alignnone size-large wp-image-4651" src="/wp-content/uploads//2012/07/7-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-4651" src="/wp-content/uploads//2012/07/7-620x413.jpg" alt="" width="620" height="413" />
     <em>Foto: 20th Century Fox</em>
 
     Når konseptet er såpass spesielt som at Amerikas 16. president drepte vampyrer på deltid må  vi forvente å ta historien med en klype salt. Vi blir introdusert for en ung Abraham, og på kort tid får vi vite litt om hvorfor han i sin ungdom skal jakte på vampyrer. Det handler hovedsakelig om hevn. Men når Abraham møter en mystisk mann spilt av Dominic Cooper blir idéen om å slakte alle vampyrene i verden satt i gang.
@@ -211,7 +211,7 @@ meta:
     Regi: </strong>Timur Bekmambetov<strong>
     Manus: </strong>Seth Grahame-Smith<strong>
     Skuespillere: </strong>Benjamin Walker, Dominic Cooper, Anthony Mackie, Mary Elizabeth Winstead, Rufus Sewell, Jimmi Simpson, Alan Tudyk
-    <a href="//filmbloggen.net/2012/07/04/abraham-lincoln-vampire-hunter-faller-flatt/benjamin-walker-as-abe-lincoln-fights-with-erin-wasson-vadoma/" rel="attachment wp-att-4651"><img class="alignnone size-large wp-image-4651" title="Benjamin Walker as Abe Lincoln fights with Erin Wasson (Vadoma)" src="/wp-content/uploads//2012/07/7-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-4651" title="Benjamin Walker as Abe Lincoln fights with Erin Wasson (Vadoma)" src="/wp-content/uploads//2012/07/7-620x413.jpg" alt="" width="620" height="413" />
     <em>Foto: 20th Century Fox</em>
 
     Når konseptet er såpass spesielt som at Amerikas 16. president drepte vampyrer på deltid må  vi forvente å ta historien med en klype salt. Vi blir introdusert for en ung Abraham, og på kort tid får vi vite litt om hvorfor han i sin ungdom skal jakte på vampyrer. Det handler hovedsakelig om hevn. Men når Abraham møter en mystisk mann spilt av Dominic Cooper blir idéen om å slakte alle vampyrene i verden satt i gang.
@@ -231,7 +231,7 @@ meta:
     Regi: </strong>Timur Bekmambetov<strong>
     Manus: </strong>Seth Grahame-Smith<strong>
     Skuespillere: </strong>Benjamin Walker, Dominic Cooper, Anthony Mackie, Mary Elizabeth Winstead, Rufus Sewell, Jimmi Simpson, Alan Tudyk
-    <a href="//filmbloggen.net/2012/07/04/abraham-lincoln-vampire-hunter-faller-flatt/benjamin-walker-as-abe-lincoln-fights-with-erin-wasson-vadoma/" rel="attachment wp-att-4651"><img class="alignnone size-large wp-image-4651" title="Benjamin Walker as Abe Lincoln fights with Erin Wasson (Vadoma)" src="/wp-content/uploads//2012/07/7-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-4651" title="Benjamin Walker as Abe Lincoln fights with Erin Wasson (Vadoma)" src="/wp-content/uploads//2012/07/7-620x413.jpg" alt="" width="620" height="413" />
     <em>Foto: 20th Century Fox</em>
 
     Når konseptet er såpass spesielt som at Amerikas 16. president drepte vampyrer på deltid må  vi forvente å ta historien med en klype salt. Vi blir introdusert for en ung Abraham, og på kort tid får vi vite litt om hvorfor han i sin ungdom skal jakte på vampyrer. Det handler hovedsakelig om hevn. Men når Abraham møter en mystisk mann spilt av Dominic Cooper blir idéen om å slakte alle vampyrene i verden satt i gang.
@@ -282,7 +282,7 @@ Sjanger:** Action / Eventyr**
 Regi:** Timur Bekmambetov**
 Manus:** Seth Grahame-Smith**
 Skuespillere:** Benjamin Walker, Dominic Cooper, Anthony Mackie, Mary Elizabeth Winstead, Rufus Sewell, Jimmi Simpson, Alan Tudyk
-<a href="//filmbloggen.net/2012/07/04/abraham-lincoln-vampire-hunter-faller-flatt/benjamin-walker-as-abe-lincoln-fights-with-erin-wasson-vadoma/" rel="attachment wp-att-4651"><img class="alignnone size-large wp-image-4651" src="/wp-content/uploads//2012/07/7-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-4651" src="/wp-content/uploads//2012/07/7-620x413.jpg" alt="" width="620" height="413" />
 _Foto: 20th Century Fox_
 
 Når konseptet er såpass spesielt som at Amerikas 16. president drepte vampyrer på deltid må  vi forvente å ta historien med en klype salt. Vi blir introdusert for en ung Abraham, og på kort tid får vi vite litt om hvorfor han i sin ungdom skal jakte på vampyrer. Det handler hovedsakelig om hevn. Men når Abraham møter en mystisk mann spilt av Dominic Cooper blir idéen om å slakte alle vampyrene i verden satt i gang.

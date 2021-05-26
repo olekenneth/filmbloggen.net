@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> Noomi Rapace, Michael Fassbender, Logan Marshall-Green, Charlize Theron, Idris Elba, Guy Pierce, Sean Harris.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/06/02/skrekk-og-gru-ombord-pa-prometheus/36-images-from-ridley-scotts-prometheus-14/" rel="attachment wp-att-3881"><img class="alignnone size-large wp-image-3881" src="/wp-content/uploads//2012/05/36-images-from-ridley-scotts-prometheus-14-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-3881" src="/wp-content/uploads//2012/05/36-images-from-ridley-scotts-prometheus-14-620x310.jpg" alt="" width="620" height="310" />
 
     Forhåpningene var store til Prometheus, sikkert pga av all forhåndsviraken, så det er kanskje ikke så underlig at jeg faktisk blir litt skuffet. All "hypen" rundt denne filmen har vært enorm og Ridley Scott er jo tross alt en slags mester på Sci-fi-thrillere - ettersom han var med på å definere sjangeren. Han lyktes med Alien fra 1979 og Blade Runner - som ikke fikk den anerkjennelsen den fortjente i begynnelsen, men som allikevel ble en suksess i senere tid. Prometheus blir dessverre for ustabil i stemning og historien fenger ikke helt.
 
@@ -65,7 +65,7 @@ post_content:
     <strong>Skuespillere:</strong> Noomi Rapace, Michael Fassbender, Logan Marshall-Green, Charlize Theron, Idris Elba, Guy Pierce, Sean Harris.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/06/02/skrekk-og-gru-ombord-pa-prometheus/36-images-from-ridley-scotts-prometheus-14/" rel="attachment wp-att-3881"><img class="alignnone size-large wp-image-3881" src="/wp-content/uploads//2012/05/36-images-from-ridley-scotts-prometheus-14-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-3881" src="/wp-content/uploads//2012/05/36-images-from-ridley-scotts-prometheus-14-620x310.jpg" alt="" width="620" height="310" />
 
     Forhåpningene var store til Prometheus, sikkert pga av all forhåndsviraken, så det er kanskje ikke så underlig at jeg faktisk blir litt skuffet. All "hypen" rundt denne filmen har vært enorm og Ridley Scott er jo tross alt en slags mester på Sci-fi-thrillere - ettersom han var med på å definere sjangeren. Han lyktes med Alien fra 1979 og Blade Runner - som ikke fikk den anerkjennelsen den fortjente i begynnelsen, men som allikevel ble en suksess i senere tid. Prometheus blir dessverre for ustabil i stemning og historien fenger ikke helt.
 
@@ -172,7 +172,7 @@ meta:
     <strong>Skuespillere:</strong> Noomi Rapace, Michael Fassbender, Logan Marshall-Green, Charlize Theron, Idris Elba, Guy Pierce, Sean Harris.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/06/02/skrekk-og-gru-ombord-pa-prometheus/36-images-from-ridley-scotts-prometheus-14/" rel="attachment wp-att-3881"><img class="alignnone size-large wp-image-3881" src="/wp-content/uploads//2012/05/36-images-from-ridley-scotts-prometheus-14-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-3881" src="/wp-content/uploads//2012/05/36-images-from-ridley-scotts-prometheus-14-620x310.jpg" alt="" width="620" height="310" />
 
     Forhåpningene var store til Prometheus, sikkert pga av all forhåndsviraken og det er kanskje ikke så underlig at jeg faktisk blir litt skuffet. All "hypen" rundt denne filmen har vært enorm og Ridley Scott er jo tross alt en slags mester på Sci-fi-thrillere - ettersom han var med på å definere sjangeren. Han lykkes med Alien fra 1979 og Blade Runner - som ikke fikk den anerkjennelsen den fortjente i begynnelsen, men som allikevel ble en suksess i senere tid. Prometheus blir dessverre for ustabil i stemning og historien fenger ikke helt.
 
@@ -196,7 +196,7 @@ meta:
     <strong>Skuespillere:</strong> Noomi Rapace, Michael Fassbender, Logan Marshall-Green, Charlize Theron, Idris Elba, Guy Pierce, Sean Harris.
     <strong>Spilletid:</strong> 2 timer og 4 minutter
 
-    <a href="//filmbloggen.net/2012/06/02/skrekk-og-gru-ombord-pa-prometheus/36-images-from-ridley-scotts-prometheus-14/" rel="attachment wp-att-3881"><img class="alignnone size-large wp-image-3881" src="/wp-content/uploads//2012/05/36-images-from-ridley-scotts-prometheus-14-620x310.jpg" alt="" width="620" height="310" /></a>
+    <img class="alignnone size-large wp-image-3881" src="/wp-content/uploads//2012/05/36-images-from-ridley-scotts-prometheus-14-620x310.jpg" alt="" width="620" height="310" />
 
     Forhåpningene var store til Prometheus, sikkert pga av all forhåndsviraken og det er kanskje ikke så underlig at jeg faktisk blir litt skuffet. All "hypen" rundt denne filmen har vært enorm og Ridley Scott er jo tross alt en slags mester på Sci-fi-thrillere - ettersom han var med på å definere sjangeren. Han lykkes med Alien fra 1979 og Blade Runner - som ikke fikk den anerkjennelsen den fortjente i begynnelsen, men som allikevel ble en suksess i senere tid. Prometheus blir dessverre for ustabil i stemning og historien fenger ikke helt.
 
@@ -289,7 +289,7 @@ tags:
 **Skuespillere:** Noomi Rapace, Michael Fassbender, Logan Marshall-Green, Charlize Theron, Idris Elba, Guy Pierce, Sean Harris.
 **Spilletid:** 2 timer og 4 minutter
 
-<a href="//filmbloggen.net/2012/06/02/skrekk-og-gru-ombord-pa-prometheus/36-images-from-ridley-scotts-prometheus-14/" rel="attachment wp-att-3881"><img class="alignnone size-large wp-image-3881" src="/wp-content/uploads//2012/05/36-images-from-ridley-scotts-prometheus-14-620x310.jpg" alt="" width="620" height="310" /></a>
+<img class="alignnone size-large wp-image-3881" src="/wp-content/uploads//2012/05/36-images-from-ridley-scotts-prometheus-14-620x310.jpg" alt="" width="620" height="310" />
 
 Forhåpningene var store til Prometheus, sikkert pga av all forhåndsviraken, så det er kanskje ikke så underlig at jeg faktisk blir litt skuffet. All «hypen» rundt denne filmen har vært enorm og Ridley Scott er jo tross alt en slags mester på Sci-fi-thrillere – ettersom han var med på å definere sjangeren. Han lyktes med Alien fra 1979 og Blade Runner – som ikke fikk den anerkjennelsen den fortjente i begynnelsen, men som allikevel ble en suksess i senere tid. Prometheus blir dessverre for ustabil i stemning og historien fenger ikke helt.
 

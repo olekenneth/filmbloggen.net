@@ -106,7 +106,7 @@ content:
 
     Jeg har kanskje overanalysert TV-serien, og det kan diskuteres om det har ødelagt min opplevelse eller ei, men det gir meg også en unik innsikt i hva som vil skje i de kommende sesongene og jeg er mer enn klar for den tredje. Vår kjære gjeng, som blir mer og mer dysfunksjonell for hver episode, skal nemlig søke ly i et lokalt fengsel. Dette fengselet spiller en sentral rolle i den andre boken i serien, og vil nok by på et interessant TV-serie-miljø, men det er det som skjuler seg på utsiden jeg er mest spent på, nemlig en karakter kalt <em>The Governor. </em>
 
-    <a href="//filmbloggen.net/2012/06/09/guvernoren-fra-the-walking-dead/walking-dead-governor/" rel="attachment wp-att-4080"><img class="alignleft size-medium wp-image-4080" src="/wp-content/uploads//2012/06/walking-dead-governor-221x300.jpg" alt="" width="221" height="300" /></a>
+    <img class="alignleft size-medium wp-image-4080" src="/wp-content/uploads//2012/06/walking-dead-governor-221x300.jpg" alt="" width="221" height="300" />
 
     Det gikk rykter i at han - og Michonne - skulle ta del i den tredje sesongen og nå er begge mer enn bekreftet. Michonne ble introdusert sent i den andre sesongen (samurai!) og nå har et bilde av guvernøren blitt lansert. Til tross for etniske forskjeller ser denne mannen hardbarket ut, noe som er essesensielt for å fremstille denne karakteren.
 
@@ -177,7 +177,7 @@ post_content:
 
     Jeg har kanskje overanalysert TV-serien, og det kan diskuteres om det har ødelagt min opplevelse eller ei, men det gir meg også en unik innsikt i hva som vil skje i de kommende sesongene og jeg er mer enn klar for den tredje. Vår kjære gjeng, som blir mer og mer dysfunksjonell for hver episode, skal nemlig søke ly i et lokalt fengsel. Dette fengselet spiller en sentral rolle i den andre boken i serien, og vil nok by på et interessant TV-serie-miljø, men det er det som skjuler seg på utsiden jeg er mest spent på, nemlig en karakter kalt <em>The Governor. </em>
 
-    <a href="//filmbloggen.net/2012/06/09/guvernoren-fra-the-walking-dead/walking-dead-governor/" rel="attachment wp-att-4080"><img class="alignleft size-medium wp-image-4080" src="/wp-content/uploads//2012/06/walking-dead-governor-221x300.jpg" alt="" width="221" height="300" /></a>
+    <img class="alignleft size-medium wp-image-4080" src="/wp-content/uploads//2012/06/walking-dead-governor-221x300.jpg" alt="" width="221" height="300" />
 
     Det gikk rykter i at han - og Michonne - skulle ta del i den tredje sesongen og nå er begge mer enn bekreftet. Michonne ble introdusert sent i den andre sesongen (samurai!) og nå har et bilde av guvernøren blitt lansert. Til tross for etniske forskjeller ser denne mannen hardbarket ut, noe som er essesensielt for å fremstille denne karakteren.
 
@@ -198,7 +198,7 @@ meta:
 
     Jeg har kanskje overanalysert TV-serien, og det kan diskuteres om det har ødelagt min opplevelse eller ei, men det gir meg også en unik innsikt i hva som vil skje i de kommende sesongene og jeg er mer enn klar for den tredje. Vår kjære gjeng, som blir mer og mer dysfunksjonell for hver episode, skal nemlig søke ly i et lokalt fengsel. Dette fengselet spiller en sentral rolle i den andre boken i serien, og vil nok by på et interessant TV-serie-miljø, men det er det som skjuler seg på utsiden jeg er mest spent på, nemlig en karakter kalt <em>The Governor. </em>
 
-    <a href="//filmbloggen.net/?attachment_id=4080" rel="attachment wp-att-4080"><img class="alignleft size-medium wp-image-4080" title="walking-dead-governor" src="/wp-content/uploads//2012/06/walking-dead-governor-221x300.jpg" alt="" width="221" height="300" /></a>
+    <img class="alignleft size-medium wp-image-4080" title="walking-dead-governor" src="/wp-content/uploads//2012/06/walking-dead-governor-221x300.jpg" alt="" width="221" height="300" />
 
     Det gikk rykter i at han - og Michonne - skulle ta del i den tredje sesongen og nå er begge mer enn bekreftet. Michonne ble introdusert sent i den andre sesongen (samurai!) og nå har et bilde av guvernøren blitt lansert. Til tross for etniske forskjeller ser denne mannen hardbarket ut, noe som er essesensielt for å fremstille denne karakteren.
 
@@ -212,7 +212,7 @@ meta:
 
     Jeg har kanskje overanalysert TV-serien, og det kan diskuteres om det har ødelagt min opplevelse eller ei, men det gir meg også en unik innsikt i hva som vil skje i de kommende sesongene og jeg er mer enn klar for den tredje. Vår kjære gjeng, som blir mer og mer dysfunksjonell for hver episode, skal nemlig søke ly i et lokalt fengsel. Dette fengselet spiller en sentral rolle i den andre boken i serien, og vil nok by på et interessant TV-serie-miljø, men det er det som skjuler seg på utsiden jeg er mest spent på, nemlig en karakter kalt <em>The Governor. </em>
 
-    <a href="//filmbloggen.net/?attachment_id=4080" rel="attachment wp-att-4080"><img class="alignleft size-medium wp-image-4080" title="walking-dead-governor" src="/wp-content/uploads//2012/06/walking-dead-governor-221x300.jpg" alt="" width="221" height="300" /></a>
+    <img class="alignleft size-medium wp-image-4080" title="walking-dead-governor" src="/wp-content/uploads//2012/06/walking-dead-governor-221x300.jpg" alt="" width="221" height="300" />
 
     Det gikk rykter i at han - og Michonne - skulle ta del i den tredje sesongen og nå er begge mer enn bekreftet. Michonne ble introdusert sent i den andre sesongen (samurai!) og nå har et bilde av guvernøren blitt lansert. Til tross for etniske forskjeller ser denne mannen hardbarket ut, noe som er essesensielt for å fremstille denne karakteren.
 
@@ -248,7 +248,7 @@ Da **The Walking Dead** premierte på TV i 2010 tok det ikke én uke engang f�
 
 Jeg har kanskje overanalysert TV-serien, og det kan diskuteres om det har ødelagt min opplevelse eller ei, men det gir meg også en unik innsikt i hva som vil skje i de kommende sesongene og jeg er mer enn klar for den tredje. Vår kjære gjeng, som blir mer og mer dysfunksjonell for hver episode, skal nemlig søke ly i et lokalt fengsel. Dette fengselet spiller en sentral rolle i den andre boken i serien, og vil nok by på et interessant TV-serie-miljø, men det er det som skjuler seg på utsiden jeg er mest spent på, nemlig en karakter kalt _The Governor. _
 
-<a href="//filmbloggen.net/2012/06/09/guvernoren-fra-the-walking-dead/walking-dead-governor/" rel="attachment wp-att-4080"><img class="alignleft size-medium wp-image-4080" src="/wp-content/uploads//2012/06/walking-dead-governor-221x300.jpg" alt="" width="221" height="300" /></a>
+<img class="alignleft size-medium wp-image-4080" src="/wp-content/uploads//2012/06/walking-dead-governor-221x300.jpg" alt="" width="221" height="300" />
 
 Det gikk rykter i at han – og Michonne – skulle ta del i den tredje sesongen og nå er begge mer enn bekreftet. Michonne ble introdusert sent i den andre sesongen (samurai!) og nå har et bilde av guvernøren blitt lansert. Til tross for etniske forskjeller ser denne mannen hardbarket ut, noe som er essesensielt for å fremstille denne karakteren.
 

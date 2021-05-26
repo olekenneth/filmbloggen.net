@@ -108,7 +108,7 @@ content:
     <strong>Manus:</strong> Bill Kirby, Ted Mann, Ronald Parker
     <strong>Skuespillere:</strong> Kevin Costner, Bill Paxton, Matt Barr, Tom Berenger, Powers Boothe, Andrew Howard...
 
-    <a href="//filmbloggen.net/2012/06/27/sterkt-familiedrama-i-hatfields-mccoys/the-hatfields-and-the-mccoys/" rel="attachment wp-att-4389"><img class="alignnone size-full wp-image-4389" src="/wp-content/uploads//2012/06/matt-barr-kevin-costner-hatfields-mccoys-4-for-blog-copy.jpeg" alt="" width="640" height="420" /></a>
+    <img class="alignnone size-full wp-image-4389" src="/wp-content/uploads//2012/06/matt-barr-kevin-costner-hatfields-mccoys-4-for-blog-copy.jpeg" alt="" width="640" height="420" />
 
     Etter William Anderson Hatfield og Randolph McCoy kommer hjem fra borgerkrigen går misforståelser og uenigheter til nye og ekstreme høyder. På bare ett par år er hvert eneste familiemedlem en del av den store feiden og det hele blir en sørgelig og blodig affære.
 
@@ -183,7 +183,7 @@ post_content:
     <strong>Manus:</strong> Bill Kirby, Ted Mann, Ronald Parker
     <strong>Skuespillere:</strong> Kevin Costner, Bill Paxton, Matt Barr, Tom Berenger, Powers Boothe, Andrew Howard...
 
-    <a href="//filmbloggen.net/2012/06/27/sterkt-familiedrama-i-hatfields-mccoys/the-hatfields-and-the-mccoys/" rel="attachment wp-att-4389"><img class="alignnone size-full wp-image-4389" src="/wp-content/uploads//2012/06/matt-barr-kevin-costner-hatfields-mccoys-4-for-blog-copy.jpeg" alt="" width="640" height="420" /></a>
+    <img class="alignnone size-full wp-image-4389" src="/wp-content/uploads//2012/06/matt-barr-kevin-costner-hatfields-mccoys-4-for-blog-copy.jpeg" alt="" width="640" height="420" />
 
     Etter William Anderson Hatfield og Randolph McCoy kommer hjem fra borgerkrigen går misforståelser og uenigheter til nye og ekstreme høyder. På bare ett par år er hvert eneste familiemedlem en del av den store feiden og det hele blir en sørgelig og blodig affære.
 
@@ -208,7 +208,7 @@ meta:
     <strong>Manus:</strong> Bill Kirby, Ted Mann, Ronald Parker
     <strong>Skuespillere:</strong> Kevin Costner, Bill Paxton, Matt Barr, Tom Berenger, Powers Boothe, Andrew Howard...
 
-    <a href="//filmbloggen.net/?attachment_id=4389" rel="attachment wp-att-4389"><img class="alignnone size-full wp-image-4389" src="/wp-content/uploads//2012/06/matt-barr-kevin-costner-hatfields-mccoys-4-for-blog-copy.jpeg" alt="" width="640" height="420" /></a>
+    <img class="alignnone size-full wp-image-4389" src="/wp-content/uploads//2012/06/matt-barr-kevin-costner-hatfields-mccoys-4-for-blog-copy.jpeg" alt="" width="640" height="420" />
 
     Etter William Anderson Hatfield og Randolph McCoy kommer hjem fra borgerkrigen går misforståelser og uenigheter til nye og ekstreme høyder. På bare ett par år er hvert eneste familiemedlem en del av den store feiden og det hele blir en sørgelig og blodig affære.
 
@@ -226,7 +226,7 @@ meta:
     <strong>Manus:</strong> Bill Kirby, Ted Mann, Ronald Parker
     <strong>Skuespillere:</strong> Kevin Costner, Bill Paxton, Matt Barr, Tom Berenger, Powers Boothe, Andrew Howard...
 
-    <a href="//filmbloggen.net/?attachment_id=4389" rel="attachment wp-att-4389"><img class="alignnone size-full wp-image-4389" src="/wp-content/uploads//2012/06/matt-barr-kevin-costner-hatfields-mccoys-4-for-blog-copy.jpeg" alt="" width="640" height="420" /></a>
+    <img class="alignnone size-full wp-image-4389" src="/wp-content/uploads//2012/06/matt-barr-kevin-costner-hatfields-mccoys-4-for-blog-copy.jpeg" alt="" width="640" height="420" />
 
     Etter William Anderson Hatfield og Randolph McCoy kommer hjem fra borgerkrigen går misforståelser og uenigheter til nye og ekstreme høyder. På bare ett par år er hvert eneste familiemedlem en del av den store feiden og det hele blir en sørgelig og blodig affære.
 
@@ -270,7 +270,7 @@ tags:
 **Manus:** Bill Kirby, Ted Mann, Ronald Parker
 **Skuespillere:** Kevin Costner, Bill Paxton, Matt Barr, Tom Berenger, Powers Boothe, Andrew Howard…
 
-<a href="//filmbloggen.net/2012/06/27/sterkt-familiedrama-i-hatfields-mccoys/the-hatfields-and-the-mccoys/" rel="attachment wp-att-4389"><img class="alignnone size-full wp-image-4389" src="/wp-content/uploads//2012/06/matt-barr-kevin-costner-hatfields-mccoys-4-for-blog-copy.jpeg" alt="" width="640" height="420" /></a>
+<img class="alignnone size-full wp-image-4389" src="/wp-content/uploads//2012/06/matt-barr-kevin-costner-hatfields-mccoys-4-for-blog-copy.jpeg" alt="" width="640" height="420" />
 
 Etter William Anderson Hatfield og Randolph McCoy kommer hjem fra borgerkrigen går misforståelser og uenigheter til nye og ekstreme høyder. På bare ett par år er hvert eneste familiemedlem en del av den store feiden og det hele blir en sørgelig og blodig affære.
 

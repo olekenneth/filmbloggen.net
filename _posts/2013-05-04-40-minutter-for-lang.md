@@ -21,7 +21,7 @@ content:
     <strong>Skuespillere:</strong> Paul Rudd, Leslie Mann, Maude Apatow, Iris Apatow, Jason Segel, Megan Fox, Melissa McCarthy, John Lithgow, Albert Brooks.
     <strong>Spilletid:</strong> 2 timer og 14 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=10060" rel="attachment wp-att-10060"><img class="alignnone size-large wp-image-10060" src="/wp-content/uploads//2013/03/This-is-40-4-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-10060" src="/wp-content/uploads//2013/03/This-is-40-4-620x412.jpg" alt="" width="620" height="412" />
 
     <strong>Etter suksessen med Knocked Up falt det som en selvfølge for Judd Apatow å lage en film om birollene Pete (Paul Rudd) og Debbie (Leslie Mann). De spilte da et "lykkelig" ektepar og gode venner av hovedrolleinnehaverne, spilt av Seth Rogen og Katherine Heigl.</strong> This is 40 tar oss med et par år frem i tid, når barna har begynt på skole og fedrene møter motgang på jobb og i livet generelt sett. Potensialet for å skape god underholdning er der, men sløses bort med retningsløs historiefortelling og dårlig humor.
 
@@ -69,7 +69,7 @@ post_content:
     <strong>Skuespillere:</strong> Paul Rudd, Leslie Mann, Maude Apatow, Iris Apatow, Jason Segel, Megan Fox, Melissa McCarthy, John Lithgow, Albert Brooks.
     <strong>Spilletid:</strong> 2 timer og 14 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=10060" rel="attachment wp-att-10060"><img class="alignnone size-large wp-image-10060" src="/wp-content/uploads//2013/03/This-is-40-4-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-10060" src="/wp-content/uploads//2013/03/This-is-40-4-620x412.jpg" alt="" width="620" height="412" />
 
     <strong>Etter suksessen med Knocked Up falt det som en selvfølge for Judd Apatow å lage en film om birollene Pete (Paul Rudd) og Debbie (Leslie Mann). De spilte da et "lykkelig" ektepar og gode venner av hovedrolleinnehaverne, spilt av Seth Rogen og Katherine Heigl.</strong> This is 40 tar oss med et par år frem i tid, når barna har begynt på skole og fedrene møter motgang på jobb og i livet generelt sett. Potensialet for å skape god underholdning er der, men sløses bort med retningsløs historiefortelling og dårlig humor.
 
@@ -183,7 +183,7 @@ meta:
     <strong>Skuespillere:</strong> Paul Rudd, Leslie Mann, Maude Apatow, Iris Apatow, Jason Segel, Megan Fox, Melissa McCarthy, John Lithgow, Albert Brooks.
     <strong>Spilletid:</strong> 2 timer og 14 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=10060" rel="attachment wp-att-10060"><img class="alignnone size-large wp-image-10060" src="/wp-content/uploads//2013/03/This-is-40-4-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-10060" src="/wp-content/uploads//2013/03/This-is-40-4-620x412.jpg" alt="" width="620" height="412" />
 
     <strong>Etter suksessen med Knocked Up falt det som en selvfølge for Judd Apatow å lage en film om birollene Pete (Paul Rudd) og Debbie (Leslie Mann). De spilte da et "lykkelig" ektepar og gode venner av hovedrolleinnehaverne, spilt av Seth Rogen og Katherine Heigl.</strong> This is 40 tar oss med et par år frem i tid, når barna har begynt på skole og fedrene møter motgang på jobb og i livet generelt sett. Potensialet for å skape god underholdning er der, men sløses bort med retningsløs historiefortelling og dårlig humor.
 
@@ -210,7 +210,7 @@ meta:
     <strong>Skuespillere:</strong> Paul Rudd, Leslie Mann, Maude Apatow, Iris Apatow, Jason Segel, Megan Fox, Melissa McCarthy, John Lithgow, Albert Brooks.
     <strong>Spilletid:</strong> 2 timer og 14 minutter
 
-    <a href="//filmbloggen.net/?attachment_id=10060" rel="attachment wp-att-10060"><img class="alignnone size-large wp-image-10060" src="/wp-content/uploads//2013/03/This-is-40-4-620x412.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-10060" src="/wp-content/uploads//2013/03/This-is-40-4-620x412.jpg" alt="" width="620" height="412" />
 
     <strong>Etter suksessen med Knocked Up falt det som en selvfølge for Judd Apatow å lage en film om birollene Pete (Paul Rudd) og Debbie (Leslie Mann). De spilte da et "lykkelig" ektepar og gode venner av hovedrolleinnehaverne, spilt av Seth Rogen og Katherine Heigl.</strong> This is 40 tar oss med et par år frem i tid, når barna har begynt på skole og fedrene møter motgang på jobb og i livet generelt sett. Potensialet for å skape god underholdning er der, men sløses bort med retningsløs historiefortelling og dårlig humor.
 
@@ -304,7 +304,7 @@ tags:
 **Skuespillere:** Paul Rudd, Leslie Mann, Maude Apatow, Iris Apatow, Jason Segel, Megan Fox, Melissa McCarthy, John Lithgow, Albert Brooks.
 **Spilletid:** 2 timer og 14 minutter
 
-<a href="//filmbloggen.net/2013/05/04/40-minutter-for-lang/this-is-40-4/" rel="attachment wp-att-10060"><img class="alignnone size-large wp-image-10060" src="/wp-content/uploads//2013/03/This-is-40-4-620x412.jpg" alt="" width="620" height="412" /></a>
+<img class="alignnone size-large wp-image-10060" src="/wp-content/uploads//2013/03/This-is-40-4-620x412.jpg" alt="" width="620" height="412" />
 
 **Etter suksessen med Knocked Up falt det som en selvfølge for Judd Apatow å lage en film om birollene Pete (Paul Rudd) og Debbie (Leslie Mann). De spilte da et «lykkelig» ektepar og gode venner av hovedrolleinnehaverne, spilt av Seth Rogen og Katherine Heigl.** This is 40 tar oss med et par år frem i tid, når barna har begynt på skole og fedrene møter motgang på jobb og i livet generelt sett. Potensialet for å skape god underholdning er der, men sløses bort med retningsløs historiefortelling og dårlig humor.
 

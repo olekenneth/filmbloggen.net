@@ -102,7 +102,7 @@ content:
   - |
     <strong><em>Girls</em> er en av årets store nye satsinger fra den amerikanske TV-leverandøren HBO, som står synonymt med kvalitet på TV-skjermen. I <em>Girls</em> følger vi en venninegjeng i tjueårene som - tilsynelatende har alt - uten å vite hvordan de skal håndtere overgangen til voksenlivet. </strong>
 
-    <a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/4575/" rel="attachment wp-att-4619"><img class="alignnone size-full wp-image-4619" src="//permonter.files.wordpress.com/2012/06/hbo-girls-backlash.jpeg" alt="" width="600" height="450" /></a>
+    <img class="alignnone size-full wp-image-4619" src="//permonter.files.wordpress.com/2012/06/hbo-girls-backlash.jpeg" alt="" width="600" height="450" />
 
     Serien er produsert, skrevet og i det hele tatt realisert av Lena Dunham. Hun spiller også ei av jentene <em>(nummer to fra høyre)</em> og sammen med Judd Apatow har de lagd en "jenteserie" som både analyserer New York-livet og forteller en spennende historie full av intriger og problemer.
 
@@ -173,7 +173,7 @@ post_content:
   - |
     <strong><em>Girls</em> er en av årets store nye satsinger fra den amerikanske TV-leverandøren HBO, som står synonymt med kvalitet på TV-skjermen. I <em>Girls</em> følger vi en venninegjeng i tjueårene som - tilsynelatende har alt - uten å vite hvordan de skal håndtere overgangen til voksenlivet. </strong>
 
-    <a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/4575/" rel="attachment wp-att-4619"><img class="alignnone size-full wp-image-4619" src="//permonter.files.wordpress.com/2012/06/hbo-girls-backlash.jpeg" alt="" width="600" height="450" /></a>
+    <img class="alignnone size-full wp-image-4619" src="//permonter.files.wordpress.com/2012/06/hbo-girls-backlash.jpeg" alt="" width="600" height="450" />
 
     Serien er produsert, skrevet og i det hele tatt realisert av Lena Dunham. Hun spiller også ei av jentene <em>(nummer to fra høyre)</em> og sammen med Judd Apatow har de lagd en "jenteserie" som både analyserer New York-livet og forteller en spennende historie full av intriger og problemer.
 
@@ -194,7 +194,7 @@ meta:
   - |
     a:80:{i:24107;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2012";}i:24085;a:2:{s:3:"key";s:6:"action";s:5:"value";s:11:"inline-save";}i:24138;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:24094;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"c826f9768d";}i:24092;a:2:{s:3:"key";s:10:"auto_draft";s:5:"value";s:1:"0";}i:24096;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"d5815a8c04";}i:24139;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:24131;a:2:{s:3:"key";s:7:"content";s:5:"value";s:3264:"<strong><em>Girls</em> er en av årets store nye satsinger fra den amerikanske TV-leverandøren HBO, som står synonymt med kvalitet på TV-skjermen. I <em>Girls</em> følger vi en venninegjeng i tjueårene som - tilsynelatende har alt - uten å vite hvordan de skal håndtere overgangen til voksenlivet. </strong>
 
-    <a href="//filmbloggen.net/?attachment_id=4619" rel="attachment wp-att-4619"><img class="alignnone size-full wp-image-4619" src="//permonter.files.wordpress.com/2012/06/hbo-girls-backlash.jpeg" alt="" width="600" height="450" /></a>
+    <img class="alignnone size-full wp-image-4619" src="//permonter.files.wordpress.com/2012/06/hbo-girls-backlash.jpeg" alt="" width="600" height="450" />
 
     Serien er produsert, skrevet og i det hele tatt realisert av Lena Dunham. Hun spiller også ei av jentene <em>(nummer to fra høyre)</em> og sammen med Judd Apatow har de lagd en "jenteserie" som både analyserer New York-livet og forteller en spennende historie full av intriger og problemer.
 
@@ -208,7 +208,7 @@ meta:
 
     <strong>Den siste episoden av den første sesongen ble sendt på Amerikansk TV natt til mandag (norsk tid) og selv om ingen dato er satt, er det klart at serien vil komme tilbake med 10 nye episoder. Jeg gleder meg! </strong>";}i:24116;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2012";}i:24118;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"15";}i:24114;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"26";}i:24112;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"06";}i:24120;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"20";}i:37951;a:2:{s:3:"key";s:9:"edit_date";s:5:"value";s:4:"true";}i:24143;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:24132;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:24108;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"15";}i:24115;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2012";}i:24117;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"15";}i:24113;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"26";}i:24111;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"06";}i:24119;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"20";}i:24101;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:24099;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:24102;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:24160;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:4:"4349";}i:24105;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"26";}i:24095;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"7a46784418";}i:24135;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:24134;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:24136;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:24106;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"06";}i:24109;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"20";}i:24124;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:24125;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:24086;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:24089;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:24121;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:24140;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:24087;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:3:"404";}i:24142;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:3:"404";}i:24161;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:3264:"<strong><em>Girls</em> er en av årets store nye satsinger fra den amerikanske TV-leverandøren HBO, som står synonymt med kvalitet på TV-skjermen. I <em>Girls</em> følger vi en venninegjeng i tjueårene som - tilsynelatende har alt - uten å vite hvordan de skal håndtere overgangen til voksenlivet. </strong>
 
-    <a href="//filmbloggen.net/?attachment_id=4619" rel="attachment wp-att-4619"><img class="alignnone size-full wp-image-4619" src="//permonter.files.wordpress.com/2012/06/hbo-girls-backlash.jpeg" alt="" width="600" height="450" /></a>
+    <img class="alignnone size-full wp-image-4619" src="//permonter.files.wordpress.com/2012/06/hbo-girls-backlash.jpeg" alt="" width="600" height="450" />
 
     Serien er produsert, skrevet og i det hele tatt realisert av Lena Dunham. Hun spiller også ei av jentene <em>(nummer to fra høyre)</em> og sammen med Judd Apatow har de lagd en "jenteserie" som både analyserer New York-livet og forteller en spennende historie full av intriger og problemer.
 
@@ -247,7 +247,7 @@ tags:
 ---
 **_Girls_ er en av årets store nye satsinger fra den amerikanske TV-leverandøren HBO, som står synonymt med kvalitet på TV-skjermen. I _Girls_ følger vi en venninegjeng i tjueårene som – tilsynelatende har alt – uten å vite hvordan de skal håndtere overgangen til voksenlivet. **
 
-<a href="//filmbloggen.net/2012/06/30/kjaerlig-byhyllest-i-to-rome-with-love/4575/" rel="attachment wp-att-4619"><img class="alignnone size-full wp-image-4619" src="//permonter.files.wordpress.com/2012/06/hbo-girls-backlash.jpeg" alt="" width="600" height="450" /></a>
+<img class="alignnone size-full wp-image-4619" src="//permonter.files.wordpress.com/2012/06/hbo-girls-backlash.jpeg" alt="" width="600" height="450" />
 
 Serien er produsert, skrevet og i det hele tatt realisert av Lena Dunham. Hun spiller også ei av jentene _(nummer to fra høyre)_ og sammen med Judd Apatow har de lagd en «jenteserie» som både analyserer New York-livet og forteller en spennende historie full av intriger og problemer.
 

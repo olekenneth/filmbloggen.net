@@ -120,7 +120,7 @@ content:
     <strong>LES OGSÅ:</strong> <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/">Anmeldelse av Mission Impossible: Ghost Protocol</a>
 
     <em>Anmeldelsen fortsetter under bildet
-    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" />
     </em><strong>
     Jeg har allerede vært innom manuset, skuespillerne og spesialeffektene,</strong> men et annet nøkkelmoment som også er på plass, er en sinnsykt kul skurk som både er troverdig og vanvittig skummel. Den første scenen vi ser han i gir deg frysninger (ikke på den gode måten) og The Zeg er en mann som du kan se er pur ondskap. Han er spilt av Werner Herzog. Ikke en mann som er spesielt kjent, med mindre du er lidenskapelig opptatt av tysk dokumentarfilm. 70-åringen tilfører mye til Jack Reacher. Den kunne gått over til å blitt veldig cheesy og lite minneverdig film, men den fella klarer Christopher McQuarrie fint å unngå. Selv om han danser på kanten flere ganger.
 
@@ -206,7 +206,7 @@ post_content:
     <strong>LES OGSÅ:</strong> <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/">Anmeldelse av Mission Impossible: Ghost Protocol</a>
 
     <em>Anmeldelsen fortsetter under bildet
-    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" />
     </em><strong>
     Jeg har allerede vært innom manuset, skuespillerne og spesialeffektene,</strong> men et annet nøkkelmoment som også er på plass, er en sinnsykt kul skurk som både er troverdig og vanvittig skummel. Den første scenen vi ser han i gir deg frysninger (ikke på den gode måten) og The Zeg er en mann som du kan se er pur ondskap. Han er spilt av Werner Herzog. Ikke en mann som er spesielt kjent, med mindre du er lidenskapelig opptatt av tysk dokumentarfilm. 70-åringen tilfører mye til Jack Reacher. Den kunne gått over til å blitt veldig cheesy og lite minneverdig film, men den fella klarer Christopher McQuarrie fint å unngå. Selv om han danser på kanten flere ganger.
 
@@ -242,7 +242,7 @@ meta:
     <strong>LES OGSÅ:</strong> <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/">Anmeldelse av Mission Impossible: Ghost Protocol</a>
 
     <em>Anmeldelsen fortsetter under bildet
-    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" />
     </em><strong>
     Jeg har allerede vært innom manuset, skuespillerne og spesialeffektene,</strong> men et annet nøkkelmoment som også er på plass, er en sinnsykt kul skurk som både er troverdig og vanvittig skummel. Den første scenen vi ser han i gir deg frysninger (ikke på den gode måten) og The Zeg er en mann som du kan se er pur ondskap. Han er spilt av Werner Herzog. Ikke en mann som er spesielt kjent, med mindre du er lidenskapelig opptatt av tysk dokumentarfilm. 70-åringen tilfører mye til Jack Reacher. Den kunne gått over til å blitt veldig cheesy og lite minneverdig film, men den fella klarer Christopher McQuarrie fint å unngå. Selv om han danser på kanten flere ganger.
 
@@ -271,7 +271,7 @@ meta:
     <strong>LES OGSÅ:</strong> <a href="//filmbloggen.net/2012/02/04/umulig-oppdrag/">Anmeldelse av Mission Impossible: Ghost Protocol</a>
 
     <em>Anmeldelsen fortsetter under bildet
-    <a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
+    <img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" />
     </em><strong>
     Jeg har allerede vært innom manuset, skuespillerne og spesialeffektene,</strong> men et annet nøkkelmoment som også er på plass, er en sinnsykt kul skurk som både er troverdig og vanvittig skummel. Den første scenen vi ser han i gir deg frysninger (ikke på den gode måten) og The Zeg er en mann som du kan se er pur ondskap. Han er spilt av Werner Herzog. Ikke en mann som er spesielt kjent, med mindre du er lidenskapelig opptatt av tysk dokumentarfilm. 70-åringen tilfører mye til Jack Reacher. Den kunne gått over til å blitt veldig cheesy og lite minneverdig film, men den fella klarer Christopher McQuarrie fint å unngå. Selv om han danser på kanten flere ganger.
 
@@ -318,7 +318,7 @@ tags:
 **LES OGSÅ:** [Anmeldelse av Mission Impossible: Ghost Protocol](//filmbloggen.net/2012/02/04/umulig-oppdrag/)
 
 _Anmeldelsen fortsetter under bildet
-<a href="//filmbloggen.net/2013/01/17/mini-comeback-av-tom-cruise/jack-reacher-2/" rel="attachment wp-att-9450"><img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" /></a>
+<img class="alignnone size-large wp-image-9450" src="/wp-content/uploads//2013/01/jdfvqmj9-620x413.jpg" alt="" width="620" height="413" />
 _ **
 Jeg har allerede vært innom manuset, skuespillerne og spesialeffektene,** men et annet nøkkelmoment som også er på plass, er en sinnsykt kul skurk som både er troverdig og vanvittig skummel. Den første scenen vi ser han i gir deg frysninger (ikke på den gode måten) og The Zeg er en mann som du kan se er pur ondskap. Han er spilt av Werner Herzog. Ikke en mann som er spesielt kjent, med mindre du er lidenskapelig opptatt av tysk dokumentarfilm. 70-åringen tilfører mye til Jack Reacher. Den kunne gått over til å blitt veldig cheesy og lite minneverdig film, men den fella klarer Christopher McQuarrie fint å unngå. Selv om han danser på kanten flere ganger.
 

@@ -102,7 +102,7 @@ content:
   - |
     <strong>En av de mest krevende skuespillerne i Hollywood å jobbe med, men også den som leverer hver eneste gang. Jeg har tatt en kikk på Russel Crowe sin nyeste film, the next three days!</strong>
 
-    <strong><a href="/wp-content/uploads//2011/04/the-next-three-days2-1.jpg"><img class="alignnone size-large wp-image-673" title="The next three days" src="/wp-content/uploads//2011/04/the-next-three-days2-1-e1310635846545-620x366.jpg" alt="" width="620" height="366" /></a>
+    <strong><img class="alignnone size-large wp-image-673" title="The next three days" src="/wp-content/uploads//2011/04/the-next-three-days2-1-e1310635846545-620x366.jpg" alt="" width="620" height="366" />
     </strong>
 
     <strong>Originaltittel: </strong>The next three days<strong>
@@ -111,7 +111,7 @@ content:
     <strong>Regissør: </strong>Paul Haggis
     <strong>Med: </strong>Russel Crowe, Elizabeth Banks og Liam Neeson
 
-    <a href="/wp-content/uploads//2011/04/the-next-three-days3.jpg"><img class="alignnone size-large wp-image-52" title="next three days" src="/wp-content/uploads//2011/04/the-next-three-days3-1024x679.jpg" alt="" width="620" height="411" /></a>
+    <img class="alignnone size-large wp-image-52" title="next three days" src="/wp-content/uploads//2011/04/the-next-three-days3-1024x679.jpg" alt="" width="620" height="411" />
 
     Utgangspunktet for filmen er kjedelig og ikke noe vi ikke har vært borte i før. En mor (Elizabeth Banks) blir dømt for mord og får livstid. Far (Russel Crowe), en litteraturlærer, tar hånd om den åtte år gamle sønnen . Familien blir splittet og venner slutter å støtte. John Brennan (Crowe) får til slutt nok og blir opphengt i å finne en måte for å få sin kone ut av fengsel. Starten av filmen fortsetter i det tempoet man forventer og vi kan forutse historien. John stanger mot veggen og klarer ikke å finne noen løsning før ting plutselig løser seg og ting begynner å falle på plass.
 
@@ -183,7 +183,7 @@ post_content:
   - |
     <strong>En av de mest krevende skuespillerne i Hollywood å jobbe med, men også den som leverer hver eneste gang. Jeg har tatt en kikk på Russel Crowe sin nyeste film, the next three days!</strong>
 
-    <strong><a href="/wp-content/uploads//2011/04/the-next-three-days2-1.jpg"><img class="alignnone size-large wp-image-673" title="The next three days" src="/wp-content/uploads//2011/04/the-next-three-days2-1-e1310635846545-620x366.jpg" alt="" width="620" height="366" /></a>
+    <strong><img class="alignnone size-large wp-image-673" title="The next three days" src="/wp-content/uploads//2011/04/the-next-three-days2-1-e1310635846545-620x366.jpg" alt="" width="620" height="366" />
     </strong>
 
     <strong>Originaltittel: </strong>The next three days<strong>
@@ -192,7 +192,7 @@ post_content:
     <strong>Regissør: </strong>Paul Haggis
     <strong>Med: </strong>Russel Crowe, Elizabeth Banks og Liam Neeson
 
-    <a href="/wp-content/uploads//2011/04/the-next-three-days3.jpg"><img class="alignnone size-large wp-image-52" title="next three days" src="/wp-content/uploads//2011/04/the-next-three-days3-1024x679.jpg" alt="" width="620" height="411" /></a>
+    <img class="alignnone size-large wp-image-52" title="next three days" src="/wp-content/uploads//2011/04/the-next-three-days3-1024x679.jpg" alt="" width="620" height="411" />
 
     Utgangspunktet for filmen er kjedelig og ikke noe vi ikke har vært borte i før. En mor (Elizabeth Banks) blir dømt for mord og får livstid. Far (Russel Crowe), en litteraturlærer, tar hånd om den åtte år gamle sønnen . Familien blir splittet og venner slutter å støtte. John Brennan (Crowe) får til slutt nok og blir opphengt i å finne en måte for å få sin kone ut av fengsel. Starten av filmen fortsetter i det tempoet man forventer og vi kan forutse historien. John stanger mot veggen og klarer ikke å finne noen løsning før ting plutselig løser seg og ting begynner å falle på plass.
 

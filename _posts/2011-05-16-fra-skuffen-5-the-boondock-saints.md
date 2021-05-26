@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Hvem sier at alle gode action-filmer må være en høybudsjetts hollywood-film?</strong>
-    <a href="/wp-content/uploads//2011/05/boondocks_brothers.jpg"><img class="alignnone size-full wp-image-326" title="boondocks_brothers" src="/wp-content/uploads//2011/05/boondocks_brothers.jpg" alt="" width="450" height="300" /></a>
+    <img class="alignnone size-full wp-image-326" title="boondocks_brothers" src="/wp-content/uploads//2011/05/boondocks_brothers.jpg" alt="" width="450" height="300" />
     <strong>Originaltittel: </strong>The Boondock Saints<strong>
     Kategori:</strong> Action/Drama
     <strong>Spilletid:</strong> 1 time og 42 minutter
@@ -125,7 +125,7 @@ trackback_url:
 meta:
   - |
     a:74:{i:4476;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:4456;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:4510;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:4464;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"ee12e8309c";}i:4466;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"beca5ef2ab";}i:4511;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:4501;a:2:{s:3:"key";s:7:"content";s:5:"value";s:2894:"<strong>Hvem sier at alle gode action-filmer må være en høybudsjetts hollywood-film?</strong>
-    <a href="/wp-content/uploads//2011/05/boondocks_brothers.jpg"><img class="alignnone size-full wp-image-326" title="boondocks_brothers" src="/wp-content/uploads//2011/05/boondocks_brothers.jpg" alt="" width="450" height="300" /></a>
+    <img class="alignnone size-full wp-image-326" title="boondocks_brothers" src="/wp-content/uploads//2011/05/boondocks_brothers.jpg" alt="" width="450" height="300" />
     <strong>Originaltittel: </strong>The Boondock Saints<strong>
     Kategori:</strong> Action/Drama
     <strong>Spilletid:</strong> 1 time og 42 minutter
@@ -144,7 +144,7 @@ meta:
     </strong>
 
     [youtube id="gqq9MpbQ9uU" width="620" height="350"]";}i:4485;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:4487;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"13";}i:4483;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"14";}i:4481;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:4489;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"09";}i:4515;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:4502;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:4477;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"14";}i:4484;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:4486;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"14";}i:4482;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"16";}i:4480;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"05";}i:4488;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"27";}i:4470;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:4468;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:4471;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:4532;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"325";}i:571;a:2:{s:3:"key";s:16:"jabber_published";s:5:"value";s:10:"1305548861";}i:4474;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"16";}i:4465;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"bfc034257c";}i:4507;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:4506;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:4508;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:4475;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"05";}i:4478;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"27";}i:4494;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:4495;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:4457;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:4460;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:4490;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:4512;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:4458;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:4514;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:4533;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:2894:"<strong>Hvem sier at alle gode action-filmer må være en høybudsjetts hollywood-film?</strong>
-    <a href="/wp-content/uploads//2011/05/boondocks_brothers.jpg"><img class="alignnone size-full wp-image-326" title="boondocks_brothers" src="/wp-content/uploads//2011/05/boondocks_brothers.jpg" alt="" width="450" height="300" /></a>
+    <img class="alignnone size-full wp-image-326" title="boondocks_brothers" src="/wp-content/uploads//2011/05/boondocks_brothers.jpg" alt="" width="450" height="300" />
     <strong>Originaltittel: </strong>The Boondock Saints<strong>
     Kategori:</strong> Action/Drama
     <strong>Spilletid:</strong> 1 time og 42 minutter
@@ -218,7 +218,7 @@ ID:
 post_content:
   - |
     <strong>Hvem sier at alle gode action-filmer må være en høybudsjetts hollywood-film?</strong>
-    <a href="/wp-content/uploads//2011/05/boondocks_brothers.jpg"><img class="alignnone size-full wp-image-326" title="boondocks_brothers" src="/wp-content/uploads//2011/05/boondocks_brothers.jpg" alt="" width="450" height="300" /></a>
+    <img class="alignnone size-full wp-image-326" title="boondocks_brothers" src="/wp-content/uploads//2011/05/boondocks_brothers.jpg" alt="" width="450" height="300" />
     <strong>Originaltittel: </strong>The Boondock Saints<strong>
     Kategori:</strong> Action/Drama
     <strong>Spilletid:</strong> 1 time og 42 minutter

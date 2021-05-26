@@ -108,7 +108,7 @@ content:
     <strong>Skuespillere:</strong> Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter, Eva Green.
     <strong>Spilletid:</strong> 1 time og 53 minutter
 
-    <a href="//filmbloggen.net/2012/05/18/dark-shadows/ds/" rel="attachment wp-att-3543"><img class="size-full wp-image-3543 alignnone" src="/wp-content/uploads//2012/05/ds.jpg" alt="" width="620" height="349" /></a>
+    <img class="size-full wp-image-3543 alignnone" src="/wp-content/uploads//2012/05/ds.jpg" alt="" width="620" height="349" />
 
     En fanget Vampyr, Barnabas Collins, settes fri og returnerer til hans gamle hjem. Der finner han sine slektninger som trenger hans hjelp.
 
@@ -187,7 +187,7 @@ post_content:
     <strong>Skuespillere:</strong> Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter, Eva Green.
     <strong>Spilletid:</strong> 1 time og 53 minutter
 
-    <a href="//filmbloggen.net/2012/05/18/dark-shadows/ds/" rel="attachment wp-att-3543"><img class="size-full wp-image-3543 alignnone" src="/wp-content/uploads//2012/05/ds.jpg" alt="" width="620" height="349" /></a>
+    <img class="size-full wp-image-3543 alignnone" src="/wp-content/uploads//2012/05/ds.jpg" alt="" width="620" height="349" />
 
     En fanget Vampyr, Barnabas Collins, settes fri og returnerer til hans gamle hjem. Der finner han sine slektninger som trenger hans hjelp.
 
@@ -216,7 +216,7 @@ meta:
     <strong>Skuespillere:</strong> Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter, Eva Green.
     <strong>Spilletid:</strong> 1 time og 53 minutter
 
-    <a href="//filmbloggen.net/2012/05/18/dark-shadows/ds/" rel="attachment wp-att-3543"><img class="size-full wp-image-3543 alignnone" src="/wp-content/uploads//2012/05/ds.jpg" alt="" width="620" height="349" /></a>
+    <img class="size-full wp-image-3543 alignnone" src="/wp-content/uploads//2012/05/ds.jpg" alt="" width="620" height="349" />
 
     En fanget Vampyr, Barnabas Collins, settes fri og returnerer til hans gamle hjem. Der finner han sine slektninger som trenger hans hjelp.
 
@@ -238,7 +238,7 @@ meta:
     <strong>Skuespillere:</strong> Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter, Eva Green.
     <strong>Spilletid:</strong> 1 time og 53 minutter
 
-    <a href="//filmbloggen.net/2012/05/18/dark-shadows/ds/" rel="attachment wp-att-3543"><img class="size-full wp-image-3543 alignnone" src="/wp-content/uploads//2012/05/ds.jpg" alt="" width="620" height="349" /></a>
+    <img class="size-full wp-image-3543 alignnone" src="/wp-content/uploads//2012/05/ds.jpg" alt="" width="620" height="349" />
 
     En fanget Vampyr, Barnabas Collins, settes fri og returnerer til hans gamle hjem. Der finner han sine slektninger som trenger hans hjelp.
 
@@ -281,7 +281,7 @@ tags:
 **Skuespillere:** Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter, Eva Green.
 **Spilletid:** 1 time og 53 minutter
 
-<a href="//filmbloggen.net/2012/05/18/dark-shadows/ds/" rel="attachment wp-att-3543"><img class="size-full wp-image-3543 alignnone" src="/wp-content/uploads//2012/05/ds.jpg" alt="" width="620" height="349" /></a>
+<img class="size-full wp-image-3543 alignnone" src="/wp-content/uploads//2012/05/ds.jpg" alt="" width="620" height="349" />
 
 En fanget Vampyr, Barnabas Collins, settes fri og returnerer til hans gamle hjem. Der finner han sine slektninger som trenger hans hjelp.
 

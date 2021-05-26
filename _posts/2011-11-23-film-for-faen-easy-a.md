@@ -105,7 +105,7 @@ content:
     <strong>Manus:</strong> Bert V. Royal
     <strong>Med:</strong>  Emma Stone, Penn Badgley, Amanda Bynes, Dan Byrd, Thomas Haden Church, Patricia Clarkson, Cam Gigandet, Lisa Kudrow, Malcolm McDowell, Alyson Michalka,Stanley Tucci, Fred Armisen, Juliette Goglia
 
-    <a href="//filmbloggen.net/2011/11/23/film-for-faen-easy-a/easya-1293279011/" rel="attachment wp-att-1754"><img class="alignnone size-full wp-image-1754" src="/wp-content/uploads//2011/11/easya-1293279011.jpg" alt="" width="529" height="313" /></a>
+    <img class="alignnone size-full wp-image-1754" src="/wp-content/uploads//2011/11/easya-1293279011.jpg" alt="" width="529" height="313" />
 
 
     <h1>Frekk, morsom og til tider litt på kanten</h1>
@@ -185,7 +185,7 @@ post_content:
     <strong>Manus:</strong> Bert V. Royal
     <strong>Med:</strong>  Emma Stone, Penn Badgley, Amanda Bynes, Dan Byrd, Thomas Haden Church, Patricia Clarkson, Cam Gigandet, Lisa Kudrow, Malcolm McDowell, Alyson Michalka,Stanley Tucci, Fred Armisen, Juliette Goglia
 
-    <a href="//filmbloggen.net/2011/11/23/film-for-faen-easy-a/easya-1293279011/" rel="attachment wp-att-1754"><img class="alignnone size-full wp-image-1754" src="/wp-content/uploads//2011/11/easya-1293279011.jpg" alt="" width="529" height="313" /></a>
+    <img class="alignnone size-full wp-image-1754" src="/wp-content/uploads//2011/11/easya-1293279011.jpg" alt="" width="529" height="313" />
 
 
     <h1>Frekk, morsom og til tider litt på kanten</h1>
@@ -219,7 +219,7 @@ meta:
     <strong>Manus:</strong> Bert V. Royal
     <strong>Med:</strong>  Emma Stone, Penn Badgley, Amanda Bynes, Dan Byrd, Thomas Haden Church, Patricia Clarkson, Cam Gigandet, Lisa Kudrow, Malcolm McDowell, Alyson Michalka,Stanley Tucci, Fred Armisen, Juliette Goglia
 
-    <a href="//filmbloggen.net/?attachment_id=1754" rel="attachment wp-att-1754"><img class="alignnone size-full wp-image-1754" title="easya-1293279011" src="/wp-content/uploads//2011/11/easya-1293279011.jpg" alt="" width="529" height="313" /></a>
+    <img class="alignnone size-full wp-image-1754" title="easya-1293279011" src="/wp-content/uploads//2011/11/easya-1293279011.jpg" alt="" width="529" height="313" />
 
     Se bort fra den solfylte, tilsynelatende glatte innpakningen: «Easy A» er langt smartere enn den gir ut seg for å være: En skarp og leken lekse i selvrespekt for facebook-generasjonen.
     Munnrappe Olive er i sine egne øyne en grå mus som har lite spennende å rapportere etter helgen. Da hun overfor bestevenninnen Rhi drar en nødløgn om at hun faktisk har vært på date og at hun faktisk hadde sex - baller ting på seg mer enn hva godt er.
@@ -242,7 +242,7 @@ meta:
     <strong>Manus:</strong> Bert V. Royal
     <strong>Med:</strong>  Emma Stone, Penn Badgley, Amanda Bynes, Dan Byrd, Thomas Haden Church, Patricia Clarkson, Cam Gigandet, Lisa Kudrow, Malcolm McDowell, Alyson Michalka,Stanley Tucci, Fred Armisen, Juliette Goglia
 
-    <a href="//filmbloggen.net/?attachment_id=1754" rel="attachment wp-att-1754"><img class="alignnone size-full wp-image-1754" title="easya-1293279011" src="/wp-content/uploads//2011/11/easya-1293279011.jpg" alt="" width="529" height="313" /></a>
+    <img class="alignnone size-full wp-image-1754" title="easya-1293279011" src="/wp-content/uploads//2011/11/easya-1293279011.jpg" alt="" width="529" height="313" />
 
     Se bort fra den solfylte, tilsynelatende glatte innpakningen: «Easy A» er langt smartere enn den gir ut seg for å være: En skarp og leken lekse i selvrespekt for facebook-generasjonen.
     Munnrappe Olive er i sine egne øyne en grå mus som har lite spennende å rapportere etter helgen. Da hun overfor bestevenninnen Rhi drar en nødløgn om at hun faktisk har vært på date og at hun faktisk hadde sex - baller ting på seg mer enn hva godt er.
@@ -270,7 +270,7 @@ categories:
 **Manus:** Bert V. Royal
 **Med:**  Emma Stone, Penn Badgley, Amanda Bynes, Dan Byrd, Thomas Haden Church, Patricia Clarkson, Cam Gigandet, Lisa Kudrow, Malcolm McDowell, Alyson Michalka,Stanley Tucci, Fred Armisen, Juliette Goglia
 
-<a href="//filmbloggen.net/2011/11/23/film-for-faen-easy-a/easya-1293279011/" rel="attachment wp-att-1754"><img class="alignnone size-full wp-image-1754" src="/wp-content/uploads//2011/11/easya-1293279011.jpg" alt="" width="529" height="313" /></a>
+<img class="alignnone size-full wp-image-1754" src="/wp-content/uploads//2011/11/easya-1293279011.jpg" alt="" width="529" height="313" />
 
 
 

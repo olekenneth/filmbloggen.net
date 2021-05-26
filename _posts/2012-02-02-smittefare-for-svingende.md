@@ -20,7 +20,7 @@ content:
     <strong>Skuespillere:</strong> Matt Damon, Kate Winslet, Laurence Fishburne, Jude Law, Gwyneth Paltrow, Marion Cotillard, John Hawkes, Armin Rhode.
     <strong>Spilletid:</strong> 1 time og 46 minutter
 
-    <a href="//filmbloggen.net/2012/02/02/smittefare-for-svingende/kate-winslet/" rel="attachment wp-att-2229"><img class="alignnone size-large wp-image-2229" src="/wp-content/uploads//2012/01/contagion-still2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-2229" src="/wp-content/uploads//2012/01/contagion-still2-620x348.jpg" alt="" width="620" height="348" />
     Steven Soderbergh kjenner vi kanskje best for Ocean's-trilogien. De filmene er vellagede, smarte og unike. Ikke mye ulikt denne filmen. Men det er forøvrig lite skøyerstreker i Contagion, dette er blodig alvor!
 
     Vi befinner oss i en nær fremtid. Vi følger mange forskjellige mennesker og deres møte med et ubarmhjertig og dødelig virus. Filmens premiss er realistisk. Mange dør selvsagt under epidemier, ingen grunn til å dekke over det. Det denne filmen gjør ulikt mange andre katastrofefilmer er at den gjør sitt beste for å bevare et troverdig verdensbilde. Filmer som "2012" og "The Day After Tomorrow" har en lei tendens til å virke overdramatiske. Overlevelseshistoriene er bemerkelsesverdige, men utrolig usannsynlige. Denne filmen forholder seg til det faktum at folk vanligvis dør under katastrofer, og at man ikke trenger et symfoniorkester for å demonstrere hvor episk det var at de overlevde. Virkeligheten er en helt annen, livet er uforutsigbart og urettferdig i blant. Filmen demonstrerer dette veldig tydelig.
@@ -60,7 +60,7 @@ post_content:
     <strong>Skuespillere:</strong> Matt Damon, Kate Winslet, Laurence Fishburne, Jude Law, Gwyneth Paltrow, Marion Cotillard, John Hawkes, Armin Rhode.
     <strong>Spilletid:</strong> 1 time og 46 minutter
 
-    <a href="//filmbloggen.net/2012/02/02/smittefare-for-svingende/kate-winslet/" rel="attachment wp-att-2229"><img class="alignnone size-large wp-image-2229" src="/wp-content/uploads//2012/01/contagion-still2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-2229" src="/wp-content/uploads//2012/01/contagion-still2-620x348.jpg" alt="" width="620" height="348" />
     Steven Soderbergh kjenner vi kanskje best for Ocean's-trilogien. De filmene er vellagede, smarte og unike. Ikke mye ulikt denne filmen. Men det er forøvrig lite skøyerstreker i Contagion, dette er blodig alvor!
 
     Vi befinner oss i en nær fremtid. Vi følger mange forskjellige mennesker og deres møte med et ubarmhjertig og dødelig virus. Filmens premiss er realistisk. Mange dør selvsagt under epidemier, ingen grunn til å dekke over det. Det denne filmen gjør ulikt mange andre katastrofefilmer er at den gjør sitt beste for å bevare et troverdig verdensbilde. Filmer som "2012" og "The Day After Tomorrow" har en lei tendens til å virke overdramatiske. Overlevelseshistoriene er bemerkelsesverdige, men utrolig usannsynlige. Denne filmen forholder seg til det faktum at folk vanligvis dør under katastrofer, og at man ikke trenger et symfoniorkester for å demonstrere hvor episk det var at de overlevde. Virkeligheten er en helt annen, livet er uforutsigbart og urettferdig i blant. Filmen demonstrerer dette veldig tydelig.
@@ -160,7 +160,7 @@ meta:
     <strong>Skuespillere:</strong> Matt Damon, Kate Winslet, Laurence Fishburne, Jude Law, Gwyneth Paltrow, Marion Cotillard, John Hawkes, Armin Rhode.
     <strong>Spilletid:</strong> 1 time og 46 minutter
 
-    <a href="//filmbloggen.net/2012/02/02/smittefare-for-svingende/kate-winslet/" rel="attachment wp-att-2229"><img class="alignnone size-large wp-image-2229" src="/wp-content/uploads//2012/01/contagion-still2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-2229" src="/wp-content/uploads//2012/01/contagion-still2-620x348.jpg" alt="" width="620" height="348" />
     Steven Soderbergh kjenner vi kanskje best for Ocean's-trilogien. De filmene er vellagede, smarte og unike. Ikke mye ulikt denne filmen. Men det er forøvrig lite skøyerstreker i Contagion, dette er blodig alvor!
 
     Vi befinner oss i en nær fremtid. Vi følger mange forskjellige mennesker og deres møte med et ubarmhjertig og dødelig virus. Filmens premiss er realistisk. Mange dør selvsagt under epidemier, ingen grunn til å dekke over det. Det denne filmen gjør ulikt mange andre katastrofefilmer er at den gjør sitt beste for å bevare et troverdig verdensbilde. Filmer som "2012" og "The Day After Tomorrow" har en lei tendens til å virke overdramatiske. Overlevelseshistoriene er bemerkelsesverdige, men utrolig usannsynlige. Denne filmen forholder seg til det faktum at folk vanligvis dør under katastrofer, og at man ikke trenger et symfoniorkester for å demonstrere hvor episk det var at de overlevde. Virkeligheten er en helt annen, livet er uforutsigbart og urettferdig i blant. Filmen demonstrerer dette veldig tydelig.
@@ -179,7 +179,7 @@ meta:
     <strong>Skuespillere:</strong> Matt Damon, Kate Winslet, Laurence Fishburne, Jude Law, Gwyneth Paltrow, Marion Cotillard, John Hawkes, Armin Rhode.
     <strong>Spilletid:</strong> 1 time og 46 minutter
 
-    <a href="//filmbloggen.net/2012/02/02/smittefare-for-svingende/kate-winslet/" rel="attachment wp-att-2229"><img class="alignnone size-large wp-image-2229" src="/wp-content/uploads//2012/01/contagion-still2-620x348.jpg" alt="" width="620" height="348" /></a>
+    <img class="alignnone size-large wp-image-2229" src="/wp-content/uploads//2012/01/contagion-still2-620x348.jpg" alt="" width="620" height="348" />
     Steven Soderbergh kjenner vi kanskje best for Ocean's-trilogien. De filmene er vellagede, smarte og unike. Ikke mye ulikt denne filmen. Men det er forøvrig lite skøyerstreker i Contagion, dette er blodig alvor!
 
     Vi befinner oss i en nær fremtid. Vi følger mange forskjellige mennesker og deres møte med et ubarmhjertig og dødelig virus. Filmens premiss er realistisk. Mange dør selvsagt under epidemier, ingen grunn til å dekke over det. Det denne filmen gjør ulikt mange andre katastrofefilmer er at den gjør sitt beste for å bevare et troverdig verdensbilde. Filmer som "2012" og "The Day After Tomorrow" har en lei tendens til å virke overdramatiske. Overlevelseshistoriene er bemerkelsesverdige, men utrolig usannsynlige. Denne filmen forholder seg til det faktum at folk vanligvis dør under katastrofer, og at man ikke trenger et symfoniorkester for å demonstrere hvor episk det var at de overlevde. Virkeligheten er en helt annen, livet er uforutsigbart og urettferdig i blant. Filmen demonstrerer dette veldig tydelig.
@@ -268,7 +268,7 @@ tags:
 **Skuespillere:** Matt Damon, Kate Winslet, Laurence Fishburne, Jude Law, Gwyneth Paltrow, Marion Cotillard, John Hawkes, Armin Rhode.
 **Spilletid:** 1 time og 46 minutter
 
-<a href="//filmbloggen.net/2012/02/02/smittefare-for-svingende/kate-winslet/" rel="attachment wp-att-2229"><img class="alignnone size-large wp-image-2229" src="/wp-content/uploads//2012/01/contagion-still2-620x348.jpg" alt="" width="620" height="348" /></a>
+<img class="alignnone size-large wp-image-2229" src="/wp-content/uploads//2012/01/contagion-still2-620x348.jpg" alt="" width="620" height="348" />
 Steven Soderbergh kjenner vi kanskje best for Ocean’s-trilogien. De filmene er vellagede, smarte og unike. Ikke mye ulikt denne filmen. Men det er forøvrig lite skøyerstreker i Contagion, dette er blodig alvor!
 
 Vi befinner oss i en nær fremtid. Vi følger mange forskjellige mennesker og deres møte med et ubarmhjertig og dødelig virus. Filmens premiss er realistisk. Mange dør selvsagt under epidemier, ingen grunn til å dekke over det. Det denne filmen gjør ulikt mange andre katastrofefilmer er at den gjør sitt beste for å bevare et troverdig verdensbilde. Filmer som «2012» og «The Day After Tomorrow» har en lei tendens til å virke overdramatiske. Overlevelseshistoriene er bemerkelsesverdige, men utrolig usannsynlige. Denne filmen forholder seg til det faktum at folk vanligvis dør under katastrofer, og at man ikke trenger et symfoniorkester for å demonstrere hvor episk det var at de overlevde. Virkeligheten er en helt annen, livet er uforutsigbart og urettferdig i blant. Filmen demonstrerer dette veldig tydelig.

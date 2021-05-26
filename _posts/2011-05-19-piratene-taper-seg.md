@@ -101,7 +101,7 @@ samplepermalinknonce:
 content:
   - |
     <strong>Nye Pirates of the Caribbean-filmen er ikke bedre enn helt OK.</strong>
-    <a href="/wp-content/uploads//2011/05/pirates-of-the-caribbean.jpg"><img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" />
     <strong>Originaltittel: </strong>Pirates of the Caribbean: On Stranger Tides<strong>
     Kategori:</strong> Action/Eventyr
     <strong>Spilletid:</strong> 2 timer og 17 minutter
@@ -120,7 +120,7 @@ trackback_url:
 meta:
   - |
     a:74:{i:2929;a:2:{s:3:"key";s:2:"aa";s:5:"value";s:4:"2011";}i:2909;a:2:{s:3:"key";s:6:"action";s:5:"value";s:8:"editpost";}i:2963;a:2:{s:3:"key";s:13:"advanced_view";s:5:"value";s:1:"1";}i:2917;a:2:{s:3:"key";s:13:"autosavenonce";s:5:"value";s:10:"ee12e8309c";}i:2919;a:2:{s:3:"key";s:20:"closedpostboxesnonce";s:5:"value";s:10:"beca5ef2ab";}i:2964;a:2:{s:3:"key";s:14:"comment_status";s:5:"value";s:4:"open";}i:2954;a:2:{s:3:"key";s:7:"content";s:5:"value";s:2435:"<strong>Nye Pirates of the Caribbean-filmen er ikke bedre enn helt OK.</strong>
-    <a href="/wp-content/uploads//2011/05/pirates-of-the-caribbean.jpg"><img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" />
     <strong>Originaltittel: </strong>Pirates of the Caribbean: On Stranger Tides<strong>
     Kategori:</strong> Action/Eventyr
     <strong>Spilletid:</strong> 2 timer og 17 minutter
@@ -134,7 +134,7 @@ meta:
     Filmen starter i et vanvittig tempo med underholdene jakter og en flukt av Jack, men filmer skuffer mer og mer etterhvert. Sparrow og alle de andre er på jakt etter ungdomskilden, som man trenger to sølvbegere og en havfruetåre for å få til å funke. En av de mest underholdene scenene i filmen er når de skal fange en havfrue som i denne filmen er vanvittig vampyrlignende.
 
     Men for all del, dette er en film for alle fans av de tidligere filmene. Dette er fortsatt en film som er bra, det har bare tapt seg.";}i:2938;a:2:{s:3:"key";s:6:"cur_aa";s:5:"value";s:4:"2011";}i:2940;a:2:{s:3:"key";s:6:"cur_hh";s:5:"value";s:2:"13";}i:2936;a:2:{s:3:"key";s:6:"cur_jj";s:5:"value";s:2:"14";}i:2934;a:2:{s:3:"key";s:6:"cur_mm";s:5:"value";s:2:"07";}i:2942;a:2:{s:3:"key";s:6:"cur_mn";s:5:"value";s:2:"08";}i:4446;a:2:{s:3:"key";s:19:"enable_post_sharing";s:5:"value";s:1:"1";}i:2955;a:2:{s:3:"key";s:7:"excerpt";s:5:"value";s:0:"";}i:2930;a:2:{s:3:"key";s:2:"hh";s:5:"value";s:2:"14";}i:2937;a:2:{s:3:"key";s:9:"hidden_aa";s:5:"value";s:4:"2011";}i:2939;a:2:{s:3:"key";s:9:"hidden_hh";s:5:"value";s:2:"14";}i:2935;a:2:{s:3:"key";s:9:"hidden_jj";s:5:"value";s:2:"19";}i:2933;a:2:{s:3:"key";s:9:"hidden_mm";s:5:"value";s:2:"05";}i:2941;a:2:{s:3:"key";s:9:"hidden_mn";s:5:"value";s:2:"29";}i:2923;a:2:{s:3:"key";s:20:"hidden_post_password";s:5:"value";s:0:"";}i:2921;a:2:{s:3:"key";s:18:"hidden_post_status";s:5:"value";s:7:"publish";}i:2924;a:2:{s:3:"key";s:22:"hidden_post_visibility";s:5:"value";s:6:"public";}i:2983;a:2:{s:3:"key";s:2:"ID";s:5:"value";s:3:"338";}i:575;a:2:{s:3:"key";s:16:"jabber_published";s:5:"value";s:10:"1305808143";}i:2927;a:2:{s:3:"key";s:2:"jj";s:5:"value";s:2:"19";}i:2918;a:2:{s:3:"key";s:20:"meta-box-order-nonce";s:5:"value";s:10:"bfc034257c";}i:2960;a:2:{s:3:"key";s:12:"metakeyinput";s:5:"value";s:0:"";}i:2959;a:2:{s:3:"key";s:13:"metakeyselect";s:5:"value";s:6:"#NONE#";}i:2961;a:2:{s:3:"key";s:9:"metavalue";s:5:"value";s:0:"";}i:2928;a:2:{s:3:"key";s:2:"mm";s:5:"value";s:2:"05";}i:2931;a:2:{s:3:"key";s:2:"mn";s:5:"value";s:2:"29";}i:2947;a:2:{s:3:"key";s:11:"newcategory";s:5:"value";s:17:"Nytt kategorinavn";}i:2948;a:2:{s:3:"key";s:18:"newcategory_parent";s:5:"value";s:2:"-1";}i:2910;a:2:{s:3:"key";s:14:"originalaction";s:5:"value";s:8:"editpost";}i:2913;a:2:{s:3:"key";s:20:"original_post_status";s:5:"value";s:7:"publish";}i:2943;a:2:{s:3:"key";s:16:"original_publish";s:5:"value";s:8:"Oppdater";}i:2965;a:2:{s:3:"key";s:11:"ping_status";s:5:"value";s:4:"open";}i:2911;a:2:{s:3:"key";s:11:"post_author";s:5:"value";s:1:"3";}i:2967;a:2:{s:3:"key";s:20:"post_author_override";s:5:"value";s:1:"3";}i:2984;a:2:{s:3:"key";s:12:"post_content";s:5:"value";s:2435:"<strong>Nye Pirates of the Caribbean-filmen er ikke bedre enn helt OK.</strong>
-    <a href="/wp-content/uploads//2011/05/pirates-of-the-caribbean.jpg"><img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" />
     <strong>Originaltittel: </strong>Pirates of the Caribbean: On Stranger Tides<strong>
     Kategori:</strong> Action/Eventyr
     <strong>Spilletid:</strong> 2 timer og 17 minutter
@@ -199,7 +199,7 @@ ID:
 post_content:
   - |
     <strong>Nye Pirates of the Caribbean-filmen er ikke bedre enn helt OK.</strong>
-    <a href="/wp-content/uploads//2011/05/pirates-of-the-caribbean.jpg"><img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" /></a>
+    <img class="alignnone size-large wp-image-340" title="PIRATES OF THE CARIBBEAN: ON STRANGER TIDES" src="/wp-content/uploads//2011/05/pirates-of-the-caribbean-1024x682.jpg" alt="" width="620" height="412" />
     <strong>Originaltittel: </strong>Pirates of the Caribbean: On Stranger Tides<strong>
     Kategori:</strong> Action/Eventyr
     <strong>Spilletid:</strong> 2 timer og 17 minutter

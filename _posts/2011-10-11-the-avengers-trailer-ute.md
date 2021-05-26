@@ -285,7 +285,7 @@ format: video
 **Og den ser ut som en småvåt drøm..<!--more-->
 
 
-<a href="//filmbloggen.net/2011/10/11/the-avengers-trailer-ute/the-avengers/" rel="attachment wp-att-1388"><img class="alignnone size-large wp-image-1388" src="/wp-content/uploads//2011/10/the-avengers-620x387.jpg" alt="" width="620" height="387" /><br /> </a>**For dere som ikke vet hva The Avengers er så er det mer eller mindre det Thor, Iron Man 1 & 2, Captain America, The Incredible Hulk m. fl. har bygget opp over de siste årene. The Avengers er rett og slett en samling av de kuleste superheltene sammen i en liga for å beskytte jorden.
+<img class="alignnone size-large wp-image-1388" src="/wp-content/uploads//2011/10/the-avengers-620x387.jpg" alt="" width="620" height="387" /><br /> **For dere som ikke vet hva The Avengers er så er det mer eller mindre det Thor, Iron Man 1 & 2, Captain America, The Incredible Hulk m. fl. har bygget opp over de siste årene. The Avengers er rett og slett en samling av de kuleste superheltene sammen i en liga for å beskytte jorden.
 
 Siden tegneserien ble lansert i 1963 og var originalt med Iron Man (Tony Stark), Ant-Man (Dr. Hank Pym), Wasp (Janet Von Dyme), Thor, The Hulk (Bruce Banner). I fjerde utgave av bladet ble Captain America funnet i isen (som vist i filmen Captain America), og etter at de får han tilbake i live blir han med The Avengers. Det har vært med en hel haug av forskjellige folk i The Avengers i tegneseriene, men det som alltid har vært temaet er at The Avengers slåss mot den ondskapen en enkelt superhelt ikke klarer alene.
 
