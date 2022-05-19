@@ -1,4 +1,4 @@
-url: http://filmbloggen.net
+url: https://filmbloggen.net
 title: Filmbloggen
 description: >
   I dont trust horses. Their shoes are
@@ -7,3 +7,5 @@ description: >
 theme: minima
 paginate: 5
 plugins: [jekyll-paginate]
+google_analytics: UA-8420880-9
+lang: no
