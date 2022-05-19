@@ -15,3 +15,5 @@ gem "jekyll-seo-tag", "~> 2.8"
 gem "jekyll-paginate", "~> 1.1"
 
 gem "webrick", "~> 1.7"
+
+gem "minima", "~> 2.5"
