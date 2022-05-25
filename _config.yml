@@ -5,7 +5,7 @@ description: >
   permanent. Who makes that sort of
   commitment to a shoe?! – Arthur
 theme: minima
-paginate: 5
+paginate: 15
 plugins: [jekyll-paginate]
 google_analytics: UA-8420880-9
 lang: no
