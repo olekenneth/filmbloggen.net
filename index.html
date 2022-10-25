@@ -19,7 +19,10 @@ layout: default
           • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ post.author | escape }}</span></span>
           {%- endif -%}</p>
         <div class="post-content e-content">
-          {{ post.content }}
+          {{ post.content | strip_html | truncatewords: 50}}
+          <a href="{{ post.url }}">
+            Les mer
+          </a>
         </div>
       </li>
       {%- endfor -%}
