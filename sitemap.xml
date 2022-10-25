@@ -6,18 +6,18 @@ search: exclude
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    {% for page in site.pages %}
+    {% for post in site.posts %}
     <url>
-        <loc>{{page.url}}</loc>
-        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
+        <loc>https://filmbloggen.net{{post.url}}</loc>
+        <lastmod>{{post.date | date: '%Y-%m-%d' }}</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     {% endfor %}
 
-    {% for post in site.posts %}
+    {% for page in site.pages %}
     <url>
-        <loc>{{post.url}}</loc>
+        <loc>https://filmbloggen.net{{page.url}}</loc>
         <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
