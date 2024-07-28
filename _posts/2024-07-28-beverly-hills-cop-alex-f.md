@@ -4,7 +4,7 @@ date: 2024-07-28T19:41:00+02:00
 streaming:
   - https://www.netflix.com/us/title/81076856?s=i&trkid=258473120&vlang=en&clip=81785232
 ---
-Utgitt i 2024 på Netflix, *Beverly Hills Cop Axel F* er en actionkomedie regissert av Adil El Arbi og Bilall Fallah. Eddie Murphy returnerer til rollen som Axel Foley, sammen med Joseph Gordon-Levitt og Taylour Paige i hovedrollene. Filmen har vært etterlengtet av fansen siden den ble annonsert som en fortsettelse av den ikoniske Beverly Hills Cop-serien.
+Utgitt i 2024 på Netflix, *Beverly Hills Cop Axel F* er en actionkomedie regissert av Mark Molloy. Eddie Murphy returnerer til rollen som Axel Foley, sammen med Joseph Gordon-Levitt og Taylour Paige i hovedrollene. Filmen har vært etterlengtet av fansen siden den ble annonsert som en fortsettelse av den ikoniske Beverly Hills Cop-serien.
 
 Axel Foley er tilbake i Beverly Hills, denne gangen for å etterforske en serie innbrudd som viser seg å være en del av en større konspirasjon. Sammen med sine gamle venner og nye allierte, navigerer Foley gjennom en verden av rikdom og kriminalitet for å avsløre sannheten og bringe rettferdighet.
 
