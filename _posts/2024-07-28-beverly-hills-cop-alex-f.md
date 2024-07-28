@@ -10,7 +10,7 @@ Axel Foley er tilbake i Beverly Hills, denne gangen for å etterforske en serie 
 
 Eddie Murphy gjenskaper magien som Axel Foley med sin velkjente karisma og humor. Joseph Gordon-Levitt gir en solid prestasjon som Foleys nye partner, mens Taylour Paige tilfører frisk energi som en ny rekrutt. Samspillet mellom karakterene er en av filmens sterke sider.
 
-Adil El Arbi og Bilall Fallah leverer en dynamisk regi som balanserer action og komedie. Kinematografien er fargerik og stilfull, og fanget Beverly Hills' luksuriøse atmosfære perfekt. Actionsekvensene er godt koreografert og spennende å se på.
+Molloy leverer en dynamisk regi som balanserer action og komedie. Kinematografien er fargerik og stilfull, og fanget Beverly Hills' luksuriøse atmosfære perfekt. Actionsekvensene er godt koreografert og spennende å se på.
 
 Manuset er underholdende og holder en god balanse mellom nostalgi og moderne vrier. Dialogen er skarp og full av humor, som forventet fra en Beverly Hills Cop-film. Tempoet er jevnt, med en god blanding av action og komiske øyeblikk.
 
